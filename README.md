@@ -21,8 +21,7 @@ The primary objective of this project is to evaluate the longitudinal stability 
 ├── plots/                    # Generated plots (.pdf) used in the report and presentation
 ├── scripts/                  # Core Python scripts (Crawlers, Extractors, Analyzers, Plotters)
 ├── tranco/                   # Tranco lists used for baseline analysis
-├── report.tex                # The main ACM-formatted project report (LaTeX)
-└── presentation.tex          # The Beamer-formatted slide deck (LaTeX)
+├── ProjectReport.pdf               # The main ACM-formatted project report
 ```
 
 ## Scripts (`scripts/`)
