@@ -10,6 +10,8 @@ This repository contains the codebase, datasets, and analysis scripts for the re
 
 The primary objective of this project is to evaluate the longitudinal stability of Meta Pixel tracking (comparing 2024 vs 2026 data), assess the tracking behavior of adversarial (malicious and scam) domains, and extend the original detection methodology to discover hidden, obfuscated tracking (such as server-side Conversions API and deep extraction).
 
+For more information, read the project report.
+
 ## Project Structure
 
 ```
