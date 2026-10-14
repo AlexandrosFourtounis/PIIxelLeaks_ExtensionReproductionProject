@@ -1,12 +1,12 @@
 # PIIxel Leaks: Replication & Extension Study
 
+> **Note:** This work was carried out as a collaborative graduate course project by **Anna Makridou** and **Alexandros Fourtounis**.
+
 This repository contains the codebase, datasets, and analysis scripts for the replication and extension of the following study:
 
 > Paschalis Bekos, Panagiotis Papadopoulos, Nicolas Kourtellis, and Michalis Polychronakis.  
 > **[PIIxel Leaks: Passive Identification of Personally Identifiable Information Leakage through Meta Pixel](https://doi.org/10.1145/3719027.3765113)**.  
 > *Proceedings of the 2025 ACM SIGSAC Conference on Computer and Communications Security (CCS ’25)*, 2025, pp. 4229–4243.
-
-> **Note:** This work was carried out as a collaborative graduate course project by **Anna Makridou** and **Alexandros Fourtounis**.
 
 The primary objective of this project is to evaluate the longitudinal stability of Meta Pixel tracking (comparing 2024 vs 2026 data), assess the tracking behavior of adversarial (malicious and scam) domains, and extend the original detection methodology to discover hidden, obfuscated tracking (such as server-side Conversions API and deep extraction).
 
