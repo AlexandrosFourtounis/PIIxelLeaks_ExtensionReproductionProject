@@ -1,0 +1,288 @@
+{
+    "name": "expressnetw.com",
+    "handle": "1670637831_DOMAIN_COM-VRSN",
+    "registrationDate": "8/5/2011, 11:08:19 PM GMT+3",
+    "expirationDate": "8/5/2026, 11:08:19 PM GMT+3",
+    "lastChangedDate": "7/5/2024, 1:31:16 PM GMT+3",
+    "lastUpdateDate": "6/23/2026, 6:54:30 PM GMT+3",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Safenames Ltd."
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "voice"
+                            ]
+                        },
+                        "uri",
+                        "tel:+44.1908200022"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "abuse@safenames.net"
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "https://www.safenames.net/abusereport"
+                    ]
+                ]
+            ],
+            "roles": [
+                "abuse"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "447",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Safenames Ltd."
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrar"
+            ],
+            "publicIds": [
+                {
+                    "type": "IANA Registrar ID",
+                    "identifier": "447"
+                }
+            ],
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Safenames Ltd."
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "voice"
+                                    ]
+                                },
+                                "uri",
+                                "tel:+44.1908200022"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "abuse@safenames.net"
+                            ],
+                            [
+                                "contact-uri",
+                                {},
+                                "uri",
+                                "https://www.safenames.net/abusereport"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "abuse"
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "roles": [
+                "registrant"
+            ],
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object redacted due to authorization",
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ]
+                }
+            ],
+            "status": [
+                "removed"
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns-1009.awsdns-62.net",
+            "ipAddresses": {
+                "v4": [
+                    "205.251.195.241"
+                ]
+            }
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns-1030.awsdns-00.org",
+            "ipAddresses": {
+                "v4": [
+                    "205.251.196.6"
+                ]
+            }
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns-1682.awsdns-18.co.uk",
+            "ipAddresses": {
+                "v4": [
+                    "205.251.198.146"
+                ]
+            }
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns-230.awsdns-28.com",
+            "ipAddresses": {
+                "v4": [
+                    "205.251.192.230"
+                ]
+            }
+        },
+        {
+            "rdapConformance": [
+                "rdap_level_0",
+                "icann_rdap_technical_implementation_guide_0",
+                "icann_rdap_response_profile_0"
+            ],
+            "objectClassName": "domain",
+            "ldhName": "expressnetw.com",
+            "handle": "1670637831_DOMAIN_COM-VRSN",
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns-1009.awsdns-62.net",
+                    "ipAddresses": {
+                        "v4": [
+                            "205.251.195.241"
+                        ]
+                    }
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns-1030.awsdns-00.org",
+                    "ipAddresses": {
+                        "v4": [
+                            "205.251.196.6"
+                        ]
+                    }
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns-1682.awsdns-18.co.uk",
+                    "ipAddresses": {
+                        "v4": [
+                            "205.251.198.146"
+                        ]
+                    }
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns-230.awsdns-28.com",
+                    "ipAddresses": {
+                        "v4": [
+                            "205.251.192.230"
+                        ]
+                    }
+                }
+            ],
+            "secureDNS": {
+                "zoneSigned": false,
+                "delegationSigned": false
+            },
+            "links": [
+                {
+                    "value": "https://rdap.safenames.legal/rdap/domain/expressnetw.com",
+                    "rel": "self",
+                    "href": "https://rdap.safenames.legal/rdap/domain/expressnetw.com",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "port43": "whois.safenames.net",
+            "notices": [
+                {
+                    "title": "Terms of Use",
+                    "description": [
+                        "Service subject to Terms of Use."
+                    ],
+                    "links": [
+                        {
+                            "href": "https://www.safenames.net/terms",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "Status Codes",
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://icann.org/epp",
+                            "rel": "glossary",
+                            "href": "https://icann.org/epp",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "RDDS Inaccuracy Complaint Form",
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ],
+                    "links": [
+                        {
+                            "href": "https://icann.org/wicf",
+                            "type": "text/html"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "domain": "expressnetw.com\r"
+}

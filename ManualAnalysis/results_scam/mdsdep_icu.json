@@ -1,0 +1,621 @@
+{
+    "name": "mdsdep.icu",
+    "handle": "D628454920-CNIC",
+    "registrationDate": "3/21/2026, 10:20:44 PM GMT+2 (by fewmoretaps)",
+    "expirationDate": "3/22/2027, 1:59:59 AM GMT+2",
+    "lastChangedDate": "4/23/2026, 12:29:01 PM GMT+3 (by fewmoretaps)",
+    "lastUpdateDate": "6/16/2026, 5:50:41 PM GMT+3",
+    "rawData": [
+        {
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ],
+                    "type": "object redacted due to authorization"
+                },
+                {
+                    "title": "EMAIL REDACTED FOR PRIVACY",
+                    "description": [
+                        "Contact form located at https://trustname.com/help/whois-contact/?domain=mdsdep.icu"
+                    ],
+                    "type": "object redacted due to authorization"
+                }
+            ],
+            "objectClassName": "entity",
+            "events": [
+                {
+                    "eventAction": "registration",
+                    "eventActor": "fewmoretaps",
+                    "eventDate": "2026-03-21T20:20:37.56Z"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.trustname.com/",
+                    "rel": "self",
+                    "href": "https://rdap.trustname.com/entity/1rv4g9k81lgrbjna",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "port43": "whois.fewmoretaps.com",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "US"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "FL",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "WHOIS Privacy Protection Service LLC c/o Trustname.com"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "Contact form located at https://trustname.com/help/whois-contact/?domain=mdsdep.icu"
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "not applicable",
+            "roles": [
+                "abuse"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Abuse Contact"
+                    ],
+                    [
+                        "adr",
+                        {},
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+372.6884747"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "abuse@trustname.com"
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "roles": [
+                "administrative"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Fewmoretaps OU d/b/a Trustname.com"
+                    ],
+                    [
+                        "adr",
+                        {},
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "abuse@trustname.com"
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "roles": [
+                "technical"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Fewmoretaps OU d/b/a Trustname.com"
+                    ],
+                    [
+                        "adr",
+                        {},
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "abuse@trustname.com"
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "4318",
+            "publicIds": [
+                {
+                    "type": "IANA Registrar ID",
+                    "identifier": "4318"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.trustname.com/",
+                    "rel": "about",
+                    "href": "https://rdap.trustname.com/",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "roles": [
+                "registrar"
+            ],
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "handle": "not applicable",
+                    "roles": [
+                        "abuse"
+                    ],
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Abuse Contact"
+                            ],
+                            [
+                                "adr",
+                                {},
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "voice"
+                                },
+                                "text",
+                                "+372.6884747"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "abuse@trustname.com"
+                            ]
+                        ]
+                    ]
+                },
+                {
+                    "objectClassName": "entity",
+                    "roles": [
+                        "administrative"
+                    ],
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Fewmoretaps OU d/b/a Trustname.com"
+                            ],
+                            [
+                                "adr",
+                                {},
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "abuse@trustname.com"
+                            ]
+                        ]
+                    ]
+                },
+                {
+                    "objectClassName": "entity",
+                    "roles": [
+                        "technical"
+                    ],
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Fewmoretaps OU d/b/a Trustname.com"
+                            ],
+                            [
+                                "adr",
+                                {},
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "abuse@trustname.com"
+                            ]
+                        ]
+                    ]
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Fewmoretaps OU d/b/a Trustname.com"
+                    ],
+                    [
+                        "adr",
+                        {},
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "autumn.ns.cloudflare.com",
+            "unicodeName": "autumn.ns.cloudflare.com"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "paul.ns.cloudflare.com",
+            "unicodeName": "paul.ns.cloudflare.com"
+        },
+        {
+            "rdapConformance": [
+                "icann_rdap_technical_implementation_guide_1",
+                "rdap_level_0",
+                "icann_rdap_response_profile_1",
+                "redacted"
+            ],
+            "notices": [
+                {
+                    "title": "Status Codes",
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.trustname.com/domain/mdsdep.icu",
+                            "rel": "glossary",
+                            "href": "https://icann.org/epp"
+                        }
+                    ]
+                },
+                {
+                    "title": "RDDS Inaccuracy Complaint Form",
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.trustname.com/domain/mdsdep.icu",
+                            "rel": "help",
+                            "href": "https://icann.org/wicf"
+                        }
+                    ]
+                },
+                {
+                    "title": "Terms of Service",
+                    "description": [
+                        "",
+                        "      (c) Fewmoretaps OÜ, All rights reserved.",
+                        "",
+                        "      NOTICE: Access to the domain name's information is restricted in",
+                        "      order to protect the privacy of Registrants. If you believe you",
+                        "      have a legitimate interest in having access to part or all of the",
+                        "      data not published in the above output, please contact the",
+                        "      Registrar of record at:",
+                        "",
+                        "      https://fewmoretaps.com",
+                        "",
+                        "      The compilation, repackaging, dissemination or other use of the data",
+                        "      in the Fewmoretaps Whois database is expressly prohibited without the",
+                        "      prior written consent of Fewmoretaps. Fewmoretaps reserves the right to",
+                        "      restrict your access to the Whois database in its sole discretion to",
+                        "      ensure operational stability. Fewmoretaps may restrict or terminate your",
+                        "      access to the Whois database for failure to abide by these terms of",
+                        "      use. Fewmoretaps reserves the right to modify these terms at any time.",
+                        "    "
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.trustname.com/domain/mdsdep.icu",
+                            "rel": "terms-of-service",
+                            "href": "https://rdap.trustname.com/rdap-tas"
+                        }
+                    ]
+                }
+            ],
+            "objectClassName": "domain",
+            "handle": "D628454920-CNIC",
+            "redacted": [
+                {
+                    "name": {
+                        "type": "Registry Registrant ID"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].handle",
+                    "method": "removal",
+                    "reason": {
+                        "type": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "description": "Registry Registrant Link"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].links",
+                    "method": "removal",
+                    "reason": {
+                        "type": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "type": "Registrant Name"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='fn')][3]",
+                    "method": "emptyValue",
+                    "reason": {
+                        "type": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "type": "Registrant Phone"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[1].type=='voice')]",
+                    "method": "removal",
+                    "reason": {
+                        "type": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "type": "Registrant Phone Ext"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[1].type=='voice')]",
+                    "method": "removal",
+                    "reason": {
+                        "type": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "type": "Registrant Email"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='email')]",
+                    "method": "removal",
+                    "reason": {
+                        "type": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "type": "Registrant Street"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')]vcardArray[1][?(@[0]=='adr')][3][:3]",
+                    "method": "emptyValue",
+                    "reason": {
+                        "type": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "type": "Registrant Postal Code"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][5]",
+                    "method": "emptyValue",
+                    "reason": {
+                        "type": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "type": "Registrant City"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][3]",
+                    "method": "emptyValue",
+                    "reason": {
+                        "type": "Server policy"
+                    }
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.trustname.com/",
+                    "rel": "self",
+                    "href": "https://rdap.trustname.com/domain/mdsdep.icu",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "ldhName": "mdsdep.icu",
+            "unicodeName": "mdsdep.icu",
+            "secureDNS": {
+                "delegationSigned": false
+            },
+            "port43": "whois.fewmoretaps.com",
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "autumn.ns.cloudflare.com",
+                    "unicodeName": "autumn.ns.cloudflare.com"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "paul.ns.cloudflare.com",
+                    "unicodeName": "paul.ns.cloudflare.com"
+                }
+            ]
+        }
+    ],
+    "domain": "mdsdep.icu\r"
+}

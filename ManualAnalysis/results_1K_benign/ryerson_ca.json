@@ -1,0 +1,658 @@
+{
+    "name": "ryerson.ca",
+    "handle": "D688-CIRA",
+    "registrationDate": "9/22/2000, 3:39:37 AM GMT+3",
+    "expirationDate": "1/12/2027, 7:00:00 AM GMT+2",
+    "lastChangedDate": "2/26/2026, 7:07:20 AM GMT+2",
+    "lastUpdateDate": "6/23/2026, 3:43:12 PM GMT+3",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "handle": "not applicable",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Abuse Contact"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "role",
+                        {},
+                        "text",
+                        "abuse"
+                    ],
+                    [
+                        "adr",
+                        {},
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "voice"
+                            ]
+                        },
+                        "uri",
+                        "tel:+1.6132252000"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "abuse@rebel.com"
+                    ],
+                    [
+                        "url",
+                        {
+                            "type": "home"
+                        },
+                        "uri",
+                        "www.rebel.ca"
+                    ]
+                ]
+            ],
+            "roles": [
+                "abuse"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "not applicable",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Rebel.ca Corp."
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ],
+                    [
+                        "role",
+                        {},
+                        "text",
+                        "registrar"
+                    ],
+                    [
+                        "adr",
+                        {},
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "url",
+                        {
+                            "type": "home"
+                        },
+                        "uri",
+                        "www.rebel.ca"
+                    ]
+                ]
+            ],
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "handle": "not applicable",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Abuse Contact"
+                            ],
+                            [
+                                "kind",
+                                {},
+                                "text",
+                                "individual"
+                            ],
+                            [
+                                "role",
+                                {},
+                                "text",
+                                "abuse"
+                            ],
+                            [
+                                "adr",
+                                {},
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "voice"
+                                    ]
+                                },
+                                "uri",
+                                "tel:+1.6132252000"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "abuse@rebel.com"
+                            ],
+                            [
+                                "url",
+                                {
+                                    "type": "home"
+                                },
+                                "uri",
+                                "www.rebel.ca"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "abuse"
+                    ]
+                }
+            ],
+            "roles": [
+                "registrar"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "24566327-CIRA",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Ryerson University"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "role",
+                        {},
+                        "text",
+                        "registrant"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "CA"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            [
+                                "Room AB-48",
+                                "  350 Victoria Street"
+                            ],
+                            "Toronto",
+                            "ON",
+                            "M5B2K3",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "voice"
+                            ]
+                        },
+                        "uri",
+                        "tel:+1.4169795000"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "michael@ryerson.ca"
+                    ],
+                    [
+                        "url",
+                        {
+                            "type": "home"
+                        },
+                        "uri",
+                        "www.rebel.ca"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrant"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "24566328-CIRA",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Mourad Michael"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "Toronto Metropolitan University"
+                    ],
+                    [
+                        "role",
+                        {},
+                        "text",
+                        "administrative"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "CA"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            [
+                                "Room AB-48",
+                                "  350 Victoria Street"
+                            ],
+                            "Toronto",
+                            "ON",
+                            "M5B2K3",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "voice"
+                            ]
+                        },
+                        "uri",
+                        "tel:+1.4169795000"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "fax"
+                            ]
+                        },
+                        "uri",
+                        "tel:+1.4169795220"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "michael@torontomu.ca"
+                    ],
+                    [
+                        "url",
+                        {
+                            "type": "home"
+                        },
+                        "uri",
+                        "www.rebel.ca"
+                    ]
+                ]
+            ],
+            "roles": [
+                "administrative"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "99927049-CIRA",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Ken Connell"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "role",
+                        {},
+                        "text",
+                        "technical"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "CA"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "350 Victoria St",
+                            "Toronto",
+                            "ON",
+                            "M5B2K3",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "voice"
+                            ]
+                        },
+                        "uri",
+                        "tel:+1.4169795000"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "kconnell@torontomu.ca"
+                    ],
+                    [
+                        "url",
+                        {
+                            "type": "home"
+                        },
+                        "uri",
+                        "www.rebel.ca"
+                    ]
+                ]
+            ],
+            "roles": [
+                "technical"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "role",
+                        {},
+                        "text",
+                        "billing"
+                    ],
+                    [
+                        "adr",
+                        {},
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "voice"
+                            ]
+                        },
+                        "text",
+                        ""
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "fax"
+                            ]
+                        },
+                        "text",
+                        ""
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "url",
+                        {
+                            "type": "home"
+                        },
+                        "uri",
+                        "www.rebel.ca"
+                    ]
+                ]
+            ],
+            "roles": [
+                "billing"
+            ]
+        },
+        {
+            "ldhName": "ns1.d-zone.ca",
+            "objectClassName": "nameserver"
+        },
+        {
+            "ldhName": "ns2.d-zone.ca",
+            "objectClassName": "nameserver"
+        },
+        {
+            "rdapConformance": [
+                "icann_rdap_response_profile_1",
+                "icann_rdap_technical_implementation_guide_1",
+                "rdap_level_0"
+            ],
+            "handle": "D688-CIRA",
+            "ldhName": "ryerson.ca",
+            "unicodeName": "ryerson.ca",
+            "port43": "whois.ca.fury.ca",
+            "links": [
+                {
+                    "href": "https://rdap.ca.fury.ca/rdap/domain/ryerson.ca",
+                    "value": "https://rdap.ca.fury.ca/rdap/domain/ryerson.ca",
+                    "rel": "self",
+                    "title": "Authoritative URL for this resource",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "notices": [
+                {
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ],
+                    "title": "Status Codes",
+                    "links": [
+                        {
+                            "href": "https://icann.org/epp",
+                            "value": "https://rdap.ca.fury.ca/rdap/domain/ryerson.ca",
+                            "rel": "glossary",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "description": [
+                        "Service subject to Terms of Use."
+                    ],
+                    "title": "Terms of Service",
+                    "links": [
+                        {
+                            "href": "https://www.cira.ca/en/resources/documents/about/website-terms-use",
+                            "value": "https://rdap.ca.fury.ca/rdap/domain/ryerson.ca",
+                            "rel": "terms-of-service",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ],
+                    "title": "RDDS Inaccuracy Complaint Form",
+                    "links": [
+                        {
+                            "href": "https://icann.org/wicf",
+                            "value": "https://rdap.ca.fury.ca/rdap/domain/ryerson.ca",
+                            "rel": "help",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "description": [
+                        "\nUse of CIRA's WHOIS service is governed by the Terms of Use in its Legal\nNotice, available at https://www.cira.ca/en/resources/documents/about/website-terms-use\n\n(c) 2026 Canadian Internet Registration Authority, (http://www.cira.ca/)"
+                    ],
+                    "title": "Legal Notice",
+                    "links": [
+                        {
+                            "href": "https://www.cira.ca/en/resources/documents/about/website-terms-use",
+                            "value": "https://rdap.ca.fury.ca/rdap/domain/ryerson.ca",
+                            "rel": "help",
+                            "type": "text/html"
+                        }
+                    ]
+                }
+            ],
+            "nameservers": [
+                {
+                    "ldhName": "ns1.d-zone.ca",
+                    "objectClassName": "nameserver"
+                },
+                {
+                    "ldhName": "ns2.d-zone.ca",
+                    "objectClassName": "nameserver"
+                }
+            ],
+            "secureDNS": {
+                "delegationSigned": false
+            },
+            "objectClassName": "domain"
+        }
+    ],
+    "domain": "ryerson.ca\r"
+}

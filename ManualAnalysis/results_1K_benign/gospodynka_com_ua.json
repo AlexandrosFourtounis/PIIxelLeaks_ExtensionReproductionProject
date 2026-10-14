@@ -1,0 +1,236 @@
+{
+    "name": "gospodynka.com.ua",
+    "handle": "gospodynka.com.ua",
+    "registrationDate": "10/9/2022, 4:35:03 PM GMT+3 (by ua.ukraine)",
+    "expirationDate": "10/9/2026, 4:35:03 PM GMT+3",
+    "lastChangedDate": "10/3/2025, 12:40:04 PM GMT+3 (by ua.ukraine)",
+    "lastUpdateDate": null,
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "handle": "ua.ukraine",
+            "roles": [
+                "registrar"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Hosting Ukraine LLC"
+                    ],
+                    [
+                        "org",
+                        {
+                            "altid": "1"
+                        },
+                        "text",
+                        "Hosting Ukraine LLC"
+                    ],
+                    [
+                        "org",
+                        {
+                            "altid": "1"
+                        },
+                        "text",
+                        "ТОВ 'ХОСТІНГ УКРАЇНА'"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "type": "work",
+                            "altid": "1",
+                            "label": "PO box 65, Kyiv, 04112, Ukraine"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "adr",
+                        {
+                            "type": "work",
+                            "altid": "1",
+                            "label": "а/с 65, м. Київ, 04112, Україна"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "voice"
+                            ]
+                        },
+                        "uri",
+                        "tel:+380443927433"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "domain@abuse.team"
+                    ],
+                    [
+                        "url",
+                        {
+                            "type": "home"
+                        },
+                        "uri",
+                        "https://www.ukraine.com.ua"
+                    ]
+                ]
+            ],
+            "status": [
+                "active"
+            ],
+            "links": [
+                {
+                    "rel": "self",
+                    "value": "https://rdap.hostmaster.ua/entity/ua.ukraine",
+                    "type": "application/rdap+json",
+                    "href": "https://rdap.hostmaster.ua/entity/ua.ukraine"
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "ua.ukraine",
+            "roles": [
+                "registrar"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "C0004215681-UA",
+            "roles": [
+                "registrant",
+                "administrative",
+                "technical"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "not published"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "ac6655caa560d4fc3a@privacyprotected.net"
+                    ]
+                ]
+            ],
+            "remarks": [
+                {
+                    "title": "Data Policy",
+                    "description": [
+                        "Some of the data in this object has been removed."
+                    ]
+                }
+            ],
+            "status": [
+                "active",
+                "associated",
+                "private"
+            ],
+            "events": [
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2022-10-09T16:35:02+03:00",
+                    "eventActor": "ua.ukraine"
+                }
+            ],
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "handle": "ua.ukraine",
+                    "roles": [
+                        "registrar"
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns117.inhostedns.com"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns217.inhostedns.net"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns317.inhostedns.org"
+        },
+        {
+            "rdapConformance": [
+                "rdap_level_0"
+            ],
+            "objectClassName": "domain",
+            "handle": "gospodynka.com.ua",
+            "ldhName": "gospodynka.com.ua",
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns117.inhostedns.com"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns217.inhostedns.net"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns317.inhostedns.org"
+                }
+            ],
+            "secureDNS": {
+                "delegationSigned": false
+            },
+            "links": [
+                {
+                    "rel": "self",
+                    "value": "https://rdap.hostmaster.ua/domain/gospodynka.com.ua",
+                    "type": "application/rdap+json",
+                    "href": "https://rdap.hostmaster.ua/domain/gospodynka.com.ua"
+                }
+            ],
+            "port43": "whois.ua"
+        }
+    ],
+    "domain": "gospodynka.com.ua\r"
+}

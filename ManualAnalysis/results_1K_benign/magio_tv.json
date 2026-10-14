@@ -1,0 +1,605 @@
+{
+    "name": "magio.tv",
+    "handle": "89795271_DOMAIN_TV-GDREG",
+    "registrationDate": "12/7/2007, 2:00:00 AM GMT+2",
+    "expirationDate": "12/7/2026, 2:00:00 AM GMT+2",
+    "lastChangedDate": "11/30/2025, 2:00:00 AM GMT+2",
+    "lastUpdateDate": "6/23/2026, 4:56:00 PM GMT+3",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "roles": [
+                "registrant"
+            ],
+            "handle": "C9FB321C9BC1D458C97BC93580ACF6341-GDREG",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "SK"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "magio.tv@fablovkawhoisprotection.com"
+                    ]
+                ]
+            ],
+            "remarks": [
+                {
+                    "type": "object redacted due to authorization",
+                    "title": "REDACTED FOR PRIVACY",
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "roles": [
+                "administrative"
+            ],
+            "handle": "C96EC52E3E31E4455AA348C61DB046078-GDREG",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Webglobe - Yegon, s.r.o."
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "SK"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "magio.tv@fablovkawhoisprotection.com"
+                    ]
+                ]
+            ],
+            "remarks": [
+                {
+                    "type": "object redacted due to authorization",
+                    "title": "REDACTED FOR PRIVACY",
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "roles": [
+                "technical"
+            ],
+            "handle": "CD9A7FD2992FE46F897750B1D3074088E-GDREG",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Webglobe - Yegon, s.r.o."
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "SK"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "magio.tv@fablovkawhoisprotection.com"
+                    ]
+                ]
+            ],
+            "remarks": [
+                {
+                    "type": "object redacted due to authorization",
+                    "title": "REDACTED FOR PRIVACY",
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "roles": [
+                "abuse"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Gransy, s.r.o."
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "abuse@regtons.com"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+420.734463373"
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "roles": [
+                "registrar"
+            ],
+            "handle": "1505",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Gransy, s.r.o."
+                    ]
+                ]
+            ],
+            "publicIds": [
+                {
+                    "type": "IANA Registrar ID",
+                    "identifier": "1505"
+                }
+            ],
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "roles": [
+                        "abuse"
+                    ],
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Gransy, s.r.o."
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "abuse@regtons.com"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "voice"
+                                },
+                                "uri",
+                                "tel:+420.734463373"
+                            ]
+                        ]
+                    ]
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.regtons.com/",
+                    "rel": "about",
+                    "href": "http://regtons.com",
+                    "type": "text/html"
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "freya.t-mobile.cz"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "idunn.t-mobile.cz"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns.telecom.sk"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns2.telecom.sk"
+        },
+        {
+            "objectClassName": "domain",
+            "ldhName": "magio.tv",
+            "handle": "89795271_DOMAIN_TV-GDREG",
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "freya.t-mobile.cz"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "idunn.t-mobile.cz"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns.telecom.sk"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns2.telecom.sk"
+                }
+            ],
+            "secureDNS": {
+                "delegationSigned": false
+            },
+            "redacted": [
+                {
+                    "name": {
+                        "type": "Registrant Name"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='fn')][3]",
+                    "pathLang": "jsonpath",
+                    "method": "emptyValue",
+                    "reason": {
+                        "type": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "type": "Registrant Street"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][:3]",
+                    "pathLang": "jsonpath",
+                    "method": "emptyValue",
+                    "reason": {
+                        "type": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "type": "Registrant City"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][3]",
+                    "pathLang": "jsonpath",
+                    "method": "emptyValue",
+                    "reason": {
+                        "type": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "type": "Registrant Postal Code"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][5]",
+                    "pathLang": "jsonpath",
+                    "method": "emptyValue",
+                    "reason": {
+                        "type": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "type": "Registrant Email"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='email')][3]",
+                    "pathLang": "jsonpath",
+                    "method": "replacementValue",
+                    "reason": {
+                        "type": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "type": "Registrant Phone"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[1].type=='voice')]",
+                    "pathLang": "jsonpath",
+                    "method": "removal",
+                    "reason": {
+                        "type": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "type": "Registrant Fax"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[1].type=='fax')]",
+                    "pathLang": "jsonpath",
+                    "method": "removal",
+                    "reason": {
+                        "type": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "type": "Administrative Street"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='administrative')].vcardArray[1][?(@[0]=='adr')][3][:3]",
+                    "pathLang": "jsonpath",
+                    "method": "emptyValue",
+                    "reason": {
+                        "type": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "type": "Administrative City"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='administrative')].vcardArray[1][?(@[0]=='adr')][3][3]",
+                    "pathLang": "jsonpath",
+                    "method": "emptyValue",
+                    "reason": {
+                        "type": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "type": "Administrative Postal Code"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='administrative')].vcardArray[1][?(@[0]=='adr')][3][5]",
+                    "pathLang": "jsonpath",
+                    "method": "emptyValue",
+                    "reason": {
+                        "type": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "type": "Administrative Email"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='administrative')].vcardArray[1][?(@[0]=='email')][3]",
+                    "pathLang": "jsonpath",
+                    "method": "replacementValue",
+                    "reason": {
+                        "type": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "type": "Administrative Phone"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='administrative')].vcardArray[1][?(@[1].type=='voice')]",
+                    "pathLang": "jsonpath",
+                    "method": "removal",
+                    "reason": {
+                        "type": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "type": "Administrative Fax"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='administrative')].vcardArray[1][?(@[1].type=='fax')]",
+                    "pathLang": "jsonpath",
+                    "method": "removal",
+                    "reason": {
+                        "type": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "type": "Tech Street"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='adr')][3][:3]",
+                    "pathLang": "jsonpath",
+                    "method": "emptyValue",
+                    "reason": {
+                        "type": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "type": "Tech City"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='adr')][3][3]",
+                    "pathLang": "jsonpath",
+                    "method": "emptyValue",
+                    "reason": {
+                        "type": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "type": "Tech Postal Code"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='adr')][3][5]",
+                    "pathLang": "jsonpath",
+                    "method": "emptyValue",
+                    "reason": {
+                        "type": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "type": "Tech Email"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='email')][3]",
+                    "pathLang": "jsonpath",
+                    "method": "replacementValue",
+                    "reason": {
+                        "type": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "type": "Tech Phone"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[1].type=='voice')]",
+                    "pathLang": "jsonpath",
+                    "method": "removal",
+                    "reason": {
+                        "type": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "type": "Tech Fax"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[1].type=='fax')]",
+                    "pathLang": "jsonpath",
+                    "method": "removal",
+                    "reason": {
+                        "type": "Server policy"
+                    }
+                }
+            ],
+            "notices": [
+                {
+                    "title": "Registrar URL",
+                    "links": [
+                        {
+                            "value": "https://rdap.regtons.com/domain/magio.tv",
+                            "rel": "about",
+                            "href": "http://regtons.com",
+                            "type": "text/html"
+                        }
+                    ],
+                    "description": []
+                },
+                {
+                    "title": "Terms of Service",
+                    "links": [
+                        {
+                            "value": "https://rdap.regtons.com/domain/magio.tv",
+                            "rel": "terms-of-service",
+                            "href": "https://regtons.com/en/support/terms-and-conditions/",
+                            "type": "text/html"
+                        }
+                    ],
+                    "description": [
+                        "By submitting an inquiry, you agree to these Universal Terms of Service and limitations of warranty. In particular, you agree not to use this data to allow, enable, or otherwise make possible, dissemination or collection of this data, in part or in its entirety, for any purpose, such as the transmission of unsolicited advertising and solicitations of any kind, including spam. You further agree not to use this data to enable high volume, automated or robotic electronic processes designed to collect or compile this data for any purpose, including mining this data for your own personal or commercial purposes, or use this data in any way that violates applicable laws and regulations. Gransy s.r.o. reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy."
+                    ]
+                },
+                {
+                    "title": "Status Codes",
+                    "links": [
+                        {
+                            "value": "https://rdap.regtons.com/domain/magio.tv",
+                            "rel": "glossary",
+                            "href": "https://icann.org/epp",
+                            "type": "text/html"
+                        }
+                    ],
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ]
+                },
+                {
+                    "title": "RDDS Inaccuracy Complaint Form",
+                    "links": [
+                        {
+                            "value": "https://rdap.regtons.com/domain/magio.tv",
+                            "rel": "help",
+                            "href": "https://icann.org/wicf",
+                            "type": "text/html"
+                        }
+                    ],
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ]
+                }
+            ],
+            "rdapConformance": [
+                "rdap_level_0",
+                "icann_rdap_response_profile_1",
+                "icann_rdap_technical_implementation_guide_1",
+                "redacted"
+            ]
+        }
+    ],
+    "domain": "magio.tv\r"
+}

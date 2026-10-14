@@ -1,0 +1,17 @@
+{
+    "slido.com": {
+        "state_type": "CAPI_OR_NETWORK"
+    },
+    "dochub.com": {
+        "state_type": "CAPI_OR_NETWORK"
+    },
+    "migros.ch": {
+        "state_type": "CAPI_OR_NETWORK"
+    },
+    "hdhole.com": {
+        "state_type": "CAPI_OR_NETWORK"
+    },
+    "bonprix.fr": {
+        "state_type": "CAPI_OR_NETWORK"
+    }
+}

@@ -1,0 +1,650 @@
+{
+    "name": "roller.app",
+    "handle": "41FF32FB9-APP",
+    "registrationDate": "3/30/2020, 5:05:38 AM GMT+3 (by googledomains)",
+    "expirationDate": "3/30/2028, 5:05:38 AM GMT+3",
+    "lastChangedDate": "12/30/2025, 2:50:07 PM GMT+2",
+    "lastUpdateDate": null,
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "handle": "roller.app-admin",
+            "status": [
+                "active"
+            ],
+            "roles": [
+                "administrative"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Sean Fernandez"
+                    ],
+                    [
+                        "n",
+                        {},
+                        "text",
+                        [
+                            "Fernandez",
+                            "Sean",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "org",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "ROLLER Networks Pty Ltd"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "pref": "1",
+                            "type": [
+                                "work",
+                                "voice"
+                            ]
+                        },
+                        "uri",
+                        "tel:+61.433923314"
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "sean@rollerdigital.com"
+                    ],
+                    [
+                        "adr",
+                        {},
+                        "text",
+                        [
+                            "",
+                            "",
+                            [
+                                "Suite 6, Level 4, 101 Moray Street",
+                                "",
+                                ""
+                            ],
+                            "South Melbourne",
+                            "Victoria",
+                            "3205",
+                            "AU"
+                        ]
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "https://synergywholesale.com/domain-tools/?domain=roller.app"
+                    ]
+                ]
+            ],
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "https://rdap.synergywholesale.com/entity/roller.app-admin",
+                    "type": "application/rdap+json",
+                    "value": "https://rdap.synergywholesale.com/entity/roller.app-admin"
+                }
+            ],
+            "events": []
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "roller.app-tech",
+            "status": [
+                "active"
+            ],
+            "roles": [
+                "technical"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Sean Fernandez"
+                    ],
+                    [
+                        "n",
+                        {},
+                        "text",
+                        [
+                            "Fernandez",
+                            "Sean",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "org",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "ROLLER Networks Pty Ltd"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "pref": "1",
+                            "type": [
+                                "work",
+                                "voice"
+                            ]
+                        },
+                        "uri",
+                        "tel:+61.433923314"
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "sean@rollerdigital.com"
+                    ],
+                    [
+                        "adr",
+                        {},
+                        "text",
+                        [
+                            "",
+                            "",
+                            [
+                                "Suite 6, Level 4, 101 Moray Street",
+                                "",
+                                ""
+                            ],
+                            "South Melbourne",
+                            "Victoria",
+                            "3205",
+                            "AU"
+                        ]
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "https://synergywholesale.com/domain-tools/?domain=roller.app"
+                    ]
+                ]
+            ],
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "https://rdap.synergywholesale.com/entity/roller.app-tech",
+                    "type": "application/rdap+json",
+                    "value": "https://rdap.synergywholesale.com/entity/roller.app-tech"
+                }
+            ],
+            "events": []
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "roller.app-billing",
+            "status": [
+                "active"
+            ],
+            "roles": [
+                "billing"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Sean Fernandez"
+                    ],
+                    [
+                        "n",
+                        {},
+                        "text",
+                        [
+                            "Fernandez",
+                            "Sean",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "org",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "ROLLER Networks Pty Ltd"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "pref": "1",
+                            "type": [
+                                "work",
+                                "voice"
+                            ]
+                        },
+                        "uri",
+                        "tel:+61.433923314"
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "sean@rollerdigital.com"
+                    ],
+                    [
+                        "adr",
+                        {},
+                        "text",
+                        [
+                            "",
+                            "",
+                            [
+                                "Suite 6, Level 4, 101 Moray Street",
+                                "",
+                                ""
+                            ],
+                            "South Melbourne",
+                            "Victoria",
+                            "3205",
+                            "AU"
+                        ]
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "https://synergywholesale.com/domain-tools/?domain=roller.app"
+                    ]
+                ]
+            ],
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "https://rdap.synergywholesale.com/entity/roller.app-billing",
+                    "type": "application/rdap+json",
+                    "value": "https://rdap.synergywholesale.com/entity/roller.app-billing"
+                }
+            ],
+            "events": []
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "roller.app-registrant",
+            "status": [
+                "active"
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Sean Fernandez"
+                    ],
+                    [
+                        "n",
+                        {},
+                        "text",
+                        [
+                            "Fernandez",
+                            "Sean",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "org",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "ROLLER Networks Pty Ltd"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "pref": "1",
+                            "type": [
+                                "work",
+                                "voice"
+                            ]
+                        },
+                        "uri",
+                        "tel:+61.433923314"
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "domains@rollerdigital.com"
+                    ],
+                    [
+                        "adr",
+                        {},
+                        "text",
+                        [
+                            "",
+                            "",
+                            [
+                                "Suite 6, Level 4, 101 Moray Street",
+                                "",
+                                ""
+                            ],
+                            "South Melbourne",
+                            "Victoria",
+                            "3205",
+                            "AU"
+                        ]
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "https://synergywholesale.com/domain-tools/?domain=roller.app"
+                    ]
+                ]
+            ],
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "https://rdap.synergywholesale.com/entity/roller.app-registrant",
+                    "type": "application/rdap+json",
+                    "value": "https://rdap.synergywholesale.com/entity/roller.app-registrant"
+                }
+            ],
+            "events": []
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "synergywholesale",
+            "status": [
+                "active"
+            ],
+            "roles": [
+                "abuse",
+                "registrar",
+                "noc"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Synergy Wholesale Accreditations Pty Ltd"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "Synergy Wholesale Accreditations Pty Ltd"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "pref": "1",
+                            "type": [
+                                "work",
+                                "voice"
+                            ]
+                        },
+                        "uri",
+                        "tel:+61383999483"
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "registry-abuse@nexigen.digital"
+                    ],
+                    [
+                        "adr",
+                        {},
+                        "text",
+                        [
+                            "",
+                            "",
+                            [
+                                "PO BOX 119"
+                            ],
+                            "Beaconsfield",
+                            "VIC",
+                            "3807",
+                            "AU"
+                        ]
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "mailto:registry-abuse@nexigen.digital"
+                    ]
+                ]
+            ],
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "https://rdap.synergywholesale.com/entity/abuse",
+                    "type": "application/rdap+json",
+                    "value": "https://rdap.synergywholesale.com/entity/abuse"
+                }
+            ],
+            "events": [],
+            "publicIds": [
+                {
+                    "type": "IANA Registrar ID",
+                    "identifier": "1609"
+                },
+                {
+                    "type": "Registrar",
+                    "identifier": "Synergy Wholesale Pty Ltd"
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns-1445.awsdns-52.org",
+            "unicodeName": "ns-1445.awsdns-52.org",
+            "status": [
+                "active"
+            ],
+            "events": [],
+            "links": []
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns-1628.awsdns-11.co.uk",
+            "unicodeName": "ns-1628.awsdns-11.co.uk",
+            "status": [
+                "active"
+            ],
+            "events": [],
+            "links": []
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns-259.awsdns-32.com",
+            "unicodeName": "ns-259.awsdns-32.com",
+            "status": [
+                "active"
+            ],
+            "events": [],
+            "links": []
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns-987.awsdns-59.net",
+            "unicodeName": "ns-987.awsdns-59.net",
+            "status": [
+                "active"
+            ],
+            "events": [],
+            "links": []
+        },
+        {
+            "objectClassName": "domain",
+            "handle": "41FF32FB9-APP",
+            "ldhName": "roller.app",
+            "unicodeName": "roller.app",
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns-1445.awsdns-52.org",
+                    "unicodeName": "ns-1445.awsdns-52.org",
+                    "status": [
+                        "active"
+                    ],
+                    "events": [],
+                    "links": []
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns-1628.awsdns-11.co.uk",
+                    "unicodeName": "ns-1628.awsdns-11.co.uk",
+                    "status": [
+                        "active"
+                    ],
+                    "events": [],
+                    "links": []
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns-259.awsdns-32.com",
+                    "unicodeName": "ns-259.awsdns-32.com",
+                    "status": [
+                        "active"
+                    ],
+                    "events": [],
+                    "links": []
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns-987.awsdns-59.net",
+                    "unicodeName": "ns-987.awsdns-59.net",
+                    "status": [
+                        "active"
+                    ],
+                    "events": [],
+                    "links": []
+                }
+            ],
+            "secureDNS": {
+                "delegationSigned": false,
+                "dsData": []
+            },
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "https://rdap.synergywholesale.com/domain/roller.app",
+                    "type": "application/rdap+json",
+                    "value": "https://rdap.synergywholesale.com/domain/roller.app"
+                }
+            ],
+            "redacted": [],
+            "port43": "whois.synergywholesale.com",
+            "rdapConformance": [
+                "icann_rdap_response_profile_1",
+                "icann_rdap_technical_implementation_guide_1",
+                "rdap_level_0",
+                "redacted"
+            ],
+            "notices": [
+                {
+                    "title": "Status Codes",
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ],
+                    "links": [
+                        {
+                            "rel": "related",
+                            "type": "text/html",
+                            "value": "https://icann.org/epp",
+                            "href": "https://icann.org/epp",
+                            "hreflang": [
+                                "en"
+                            ],
+                            "media": "screen"
+                        }
+                    ]
+                },
+                {
+                    "title": "RDDS Inaccuracy Complaint Form",
+                    "description": [
+                        "URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf"
+                    ],
+                    "links": [
+                        {
+                            "rel": "related",
+                            "type": "text/html",
+                            "href": "https://www.icann.org/wicf",
+                            "value": "https://www.icann.org/wicf",
+                            "hreflang": [
+                                "en"
+                            ],
+                            "media": "screen"
+                        }
+                    ]
+                }
+            ],
+            "lang": "en"
+        }
+    ],
+    "domain": "roller.app\r"
+}

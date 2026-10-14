@@ -1,0 +1,20 @@
+{
+    "pg.com": {
+        "state_type": "CAPI_OR_NETWORK"
+    },
+    "dochub.com": {
+        "state_type": "CAPI_OR_NETWORK"
+    },
+    "sli.do": {
+        "state_type": "CAPI_OR_NETWORK"
+    },
+    "broadwayworld.com": {
+        "state_type": "CAPI_OR_NETWORK"
+    },
+    "kunasystems.com": {
+        "state_type": "CAPI_OR_NETWORK"
+    },
+    "dot-st.com": {
+        "state_type": "CAPI_OR_NETWORK"
+    }
+}

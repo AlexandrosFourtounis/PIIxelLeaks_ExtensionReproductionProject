@@ -1,0 +1,85 @@
+{
+    "name": "ilmatieteenlaitos.fi",
+    "handle": null,
+    "registrationDate": "3/5/1998, 3:12:00 PM GMT+2",
+    "expirationDate": null,
+    "lastChangedDate": null,
+    "lastUpdateDate": null,
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Ilmatieteen laitos"
+                    ],
+                    [
+                        "adr",
+                        {},
+                        "text",
+                        [
+                            null,
+                            null,
+                            "PL 503",
+                            null,
+                            null,
+                            null,
+                            "Finland"
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        null
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrant"
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "nsgate.fmi.fi [193.166.223.4] [OK]",
+            "unicodeName": "nsgate.fmi.fi [193.166.223.4] [OK]"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns-secondary.funet.fi [128.214.248.132] [2001:708:10:55::53] [OK]",
+            "unicodeName": "ns-secondary.funet.fi [128.214.248.132] [2001:708:10:55::53] [OK]"
+        },
+        {
+            "rdapConformance": [
+                "rdap_level_0"
+            ],
+            "objectClassName": "domain",
+            "port43": "whois.nic.fi",
+            "ldhName": "ilmatieteenlaitos.fi",
+            "unicodeName": "ilmatieteenlaitos.fi",
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "nsgate.fmi.fi [193.166.223.4] [OK]",
+                    "unicodeName": "nsgate.fmi.fi [193.166.223.4] [OK]"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns-secondary.funet.fi [128.214.248.132] [2001:708:10:55::53] [OK]",
+                    "unicodeName": "ns-secondary.funet.fi [128.214.248.132] [2001:708:10:55::53] [OK]"
+                }
+            ]
+        }
+    ],
+    "domain": "ilmatieteenlaitos.fi\r"
+}

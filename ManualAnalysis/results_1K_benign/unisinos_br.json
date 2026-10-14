@@ -1,0 +1,404 @@
+{
+    "name": "unisinos.br",
+    "handle": "unisinos.br",
+    "registrationDate": "1/28/1999, 3:35:52 PM GMT+2",
+    "expirationDate": null,
+    "lastChangedDate": "7/29/2025, 12:43:39 AM GMT+3",
+    "lastUpdateDate": null,
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "handle": "RAS31",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Rochele Avila dos Santos"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "regdom@asav.org.br"
+                    ],
+                    [
+                        "lang",
+                        {},
+                        "language-tag",
+                        "pt"
+                    ],
+                    [
+                        "adr",
+                        {},
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "BR"
+                        ]
+                    ]
+                ]
+            ],
+            "roles": [
+                "administrative"
+            ],
+            "events": [
+                {
+                    "eventAction": "registration",
+                    "eventDate": "1998-05-18T12:00:00Z"
+                },
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2022-11-03T14:03:22Z"
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "92959006000885",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Associação Antônio Vieira - Unisinos"
+                    ],
+                    [
+                        "adr",
+                        {},
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "BR"
+                        ]
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "publicIds": [
+                {
+                    "type": "cnpj",
+                    "identifier": "92.959.006/0008-85"
+                }
+            ],
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "handle": "RAS31",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "kind",
+                                {},
+                                "text",
+                                "individual"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Rochele Avila dos Santos"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "regdom@asav.org.br"
+                            ],
+                            [
+                                "lang",
+                                {},
+                                "language-tag",
+                                "pt"
+                            ],
+                            [
+                                "adr",
+                                {},
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "BR"
+                                ]
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "administrative"
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "1998-05-18T12:00:00Z"
+                        },
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2022-11-03T14:03:22Z"
+                        }
+                    ]
+                }
+            ],
+            "events": [
+                {
+                    "eventAction": "registration",
+                    "eventDate": "1998-10-02T12:00:00Z"
+                },
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2022-10-26T13:28:03Z"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.registro.br/entity/92959006000885",
+                    "rel": "self",
+                    "href": "https://rdap.registro.br/entity/92959006000885",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "legalRepresentative": "Ir. Eudsom Ramos"
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "RAS31",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Rochele Avila dos Santos"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "regdom@asav.org.br"
+                    ],
+                    [
+                        "lang",
+                        {},
+                        "language-tag",
+                        "pt"
+                    ],
+                    [
+                        "adr",
+                        {},
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "BR"
+                        ]
+                    ]
+                ]
+            ],
+            "roles": [
+                "technical"
+            ],
+            "events": [
+                {
+                    "eventAction": "registration",
+                    "eventDate": "1998-05-18T12:00:00Z"
+                },
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2022-11-03T14:03:22Z"
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns3.unisinos.br",
+            "ipAddresses": {
+                "v4": [
+                    "200.188.161.163"
+                ]
+            },
+            "events": [
+                {
+                    "eventAction": "delegation check",
+                    "eventDate": "2026-06-21T08:00:26Z",
+                    "status": [
+                        "ns aa"
+                    ]
+                },
+                {
+                    "eventAction": "last correct delegation check",
+                    "eventDate": "2026-06-21T08:00:26Z"
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns2cld.eastus.cloudapp.azure.com",
+            "events": [
+                {
+                    "eventAction": "delegation check",
+                    "eventDate": "2026-06-21T08:00:26Z",
+                    "status": [
+                        "ns aa"
+                    ]
+                },
+                {
+                    "eventAction": "last correct delegation check",
+                    "eventDate": "2026-06-21T08:00:26Z"
+                }
+            ]
+        },
+        {
+            "objectClassName": "domain",
+            "handle": "unisinos.br",
+            "ldhName": "unisinos.br",
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns3.unisinos.br",
+                    "ipAddresses": {
+                        "v4": [
+                            "200.188.161.163"
+                        ]
+                    },
+                    "events": [
+                        {
+                            "eventAction": "delegation check",
+                            "eventDate": "2026-06-21T08:00:26Z",
+                            "status": [
+                                "ns aa"
+                            ]
+                        },
+                        {
+                            "eventAction": "last correct delegation check",
+                            "eventDate": "2026-06-21T08:00:26Z"
+                        }
+                    ]
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns2cld.eastus.cloudapp.azure.com",
+                    "events": [
+                        {
+                            "eventAction": "delegation check",
+                            "eventDate": "2026-06-21T08:00:26Z",
+                            "status": [
+                                "ns aa"
+                            ]
+                        },
+                        {
+                            "eventAction": "last correct delegation check",
+                            "eventDate": "2026-06-21T08:00:26Z"
+                        }
+                    ]
+                }
+            ],
+            "secureDNS": {
+                "delegationSigned": false
+            },
+            "links": [
+                {
+                    "value": "https://rdap.registro.br/domain/unisinos.br",
+                    "rel": "self",
+                    "href": "https://rdap.registro.br/domain/unisinos.br",
+                    "type": "application/rdap+json"
+                },
+                {
+                    "value": "https://rdap.registro.br/domain/unisinos.br",
+                    "rel": "archives",
+                    "href": "https://rdap.registro.br/domain/unisinos.br?ticket=138862",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "notices": [
+                {
+                    "title": "Use and Privacy Policy",
+                    "description": [
+                        "Copyright (c) Nic.br - Use of this data is governed by the Use and Privacy Policy. Distribution, commercialization, reproduction, and use for advertising or similar purposes are expressly prohibited.",
+                        "2026-06-23T12:05:27-03:00 - 139.91.90.27"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.registro.br/domain/unisinos.br",
+                            "rel": "alternate",
+                            "href": "https://registro.br/upp",
+                            "type": "text/html"
+                        }
+                    ]
+                }
+            ],
+            "rdapConformance": [
+                "rdap_level_0",
+                "nicbr_level_0"
+            ],
+            "port43": "whois.registro.br"
+        }
+    ],
+    "domain": "unisinos.br\r"
+}

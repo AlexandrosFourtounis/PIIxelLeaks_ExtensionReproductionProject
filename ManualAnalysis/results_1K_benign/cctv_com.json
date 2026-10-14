@@ -1,0 +1,287 @@
+{
+    "name": "cctv.com",
+    "handle": "459091-VRSN",
+    "registrationDate": "5/20/1997, 11:00:00 PM GMT+3",
+    "expirationDate": "5/21/2027, 11:00:00 PM GMT+3",
+    "lastChangedDate": "8/17/2025, 6:03:34 PM GMT+3",
+    "lastUpdateDate": null,
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "lang": "en-US",
+            "events": [
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2011-11-22T07:16:57+08:00"
+                },
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2019-06-24T23:30:33+08:00"
+                }
+            ],
+            "port43": "whois.sfn.cn",
+            "handle": "50000368-VRSN",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Beijing Sanfront Information Technology Co., Ltd"
+                    ],
+                    [
+                        "adr",
+                        {},
+                        "text",
+                        [
+                            "",
+                            "",
+                            "3/F Building 1, 4 South 4th Street",
+                            "Beijing",
+                            "Beijing",
+                            "100190",
+                            "cn"
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+86.1083026006"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "zhangyuxin@sfn.cn"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrar"
+            ],
+            "publicIds": [
+                {
+                    "type": "IANA Registrar ID",
+                    "identifier": "1588"
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object redacted due to authorization",
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ]
+                }
+            ],
+            "lang": "en-US",
+            "events": [
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2023-12-06T05:50:37+08:00"
+                },
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2023-12-06T06:05:38+08:00"
+                }
+            ],
+            "port43": "whois.sfn.cn",
+            "handle": "sfn1837192611326",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "中央广***总台"
+                    ],
+                    [
+                        "adr",
+                        {},
+                        "text",
+                        [
+                            "",
+                            "",
+                            "Hai Dian Qu***********n 1 1 Hao",
+                            "Bei *****Shi",
+                            "Bei *****Shi",
+                            "10***0",
+                            "cn"
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+86.15810324198"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "domaina*******tv.com"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "publicIds": [
+                {
+                    "type": "Registrant ID",
+                    "identifier": "sfn1837192611326"
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "lang": "en-US",
+            "ldhName": "NS1.CCTV.COM",
+            "unicodeName": "NS1.CCTV.COM"
+        },
+        {
+            "objectClassName": "nameserver",
+            "lang": "en-US",
+            "ldhName": "NS4.CCTV.COM",
+            "unicodeName": "NS4.CCTV.COM"
+        },
+        {
+            "objectClassName": "nameserver",
+            "lang": "en-US",
+            "ldhName": "NS5.CCTV.COM",
+            "unicodeName": "NS5.CCTV.COM"
+        },
+        {
+            "objectClassName": "nameserver",
+            "lang": "en-US",
+            "ldhName": "VIP3.ALIDNS.COM",
+            "unicodeName": "VIP3.ALIDNS.COM"
+        },
+        {
+            "objectClassName": "nameserver",
+            "lang": "en-US",
+            "ldhName": "VIP4.ALIDNS.COM",
+            "unicodeName": "VIP4.ALIDNS.COM"
+        },
+        {
+            "objectClassName": "nameserver",
+            "lang": "en-US",
+            "ldhName": "NS6.CCTV.COM",
+            "unicodeName": "NS6.CCTV.COM"
+        },
+        {
+            "rdapConformance": [
+                "icann_rdap_response_profile",
+                "rdap_level_0"
+            ],
+            "objectClassName": "domain",
+            "links": [
+                {
+                    "value": "https://rdap.guokeyun.com/rdap/domain/cctv.com",
+                    "rel": "self",
+                    "href": "https://rdap.guokeyun.com/rdap/domain/cctv.com",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "notices": [
+                {
+                    "title": "EPP Status Codes",
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp."
+                    ],
+                    "links": [
+                        {
+                            "value": "https://icann.org/epp",
+                            "rel": "related",
+                            "href": "https://icann.org/epp",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "Whois Inaccuracy Complaint Form",
+                    "description": [
+                        "URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf."
+                    ],
+                    "links": [
+                        {
+                            "value": "https://www.icann.org/wicf",
+                            "rel": "related",
+                            "href": "https://www.icann.org/wicf",
+                            "type": "text/html"
+                        }
+                    ]
+                }
+            ],
+            "lang": "en-US",
+            "port43": "whois.sfn.cn",
+            "handle": "459091-VRSN",
+            "ldhName": "cctv.com",
+            "unicodeName": "cctv.com",
+            "secureDNS": {
+                "delegationSigned": false
+            },
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "lang": "en-US",
+                    "ldhName": "NS1.CCTV.COM",
+                    "unicodeName": "NS1.CCTV.COM"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "lang": "en-US",
+                    "ldhName": "NS4.CCTV.COM",
+                    "unicodeName": "NS4.CCTV.COM"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "lang": "en-US",
+                    "ldhName": "NS5.CCTV.COM",
+                    "unicodeName": "NS5.CCTV.COM"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "lang": "en-US",
+                    "ldhName": "VIP3.ALIDNS.COM",
+                    "unicodeName": "VIP3.ALIDNS.COM"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "lang": "en-US",
+                    "ldhName": "VIP4.ALIDNS.COM",
+                    "unicodeName": "VIP4.ALIDNS.COM"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "lang": "en-US",
+                    "ldhName": "NS6.CCTV.COM",
+                    "unicodeName": "NS6.CCTV.COM"
+                }
+            ]
+        }
+    ],
+    "domain": "cctv.com\r"
+}

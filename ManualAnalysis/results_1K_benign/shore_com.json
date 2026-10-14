@@ -1,0 +1,406 @@
+{
+    "name": "shore.com",
+    "handle": "2562227_DOMAIN_COM-VRSN",
+    "registrationDate": "2/25/1997, 7:00:00 AM GMT+2",
+    "expirationDate": "2/26/2027, 7:00:00 AM GMT+2",
+    "lastChangedDate": "2/26/2026, 2:20:28 AM GMT+2",
+    "lastUpdateDate": "6/23/2026, 7:07:18 PM GMT+3",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Abuse Contact"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "INWX GmbH"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+49.30983212123"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "abuse@inwx.com"
+                    ]
+                ]
+            ],
+            "roles": [
+                "abuse"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "links": [
+                {
+                    "value": "https://rdap.domrobot.com/",
+                    "rel": "about",
+                    "href": "https://inwx.de"
+                }
+            ],
+            "handle": "1420",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "INWX GmbH"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrar"
+            ],
+            "publicIds": [
+                {
+                    "type": "IANA Registrar ID",
+                    "identifier": "1420"
+                }
+            ],
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Abuse Contact"
+                            ],
+                            [
+                                "org",
+                                {},
+                                "text",
+                                "INWX GmbH"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "voice"
+                                },
+                                "uri",
+                                "tel:+49.30983212123"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "abuse@inwx.com"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "abuse"
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "DE"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "Bayern",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "https://whois-contact.domrobot.com"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrant"
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns-1262.awsdns-29.org",
+            "unicodeName": "ns-1262.awsdns-29.org"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns-1900.awsdns-45.co.uk",
+            "unicodeName": "ns-1900.awsdns-45.co.uk"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns-356.awsdns-44.com",
+            "unicodeName": "ns-356.awsdns-44.com"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns-867.awsdns-44.net",
+            "unicodeName": "ns-867.awsdns-44.net"
+        },
+        {
+            "rdapConformance": [
+                "redacted",
+                "rdap_level_0",
+                "icann_rdap_technical_implementation_guide_1",
+                "icann_rdap_response_profile_1"
+            ],
+            "objectClassName": "domain",
+            "links": [
+                {
+                    "value": "https://rdap.domrobot.com/domain/shore.com",
+                    "rel": "self",
+                    "href": "https://rdap.domrobot.com/domain/shore.com",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "notices": [
+                {
+                    "title": "Status Codes",
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.domrobot.com/domain/SHORE.COM",
+                            "rel": "glossary",
+                            "href": "https://icann.org/epp",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "RDDS Inaccuracy Complaint Form",
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.domrobot.com/domain/SHORE.COM",
+                            "rel": "help",
+                            "href": "https://icann.org/wicf",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "Terms of Use",
+                    "description": [
+                        "By submitting an inquiry, you agree to these Universal Terms of Service",
+                        "and limitations of warranty. In particular, you agree not to use this",
+                        "data to allow, enable, or otherwise make possible, dissemination or",
+                        "collection of this data, in part or in its entirety, for any purpose,",
+                        "such as the transmission of unsolicited advertising and solicitations of",
+                        "any kind, including spam. You further agree not to use this data to enable",
+                        "high volume, automated or robotic electronic processes designed to collect",
+                        "or compile this data for any purpose, including mining this data for your",
+                        "own personal or commercial purposes, or use this data in any way that violates",
+                        "applicable laws and regulations."
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.domrobot.com/domain/SHORE.COM",
+                            "rel": "terms-of-service",
+                            "href": "https://www.inwx.com/en/aboutus/terms",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "RDAP Help Document",
+                    "description": [
+                        "Documentation describing the functionality of this RDAP service."
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.domrobot.com/domain/SHORE.COM",
+                            "rel": "related",
+                            "href": "https://kb.inwx.com/en-us/1-domains/202-rdap-help",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "Query Policy",
+                    "description": [
+                        "Queries are limited to 60 per 60 seconds per IP."
+                    ]
+                }
+            ],
+            "port43": "whois.domrobot.com",
+            "handle": "2562227_DOMAIN_COM-VRSN",
+            "ldhName": "shore.com",
+            "unicodeName": "shore.com",
+            "secureDNS": {
+                "delegationSigned": false
+            },
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns-1262.awsdns-29.org",
+                    "unicodeName": "ns-1262.awsdns-29.org"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns-1900.awsdns-45.co.uk",
+                    "unicodeName": "ns-1900.awsdns-45.co.uk"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns-356.awsdns-44.com",
+                    "unicodeName": "ns-356.awsdns-44.com"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns-867.awsdns-44.net",
+                    "unicodeName": "ns-867.awsdns-44.net"
+                }
+            ],
+            "redacted": [
+                {
+                    "name": {
+                        "type": "Registrant Name"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='fn')][3]",
+                    "pathLang": "jsonpath",
+                    "method": "emptyValue"
+                },
+                {
+                    "name": {
+                        "type": "Registrant Organization"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='org')]",
+                    "pathLang": "jsonpath",
+                    "method": "removal"
+                },
+                {
+                    "name": {
+                        "type": "Registrant Street"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][:3]",
+                    "pathLang": "jsonpath",
+                    "method": "emptyValue"
+                },
+                {
+                    "name": {
+                        "type": "Registrant City"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][3]",
+                    "pathLang": "jsonpath",
+                    "method": "emptyValue"
+                },
+                {
+                    "name": {
+                        "type": "Registrant Postal Code"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][5]",
+                    "pathLang": "jsonpath",
+                    "method": "emptyValue"
+                },
+                {
+                    "name": {
+                        "type": "Registrant Phone"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[1].type=='voice')]",
+                    "pathLang": "jsonpath",
+                    "method": "removal"
+                },
+                {
+                    "name": {
+                        "type": "Registrant Fax"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[1].type=='fax')]",
+                    "pathLang": "jsonpath",
+                    "method": "removal"
+                },
+                {
+                    "name": {
+                        "type": "Registrant Email"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='email')]",
+                    "replacementPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='contact-uri')]",
+                    "pathLang": "jsonpath",
+                    "method": "replacementValue"
+                },
+                {
+                    "name": {
+                        "type": "Registry Registrant ID"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].handle",
+                    "pathLang": "jsonpath",
+                    "method": "removal"
+                },
+                {
+                    "name": {
+                        "description": "Technical Contact"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='technical')]",
+                    "pathLang": "jsonpath",
+                    "method": "removal",
+                    "reason": {
+                        "description": "Refer to the registrant contact"
+                    }
+                }
+            ]
+        }
+    ],
+    "domain": "shore.com\r"
+}

@@ -1,0 +1,1479 @@
+{
+    "name": "meteociel.fr",
+    "handle": "DOM000000594529-FRNIC",
+    "registrationDate": "6/19/2007, 10:31:16 AM GMT+3",
+    "expirationDate": "6/19/2027, 10:31:16 AM GMT+3",
+    "lastChangedDate": "6/19/2026, 10:33:53 AM GMT+3",
+    "lastUpdateDate": "6/23/2026, 5:42:51 PM GMT+3",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "links": [],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Contact Abuse"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "abuse@ovh.net"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+33.899701761"
+                    ]
+                ]
+            ],
+            "roles": [
+                "abuse"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "RAR202-FRNIC",
+            "publicIds": [
+                {
+                    "type": "IANA Registrar ID",
+                    "identifier": "433"
+                }
+            ],
+            "status": [
+                "active"
+            ],
+            "port43": "whois.ovh.com",
+            "events": [
+                {
+                    "eventAction": "registration",
+                    "eventDate": "1999-10-18T00:00:00Z"
+                },
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2022-10-01T11:40:48.761912Z"
+                }
+            ],
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "links": [],
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Contact Abuse"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "abuse@ovh.net"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "voice"
+                                },
+                                "uri",
+                                "tel:+33.899701761"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "abuse"
+                    ]
+                }
+            ],
+            "links": [
+                {
+                    "href": "https://rdap.nic.fr/entity/RAR202-FRNIC",
+                    "value": "https://rdap.nic.fr/entity/RAR202-FRNIC",
+                    "rel": "self"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "OVH"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+33.899701761"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "uri",
+                        "tel:+33.320200958"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "support@ovh.net"
+                    ],
+                    [
+                        "url",
+                        {},
+                        "uri",
+                        "http://www.ovh.com"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "FR"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "2 Rue Kellermann",
+                            "ROUBAIX",
+                            "",
+                            "59100",
+                            ""
+                        ]
+                    ]
+                ]
+            ],
+            "roles": [
+                "sponsor",
+                "registrar"
+            ],
+            "remarks": [
+                {
+                    "type": "registrar restricted publication",
+                    "description": [
+                        "No"
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "MLME11-FRNIC",
+            "status": [
+                "associated",
+                "active"
+            ],
+            "events": [
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2021-03-18T16:27:57Z"
+                }
+            ],
+            "links": [
+                {
+                    "href": "https://rdap.nic.fr/entity/MLME11-FRNIC",
+                    "value": "https://rdap.nic.fr/entity/MLME11-FRNIC",
+                    "rel": "self"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Meteociel, la meteo en temps réel !"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "Meteociel, la meteo en temps réel !"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "FR"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "20 place de l'eglise",
+                            "Vias",
+                            "",
+                            "34450",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "0qrw92xz1p6wqe45q88g@n.o-w-o.info"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+33.603948658"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "remarks": [
+                {
+                    "type": "contact restricted publication",
+                    "description": [
+                        "NO"
+                    ]
+                },
+                {
+                    "type": "contact obsolete",
+                    "description": [
+                        "NO"
+                    ]
+                },
+                {
+                    "type": "contact type",
+                    "description": [
+                        "ORGANIZATION"
+                    ]
+                },
+                {
+                    "type": "reachable",
+                    "description": [
+                        "NO"
+                    ]
+                },
+                {
+                    "type": "eligibility status",
+                    "description": [
+                        "NotIdentified"
+                    ]
+                },
+                {
+                    "type": "registrar name",
+                    "description": [
+                        "OVH"
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "M196748-FRNIC",
+            "status": [
+                "associated",
+                "active"
+            ],
+            "events": [
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2021-03-18T16:28:00Z"
+                }
+            ],
+            "links": [
+                {
+                    "href": "https://rdap.nic.fr/entity/M196748-FRNIC",
+                    "value": "https://rdap.nic.fr/entity/M196748-FRNIC",
+                    "rel": "self"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "METEOCIEL"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "METEOCIEL"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "FR"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "12 rue Jean Calas",
+                            "Roujan",
+                            "",
+                            "34320",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "jtwfvm3a26s7ajnsq6y0@r.o-w-o.info"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+33.786887442"
+                    ]
+                ]
+            ],
+            "roles": [
+                "administrative"
+            ],
+            "remarks": [
+                {
+                    "type": "contact restricted publication",
+                    "description": [
+                        "NO"
+                    ]
+                },
+                {
+                    "type": "contact obsolete",
+                    "description": [
+                        "NO"
+                    ]
+                },
+                {
+                    "type": "contact type",
+                    "description": [
+                        "ORGANIZATION"
+                    ]
+                },
+                {
+                    "type": "reachable",
+                    "description": [
+                        "NO"
+                    ]
+                },
+                {
+                    "type": "eligibility status",
+                    "description": [
+                        "NotIdentified"
+                    ]
+                },
+                {
+                    "type": "registrar name",
+                    "description": [
+                        "OVH"
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "OVH5-FRNIC",
+            "status": [
+                "associated",
+                "active"
+            ],
+            "events": [
+                {
+                    "eventAction": "registration",
+                    "eventDate": "1999-12-22T00:00:00Z"
+                },
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2026-06-23T14:37:58.596192Z"
+                }
+            ],
+            "links": [
+                {
+                    "href": "https://rdap.nic.fr/entity/OVH5-FRNIC",
+                    "value": "https://rdap.nic.fr/entity/OVH5-FRNIC",
+                    "rel": "self"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "OVH NET"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "FR"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            [
+                                "OVH",
+                                "140, quai du Sartel"
+                            ],
+                            "Roubaix",
+                            "",
+                            "59100",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "tech@ovh.net"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+33.899701761"
+                    ]
+                ]
+            ],
+            "roles": [
+                "technical"
+            ],
+            "remarks": [
+                {
+                    "type": "contact restricted publication",
+                    "description": [
+                        "NO"
+                    ]
+                },
+                {
+                    "type": "contact obsolete",
+                    "description": [
+                        "NO"
+                    ]
+                },
+                {
+                    "type": "contact type",
+                    "description": [
+                        "ORGANIZATION"
+                    ]
+                },
+                {
+                    "type": "reachable",
+                    "description": [
+                        "NO"
+                    ]
+                },
+                {
+                    "type": "eligibility status",
+                    "description": [
+                        "NotIdentified"
+                    ]
+                },
+                {
+                    "type": "registrar name",
+                    "description": [
+                        "OVH"
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "links": [],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Contact Abuse"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "abuse@ovh.net"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+33.899701761"
+                    ]
+                ]
+            ],
+            "roles": [
+                "abuse"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "RAR202-FRNIC",
+            "publicIds": [
+                {
+                    "type": "IANA Registrar ID",
+                    "identifier": "433"
+                }
+            ],
+            "status": [
+                "active"
+            ],
+            "port43": "whois.ovh.com",
+            "events": [
+                {
+                    "eventAction": "registration",
+                    "eventDate": "1999-10-18T00:00:00Z"
+                },
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2022-10-01T11:40:48.761912Z"
+                }
+            ],
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "links": [],
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Contact Abuse"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "abuse@ovh.net"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "voice"
+                                },
+                                "uri",
+                                "tel:+33.899701761"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "abuse"
+                    ]
+                }
+            ],
+            "links": [
+                {
+                    "href": "https://rdap.nic.fr/entity/RAR202-FRNIC",
+                    "value": "https://rdap.nic.fr/entity/RAR202-FRNIC",
+                    "rel": "self"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "OVH"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+33.899701761"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "uri",
+                        "tel:+33.320200958"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "support@ovh.net"
+                    ],
+                    [
+                        "url",
+                        {},
+                        "uri",
+                        "http://www.ovh.com"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "FR"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "2 Rue Kellermann",
+                            "ROUBAIX",
+                            "",
+                            "59100",
+                            ""
+                        ]
+                    ]
+                ]
+            ],
+            "roles": [
+                "sponsor",
+                "registrar"
+            ],
+            "remarks": [
+                {
+                    "type": "registrar restricted publication",
+                    "description": [
+                        "No"
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "handle": "HOST212864-FRNIC",
+            "ldhName": "ns.meteociel.fr",
+            "status": [
+                "associated",
+                "active"
+            ],
+            "ipAddresses": {
+                "v4": [
+                    "152.228.182.16"
+                ]
+            },
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "handle": "RAR202-FRNIC",
+                    "publicIds": [
+                        {
+                            "type": "IANA Registrar ID",
+                            "identifier": "433"
+                        }
+                    ],
+                    "status": [
+                        "active"
+                    ],
+                    "port43": "whois.ovh.com",
+                    "events": [
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "1999-10-18T00:00:00Z"
+                        },
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2022-10-01T11:40:48.761912Z"
+                        }
+                    ],
+                    "entities": [
+                        {
+                            "objectClassName": "entity",
+                            "links": [],
+                            "vcardArray": [
+                                "vcard",
+                                [
+                                    [
+                                        "version",
+                                        {},
+                                        "text",
+                                        "4.0"
+                                    ],
+                                    [
+                                        "fn",
+                                        {},
+                                        "text",
+                                        "Contact Abuse"
+                                    ],
+                                    [
+                                        "email",
+                                        {},
+                                        "text",
+                                        "abuse@ovh.net"
+                                    ],
+                                    [
+                                        "tel",
+                                        {
+                                            "type": "voice"
+                                        },
+                                        "uri",
+                                        "tel:+33.899701761"
+                                    ]
+                                ]
+                            ],
+                            "roles": [
+                                "abuse"
+                            ]
+                        }
+                    ],
+                    "links": [
+                        {
+                            "href": "https://rdap.nic.fr/entity/RAR202-FRNIC",
+                            "value": "https://rdap.nic.fr/entity/RAR202-FRNIC",
+                            "rel": "self"
+                        }
+                    ],
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "OVH"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "voice"
+                                },
+                                "uri",
+                                "tel:+33.899701761"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "fax"
+                                },
+                                "uri",
+                                "tel:+33.320200958"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "support@ovh.net"
+                            ],
+                            [
+                                "url",
+                                {},
+                                "uri",
+                                "http://www.ovh.com"
+                            ],
+                            [
+                                "adr",
+                                {
+                                    "cc": "FR"
+                                },
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "2 Rue Kellermann",
+                                    "ROUBAIX",
+                                    "",
+                                    "59100",
+                                    ""
+                                ]
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "sponsor",
+                        "registrar"
+                    ],
+                    "remarks": [
+                        {
+                            "type": "registrar restricted publication",
+                            "description": [
+                                "No"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "links": [
+                {
+                    "href": "https://rdap.nic.fr/nameserver/ns.meteociel.fr",
+                    "value": "https://rdap.nic.fr/nameserver/ns.meteociel.fr",
+                    "rel": "self"
+                }
+            ],
+            "remarks": [
+                {
+                    "title": "result set truncated due to authorization",
+                    "description": [
+                        "The list of results does not contain all results due to lack of authorization.",
+                        "This may indicate to some clients that proper authorization will yield a longer result set."
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "RAR939-FRNIC",
+            "publicIds": [
+                {
+                    "type": "IANA Registrar ID",
+                    "identifier": "9999"
+                }
+            ],
+            "status": [
+                "active"
+            ],
+            "port43": "whois.nic.fr",
+            "events": [
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2014-07-29T15:35:33Z"
+                },
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2022-10-12T18:54:01.785057Z"
+                }
+            ],
+            "links": [
+                {
+                    "href": "https://rdap.nic.fr/entity/RAR939-FRNIC",
+                    "value": "https://rdap.nic.fr/entity/RAR939-FRNIC",
+                    "rel": "self"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Registry Operations"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+33.139308300"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "uri",
+                        "tel:+33.139308301"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "support@afnic.fr"
+                    ],
+                    [
+                        "url",
+                        {},
+                        "uri",
+                        "https://www.afnic.fr"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "FR"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            [
+                                "AFNIC",
+                                "immeuble le Stephenson",
+                                "1, rue Stephenson"
+                            ],
+                            "Montigny-Le-Bretonneux",
+                            "",
+                            "78180",
+                            ""
+                        ]
+                    ]
+                ]
+            ],
+            "roles": [
+                "sponsor",
+                "registrar"
+            ],
+            "remarks": [
+                {
+                    "type": "registrar restricted publication",
+                    "description": [
+                        "No"
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "handle": "HOST40200-FRNIC",
+            "ldhName": "sdns2.ovh.net",
+            "status": [
+                "associated",
+                "active"
+            ],
+            "ipAddresses": {},
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "handle": "RAR939-FRNIC",
+                    "publicIds": [
+                        {
+                            "type": "IANA Registrar ID",
+                            "identifier": "9999"
+                        }
+                    ],
+                    "status": [
+                        "active"
+                    ],
+                    "port43": "whois.nic.fr",
+                    "events": [
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "2014-07-29T15:35:33Z"
+                        },
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2022-10-12T18:54:01.785057Z"
+                        }
+                    ],
+                    "links": [
+                        {
+                            "href": "https://rdap.nic.fr/entity/RAR939-FRNIC",
+                            "value": "https://rdap.nic.fr/entity/RAR939-FRNIC",
+                            "rel": "self"
+                        }
+                    ],
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Registry Operations"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "voice"
+                                },
+                                "uri",
+                                "tel:+33.139308300"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "fax"
+                                },
+                                "uri",
+                                "tel:+33.139308301"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "support@afnic.fr"
+                            ],
+                            [
+                                "url",
+                                {},
+                                "uri",
+                                "https://www.afnic.fr"
+                            ],
+                            [
+                                "adr",
+                                {
+                                    "cc": "FR"
+                                },
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    [
+                                        "AFNIC",
+                                        "immeuble le Stephenson",
+                                        "1, rue Stephenson"
+                                    ],
+                                    "Montigny-Le-Bretonneux",
+                                    "",
+                                    "78180",
+                                    ""
+                                ]
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "sponsor",
+                        "registrar"
+                    ],
+                    "remarks": [
+                        {
+                            "type": "registrar restricted publication",
+                            "description": [
+                                "No"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "links": [
+                {
+                    "href": "https://rdap.nic.fr/nameserver/sdns2.ovh.net",
+                    "value": "https://rdap.nic.fr/nameserver/sdns2.ovh.net",
+                    "rel": "self"
+                }
+            ],
+            "remarks": [
+                {
+                    "title": "result set truncated due to authorization",
+                    "description": [
+                        "The list of results does not contain all results due to lack of authorization.",
+                        "This may indicate to some clients that proper authorization will yield a longer result set."
+                    ]
+                }
+            ]
+        },
+        {
+            "rdapConformance": [
+                "rdap_level_0",
+                "icann_rdap_technical_implementation_guide_1",
+                "icann_rdap_response_profile_1"
+            ],
+            "objectClassName": "domain",
+            "handle": "DOM000000594529-FRNIC",
+            "ldhName": "meteociel.fr",
+            "whoisStatus": "ACTIVE",
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "handle": "HOST212864-FRNIC",
+                    "ldhName": "ns.meteociel.fr",
+                    "status": [
+                        "associated",
+                        "active"
+                    ],
+                    "ipAddresses": {
+                        "v4": [
+                            "152.228.182.16"
+                        ]
+                    },
+                    "entities": [
+                        {
+                            "objectClassName": "entity",
+                            "handle": "RAR202-FRNIC",
+                            "publicIds": [
+                                {
+                                    "type": "IANA Registrar ID",
+                                    "identifier": "433"
+                                }
+                            ],
+                            "status": [
+                                "active"
+                            ],
+                            "port43": "whois.ovh.com",
+                            "events": [
+                                {
+                                    "eventAction": "registration",
+                                    "eventDate": "1999-10-18T00:00:00Z"
+                                },
+                                {
+                                    "eventAction": "last changed",
+                                    "eventDate": "2022-10-01T11:40:48.761912Z"
+                                }
+                            ],
+                            "entities": [
+                                {
+                                    "objectClassName": "entity",
+                                    "links": [],
+                                    "vcardArray": [
+                                        "vcard",
+                                        [
+                                            [
+                                                "version",
+                                                {},
+                                                "text",
+                                                "4.0"
+                                            ],
+                                            [
+                                                "fn",
+                                                {},
+                                                "text",
+                                                "Contact Abuse"
+                                            ],
+                                            [
+                                                "email",
+                                                {},
+                                                "text",
+                                                "abuse@ovh.net"
+                                            ],
+                                            [
+                                                "tel",
+                                                {
+                                                    "type": "voice"
+                                                },
+                                                "uri",
+                                                "tel:+33.899701761"
+                                            ]
+                                        ]
+                                    ],
+                                    "roles": [
+                                        "abuse"
+                                    ]
+                                }
+                            ],
+                            "links": [
+                                {
+                                    "href": "https://rdap.nic.fr/entity/RAR202-FRNIC",
+                                    "value": "https://rdap.nic.fr/entity/RAR202-FRNIC",
+                                    "rel": "self"
+                                }
+                            ],
+                            "vcardArray": [
+                                "vcard",
+                                [
+                                    [
+                                        "version",
+                                        {},
+                                        "text",
+                                        "4.0"
+                                    ],
+                                    [
+                                        "fn",
+                                        {},
+                                        "text",
+                                        "OVH"
+                                    ],
+                                    [
+                                        "tel",
+                                        {
+                                            "type": "voice"
+                                        },
+                                        "uri",
+                                        "tel:+33.899701761"
+                                    ],
+                                    [
+                                        "tel",
+                                        {
+                                            "type": "fax"
+                                        },
+                                        "uri",
+                                        "tel:+33.320200958"
+                                    ],
+                                    [
+                                        "email",
+                                        {},
+                                        "text",
+                                        "support@ovh.net"
+                                    ],
+                                    [
+                                        "url",
+                                        {},
+                                        "uri",
+                                        "http://www.ovh.com"
+                                    ],
+                                    [
+                                        "adr",
+                                        {
+                                            "cc": "FR"
+                                        },
+                                        "text",
+                                        [
+                                            "",
+                                            "",
+                                            "2 Rue Kellermann",
+                                            "ROUBAIX",
+                                            "",
+                                            "59100",
+                                            ""
+                                        ]
+                                    ]
+                                ]
+                            ],
+                            "roles": [
+                                "sponsor",
+                                "registrar"
+                            ],
+                            "remarks": [
+                                {
+                                    "type": "registrar restricted publication",
+                                    "description": [
+                                        "No"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "links": [
+                        {
+                            "href": "https://rdap.nic.fr/nameserver/ns.meteociel.fr",
+                            "value": "https://rdap.nic.fr/nameserver/ns.meteociel.fr",
+                            "rel": "self"
+                        }
+                    ],
+                    "remarks": [
+                        {
+                            "title": "result set truncated due to authorization",
+                            "description": [
+                                "The list of results does not contain all results due to lack of authorization.",
+                                "This may indicate to some clients that proper authorization will yield a longer result set."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "handle": "HOST40200-FRNIC",
+                    "ldhName": "sdns2.ovh.net",
+                    "status": [
+                        "associated",
+                        "active"
+                    ],
+                    "ipAddresses": {},
+                    "entities": [
+                        {
+                            "objectClassName": "entity",
+                            "handle": "RAR939-FRNIC",
+                            "publicIds": [
+                                {
+                                    "type": "IANA Registrar ID",
+                                    "identifier": "9999"
+                                }
+                            ],
+                            "status": [
+                                "active"
+                            ],
+                            "port43": "whois.nic.fr",
+                            "events": [
+                                {
+                                    "eventAction": "registration",
+                                    "eventDate": "2014-07-29T15:35:33Z"
+                                },
+                                {
+                                    "eventAction": "last changed",
+                                    "eventDate": "2022-10-12T18:54:01.785057Z"
+                                }
+                            ],
+                            "links": [
+                                {
+                                    "href": "https://rdap.nic.fr/entity/RAR939-FRNIC",
+                                    "value": "https://rdap.nic.fr/entity/RAR939-FRNIC",
+                                    "rel": "self"
+                                }
+                            ],
+                            "vcardArray": [
+                                "vcard",
+                                [
+                                    [
+                                        "version",
+                                        {},
+                                        "text",
+                                        "4.0"
+                                    ],
+                                    [
+                                        "fn",
+                                        {},
+                                        "text",
+                                        "Registry Operations"
+                                    ],
+                                    [
+                                        "tel",
+                                        {
+                                            "type": "voice"
+                                        },
+                                        "uri",
+                                        "tel:+33.139308300"
+                                    ],
+                                    [
+                                        "tel",
+                                        {
+                                            "type": "fax"
+                                        },
+                                        "uri",
+                                        "tel:+33.139308301"
+                                    ],
+                                    [
+                                        "email",
+                                        {},
+                                        "text",
+                                        "support@afnic.fr"
+                                    ],
+                                    [
+                                        "url",
+                                        {},
+                                        "uri",
+                                        "https://www.afnic.fr"
+                                    ],
+                                    [
+                                        "adr",
+                                        {
+                                            "cc": "FR"
+                                        },
+                                        "text",
+                                        [
+                                            "",
+                                            "",
+                                            [
+                                                "AFNIC",
+                                                "immeuble le Stephenson",
+                                                "1, rue Stephenson"
+                                            ],
+                                            "Montigny-Le-Bretonneux",
+                                            "",
+                                            "78180",
+                                            ""
+                                        ]
+                                    ]
+                                ]
+                            ],
+                            "roles": [
+                                "sponsor",
+                                "registrar"
+                            ],
+                            "remarks": [
+                                {
+                                    "type": "registrar restricted publication",
+                                    "description": [
+                                        "No"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "links": [
+                        {
+                            "href": "https://rdap.nic.fr/nameserver/sdns2.ovh.net",
+                            "value": "https://rdap.nic.fr/nameserver/sdns2.ovh.net",
+                            "rel": "self"
+                        }
+                    ],
+                    "remarks": [
+                        {
+                            "title": "result set truncated due to authorization",
+                            "description": [
+                                "The list of results does not contain all results due to lack of authorization.",
+                                "This may indicate to some clients that proper authorization will yield a longer result set."
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "links": [
+                {
+                    "href": "https://rdap.nic.fr/domain/meteociel.fr",
+                    "value": "https://rdap.nic.fr/domain/meteociel.fr",
+                    "rel": "self"
+                }
+            ]
+        }
+    ],
+    "domain": "meteociel.fr\r"
+}

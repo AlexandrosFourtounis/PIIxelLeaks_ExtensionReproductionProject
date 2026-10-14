@@ -1,0 +1,407 @@
+{
+    "name": "fundingpips.com",
+    "handle": "2723527808_DOMAIN_COM-VRSN",
+    "registrationDate": "9/6/2022, 8:39:06 PM GMT+3",
+    "expirationDate": "9/6/2026, 8:39:06 PM GMT+3",
+    "lastChangedDate": "5/13/2026, 6:03:47 PM GMT+3",
+    "lastUpdateDate": "6/23/2026, 6:09:15 PM GMT+3",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "roles": [
+                "abuse"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+1.2024422253"
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": ""
+                        },
+                        "text",
+                        "trustandsafety@support.aws.com"
+                    ]
+                ]
+            ]
+        },
+        {
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "roles": [
+                        "abuse"
+                    ],
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                ""
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "voice"
+                                },
+                                "uri",
+                                "tel:+1.2024422253"
+                            ],
+                            [
+                                "email",
+                                {
+                                    "type": ""
+                                },
+                                "text",
+                                "trustandsafety@support.aws.com"
+                            ]
+                        ]
+                    ]
+                }
+            ],
+            "handle": "468",
+            "lang": "en-US",
+            "links": [
+                {
+                    "href": "",
+                    "rel": "about",
+                    "type": "application/rdap+json",
+                    "value": "https://rdap.registrar.amazon.com/rdap/"
+                }
+            ],
+            "objectClassName": "entity",
+            "publicIds": [
+                {
+                    "identifier": "468",
+                    "type": "IANA Registrar ID"
+                }
+            ],
+            "roles": [
+                "registrar"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Amazon Registrar, Inc."
+                    ]
+                ]
+            ]
+        },
+        {
+            "lang": "en-US",
+            "objectClassName": "entity",
+            "remarks": [
+                {
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ],
+                    "type": "object redacted due to authorization"
+                }
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "On behalf of fundingpips.com OWNER"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "c/o whoisproxy.com"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "US",
+                            "type": ""
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "604 Cameron Street",
+                            "Alexandria",
+                            "VA",
+                            "22314",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+64.48319528"
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": ""
+                        },
+                        "text",
+                        "369468019519d76ed4f687e6fca93b29fdca9f1ffd745113c371c1f0cfb5a16d@fundingpips.com.whoisproxy.org"
+                    ]
+                ]
+            ]
+        },
+        {
+            "lang": "en-US",
+            "objectClassName": "entity",
+            "remarks": [
+                {
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ],
+                    "type": "object redacted due to authorization"
+                }
+            ],
+            "roles": [
+                "technical"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "On behalf of fundingpips.com TECH"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "c/o whoisproxy.com"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "US",
+                            "type": ""
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "604 Cameron Street",
+                            "Alexandria",
+                            "VA",
+                            "22314",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+64.48319528"
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": ""
+                        },
+                        "text",
+                        "369468019519d76ed4f687e6fca93b29b27a10ee78742b11190fe2df4db839b3@fundingpips.com.whoisproxy.org"
+                    ]
+                ]
+            ]
+        },
+        {
+            "lang": "en-US",
+            "ldhName": "max.ns.cloudflare.com",
+            "objectClassName": "nameserver",
+            "status": [
+                "active"
+            ],
+            "unicodeName": "max.ns.cloudflare.com"
+        },
+        {
+            "lang": "en-US",
+            "ldhName": "monika.ns.cloudflare.com",
+            "objectClassName": "nameserver",
+            "status": [
+                "active"
+            ],
+            "unicodeName": "monika.ns.cloudflare.com"
+        },
+        {
+            "handle": "2723527808_DOMAIN_COM-VRSN",
+            "ldhName": "fundingpips.com",
+            "nameservers": [
+                {
+                    "lang": "en-US",
+                    "ldhName": "max.ns.cloudflare.com",
+                    "objectClassName": "nameserver",
+                    "status": [
+                        "active"
+                    ],
+                    "unicodeName": "max.ns.cloudflare.com"
+                },
+                {
+                    "lang": "en-US",
+                    "ldhName": "monika.ns.cloudflare.com",
+                    "objectClassName": "nameserver",
+                    "status": [
+                        "active"
+                    ],
+                    "unicodeName": "monika.ns.cloudflare.com"
+                }
+            ],
+            "notices": [
+                {
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ],
+                    "links": [
+                        {
+                            "href": "https://icann.org/epp",
+                            "rel": "glossary",
+                            "title": "More information on domain status codes",
+                            "type": "application/rdap+json",
+                            "value": "https://rdap.registrar.amazon.com/rdap?domain=fundingpips.com"
+                        }
+                    ],
+                    "title": "Status Codes"
+                },
+                {
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ],
+                    "links": [
+                        {
+                            "href": "https://icann.org/wicf",
+                            "rel": "help",
+                            "type": "application/rdap+json",
+                            "value": "https://rdap.registrar.amazon.com/rdap?domain=fundingpips.com"
+                        }
+                    ],
+                    "title": "RDDS Inaccuracy Complaint Form"
+                },
+                {
+                    "description": [
+                        "The data in the RDAP database of Amazon Registrar, Inc. is provided by",
+                        "Amazon Registrar, Inc. for information purposes, and to assist persons in",
+                        "obtaining information about or related to domain name registration",
+                        "records. Amazon Registrar, Inc. does not guarantee its accuracy.",
+                        "By submitting a RDAP query, you agree that you will use this data",
+                        "only for lawful purposes and that, under no circumstances, you will",
+                        "use this data to",
+                        "1) allow, enable, or otherwise support the transmission of mass",
+                        "   unsolicited, commercial advertising or solicitations via E-mail",
+                        "   (spam); or",
+                        "2) enable high volume, automated, electronic processes that apply",
+                        "   to Amazon Registrar, Inc. or its systems.",
+                        "Amazon Registrar, Inc. reserves the right to modify these terms.",
+                        "By submitting this query, you agree to abide by this policy."
+                    ],
+                    "links": [
+                        {
+                            "href": "https://registrar.amazon.com",
+                            "rel": "terms-of-service",
+                            "title": "Terms & Conditions",
+                            "value": "https://rdap.registrar.amazon.com/rdap?domain=fundingpips.com"
+                        }
+                    ],
+                    "title": "Terms of Use"
+                }
+            ],
+            "objectClassName": "domain",
+            "rdapConformance": [
+                "rdap_level_0",
+                "icann_rdap_response_profile_1",
+                "icann_rdap_technical_implementation_guide_1",
+                "redacted"
+            ],
+            "redacted": [
+                {
+                    "method": "removal",
+                    "name": {
+                        "type": "Registry Registrant ID"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].handle"
+                },
+                {
+                    "method": "removal",
+                    "name": {
+                        "type": "Registry Tech ID"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='tech')].handle"
+                }
+            ],
+            "secureDNS": {
+                "delegationSigned": true,
+                "dsData": [
+                    {
+                        "algorithm": 13,
+                        "digest": "FA6CF75E3C64860282E326F0DC113F4597BC03EAA74CD7CD9F8F5B81C1BB6D8E",
+                        "digestType": 2,
+                        "keyTag": 2371
+                    }
+                ]
+            },
+            "unicodeName": "fundingpips.com"
+        }
+    ],
+    "domain": "fundingpips.com\r"
+}

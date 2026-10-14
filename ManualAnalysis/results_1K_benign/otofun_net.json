@@ -1,0 +1,347 @@
+{
+    "name": "otofun.net",
+    "handle": "2402760730_DOMAIN_NET-VRSN",
+    "registrationDate": "5/16/2007, 9:30:23 PM GMT+3",
+    "expirationDate": "5/16/2033, 9:30:23 PM GMT+3",
+    "lastChangedDate": "3/19/2025, 11:11:24 PM GMT+2",
+    "lastUpdateDate": "6/23/2026, 3:43:02 PM GMT+3",
+    "rawData": [
+        {
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        [],
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "kind",
+                        [],
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "fn",
+                        [],
+                        "text",
+                        "Nguyen Dai Hoang"
+                    ],
+                    [
+                        "org",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "CONG TY CO PHAN OTV TRUYEN THONG"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "VN"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            [
+                                "",
+                                "",
+                                "tang 5 toa nha Stellar Garden, so 35 Le Van Thiem, Thanh Xuan"
+                            ],
+                            "Ha Noi",
+                            "",
+                            "100000",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        [],
+                        "text",
+                        "of@otv.vn"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+84.2435558066"
+                    ]
+                ]
+            ],
+            "status": [
+                "active"
+            ],
+            "roles": [
+                "registrant",
+                "administrative",
+                "technical"
+            ],
+            "objectClassName": "entity",
+            "lang": "en"
+        },
+        {
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        [],
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "org",
+                        [],
+                        "text",
+                        "Nhan Hoa Software Company Ltd."
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+844 73086680"
+                    ],
+                    [
+                        "email",
+                        [],
+                        "text",
+                        "hdung@nhanhoa.com"
+                    ],
+                    [
+                        "fn",
+                        [],
+                        "text",
+                        "Nhan Hoa Software Company Ltd."
+                    ]
+                ]
+            ],
+            "status": [
+                "active"
+            ],
+            "roles": [
+                "abuse"
+            ],
+            "objectClassName": "entity",
+            "lang": "en"
+        },
+        {
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        [],
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "org",
+                        [],
+                        "text",
+                        "Nhan Hoa Software Company Ltd."
+                    ],
+                    [
+                        "fn",
+                        [],
+                        "text",
+                        "Nhan Hoa Software Company Ltd."
+                    ]
+                ]
+            ],
+            "handle": "1710",
+            "status": [
+                "active"
+            ],
+            "roles": [
+                "registrar"
+            ],
+            "entities": [
+                {
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                [],
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "org",
+                                [],
+                                "text",
+                                "Nhan Hoa Software Company Ltd."
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "voice"
+                                },
+                                "uri",
+                                "tel:+844 73086680"
+                            ],
+                            [
+                                "email",
+                                [],
+                                "text",
+                                "hdung@nhanhoa.com"
+                            ],
+                            [
+                                "fn",
+                                [],
+                                "text",
+                                "Nhan Hoa Software Company Ltd."
+                            ]
+                        ]
+                    ],
+                    "status": [
+                        "active"
+                    ],
+                    "roles": [
+                        "abuse"
+                    ],
+                    "objectClassName": "entity",
+                    "lang": "en"
+                }
+            ],
+            "links": [
+                {
+                    "title": "Registrar URL",
+                    "type": "application/rdap+json",
+                    "rel": "self",
+                    "href": "http://nhanhoa.com"
+                }
+            ],
+            "publicIds": [
+                {
+                    "type": "IANA Registrar ID",
+                    "identifier": "1710"
+                }
+            ],
+            "objectClassName": "entity",
+            "lang": "en"
+        },
+        {
+            "ldhName": "ns1.zonedns.vn",
+            "unicodeName": "ns1.zonedns.vn",
+            "status": [
+                "active"
+            ],
+            "objectClassName": "nameserver",
+            "lang": "en"
+        },
+        {
+            "ldhName": "ns2.zonedns.vn",
+            "unicodeName": "ns2.zonedns.vn",
+            "status": [
+                "active"
+            ],
+            "objectClassName": "nameserver",
+            "lang": "en"
+        },
+        {
+            "ldhName": "ns3.zonedns.vn",
+            "unicodeName": "ns3.zonedns.vn",
+            "status": [
+                "active"
+            ],
+            "objectClassName": "nameserver",
+            "lang": "en"
+        },
+        {
+            "handle": "2402760730_DOMAIN_NET-VRSN",
+            "ldhName": "otofun.net",
+            "secureDNS": {
+                "delegationSigned": false
+            },
+            "notices": [
+                {
+                    "title": "Status Codes",
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ],
+                    "links": [
+                        {
+                            "title": "More information on domain status codes",
+                            "href": "https://icann.org/epp"
+                        }
+                    ]
+                },
+                {
+                    "title": "RDDS Inaccuracy Complaint Form",
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ],
+                    "links": [
+                        {
+                            "title": "ICANN RDDS Inaccuracy Complaint Form",
+                            "href": "https://icann.org/wicf"
+                        }
+                    ]
+                },
+                {
+                    "title": "Data Policy",
+                    "type": "object truncated due to authorization",
+                    "description": [
+                        "The contact information for one or more entities associated with this domain has been redacted in accordance with the entity's disclosure preferences."
+                    ]
+                },
+                {
+                    "title": "Terms of Use",
+                    "links": [
+                        {
+                            "title": "Terms of Use",
+                            "href": "https://rdapserver.net/terms-of-use/"
+                        }
+                    ],
+                    "description": [
+                        "URL for Terms of Use https://rdapserver.net/terms-of-use/"
+                    ]
+                }
+            ],
+            "rdapConformance": [
+                "icann_rdap_response_profile_0",
+                "icann_rdap_technical_implementation_guide_0",
+                "rdap_level_0"
+            ],
+            "objectClassName": "domain",
+            "lang": "en",
+            "nameservers": [
+                {
+                    "ldhName": "ns1.zonedns.vn",
+                    "unicodeName": "ns1.zonedns.vn",
+                    "status": [
+                        "active"
+                    ],
+                    "objectClassName": "nameserver",
+                    "lang": "en"
+                },
+                {
+                    "ldhName": "ns2.zonedns.vn",
+                    "unicodeName": "ns2.zonedns.vn",
+                    "status": [
+                        "active"
+                    ],
+                    "objectClassName": "nameserver",
+                    "lang": "en"
+                },
+                {
+                    "ldhName": "ns3.zonedns.vn",
+                    "unicodeName": "ns3.zonedns.vn",
+                    "status": [
+                        "active"
+                    ],
+                    "objectClassName": "nameserver",
+                    "lang": "en"
+                }
+            ]
+        }
+    ],
+    "domain": "otofun.net\r"
+}

@@ -1,0 +1,325 @@
+{
+    "name": "poczta-polska.pl",
+    "handle": null,
+    "registrationDate": "9/4/1996, 2:00:00 PM GMT+3",
+    "expirationDate": "12/31/2026, 2:00:00 PM GMT+2",
+    "lastChangedDate": "12/22/2025, 7:43:47 PM GMT+2",
+    "lastUpdateDate": "6/23/2026, 3:31:18 PM GMT+3",
+    "rawData": [
+        {
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Poczta Polska S.A."
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "PL"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "Rodziny Hiszpańskich 8",
+                            "Warszawa",
+                            "mazowieckie",
+                            "00-940",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "VOICE"
+                        },
+                        "uri",
+                        "tel:+48.226565333"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object truncated due to authorization",
+                    "description": [
+                        "The object does not contain all data due to lack of authorization."
+                    ]
+                }
+            ],
+            "objectClassName": "entity"
+        },
+        {
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "nazwa.pl sp. z o.o."
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "PL"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "ul. Pana Tadeusza 2",
+                            "Kraków",
+                            "",
+                            "30-727",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "VOICE"
+                        },
+                        "uri",
+                        "tel:+48.224544810"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "VOICE"
+                        },
+                        "uri",
+                        "tel:+48.801332233"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "kontakt@nazwa.pl"
+                    ],
+                    [
+                        "url",
+                        {},
+                        "uri",
+                        "https://www.nazwa.pl/"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrar"
+            ],
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object truncated due to authorization",
+                    "description": [
+                        "The object does not contain all data due to lack of authorization."
+                    ]
+                }
+            ],
+            "objectClassName": "entity"
+        },
+        {
+            "ldhName": "ns1.poczta-polska.pl",
+            "ipAddresses": [
+                {
+                    "v4": [
+                        "194.99.117.3"
+                    ]
+                }
+            ],
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object truncated due to authorization",
+                    "description": [
+                        "The object does not contain all data due to lack of authorization."
+                    ]
+                }
+            ],
+            "objectClassName": "nameserver"
+        },
+        {
+            "ldhName": "ns2.poczta-polska.pl",
+            "ipAddresses": [
+                {
+                    "v4": [
+                        "157.25.97.237"
+                    ]
+                }
+            ],
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object truncated due to authorization",
+                    "description": [
+                        "The object does not contain all data due to lack of authorization."
+                    ]
+                }
+            ],
+            "objectClassName": "nameserver"
+        },
+        {
+            "rdapConformance": [
+                "rdap_level_0",
+                "nask0"
+            ],
+            "notices": [
+                {
+                    "title": "Domain name life cycle",
+                    "description": [
+                        "For more information on domain name life cycle, please visit https://www.dns.pl/en/domain_name_life_cycle"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://www.dns.pl/en/domain_name_life_cycle",
+                            "rel": "related",
+                            "href": "https://www.dns.pl/en/domain_name_life_cycle",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "Delay in data display",
+                    "description": [
+                        "RDAP displays data with a delay not exceeding 15 minutes in relation to the .pl Registry system. For more information on RDAP in NASK, please visit: https://www.dns.pl/en/RDAP_in_NASK"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://www.dns.pl/en/RDAP_in_NASK",
+                            "rel": "related",
+                            "href": "https://www.dns.pl/en/RDAP_in_NASK",
+                            "type": "text/html"
+                        }
+                    ]
+                }
+            ],
+            "nameservers": [
+                {
+                    "ldhName": "ns1.poczta-polska.pl",
+                    "ipAddresses": [
+                        {
+                            "v4": [
+                                "194.99.117.3"
+                            ]
+                        }
+                    ],
+                    "remarks": [
+                        {
+                            "title": "REDACTED FOR PRIVACY",
+                            "type": "object truncated due to authorization",
+                            "description": [
+                                "The object does not contain all data due to lack of authorization."
+                            ]
+                        }
+                    ],
+                    "objectClassName": "nameserver"
+                },
+                {
+                    "ldhName": "ns2.poczta-polska.pl",
+                    "ipAddresses": [
+                        {
+                            "v4": [
+                                "157.25.97.237"
+                            ]
+                        }
+                    ],
+                    "remarks": [
+                        {
+                            "title": "REDACTED FOR PRIVACY",
+                            "type": "object truncated due to authorization",
+                            "description": [
+                                "The object does not contain all data due to lack of authorization."
+                            ]
+                        }
+                    ],
+                    "objectClassName": "nameserver"
+                }
+            ],
+            "secureDNS": {
+                "delegationSigned": false
+            },
+            "port43": "whois.dns.pl",
+            "ldhName": "poczta-polska.pl",
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object truncated due to authorization",
+                    "description": [
+                        "The object does not contain all data due to lack of authorization."
+                    ]
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.dns.pl/domain/poczta-polska.pl",
+                    "rel": "self",
+                    "href": "https://rdap.dns.pl/domain/poczta-polska.pl",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "objectClassName": "domain",
+            "nask0_state": "registered",
+            "nask0_option": {
+                "ldhName": "poczta-polska.pl",
+                "events": [
+                    {
+                        "eventDate": "2025-10-02T19:34:58Z",
+                        "eventAction": "registration"
+                    },
+                    {
+                        "eventDate": "2028-10-02T19:34:58Z",
+                        "eventAction": "expiration"
+                    }
+                ],
+                "remarks": [
+                    {
+                        "title": "REDACTED FOR PRIVACY",
+                        "type": "object truncated due to authorization",
+                        "description": [
+                            "The object does not contain all data due to lack of authorization."
+                        ]
+                    }
+                ],
+                "objectClassName": "nask0_option"
+            }
+        }
+    ],
+    "domain": "poczta-polska.pl\r"
+}

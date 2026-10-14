@@ -1,0 +1,374 @@
+{
+    "name": "263.net",
+    "handle": "6372876151_DOMAIN_NET-VRSN",
+    "registrationDate": "5/14/1998, 3:00:00 AM GMT+3",
+    "expirationDate": "5/13/2027, 1:00:00 PM GMT+3",
+    "lastChangedDate": "5/28/2025, 7:51:34 PM GMT+3",
+    "lastUpdateDate": "6/24/2026, 2:26:34 AM GMT+3",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "roles": [
+                "abuse"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Abuse contact"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "domainabuse@35.cn"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+86.02163305889"
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "roles": [
+                "registrar"
+            ],
+            "publicIds": [
+                {
+                    "type": "IANA Registrar ID",
+                    "identifier": "4163"
+                }
+            ],
+            "handle": "4163",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Xiamen 35.com Information Co., Ltd."
+                    ]
+                ]
+            ],
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "roles": [
+                        "abuse"
+                    ],
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Abuse contact"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "domainabuse@35.cn"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "voice"
+                                },
+                                "uri",
+                                "tel:+86.02163305889"
+                            ]
+                        ]
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "roles": [
+                "registrant"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Registration Private"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "CN"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "Registration Private",
+                            "Registration Private",
+                            "Registration Private",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "REDACTED@REDACTED"
+                    ]
+                ]
+            ],
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object redacted due to authorization",
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "roles": [
+                "administrative"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Registration Private"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "CN"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "Registration Private",
+                            "Registration Private",
+                            "Registration Private",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "REDACTED@REDACTED"
+                    ]
+                ]
+            ],
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object redacted due to authorization",
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "roles": [
+                "technical"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Registration Private"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "CN"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "Registration Private",
+                            "Registration Private",
+                            "Registration Private",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "REDACTED@REDACTED"
+                    ]
+                ]
+            ],
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object redacted due to authorization",
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns.capital-online.com.cn"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns3.capital-online.com.cn"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns4.capital-online.com.cn"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns5.capital-online.com.cn"
+        },
+        {
+            "rdapConformance": [
+                "rdap_level_0",
+                "redacted",
+                "icann_rdap_response_profile_0",
+                "icann_rdap_technical_implementation_guide_0"
+            ],
+            "objectClassName": "domain",
+            "lang": "en-US",
+            "notices": [
+                {
+                    "title": "Terms of Use",
+                    "description": [
+                        "Rdap service subject to Terms of Use"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap-pilot.afilias.info/rdap/terms_of_use.html",
+                            "rel": "help",
+                            "href": "https://rdap-pilot.afilias.info/rdap/terms_of_use.html",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "Status Codes",
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://icann.org/epp",
+                            "rel": "help",
+                            "href": "https://icann.org/epp",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "RDDS Inaccuracy Complaint Form",
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://icann.org/wicf",
+                            "rel": "help",
+                            "href": "https://icann.org/wicf",
+                            "type": "text/html"
+                        }
+                    ]
+                }
+            ],
+            "ldhName": "263.net",
+            "handle": "6372876151_DOMAIN_NET-VRSN",
+            "port43": "whois.35.com",
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns.capital-online.com.cn"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns3.capital-online.com.cn"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns4.capital-online.com.cn"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns5.capital-online.com.cn"
+                }
+            ],
+            "secureDNS": {
+                "delegationSigned": false
+            },
+            "unicodeName": "263.net"
+        }
+    ],
+    "domain": "263.net\r"
+}

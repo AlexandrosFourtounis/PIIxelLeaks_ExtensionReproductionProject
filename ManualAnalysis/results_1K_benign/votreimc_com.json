@@ -1,0 +1,557 @@
+{
+    "name": "VOTREIMC.COM",
+    "handle": "2113434798_DOMAIN_COM-VRSN",
+    "registrationDate": "4/12/2017, 12:52:12 PM GMT+3",
+    "expirationDate": "4/12/2026, 12:52:12 PM GMT+3",
+    "lastChangedDate": "7/13/2022, 5:51:34 PM GMT+3",
+    "lastUpdateDate": "4/1/2026, 1:56:33 PM GMT+3",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "roles": [
+                "abuse"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Abuse Contact"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "pref": "1",
+                            "type": [
+                                "work",
+                                "voice"
+                            ]
+                        },
+                        "uri",
+                        "tel:+33.972101007"
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "abuse@ovh.net"
+                    ]
+                ]
+            ],
+            "handle": "433"
+        },
+        {
+            "links": [
+                {
+                    "rel": "about",
+                    "type": "text/html",
+                    "href": "https://rdap.ovh.com/",
+                    "value": "https://rdap.ovh.com/"
+                }
+            ],
+            "objectClassName": "entity",
+            "roles": [
+                "registrar"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "OVH, SAS"
+                    ]
+                ]
+            ],
+            "port43": "whois.ovh.com",
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "roles": [
+                        "abuse"
+                    ],
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Abuse Contact"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "pref": "1",
+                                    "type": [
+                                        "work",
+                                        "voice"
+                                    ]
+                                },
+                                "uri",
+                                "tel:+33.972101007"
+                            ],
+                            [
+                                "email",
+                                {
+                                    "type": "work"
+                                },
+                                "text",
+                                "abuse@ovh.net"
+                            ]
+                        ]
+                    ],
+                    "handle": "433"
+                }
+            ],
+            "handle": "433",
+            "publicIds": [
+                {
+                    "identifier": "433",
+                    "type": "IANA Registrar ID"
+                }
+            ]
+        },
+        {
+            "remarks": [
+                {
+                    "type": "result set truncated due to authorization",
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ]
+                }
+            ],
+            "objectClassName": "entity",
+            "roles": [
+                "registrant"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "https://ovhcloud.com/en/lp/request-ovhcloud-registered-domain/"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "FR"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ]
+                ]
+            ]
+        },
+        {
+            "remarks": [
+                {
+                    "type": "result set truncated due to authorization",
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ]
+                }
+            ],
+            "objectClassName": "entity",
+            "roles": [
+                "technical",
+                "administrative"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "https://ovhcloud.com/en/lp/request-ovhcloud-registered-domain/"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "FR"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ]
+                ]
+            ]
+        },
+        {
+            "ldhName": "emely.ns.cloudflare.com",
+            "objectClassName": "nameserver"
+        },
+        {
+            "ldhName": "dante.ns.cloudflare.com",
+            "objectClassName": "nameserver"
+        },
+        {
+            "objectClassName": "domain",
+            "secureDNS": {
+                "delegationSigned": false
+            },
+            "lang": "en-US",
+            "handle": "2113434798_DOMAIN_COM-VRSN",
+            "ldhName": "VOTREIMC.COM",
+            "port43": "whois.ovh.com",
+            "unicodeName": "VOTREIMC.COM",
+            "rdapConformance": [
+                "rdap_level_0",
+                "icann_rdap_response_profile_1",
+                "icann_rdap_technical_implementation_guide_1",
+                "redacted"
+            ],
+            "nameservers": [
+                {
+                    "ldhName": "emely.ns.cloudflare.com",
+                    "objectClassName": "nameserver"
+                },
+                {
+                    "ldhName": "dante.ns.cloudflare.com",
+                    "objectClassName": "nameserver"
+                }
+            ],
+            "notices": [
+                {
+                    "title": "Terms of use",
+                    "links": [
+                        {
+                            "rel": "terms-of-service",
+                            "type": "text/html",
+                            "href": "https://rdap.ovh.com/terms_of_use.html",
+                            "value": "https://rdap.ovh.com/domain/VOTREIMC.COM"
+                        }
+                    ],
+                    "description": [
+                        "URL of OVHcloud Terms of Use: https://rdap.ovh.com/terms_of_use.html"
+                    ]
+                },
+                {
+                    "title": "RDDS Inaccuracy Complaint Form",
+                    "links": [
+                        {
+                            "rel": "help",
+                            "type": "text/html",
+                            "href": "https://icann.org/wicf",
+                            "value": "https://rdap.ovh.com/domain/VOTREIMC.COM"
+                        }
+                    ],
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ]
+                },
+                {
+                    "title": "Status Codes",
+                    "links": [
+                        {
+                            "rel": "glossary",
+                            "type": "text/html",
+                            "href": "https://icann.org/epp",
+                            "value": "https://rdap.ovh.com/domain/VOTREIMC.COM"
+                        }
+                    ],
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ]
+                }
+            ],
+            "remarks": [
+                {
+                    "type": "result set truncated due to authorization",
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ]
+                }
+            ],
+            "links": [
+                {
+                    "rel": "related",
+                    "type": "application/rdap+json",
+                    "href": "https://rdap.ovh.com/domain/VOTREIMC.COM",
+                    "value": "https://rdap.ovh.com/domain/VOTREIMC.COM"
+                }
+            ],
+            "redacted": [
+                {
+                    "name": {
+                        "type": "Admin City"
+                    },
+                    "postPath": "$.entities[?(@.roles[1]=='administrative')].vcardArray[1][?(@[0]=='adr')][3][3]",
+                    "method": "emptyValue"
+                },
+                {
+                    "name": {
+                        "type": "Admin Email"
+                    },
+                    "prePath": "$.entities[?(@.roles[1]=='administrative')].vcardArray[1][?(@[0]=='email')]",
+                    "replacementPath": "$.entities[?(@.roles[1]=='administrative')].vcardArray[1][?(@[0]=='contact-uri')]",
+                    "method": "replacementValue"
+                },
+                {
+                    "name": {
+                        "type": "Admin Fax"
+                    },
+                    "prePath": "$.entities[?(@.roles[1]=='administrative')].vcardArray[1][?(@[1].type=='fax')]",
+                    "method": "removal"
+                },
+                {
+                    "name": {
+                        "type": "Admin Name"
+                    },
+                    "postPath": "$.entities[?(@.roles[1]=='administrative')].vcardArray[1][?(@[0]=='fn')][1]",
+                    "method": "emptyValue"
+                },
+                {
+                    "name": {
+                        "type": "Admin Organization"
+                    },
+                    "prePath": "$.entities[?(@.roles[1]=='administrative')].vcardArray[1][?(@[0]=='org')]",
+                    "method": "removal"
+                },
+                {
+                    "name": {
+                        "type": "Admin Phone"
+                    },
+                    "prePath": "$.entities[?(@.roles[1]=='administrative')].vcardArray[1][?(@[1].type=='voice')]",
+                    "method": "removal"
+                },
+                {
+                    "name": {
+                        "type": "Admin Postal Code"
+                    },
+                    "postPath": "$.entities[?(@.roles[1]=='administrative')].vcardArray[1][?(@[0]=='adr')][3][5]",
+                    "method": "emptyValue"
+                },
+                {
+                    "name": {
+                        "type": "Admin Province"
+                    },
+                    "postPath": "$.entities[?(@.roles[1]=='administrative')].vcardArray[1][?(@[0]=='adr')][3][4]",
+                    "method": "emptyValue"
+                },
+                {
+                    "name": {
+                        "type": "Admin Street"
+                    },
+                    "postPath": "$.entities[?(@.roles[1]=='administrative')].vcardArray[1][?(@[0]=='adr')][3][:3]",
+                    "method": "emptyValue"
+                },
+                {
+                    "name": {
+                        "type": "Registrant City"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][3]",
+                    "method": "emptyValue"
+                },
+                {
+                    "name": {
+                        "type": "Registrant Email"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='email')]",
+                    "replacementPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='contact-uri')]",
+                    "method": "replacementValue"
+                },
+                {
+                    "name": {
+                        "type": "Registrant Fax"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[1].type=='fax')]",
+                    "method": "removal"
+                },
+                {
+                    "name": {
+                        "type": "Registrant Name"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='fn')][1]",
+                    "method": "emptyValue"
+                },
+                {
+                    "name": {
+                        "type": "Registrant Organization"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='org')]",
+                    "method": "removal"
+                },
+                {
+                    "name": {
+                        "type": "Registrant Phone"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[1].type=='voice')]",
+                    "method": "removal"
+                },
+                {
+                    "name": {
+                        "type": "Registrant Postal Code"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][5]",
+                    "method": "emptyValue"
+                },
+                {
+                    "name": {
+                        "type": "Registrant Province"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][4]",
+                    "method": "emptyValue"
+                },
+                {
+                    "name": {
+                        "type": "Registrant Street"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][:3]",
+                    "method": "emptyValue"
+                },
+                {
+                    "name": {
+                        "type": "Registry Admin ID"
+                    },
+                    "prePath": "$.entities[?(@.roles[1]=='administrative')].handle",
+                    "method": "removal"
+                },
+                {
+                    "name": {
+                        "type": "Registry Registrant ID"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].handle",
+                    "method": "removal"
+                },
+                {
+                    "name": {
+                        "type": "Registry Tech ID"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='technical')].handle",
+                    "method": "removal"
+                },
+                {
+                    "name": {
+                        "type": "Tech City"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='adr')][3][3]",
+                    "method": "emptyValue"
+                },
+                {
+                    "name": {
+                        "type": "Tech Email"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='email')]",
+                    "replacementPath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='contact-uri')]",
+                    "method": "replacementValue"
+                },
+                {
+                    "name": {
+                        "type": "Tech Fax"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[1].type=='fax')]",
+                    "method": "removal"
+                },
+                {
+                    "name": {
+                        "type": "Tech Name"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='fn')][1]",
+                    "method": "emptyValue"
+                },
+                {
+                    "name": {
+                        "type": "Tech Organization"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='org')]",
+                    "method": "removal"
+                },
+                {
+                    "name": {
+                        "type": "Tech Phone"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[1].type=='voice')]",
+                    "method": "removal"
+                },
+                {
+                    "name": {
+                        "type": "Tech Postal Code"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='adr')][3][5]",
+                    "method": "emptyValue"
+                },
+                {
+                    "name": {
+                        "type": "Tech Province"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='adr')][3][4]",
+                    "method": "emptyValue"
+                },
+                {
+                    "name": {
+                        "type": "Tech Street"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='adr')][3][:3]",
+                    "method": "emptyValue"
+                }
+            ]
+        }
+    ],
+    "domain": "votreimc.com\r"
+}

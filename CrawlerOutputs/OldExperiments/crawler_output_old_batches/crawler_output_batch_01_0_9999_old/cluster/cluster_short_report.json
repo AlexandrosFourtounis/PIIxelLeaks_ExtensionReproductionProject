@@ -1,0 +1,3217 @@
+{
+  "generated_at": "2026-06-03T07:59:15.664394+00:00",
+  "source_summary": "/mnt/c/Users/amakridou/Desktop/PIIxel_Leaks/CrawlerOutputs/crawler_output_batch_01_0_9999_old/pixel_usage_summary.json",
+  "summary": {
+    "total_domains": 2395,
+    "shared_cluster_count": 155,
+    "shared_clustered_domains": 429,
+    "shared_clustered_domain_pct": 17.91,
+    "clusters_with_shared_registrar": 101,
+    "clusters_with_shared_nameservers": 0,
+    "clusters_with_shared_asn": 117
+  },
+  "clusters": [
+    {
+      "cluster_id": 2,
+      "domains": [
+        "biography.com",
+        "caranddriver.com",
+        "cosmopolitan.com",
+        "countryliving.com",
+        "delish.com",
+        "digitalspy.com",
+        "elle.com",
+        "esquire.com",
+        "fotogramas.es",
+        "goodhousekeeping.com",
+        "harpersbazaar.com",
+        "menshealth.com",
+        "popularmechanics.com",
+        "runnersworld.com",
+        "thepioneerwoman.com",
+        "womenshealthmag.com"
+      ],
+      "cluster_size": 16,
+      "shared_signals": [
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "asn": [
+          "54113"
+        ],
+        "asn_holders": [
+          "FASTLY - Fastly, Inc."
+        ]
+      }
+    },
+    {
+      "cluster_id": 3,
+      "domains": [
+        "allrecipes.com",
+        "bhg.com",
+        "eatingwell.com",
+        "ew.com",
+        "foodandwine.com",
+        "health.com",
+        "instyle.com",
+        "marthastewart.com",
+        "parents.com",
+        "people.com",
+        "realsimple.com",
+        "southernliving.com",
+        "travelandleisure.com"
+      ],
+      "cluster_size": 13,
+      "shared_signals": [
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "asn": [
+          "13335"
+        ],
+        "asn_holders": [
+          "CLOUDFLARENET - Cloudflare, Inc."
+        ]
+      }
+    },
+    {
+      "cluster_id": 4,
+      "domains": [
+        "gamesradar.com",
+        "livescience.com",
+        "pcgamer.com",
+        "space.com",
+        "techradar.com",
+        "theweek.com",
+        "tomsguide.com",
+        "tomshardware.com",
+        "windowscentral.com"
+      ],
+      "cluster_size": 9,
+      "shared_signals": [
+        "registrar",
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "Lexsynergy Limited"
+        ],
+        "asn": [
+          "54113"
+        ],
+        "asn_holders": [
+          "FASTLY - Fastly, Inc."
+        ]
+      }
+    },
+    {
+      "cluster_id": 5,
+      "domains": [
+        "birminghammail.co.uk",
+        "dailyrecord.co.uk",
+        "dailystar.co.uk",
+        "getsurrey.co.uk",
+        "liverpoolecho.co.uk",
+        "manchestereveningnews.co.uk",
+        "mirror.co.uk",
+        "walesonline.co.uk"
+      ],
+      "cluster_size": 8,
+      "shared_signals": [
+        "registrar",
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "CSC Corporate Domains, Inc"
+        ],
+        "asn": [
+          "16509"
+        ],
+        "asn_holders": [
+          "AMAZON-02 - Amazon.com, Inc."
+        ]
+      }
+    },
+    {
+      "cluster_id": 6,
+      "domains": [
+        "echodnia.eu",
+        "expressbydgoski.pl",
+        "gazetawroclawska.pl",
+        "gloswielkopolski.pl",
+        "nowiny24.pl",
+        "nto.pl",
+        "pomorska.pl"
+      ],
+      "cluster_size": 7,
+      "shared_signals": [
+        "registrar",
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "OVH SAS"
+        ],
+        "asn": [
+          "13335"
+        ],
+        "asn_holders": [
+          "CLOUDFLARENET - Cloudflare, Inc."
+        ]
+      }
+    },
+    {
+      "cluster_id": 7,
+      "domains": [
+        "goto.com",
+        "gotoassist.com",
+        "gotomeeting.com",
+        "gotoresolve.com",
+        "gotostage.com",
+        "gotowebinar.com",
+        "logmein.com"
+      ],
+      "cluster_size": 7,
+      "shared_signals": [
+        "registrar"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "Nom-iq Ltd. dba COM LAUDE"
+        ]
+      }
+    },
+    {
+      "cluster_id": 8,
+      "domains": [
+        "zalando.be",
+        "zalando.de",
+        "zalando.es",
+        "zalando.fr",
+        "zalando.it",
+        "zalando.nl",
+        "zalando.pl"
+      ],
+      "cluster_size": 7,
+      "shared_signals": [
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "asn": [
+          "16509"
+        ],
+        "asn_holders": [
+          "AMAZON-02 - Amazon.com, Inc."
+        ]
+      }
+    },
+    {
+      "cluster_id": 9,
+      "domains": [
+        "c6gj-static.net",
+        "hola.org",
+        "kbz0pwvxmv.com",
+        "su89-cdn.net",
+        "x-cdn-static.com",
+        "yg5sjx5kzy.com"
+      ],
+      "cluster_size": 6,
+      "shared_signals": [
+        "registrar",
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "GoDaddy.com, LLC"
+        ],
+        "asn": [
+          "14618"
+        ],
+        "asn_holders": [
+          "AMAZON-AES - Amazon.com, Inc."
+        ]
+      }
+    },
+    {
+      "cluster_id": 10,
+      "domains": [
+        "eater.com",
+        "popsugar.com",
+        "sbnation.com",
+        "theverge.com",
+        "thrillist.com",
+        "vox.com"
+      ],
+      "cluster_size": 6,
+      "shared_signals": [
+        "registrar",
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "Amazon Registrar, Inc."
+        ],
+        "asn": [
+          "54113"
+        ],
+        "asn_holders": [
+          "FASTLY - Fastly, Inc."
+        ]
+      }
+    },
+    {
+      "cluster_id": 11,
+      "domains": [
+        "al.com",
+        "cleveland.com",
+        "mlive.com",
+        "nj.com",
+        "oregonlive.com"
+      ],
+      "cluster_size": 5,
+      "shared_signals": [
+        "registrar",
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "CSC Corporate Domains, Inc."
+        ],
+        "asn": [
+          "16509"
+        ],
+        "asn_holders": [
+          "AMAZON-02 - Amazon.com, Inc."
+        ]
+      }
+    },
+    {
+      "cluster_id": 13,
+      "domains": [
+        "bostonherald.com",
+        "denverpost.com",
+        "mercurynews.com",
+        "ocregister.com",
+        "sandiegouniontribune.com"
+      ],
+      "cluster_size": 5,
+      "shared_signals": [
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "asn": [
+          "2635"
+        ],
+        "asn_holders": [
+          "AUTOMATTIC - Automattic, Inc"
+        ]
+      }
+    },
+    {
+      "cluster_id": 14,
+      "domains": [
+        "chron.com",
+        "dallasnews.com",
+        "houstonchronicle.com",
+        "sfchronicle.com",
+        "sfgate.com"
+      ],
+      "cluster_size": 5,
+      "shared_signals": [
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "asn": [
+          "14618"
+        ],
+        "asn_holders": [
+          "AMAZON-AES - Amazon.com, Inc."
+        ]
+      }
+    },
+    {
+      "cluster_id": 15,
+      "domains": [
+        "lunalabs.io",
+        "tapjoy.com",
+        "unity.com",
+        "unity3d.com",
+        "vivox.com"
+      ],
+      "cluster_size": 5,
+      "shared_signals": [
+        "registrar"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "MarkMonitor Inc."
+        ]
+      }
+    },
+    {
+      "cluster_id": 16,
+      "domains": [
+        "atlassian.com",
+        "atlassian.net",
+        "bitbucket.org",
+        "statuspage.io"
+      ],
+      "cluster_size": 4,
+      "shared_signals": [
+        "registrar"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "MarkMonitor Inc."
+        ]
+      }
+    },
+    {
+      "cluster_id": 17,
+      "domains": [
+        "biomedcentral.com",
+        "nature.com",
+        "springer.com",
+        "springeropen.com"
+      ],
+      "cluster_size": 4,
+      "shared_signals": [
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "asn": [
+          "54113"
+        ],
+        "asn_holders": [
+          "FASTLY - Fastly, Inc."
+        ]
+      }
+    },
+    {
+      "cluster_id": 18,
+      "domains": [
+        "businessinsider.com.pl",
+        "fakt.pl",
+        "medonet.pl",
+        "onet.pl"
+      ],
+      "cluster_size": 4,
+      "shared_signals": [
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "asn": [
+          "16509"
+        ],
+        "asn_holders": [
+          "AMAZON-02 - Amazon.com, Inc."
+        ]
+      }
+    },
+    {
+      "cluster_id": 19,
+      "domains": [
+        "eater.com",
+        "sbnation.com",
+        "theverge.com",
+        "vox.com"
+      ],
+      "cluster_size": 4,
+      "shared_signals": [
+        "registrar",
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "Amazon Registrar, Inc."
+        ],
+        "asn": [
+          "54113"
+        ],
+        "asn_holders": [
+          "FASTLY - Fastly, Inc."
+        ]
+      }
+    },
+    {
+      "cluster_id": 20,
+      "domains": [
+        "lc.chat",
+        "livechat.com",
+        "livechatenterprise.com",
+        "livechatinc.com"
+      ],
+      "cluster_size": 4,
+      "shared_signals": [
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "asn": [
+          "13335"
+        ],
+        "asn_holders": [
+          "CLOUDFLARENET - Cloudflare, Inc."
+        ]
+      }
+    },
+    {
+      "cluster_id": 21,
+      "domains": [
+        "segment.com",
+        "segment.io",
+        "sendgrid.com",
+        "twilio.com"
+      ],
+      "cluster_size": 4,
+      "shared_signals": [
+        "registrar"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "MarkMonitor Inc."
+        ]
+      }
+    },
+    {
+      "cluster_id": 24,
+      "domains": [
+        "appboy.com",
+        "braze.com",
+        "braze.eu"
+      ],
+      "cluster_size": 3,
+      "shared_signals": [
+        "registrar"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "GoDaddy.com, LLC"
+        ]
+      }
+    },
+    {
+      "cluster_id": 25,
+      "domains": [
+        "appdynamics.com",
+        "signalfx.com",
+        "splunk.com"
+      ],
+      "cluster_size": 3,
+      "shared_signals": [
+        "registrar",
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "MarkMonitor Inc."
+        ],
+        "asn": [
+          "22024"
+        ],
+        "asn_holders": [
+          "SPLUNK-WEST - Splunk, Inc."
+        ]
+      }
+    },
+    {
+      "cluster_id": 26,
+      "domains": [
+        "atlassian.com",
+        "atlassian.net",
+        "statuspage.io"
+      ],
+      "cluster_size": 3,
+      "shared_signals": [
+        "registrar"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "MarkMonitor Inc."
+        ]
+      }
+    },
+    {
+      "cluster_id": 27,
+      "domains": [
+        "canonical.com",
+        "snapcraft.io",
+        "ubuntu.com"
+      ],
+      "cluster_size": 3,
+      "shared_signals": [
+        "registrar",
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "MarkMonitor Inc."
+        ],
+        "asn": [
+          "41231"
+        ],
+        "asn_holders": [
+          "CANONICAL-AS Canonical Group Limited"
+        ]
+      }
+    },
+    {
+      "cluster_id": 28,
+      "domains": [
+        "capital.fr",
+        "programme-tv.net",
+        "voici.fr"
+      ],
+      "cluster_size": 3,
+      "shared_signals": [
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "asn": [
+          "16509"
+        ],
+        "asn_holders": [
+          "AMAZON-02 - Amazon.com, Inc."
+        ]
+      }
+    },
+    {
+      "cluster_id": 30,
+      "domains": [
+        "cio.com",
+        "computerworld.com",
+        "infoworld.com"
+      ],
+      "cluster_size": 3,
+      "shared_signals": [
+        "registrar"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "MarkMonitor Inc."
+        ]
+      }
+    },
+    {
+      "cluster_id": 31,
+      "domains": [
+        "cisco.com",
+        "kennasecurity.com",
+        "webex.com"
+      ],
+      "cluster_size": 3,
+      "shared_signals": [
+        "registrar"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "MarkMonitor Inc."
+        ]
+      }
+    },
+    {
+      "cluster_id": 34,
+      "domains": [
+        "dzone.com",
+        "ehow.com",
+        "techrepublic.com"
+      ],
+      "cluster_size": 3,
+      "shared_signals": [
+        "registrar",
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "Name.com, Inc."
+        ],
+        "asn": [
+          "13335"
+        ],
+        "asn_holders": [
+          "CLOUDFLARENET - Cloudflare, Inc."
+        ]
+      }
+    },
+    {
+      "cluster_id": 36,
+      "domains": [
+        "ebay.ca",
+        "ebay.com",
+        "ebay.com.au"
+      ],
+      "cluster_size": 3,
+      "shared_signals": [
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "asn": [
+          "20940"
+        ],
+        "asn_holders": [
+          "AKAMAI-ASN1 Akamai International B.V."
+        ]
+      }
+    },
+    {
+      "cluster_id": 37,
+      "domains": [
+        "eepurl.com",
+        "mailchi.mp",
+        "mailchimp.com"
+      ],
+      "cluster_size": 3,
+      "shared_signals": [
+        "registrar",
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "MarkMonitor Inc."
+        ],
+        "asn": [
+          "16625"
+        ],
+        "asn_holders": [
+          "AKAMAI-AS - Akamai Technologies, Inc."
+        ]
+      }
+    },
+    {
+      "cluster_id": 38,
+      "domains": [
+        "elperiodico.com",
+        "lne.es",
+        "sport.es"
+      ],
+      "cluster_size": 3,
+      "shared_signals": [
+        "registrar",
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "10dencehispahard SLU"
+        ],
+        "asn": [
+          "3352"
+        ],
+        "asn_holders": [
+          "Telefonica_de_EspaNa TELEFONICA DE ESPANA S.A.U."
+        ]
+      }
+    },
+    {
+      "cluster_id": 39,
+      "domains": [
+        "freewebs.com",
+        "vistaprint.com",
+        "webs.com"
+      ],
+      "cluster_size": 3,
+      "shared_signals": [
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "asn": [
+          "13335"
+        ],
+        "asn_holders": [
+          "CLOUDFLARENET - Cloudflare, Inc."
+        ]
+      }
+    },
+    {
+      "cluster_id": 40,
+      "domains": [
+        "freshdesk.com",
+        "freshservice.com",
+        "freshworks.com"
+      ],
+      "cluster_size": 3,
+      "shared_signals": [
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "asn": [
+          "16509"
+        ],
+        "asn_holders": [
+          "AMAZON-02 - Amazon.com, Inc."
+        ]
+      }
+    },
+    {
+      "cluster_id": 41,
+      "domains": [
+        "gotoassist.com",
+        "gotoresolve.com",
+        "logmein.com"
+      ],
+      "cluster_size": 3,
+      "shared_signals": [
+        "registrar"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "Nom-iq Ltd. dba COM LAUDE"
+        ]
+      }
+    },
+    {
+      "cluster_id": 42,
+      "domains": [
+        "hs-sites.com",
+        "hubspot.com",
+        "hubspot.net"
+      ],
+      "cluster_size": 3,
+      "shared_signals": [
+        "registrar",
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "MarkMonitor Inc."
+        ],
+        "asn": [
+          "13335"
+        ],
+        "asn_holders": [
+          "CLOUDFLARENET - Cloudflare, Inc."
+        ]
+      }
+    },
+    {
+      "cluster_id": 43,
+      "domains": [
+        "ilgazzettino.it",
+        "ilmattino.it",
+        "ilmessaggero.it"
+      ],
+      "cluster_size": 3,
+      "shared_signals": [
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "asn": [
+          "396982"
+        ],
+        "asn_holders": [
+          "GOOGLE-CLOUD-PLATFORM - Google LLC"
+        ]
+      }
+    },
+    {
+      "cluster_id": 45,
+      "domains": [
+        "intercom.com",
+        "intercom.io",
+        "intercomcdn.com"
+      ],
+      "cluster_size": 3,
+      "shared_signals": [
+        "registrar",
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "Amazon Registrar, Inc."
+        ],
+        "asn": [
+          "16509"
+        ],
+        "asn_holders": [
+          "AMAZON-02 - Amazon.com, Inc."
+        ]
+      }
+    },
+    {
+      "cluster_id": 46,
+      "domains": [
+        "kampyle.com",
+        "medallia.com",
+        "medallia.eu"
+      ],
+      "cluster_size": 3,
+      "shared_signals": [
+        "registrar"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "MarkMonitor Inc."
+        ]
+      }
+    },
+    {
+      "cluster_id": 47,
+      "domains": [
+        "ladepeche.fr",
+        "lindependant.fr",
+        "midilibre.fr"
+      ],
+      "cluster_size": 3,
+      "shared_signals": [
+        "registrar",
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "GANDI"
+        ],
+        "asn": [
+          "8839"
+        ],
+        "asn_holders": [
+          "SDV-AS SDV6TM SAS"
+        ]
+      }
+    },
+    {
+      "cluster_id": 48,
+      "domains": [
+        "loggly.com",
+        "pingdom.com",
+        "pingdom.net"
+      ],
+      "cluster_size": 3,
+      "shared_signals": [
+        "registrar"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "Key-Systems GmbH"
+        ]
+      }
+    },
+    {
+      "cluster_id": 49,
+      "domains": [
+        "mercadopago.com",
+        "mercadopago.com.ar",
+        "mercadopago.com.br"
+      ],
+      "cluster_size": 3,
+      "shared_signals": [
+        "registrar",
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "MarkMonitor Inc."
+        ],
+        "asn": [
+          "16509"
+        ],
+        "asn_holders": [
+          "AMAZON-02 - Amazon.com, Inc."
+        ]
+      }
+    },
+    {
+      "cluster_id": 50,
+      "domains": [
+        "nessus.org",
+        "tenable.com",
+        "tenablesecurity.com"
+      ],
+      "cluster_size": 3,
+      "shared_signals": [
+        "registrar",
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "Amazon Registrar, Inc."
+        ],
+        "asn": [
+          "14618"
+        ],
+        "asn_holders": [
+          "AMAZON-AES - Amazon.com, Inc."
+        ]
+      }
+    },
+    {
+      "cluster_id": 51,
+      "domains": [
+        "onlamp.com",
+        "ora.com",
+        "oreilly.com"
+      ],
+      "cluster_size": 3,
+      "shared_signals": [
+        "registrar",
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "GoDaddy.com, LLC"
+        ],
+        "asn": [
+          "396982"
+        ],
+        "asn_holders": [
+          "GOOGLE-CLOUD-PLATFORM - Google LLC"
+        ]
+      }
+    },
+    {
+      "cluster_id": 52,
+      "domains": [
+        "shopee.co.id",
+        "shopee.com.br",
+        "shopeemobile.com"
+      ],
+      "cluster_size": 3,
+      "shared_signals": [
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "asn": [
+          "138341"
+        ],
+        "asn_holders": [
+          "SHOPEE-AS - SHOPEE SINGAPORE PRIVATE LIMITED"
+        ]
+      }
+    },
+    {
+      "cluster_id": 53,
+      "domains": [
+        "shopee.co.th",
+        "shopee.com.br",
+        "shopeemobile.com"
+      ],
+      "cluster_size": 3,
+      "shared_signals": [
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "asn": [
+          "138341"
+        ],
+        "asn_holders": [
+          "SHOPEE-AS - SHOPEE SINGAPORE PRIVATE LIMITED"
+        ]
+      }
+    },
+    {
+      "cluster_id": 54,
+      "domains": [
+        "shopee.com.br",
+        "shopee.com.my",
+        "shopeemobile.com"
+      ],
+      "cluster_size": 3,
+      "shared_signals": [
+        "registrar",
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "GoDaddy.com, LLC"
+        ],
+        "asn": [
+          "138341"
+        ],
+        "asn_holders": [
+          "SHOPEE-AS - SHOPEE SINGAPORE PRIVATE LIMITED"
+        ]
+      }
+    },
+    {
+      "cluster_id": 55,
+      "domains": [
+        "shopee.com.br",
+        "shopee.ph",
+        "shopeemobile.com"
+      ],
+      "cluster_size": 3,
+      "shared_signals": [
+        "registrar",
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "GoDaddy.com, LLC"
+        ],
+        "asn": [
+          "138341"
+        ],
+        "asn_holders": [
+          "SHOPEE-AS - SHOPEE SINGAPORE PRIVATE LIMITED"
+        ]
+      }
+    },
+    {
+      "cluster_id": 56,
+      "domains": [
+        "shopee.com.br",
+        "shopee.sg",
+        "shopeemobile.com"
+      ],
+      "cluster_size": 3,
+      "shared_signals": [
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "asn": [
+          "138341"
+        ],
+        "asn_holders": [
+          "SHOPEE-AS - SHOPEE SINGAPORE PRIVATE LIMITED"
+        ]
+      }
+    },
+    {
+      "cluster_id": 58,
+      "domains": [
+        "shopee.com.br",
+        "shopee.vn",
+        "shopeemobile.com"
+      ],
+      "cluster_size": 3,
+      "shared_signals": [
+        "registrar",
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "GoDaddy.com, LLC"
+        ],
+        "asn": [
+          "138341"
+        ],
+        "asn_holders": [
+          "SHOPEE-AS - SHOPEE SINGAPORE PRIVATE LIMITED"
+        ]
+      }
+    },
+    {
+      "cluster_id": 59,
+      "domains": [
+        "smooch.io",
+        "zendesk.com",
+        "zopim.com"
+      ],
+      "cluster_size": 3,
+      "shared_signals": [
+        "registrar"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "MarkMonitor Inc."
+        ]
+      }
+    },
+    {
+      "cluster_id": 61,
+      "domains": [
+        "surveymonkey.com",
+        "usabilla.com",
+        "wufoo.com"
+      ],
+      "cluster_size": 3,
+      "shared_signals": [
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "asn": [
+          "16509"
+        ],
+        "asn_holders": [
+          "AMAZON-02 - Amazon.com, Inc."
+        ]
+      }
+    },
+    {
+      "cluster_id": 62,
+      "domains": [
+        "vanityfair.com",
+        "wired.co.uk",
+        "wired.com"
+      ],
+      "cluster_size": 3,
+      "shared_signals": [
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "asn": [
+          "16509"
+        ],
+        "asn_holders": [
+          "AMAZON-02 - Amazon.com, Inc."
+        ]
+      }
+    },
+    {
+      "cluster_id": 63,
+      "domains": [
+        "verizon.com",
+        "verizonwireless.com",
+        "vzw.com"
+      ],
+      "cluster_size": 3,
+      "shared_signals": [
+        "registrar"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "CSC Corporate Domains, Inc."
+        ]
+      }
+    },
+    {
+      "cluster_id": 64,
+      "domains": [
+        "wordpress.com",
+        "wp.com",
+        "wp.me"
+      ],
+      "cluster_size": 3,
+      "shared_signals": [
+        "registrar",
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "MarkMonitor Inc."
+        ],
+        "asn": [
+          "2635"
+        ],
+        "asn_holders": [
+          "AUTOMATTIC - Automattic, Inc"
+        ]
+      }
+    },
+    {
+      "cluster_id": 65,
+      "domains": [
+        "abc.es",
+        "elcorreo.com"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "registrar",
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "Interdominios, Inc."
+        ],
+        "asn": [
+          "54113"
+        ],
+        "asn_holders": [
+          "FASTLY - Fastly, Inc."
+        ]
+      }
+    },
+    {
+      "cluster_id": 66,
+      "domains": [
+        "ably.io",
+        "ably.net"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "registrar"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "Squarespace Domains II LLC"
+        ]
+      }
+    },
+    {
+      "cluster_id": 67,
+      "domains": [
+        "acuityscheduling.com",
+        "squarespace.com"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "registrar"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "MarkMonitor Inc."
+        ]
+      }
+    },
+    {
+      "cluster_id": 68,
+      "domains": [
+        "adorocinema.com",
+        "tudocelular.com"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "asn": [
+          "13335"
+        ],
+        "asn_holders": [
+          "CLOUDFLARENET - Cloudflare, Inc."
+        ]
+      }
+    },
+    {
+      "cluster_id": 70,
+      "domains": [
+        "afreecatv.com",
+        "sooplive.co.kr"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "asn": [
+          "9318"
+        ],
+        "asn_holders": [
+          "SKB-AS-KR - SK Broadband Co Ltd"
+        ]
+      }
+    },
+    {
+      "cluster_id": 71,
+      "domains": [
+        "akamai.com",
+        "linode.com"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "registrar",
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "MarkMonitor Inc."
+        ],
+        "asn": [
+          "20940"
+        ],
+        "asn_holders": [
+          "AKAMAI-ASN1 Akamai International B.V."
+        ]
+      }
+    },
+    {
+      "cluster_id": 72,
+      "domains": [
+        "ameba.jp",
+        "ameblo.jp"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "asn": [
+          "54113"
+        ],
+        "asn_holders": [
+          "FASTLY - Fastly, Inc."
+        ]
+      }
+    },
+    {
+      "cluster_id": 73,
+      "domains": [
+        "ancestry.co.uk",
+        "ancestry.com"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "asn": [
+          "13335"
+        ],
+        "asn_holders": [
+          "CLOUDFLARENET - Cloudflare, Inc."
+        ]
+      }
+    },
+    {
+      "cluster_id": 74,
+      "domains": [
+        "apartmenttherapy.com",
+        "thekitchn.com"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "asn": [
+          "54113"
+        ],
+        "asn_holders": [
+          "FASTLY - Fastly, Inc."
+        ]
+      }
+    },
+    {
+      "cluster_id": 76,
+      "domains": [
+        "apptimize.com",
+        "urbanairship.com"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "asn": [
+          "396982"
+        ],
+        "asn_holders": [
+          "GOOGLE-CLOUD-PLATFORM - Google LLC"
+        ]
+      }
+    },
+    {
+      "cluster_id": 79,
+      "domains": [
+        "auth0.com",
+        "okta.com"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "registrar"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "MarkMonitor Inc."
+        ]
+      }
+    },
+    {
+      "cluster_id": 80,
+      "domains": [
+        "autoscout24.de",
+        "autoscout24.it"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "asn": [
+          "16509"
+        ],
+        "asn_holders": [
+          "AMAZON-02 - Amazon.com, Inc."
+        ]
+      }
+    },
+    {
+      "cluster_id": 81,
+      "domains": [
+        "avast.com",
+        "avg.com"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "registrar"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "MarkMonitor Inc."
+        ]
+      }
+    },
+    {
+      "cluster_id": 82,
+      "domains": [
+        "awin1.com",
+        "shareasale.com"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "asn": [
+          "16509"
+        ],
+        "asn_holders": [
+          "AMAZON-02 - Amazon.com, Inc."
+        ]
+      }
+    },
+    {
+      "cluster_id": 84,
+      "domains": [
+        "backlinko.com",
+        "semrush.com"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "registrar"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "MarkMonitor Inc."
+        ]
+      }
+    },
+    {
+      "cluster_id": 85,
+      "domains": [
+        "banco.bradesco",
+        "bradesco.com.br"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "registrar",
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "CSC Corporate Domains, Inc."
+        ],
+        "asn": [
+          "20940"
+        ],
+        "asn_holders": [
+          "AKAMAI-ASN1 Akamai International B.V."
+        ]
+      }
+    },
+    {
+      "cluster_id": 86,
+      "domains": [
+        "barracuda.com",
+        "barracudanetworks.com"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "registrar",
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "CSC Corporate Domains, Inc."
+        ],
+        "asn": [
+          "16509"
+        ],
+        "asn_holders": [
+          "AMAZON-02 - Amazon.com, Inc."
+        ]
+      }
+    },
+    {
+      "cluster_id": 87,
+      "domains": [
+        "besoccer.com",
+        "resultados-futbol.com"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "registrar"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "IONOS SE"
+        ]
+      }
+    },
+    {
+      "cluster_id": 88,
+      "domains": [
+        "bet7k.com",
+        "cassinopix.com"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "asn": [
+          "13335"
+        ],
+        "asn_holders": [
+          "CLOUDFLARENET - Cloudflare, Inc."
+        ]
+      }
+    },
+    {
+      "cluster_id": 89,
+      "domains": [
+        "betano.com",
+        "betano.pe"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "registrar",
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "Enartia Single Member S.A."
+        ],
+        "asn": [
+          "13335"
+        ],
+        "asn_holders": [
+          "CLOUDFLARENET - Cloudflare, Inc."
+        ]
+      }
+    },
+    {
+      "cluster_id": 91,
+      "domains": [
+        "bibliaon.com",
+        "pensador.com"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "registrar",
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "NameCheap, Inc."
+        ],
+        "asn": [
+          "16276"
+        ],
+        "asn_holders": [
+          "OVH OVH SAS"
+        ]
+      }
+    },
+    {
+      "cluster_id": 92,
+      "domains": [
+        "binance.com",
+        "binance.info"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "asn": [
+          "16509"
+        ],
+        "asn_holders": [
+          "AMAZON-02 - Amazon.com, Inc."
+        ]
+      }
+    },
+    {
+      "cluster_id": 93,
+      "domains": [
+        "bit.ly",
+        "bitly.com"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "asn": [
+          "396982"
+        ],
+        "asn_holders": [
+          "GOOGLE-CLOUD-PLATFORM - Google LLC"
+        ]
+      }
+    },
+    {
+      "cluster_id": 94,
+      "domains": [
+        "blogs.com",
+        "typepad.com"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "registrar",
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "Domain.com - Network Solutions, LLC"
+        ],
+        "asn": [
+          "13335"
+        ],
+        "asn_holders": [
+          "CLOUDFLARENET - Cloudflare, Inc."
+        ]
+      }
+    },
+    {
+      "cluster_id": 95,
+      "domains": [
+        "boomtrain.com",
+        "sailthru.com"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "registrar",
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "Gandi SAS"
+        ],
+        "asn": [
+          "209242"
+        ],
+        "asn_holders": [
+          "CLOUDFLARESPECTRUM Cloudflare London, LLC"
+        ]
+      }
+    },
+    {
+      "cluster_id": 96,
+      "domains": [
+        "box.com",
+        "box.net"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "registrar",
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "MarkMonitor Inc."
+        ],
+        "asn": [
+          "396982"
+        ],
+        "asn_holders": [
+          "GOOGLE-CLOUD-PLATFORM - Google LLC"
+        ]
+      }
+    },
+    {
+      "cluster_id": 97,
+      "domains": [
+        "bromium-online.com",
+        "elcorteingles.es"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "registrar"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "MarkMonitor Inc."
+        ]
+      }
+    },
+    {
+      "cluster_id": 98,
+      "domains": [
+        "buffer.com",
+        "bufferapp.com"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "registrar",
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "NameCheap, Inc."
+        ],
+        "asn": [
+          "13335"
+        ],
+        "asn_holders": [
+          "CLOUDFLARENET - Cloudflare, Inc."
+        ]
+      }
+    },
+    {
+      "cluster_id": 99,
+      "domains": [
+        "businessinsider.com",
+        "insider.com"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "registrar",
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "GoDaddy.com, LLC"
+        ],
+        "asn": [
+          "54113"
+        ],
+        "asn_holders": [
+          "FASTLY - Fastly, Inc."
+        ]
+      }
+    },
+    {
+      "cluster_id": 100,
+      "domains": [
+        "bybit.biz",
+        "bybit.com"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "asn": [
+          "16509"
+        ],
+        "asn_holders": [
+          "AMAZON-02 - Amazon.com, Inc."
+        ]
+      }
+    },
+    {
+      "cluster_id": 101,
+      "domains": [
+        "canalblog.com",
+        "over-blog.com"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "registrar",
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "Gandi SAS"
+        ],
+        "asn": [
+          "39605"
+        ],
+        "asn_holders": [
+          "IGUANESOLUTIONS Iguane Solutions SAS"
+        ]
+      }
+    },
+    {
+      "cluster_id": 103,
+      "domains": [
+        "casapariurilor.ro",
+        "efortuna.pl"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "registrar",
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "Gransy s.r.o."
+        ],
+        "asn": [
+          "13335"
+        ],
+        "asn_holders": [
+          "CLOUDFLARENET - Cloudflare, Inc."
+        ]
+      }
+    },
+    {
+      "cluster_id": 104,
+      "domains": [
+        "checkpoint.com",
+        "dome9.com"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "asn": [
+          "16509"
+        ],
+        "asn_holders": [
+          "AMAZON-02 - Amazon.com, Inc."
+        ]
+      }
+    },
+    {
+      "cluster_id": 105,
+      "domains": [
+        "chegg.com",
+        "mathway.com"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "registrar",
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "MarkMonitor Inc."
+        ],
+        "asn": [
+          "16509"
+        ],
+        "asn_holders": [
+          "AMAZON-02 - Amazon.com, Inc."
+        ]
+      }
+    },
+    {
+      "cluster_id": 106,
+      "domains": [
+        "cnet.com",
+        "zdnet.com"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "registrar",
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "CSC Corporate Domains, Inc."
+        ],
+        "asn": [
+          "54113"
+        ],
+        "asn_holders": [
+          "FASTLY - Fastly, Inc."
+        ]
+      }
+    },
+    {
+      "cluster_id": 107,
+      "domains": [
+        "cntraveler.com",
+        "vanityfair.it"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "registrar",
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "CSC Corporate Domains, Inc."
+        ],
+        "asn": [
+          "54113"
+        ],
+        "asn_holders": [
+          "FASTLY - Fastly, Inc."
+        ]
+      }
+    },
+    {
+      "cluster_id": 109,
+      "domains": [
+        "cookiebot.com",
+        "usercentrics.eu"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "registrar"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "GoDaddy.com, LLC"
+        ]
+      }
+    },
+    {
+      "cluster_id": 110,
+      "domains": [
+        "cpanel.com",
+        "cpanel.net"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "registrar"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "Tucows Domains Inc."
+        ]
+      }
+    },
+    {
+      "cluster_id": 111,
+      "domains": [
+        "customer.io",
+        "gist.build"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "registrar"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "Namecheap"
+        ]
+      }
+    },
+    {
+      "cluster_id": 112,
+      "domains": [
+        "datto.com",
+        "rocketcyber.com"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "registrar"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "CSC Corporate Domains, Inc."
+        ]
+      }
+    },
+    {
+      "cluster_id": 113,
+      "domains": [
+        "digitalturbine.com",
+        "fyber.com"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "asn": [
+          "54113"
+        ],
+        "asn_holders": [
+          "FASTLY - Fastly, Inc."
+        ]
+      }
+    },
+    {
+      "cluster_id": 114,
+      "domains": [
+        "docker.com",
+        "docker.io"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "registrar"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "Gandi SAS"
+        ]
+      }
+    },
+    {
+      "cluster_id": 115,
+      "domains": [
+        "eventbrite.co.uk",
+        "eventbrite.com"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "asn": [
+          "16509"
+        ],
+        "asn_holders": [
+          "AMAZON-02 - Amazon.com, Inc."
+        ]
+      }
+    },
+    {
+      "cluster_id": 117,
+      "domains": [
+        "facai88.club",
+        "mcwcasino.io"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "asn": [
+          "13335"
+        ],
+        "asn_holders": [
+          "CLOUDFLARENET - Cloudflare, Inc."
+        ]
+      }
+    },
+    {
+      "cluster_id": 118,
+      "domains": [
+        "financialpost.com",
+        "nationalpost.com"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "asn": [
+          "396982"
+        ],
+        "asn_holders": [
+          "GOOGLE-CLOUD-PLATFORM - Google LLC"
+        ]
+      }
+    },
+    {
+      "cluster_id": 119,
+      "domains": [
+        "flic.kr",
+        "flickr.com"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "registrar",
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "GoDaddy Corporate Domains, LLC"
+        ],
+        "asn": [
+          "16509"
+        ],
+        "asn_holders": [
+          "AMAZON-02 - Amazon.com, Inc."
+        ]
+      }
+    },
+    {
+      "cluster_id": 121,
+      "domains": [
+        "foxit.com",
+        "foxitsoftware.com"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "asn": [
+          "14618"
+        ],
+        "asn_holders": [
+          "AMAZON-AES - Amazon.com, Inc."
+        ]
+      }
+    },
+    {
+      "cluster_id": 123,
+      "domains": [
+        "freepik.com",
+        "freepik.es"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "asn": [
+          "396982"
+        ],
+        "asn_holders": [
+          "GOOGLE-CLOUD-PLATFORM - Google LLC"
+        ]
+      }
+    },
+    {
+      "cluster_id": 124,
+      "domains": [
+        "gazeta.pl",
+        "sport.pl"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "registrar",
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "home.pl sp. z o.o."
+        ],
+        "asn": [
+          "8535"
+        ],
+        "asn_holders": [
+          "AGORA Agora TC Sp.z.o.o."
+        ]
+      }
+    },
+    {
+      "cluster_id": 125,
+      "domains": [
+        "geforce.com",
+        "nvidia.com"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "registrar",
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "SafeNames Ltd."
+        ],
+        "asn": [
+          "14618"
+        ],
+        "asn_holders": [
+          "AMAZON-AES - Amazon.com, Inc."
+        ]
+      }
+    },
+    {
+      "cluster_id": 126,
+      "domains": [
+        "getpostman.com",
+        "postman.com"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "registrar"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "Amazon Registrar, Inc."
+        ]
+      }
+    },
+    {
+      "cluster_id": 127,
+      "domains": [
+        "glip.com",
+        "ringcentral.com"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "registrar"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "MarkMonitor Inc."
+        ]
+      }
+    },
+    {
+      "cluster_id": 128,
+      "domains": [
+        "globalsign.com",
+        "globalsign.net"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "registrar"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "EuroDNS S.A."
+        ]
+      }
+    },
+    {
+      "cluster_id": 129,
+      "domains": [
+        "goldmansachs.com",
+        "gs.com"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "registrar",
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "CSC Corporate Domains, Inc."
+        ],
+        "asn": [
+          "16625"
+        ],
+        "asn_holders": [
+          "AKAMAI-AS - Akamai Technologies, Inc."
+        ]
+      }
+    },
+    {
+      "cluster_id": 130,
+      "domains": [
+        "grafana.com",
+        "grafana.net"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "registrar",
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "eNom, LLC"
+        ],
+        "asn": [
+          "396982"
+        ],
+        "asn_holders": [
+          "GOOGLE-CLOUD-PLATFORM - Google LLC"
+        ]
+      }
+    },
+    {
+      "cluster_id": 132,
+      "domains": [
+        "hoidap247.com",
+        "loigiaihay.com"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "registrar",
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "GoDaddy.com, LLC"
+        ],
+        "asn": [
+          "38731"
+        ],
+        "asn_holders": [
+          "VTDC-AS-VN - Vietel - CHT Compamy Ltd"
+        ]
+      }
+    },
+    {
+      "cluster_id": 134,
+      "domains": [
+        "hsn.com",
+        "qvc.com"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "registrar",
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "MarkMonitor Inc."
+        ],
+        "asn": [
+          "16625"
+        ],
+        "asn_holders": [
+          "AKAMAI-AS - Akamai Technologies, Inc."
+        ]
+      }
+    },
+    {
+      "cluster_id": 135,
+      "domains": [
+        "indiana.edu",
+        "iu.edu"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "asn": [
+          "87"
+        ],
+        "asn_holders": [
+          "INDIANA-AS - Indiana University"
+        ]
+      }
+    },
+    {
+      "cluster_id": 136,
+      "domains": [
+        "indianexpress.com",
+        "jansatta.com"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "registrar"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "GoDaddy.com, LLC"
+        ]
+      }
+    },
+    {
+      "cluster_id": 137,
+      "domains": [
+        "infomaniak.ch",
+        "infomaniak.com"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "registrar",
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "Infomaniak Network SA"
+        ],
+        "asn": [
+          "29222"
+        ],
+        "asn_holders": [
+          "Infomaniak-AS Infomaniak Network SA"
+        ]
+      }
+    },
+    {
+      "cluster_id": 138,
+      "domains": [
+        "isaidub9.com",
+        "prmsrvs.com"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "asn": [
+          "16509"
+        ],
+        "asn_holders": [
+          "AMAZON-02 - Amazon.com, Inc."
+        ]
+      }
+    },
+    {
+      "cluster_id": 139,
+      "domains": [
+        "ivi.ru",
+        "ivicdn.tv"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "asn": [
+          "57629"
+        ],
+        "asn_holders": [
+          "IVI-RU LLC IVI.RU"
+        ]
+      }
+    },
+    {
+      "cluster_id": 141,
+      "domains": [
+        "jivo.ru",
+        "jivosite.com"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "asn": [
+          "210756"
+        ],
+        "asn_holders": [
+          "EdgeCenterLLC EdgeCenter LLC"
+        ]
+      }
+    },
+    {
+      "cluster_id": 143,
+      "domains": [
+        "kansascity.com",
+        "miamiherald.com"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "asn": [
+          "396982"
+        ],
+        "asn_holders": [
+          "GOOGLE-CLOUD-PLATFORM - Google LLC"
+        ]
+      }
+    },
+    {
+      "cluster_id": 145,
+      "domains": [
+        "lecturas.com",
+        "semana.es"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "registrar",
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "Nominalia Internet SL"
+        ],
+        "asn": [
+          "8075"
+        ],
+        "asn_holders": [
+          "MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation"
+        ]
+      }
+    },
+    {
+      "cluster_id": 146,
+      "domains": [
+        "lesnumeriques.com",
+        "marmiton.org"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "registrar"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "Gandi SAS"
+        ]
+      }
+    },
+    {
+      "cluster_id": 147,
+      "domains": [
+        "letras.com",
+        "letras.mus.br"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "registrar",
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "Squarespace Domains II LLC"
+        ],
+        "asn": [
+          "396356"
+        ],
+        "asn_holders": [
+          "LATITUDE-SH - Latitude.sh"
+        ]
+      }
+    },
+    {
+      "cluster_id": 148,
+      "domains": [
+        "lg.com",
+        "lge.com"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "asn": [
+          "16509"
+        ],
+        "asn_holders": [
+          "AMAZON-02 - Amazon.com, Inc."
+        ]
+      }
+    },
+    {
+      "cluster_id": 149,
+      "domains": [
+        "liftoff.io",
+        "vungle.com"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "asn": [
+          "209242"
+        ],
+        "asn_holders": [
+          "CLOUDFLARESPECTRUM Cloudflare London, LLC"
+        ]
+      }
+    },
+    {
+      "cluster_id": 150,
+      "domains": [
+        "liquidweb.com",
+        "nexcess.net"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "registrar",
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "Tucows Domains Inc."
+        ],
+        "asn": [
+          "13335"
+        ],
+        "asn_holders": [
+          "CLOUDFLARENET - Cloudflare, Inc."
+        ]
+      }
+    },
+    {
+      "cluster_id": 151,
+      "domains": [
+        "mega.co.nz",
+        "mega.nz"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "asn": [
+          "203055"
+        ],
+        "asn_holders": [
+          "MEGA-LIMITED-AS Datacenter Luxembourg S.A."
+        ]
+      }
+    },
+    {
+      "cluster_id": 152,
+      "domains": [
+        "mentalfloss.com",
+        "si.com"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "asn": [
+          "16509"
+        ],
+        "asn_holders": [
+          "AMAZON-02 - Amazon.com, Inc."
+        ]
+      }
+    },
+    {
+      "cluster_id": 153,
+      "domains": [
+        "meta.com",
+        "oculus.com"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "registrar",
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "RegistrarSafe, LLC"
+        ],
+        "asn": [
+          "32934"
+        ],
+        "asn_holders": [
+          "FACEBOOK - Facebook, Inc."
+        ]
+      }
+    },
+    {
+      "cluster_id": 156,
+      "domains": [
+        "mystrikingly.com",
+        "strikingly.com"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "registrar",
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "NameCheap, Inc."
+        ],
+        "asn": [
+          "16509"
+        ],
+        "asn_holders": [
+          "AMAZON-02 - Amazon.com, Inc."
+        ]
+      }
+    },
+    {
+      "cluster_id": 157,
+      "domains": [
+        "news24.com",
+        "snl24.com"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "registrar",
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "Lexsynergy Limited"
+        ],
+        "asn": [
+          "13335"
+        ],
+        "asn_holders": [
+          "CLOUDFLARENET - Cloudflare, Inc."
+        ]
+      }
+    },
+    {
+      "cluster_id": 158,
+      "domains": [
+        "nypost.com",
+        "pagesix.com"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "registrar",
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "MarkMonitor Inc."
+        ],
+        "asn": [
+          "2635"
+        ],
+        "asn_holders": [
+          "AUTOMATTIC - Automattic, Inc"
+        ]
+      }
+    },
+    {
+      "cluster_id": 159,
+      "domains": [
+        "nyt.com",
+        "nytimes.com"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "registrar",
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "MarkMonitor Inc."
+        ],
+        "asn": [
+          "54113"
+        ],
+        "asn_holders": [
+          "FASTLY - Fastly, Inc."
+        ]
+      }
+    },
+    {
+      "cluster_id": 160,
+      "domains": [
+        "olympic.org",
+        "olympics.com"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "registrar"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "Nom-iq Ltd. dba COM LAUDE"
+        ]
+      }
+    },
+    {
+      "cluster_id": 161,
+      "domains": [
+        "one.com",
+        "one.one"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "asn": [
+          "51468"
+        ],
+        "asn_holders": [
+          "ONECOM One.com A/S"
+        ]
+      }
+    },
+    {
+      "cluster_id": 162,
+      "domains": [
+        "opencan.net",
+        "stoiximan.gr"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "registrar"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "Dynadot Inc"
+        ]
+      }
+    },
+    {
+      "cluster_id": 163,
+      "domains": [
+        "packzy.com",
+        "steadfast.com.bd"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "registrar"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "GoDaddy.com, LLC"
+        ]
+      }
+    },
+    {
+      "cluster_id": 164,
+      "domains": [
+        "pewinternet.org",
+        "pewresearch.org"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "registrar",
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "eNom, LLC"
+        ],
+        "asn": [
+          "2635"
+        ],
+        "asn_holders": [
+          "AUTOMATTIC - Automattic, Inc"
+        ]
+      }
+    },
+    {
+      "cluster_id": 165,
+      "domains": [
+        "photobucket.com",
+        "tinypic.com"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "registrar"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "Amazon Registrar, Inc."
+        ]
+      }
+    },
+    {
+      "cluster_id": 166,
+      "domains": [
+        "poshvine.com",
+        "razorpay.com"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "asn": [
+          "16509"
+        ],
+        "asn_holders": [
+          "AMAZON-02 - Amazon.com, Inc."
+        ]
+      }
+    },
+    {
+      "cluster_id": 167,
+      "domains": [
+        "razer.com",
+        "razerzone.com"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "registrar"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "101domain GRS Limited"
+        ]
+      }
+    },
+    {
+      "cluster_id": 168,
+      "domains": [
+        "rb.gy",
+        "rebrand.ly"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "asn": [
+          "13335"
+        ],
+        "asn_holders": [
+          "CLOUDFLARENET - Cloudflare, Inc."
+        ]
+      }
+    },
+    {
+      "cluster_id": 170,
+      "domains": [
+        "rmf.fm",
+        "rmf24.pl"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "asn": [
+          "16138"
+        ],
+        "asn_holders": [
+          "INTERIAPL Interia.pl Sp z.o.o."
+        ]
+      }
+    },
+    {
+      "cluster_id": 173,
+      "domains": [
+        "science.org",
+        "sciencemag.org"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "registrar",
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "Network Solutions, LLC"
+        ],
+        "asn": [
+          "16509"
+        ],
+        "asn_holders": [
+          "AMAZON-02 - Amazon.com, Inc."
+        ]
+      }
+    },
+    {
+      "cluster_id": 174,
+      "domains": [
+        "shopee.com.br",
+        "shopeemobile.com"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "registrar",
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "GoDaddy.com, LLC"
+        ],
+        "asn": [
+          "138341"
+        ],
+        "asn_holders": [
+          "SHOPEE-AS - SHOPEE SINGAPORE PRIVATE LIMITED"
+        ]
+      }
+    },
+    {
+      "cluster_id": 175,
+      "domains": [
+        "siteground.biz",
+        "siteground.us"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "registrar",
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "Tucows Domains Inc."
+        ],
+        "asn": [
+          "396982"
+        ],
+        "asn_holders": [
+          "GOOGLE-CLOUD-PLATFORM - Google LLC"
+        ]
+      }
+    },
+    {
+      "cluster_id": 176,
+      "domains": [
+        "sketchup.com",
+        "trimble.com"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "registrar",
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "CSC Corporate Domains, Inc."
+        ],
+        "asn": [
+          "16509"
+        ],
+        "asn_holders": [
+          "AMAZON-02 - Amazon.com, Inc."
+        ]
+      }
+    },
+    {
+      "cluster_id": 177,
+      "domains": [
+        "snowflake.com",
+        "snowflakecomputing.com"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "registrar"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "MarkMonitor Inc."
+        ]
+      }
+    },
+    {
+      "cluster_id": 179,
+      "domains": [
+        "ticketmaster.co.uk",
+        "ticketmaster.com.mx"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "registrar",
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "CSC Corporate Domains, Inc"
+        ],
+        "asn": [
+          "54113"
+        ],
+        "asn_holders": [
+          "FASTLY - Fastly, Inc."
+        ]
+      }
+    },
+    {
+      "cluster_id": 183,
+      "domains": [
+        "value-domain.com",
+        "xrea.com"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "registrar"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "Key-Systems GmbH"
+        ]
+      }
+    },
+    {
+      "cluster_id": 184,
+      "domains": [
+        "vogue.co.uk",
+        "vogue.com"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "asn": [
+          "16509"
+        ],
+        "asn_holders": [
+          "AMAZON-02 - Amazon.com, Inc."
+        ]
+      }
+    },
+    {
+      "cluster_id": 185,
+      "domains": [
+        "wargaming.net",
+        "worldoftanks.eu"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "registrar",
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "CSC Corporate Domains, Inc."
+        ],
+        "asn": [
+          "199524"
+        ],
+        "asn_holders": [
+          "GCORE G-Core Labs S.A."
+        ]
+      }
+    },
+    {
+      "cluster_id": 186,
+      "domains": [
+        "we.tl",
+        "wetransfer.com"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "registrar",
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "Key-Systems GmbH"
+        ],
+        "asn": [
+          "16509"
+        ],
+        "asn_holders": [
+          "AMAZON-02 - Amazon.com, Inc."
+        ]
+      }
+    },
+    {
+      "cluster_id": 187,
+      "domains": [
+        "webflow.com",
+        "webflow.io"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "asn": [
+          "14618"
+        ],
+        "asn_holders": [
+          "AMAZON-AES - Amazon.com, Inc."
+        ]
+      }
+    },
+    {
+      "cluster_id": 188,
+      "domains": [
+        "windows.com",
+        "xbox.com"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "asn": [
+          "8075"
+        ],
+        "asn_holders": [
+          "MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation"
+        ]
+      }
+    },
+    {
+      "cluster_id": 189,
+      "domains": [
+        "wired.co.uk",
+        "wired.com"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "asn": [
+          "16509"
+        ],
+        "asn_holders": [
+          "AMAZON-02 - Amazon.com, Inc."
+        ]
+      }
+    },
+    {
+      "cluster_id": 190,
+      "domains": [
+        "wyze.com",
+        "wyzecam.com"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "registrar",
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "GoDaddy.com, LLC"
+        ],
+        "asn": [
+          "13335"
+        ],
+        "asn_holders": [
+          "CLOUDFLARENET - Cloudflare, Inc."
+        ]
+      }
+    },
+    {
+      "cluster_id": 191,
+      "domains": [
+        "zoom.com",
+        "zoom.us"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "registrar"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "MarkMonitor Inc."
+        ]
+      }
+    }
+  ]
+}

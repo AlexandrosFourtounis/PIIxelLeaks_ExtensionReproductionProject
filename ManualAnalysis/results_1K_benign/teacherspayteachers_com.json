@@ -1,0 +1,462 @@
+{
+    "name": "teacherspayteachers.com",
+    "handle": "PRIVACY",
+    "registrationDate": "11/2/2005, 1:09:40 AM GMT+2",
+    "expirationDate": "11/2/2026, 12:09:40 AM GMT+2",
+    "lastChangedDate": "2/20/2026, 2:44:11 AM GMT+2",
+    "lastUpdateDate": "6/23/2026, 3:16:19 PM GMT+3",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "handle": "PRIVACY",
+            "roles": [
+                "registrant"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "org",
+                        {
+                            "type": [
+                                "work"
+                            ]
+                        },
+                        "text",
+                        "Digital Privacy Corporation"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Private Registration"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "voice"
+                            ]
+                        },
+                        "uri",
+                        "tel:+1.7604482392"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "US"
+                        },
+                        "text",
+                        [
+                            "",
+                            "C/O teacherspayteachers.com",
+                            "3220 Executive Ridge Drive, Suite 101.",
+                            "Vista",
+                            "CA",
+                            "92081",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "2d8de0.RiwQIhkmm0OR@digitalprivacy.co"
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "PRIVACY",
+            "roles": [
+                "technical"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "org",
+                        {
+                            "type": [
+                                "work"
+                            ]
+                        },
+                        "text",
+                        "Digital Privacy Corporation"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Private Registration"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "voice"
+                            ]
+                        },
+                        "uri",
+                        "tel:+1.7604482392"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "US"
+                        },
+                        "text",
+                        [
+                            "",
+                            "C/O teacherspayteachers.com",
+                            "3220 Executive Ridge Drive, Suite 101.",
+                            "Vista",
+                            "CA",
+                            "92081",
+                            ""
+                        ]
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "https://my.101domain.com/contact-technical/teacherspayteachers.com.html"
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "abuse",
+            "roles": [
+                "abuse"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "voice"
+                            ]
+                        },
+                        "uri",
+                        "tel:+1.8582954626"
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "abuse@101domain.com"
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "1011",
+            "roles": [
+                "registrar"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "101domain GRS Ltd."
+                    ],
+                    [
+                        "org",
+                        {
+                            "type": [
+                                "work"
+                            ]
+                        },
+                        "text",
+                        "101domain GRS Ltd."
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "IE"
+                        },
+                        "text",
+                        [
+                            "",
+                            "Level 2, Plaza 3, Custom House Plaza",
+                            "Harbourmaster Place",
+                            "Dublin",
+                            "",
+                            "D01 VY76",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "support@101domain.com"
+                    ]
+                ]
+            ],
+            "publicIds": [
+                {
+                    "type": "IANA Registrar ID",
+                    "identifier": "1011"
+                }
+            ],
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "handle": "abuse",
+                    "roles": [
+                        "abuse"
+                    ],
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                ""
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "voice"
+                                    ]
+                                },
+                                "uri",
+                                "tel:+1.8582954626"
+                            ],
+                            [
+                                "email",
+                                {
+                                    "type": "work"
+                                },
+                                "text",
+                                "abuse@101domain.com"
+                            ]
+                        ]
+                    ]
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.101domain.com/v1/",
+                    "href": "https://101domain.com/",
+                    "rel": "about",
+                    "type": "application/rdap+json"
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "NS-489.AWSDNS-61.COM",
+            "status": [
+                "active"
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "NS-1802.AWSDNS-33.CO.UK",
+            "status": [
+                "active"
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "NS-552.AWSDNS-05.NET",
+            "status": [
+                "active"
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "NS-1182.AWSDNS-19.ORG",
+            "status": [
+                "active"
+            ]
+        },
+        {
+            "objectClassName": "domain",
+            "ldhName": "teacherspayteachers.com",
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "NS-489.AWSDNS-61.COM",
+                    "status": [
+                        "active"
+                    ]
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "NS-1802.AWSDNS-33.CO.UK",
+                    "status": [
+                        "active"
+                    ]
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "NS-552.AWSDNS-05.NET",
+                    "status": [
+                        "active"
+                    ]
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "NS-1182.AWSDNS-19.ORG",
+                    "status": [
+                        "active"
+                    ]
+                }
+            ],
+            "secureDNS": {
+                "delegationSigned": false
+            },
+            "links": [
+                {
+                    "value": "https://rdap.101domain.com/v1/domain/teacherspayteachers.com",
+                    "href": "https://rdap.101domain.com/v1/domain/teacherspayteachers.com",
+                    "rel": "self",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "notices": [
+                {
+                    "title": "Status Codes",
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.101domain.com/v1/domain/teacherspayteachers.com",
+                            "href": "https://icann.org/epp",
+                            "rel": "glossary",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "RDDS Inaccuracy Complaint Form",
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.101domain.com/v1/domain/teacherspayteachers.com",
+                            "href": "https://icann.org/wicf",
+                            "rel": "help",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "Terms of Use",
+                    "description": [
+                        "By submitting an inquiry, you agree to these Universal Terms of Service",
+                        "and limitations of warranty. In particular, you agree not to use this",
+                        "data to allow, enable, or otherwise make possible, dissemination or",
+                        "collection of this data, in part or in its entirety, for any purpose,",
+                        "such as the transmission of unsolicited advertising and solicitations of",
+                        "any kind, including spam. You further agree not to use this data to enable",
+                        "high volume, automated or robotic electronic processes designed to collect",
+                        "or compile this data for any purpose, including mining this data for your",
+                        "own personal or commercial purposes, or use this data in any way that violates",
+                        "applicable laws and regulations."
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.101domain.com/v1/domain/teacherspayteachers.com",
+                            "href": "https://my.101domain.com/legal.html",
+                            "rel": "terms-of-service",
+                            "type": "text/html"
+                        }
+                    ]
+                }
+            ],
+            "rdapConformance": [
+                "rdap_level_0",
+                "icann_rdap_response_profile_1",
+                "icann_rdap_technical_implementation_guide_1",
+                "redacted"
+            ],
+            "redacted": [
+                {
+                    "name": {
+                        "type": "Registrant Email"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='email')][3]",
+                    "pathLang": "jsonpath",
+                    "method": "replacementValue"
+                },
+                {
+                    "name": {
+                        "type": "Tech Email"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='email')]",
+                    "replacementPath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='contact-uri')][3]",
+                    "pathLang": "jsonpath",
+                    "method": "replacementValue"
+                },
+                {
+                    "name": {
+                        "type": "Registry Domain ID"
+                    },
+                    "prePath": "$.handle",
+                    "pathLang": "jsonpath",
+                    "method": "removal"
+                }
+            ]
+        }
+    ],
+    "domain": "teacherspayteachers.com\r"
+}

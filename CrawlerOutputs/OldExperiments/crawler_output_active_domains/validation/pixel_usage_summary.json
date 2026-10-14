@@ -1,0 +1,354 @@
+{
+  "domains_processed": 79,
+  "total_pixel_mentions": 285,
+  "unique_pixel_count": 71,
+  "reused_pixel_count": 48,
+  "unique_pixel_count_no_reuse": 23,
+  "grouped_by_domains": [
+    {
+      "pixel_id": [
+        478520939025873
+      ],
+      "domains": [
+        "vsb46.sbs",
+        "vsb47.sbs",
+        "vsb49.sbs",
+        "vsb50.sbs",
+        "vsb51.sbs",
+        "vsb52.sbs",
+        "vsb53.sbs",
+        "vsb54.sbs",
+        "vsb55.sbs",
+        "vsb56.sbs",
+        "vsb57.sbs",
+        "vsb59.sbs"
+      ],
+      "domain_count": 12
+    },
+    {
+      "pixel_id": [
+        477617128024902,
+        825100733908548
+      ],
+      "domains": [
+        "refpa02350.top",
+        "refpa09208.top",
+        "refpa31055.top",
+        "refpa48185.top",
+        "refpa48633.top",
+        "refpa50514.top",
+        "refpa50715.top",
+        "refpa58036.top",
+        "refpa6130888.top",
+        "spinrush88.life"
+      ],
+      "domain_count": 10
+    },
+    {
+      "pixel_id": [
+        284067518410183,
+        412109816761155
+      ],
+      "domains": [
+        "30bet.top",
+        "93bet.top",
+        "bet17.top",
+        "bet31.top",
+        "bet54.top",
+        "bet70.top",
+        "bet85.top",
+        "bet90.top"
+      ],
+      "domain_count": 8
+    },
+    {
+      "pixel_id": [
+        936184946003582,
+        949454860995320,
+        961746862917392,
+        964183099447392,
+        967878819103138,
+        968258418919494,
+        1088496246823205,
+        1099682829002949,
+        1274767361506777,
+        1295175892471697,
+        1308533474511302,
+        1437438444528200,
+        1515464630582101,
+        1541268864671468,
+        1640915937083311,
+        1653095665705936,
+        1657758595671844,
+        1707733177635868,
+        1711168080244919,
+        2027431357855948,
+        2193508854799229,
+        2218030488730615,
+        2385258498616241,
+        2842233629455957,
+        3820091528300450,
+        25767184296314185
+      ],
+      "domains": [
+        "apktohir78-a11.store",
+        "apktohir78-a13.store",
+        "apktohir78-a14.store",
+        "apktohir78-a15.store",
+        "apktohir78-a18.store",
+        "apktohir78-a19.store"
+      ],
+      "domain_count": 6
+    },
+    {
+      "pixel_id": [
+        892924916529262,
+        1548281622890803,
+        1763534697680679,
+        2097700634322064,
+        4511628342404700
+      ],
+      "domains": [
+        "cincin3.sbs",
+        "dingin2.sbs",
+        "kumpul1.sbs",
+        "kumpul3.sbs",
+        "ngopi1.sbs",
+        "sendal1.sbs"
+      ],
+      "domain_count": 6
+    },
+    {
+      "pixel_id": [
+        190635510426764
+      ],
+      "domains": [
+        "1001bet.top",
+        "1881bet.top",
+        "33rr.top",
+        "9111bet.top",
+        "9998bet.top"
+      ],
+      "domain_count": 5
+    },
+    {
+      "pixel_id": [
+        33060651906915908
+      ],
+      "domains": [
+        "dealmaxlog1.store",
+        "dealmaxlog2.store",
+        "dealmaxlog3.store"
+      ],
+      "domain_count": 3
+    },
+    {
+      "pixel_id": [
+        1301140500959381,
+        1333519337865465
+      ],
+      "domains": [
+        "aarab2.sbs",
+        "aarab9.sbs"
+      ],
+      "domain_count": 2
+    },
+    {
+      "pixel_id": [
+        974147422059401,
+        2399920917159559
+      ],
+      "domains": [
+        "alexisgg-hoki3.top",
+        "alexisgg-hoki6.top"
+      ],
+      "domain_count": 2
+    },
+    {
+      "pixel_id": [
+        1776485009663929
+      ],
+      "domains": [
+        "flixindo10411.top",
+        "flixindo20813.top"
+      ],
+      "domain_count": 2
+    },
+    {
+      "pixel_id": [
+        384508932290228
+      ],
+      "domains": [
+        "gameempire321.top",
+        "shopchallenge777.top"
+      ],
+      "domain_count": 2
+    },
+    {
+      "pixel_id": [
+        2609924279407159,
+        4484131141808894
+      ],
+      "domains": [
+        "keris34dnitcstope.top",
+        "killbrostk3.top"
+      ],
+      "domain_count": 2
+    },
+    {
+      "pixel_id": [
+        726215172055603
+      ],
+      "domains": [
+        "melbet-162423.top",
+        "melbet-707338.top"
+      ],
+      "domain_count": 2
+    },
+    {
+      "pixel_id": [
+        1017390135323042
+      ],
+      "domains": [
+        "starlink4d888.top",
+        "starlink4d999.top"
+      ],
+      "domain_count": 2
+    },
+    {
+      "pixel_id": [
+        1513816623652033,
+        2062476424363299
+      ],
+      "domains": [
+        "3pastix500.store"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1138585495104801
+      ],
+      "domains": [
+        "capitalbazaar444.sbs"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        876883958249236
+      ],
+      "domains": [
+        "capitalbazaar555.sbs"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        534530363346991,
+        614683010534006
+      ],
+      "domains": [
+        "clickgenius321.top"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        455688898949692,
+        1264832718555575
+      ],
+      "domains": [
+        "dangky-hoivien-km99k.top"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1860798041478412
+      ],
+      "domains": [
+        "fh01.sbs"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1028314697215281
+      ],
+      "domains": [
+        "fixislotmax7.store"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1574269257107405
+      ],
+      "domains": [
+        "fullhouse22.sbs"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1272328781326334
+      ],
+      "domains": [
+        "fullhouse55.sbs"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1572239217383759,
+        1907769690128429
+      ],
+      "domains": [
+        "monk4dways3.sbs"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        833462249213579
+      ],
+      "domains": [
+        "nohumienphi3.top"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        634068032375736,
+        678591921638066
+      ],
+      "domains": [
+        "nohumienphi4.top"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        529777519918062,
+        842635648011813
+      ],
+      "domains": [
+        "soicau3.top"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        852993455861073,
+        870656070986782,
+        1111583543112937,
+        2744258599037787
+      ],
+      "domains": [
+        "soicau8.top"
+      ],
+      "domain_count": 1
+    }
+  ]
+}

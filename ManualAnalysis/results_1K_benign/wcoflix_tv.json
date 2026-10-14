@@ -1,0 +1,476 @@
+{
+    "name": "WCOFLIX.TV",
+    "handle": "DD1C1C67E2F6148A996406F1B39B65C99-GDREG",
+    "registrationDate": "5/11/2025, 2:48:17 PM GMT+3",
+    "expirationDate": "5/11/2027, 2:48:17 PM GMT+3",
+    "lastChangedDate": "2/16/2026, 3:59:21 PM GMT+2",
+    "lastUpdateDate": "6/23/2026, 6:09:31 PM GMT+3",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "roles": [
+                "abuse"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "NICS Telekomunikasyon A.S."
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+90.2122132963"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "abuse@nicproxy.com"
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "1454",
+            "roles": [
+                "registrar"
+            ],
+            "publicIds": [
+                {
+                    "type": "IANA Registrar ID",
+                    "identifier": "1454"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "NICS Telekomunikasyon A.S."
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "TR"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "Mecidiyekoy Yolu Cad. Trump Tower No:12 Iç Kapi No: 470",
+                            "Sisli",
+                            "Istanbul",
+                            "34387",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+90.2122132963"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "abuse@nicproxy.com"
+                    ]
+                ]
+            ],
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "roles": [
+                        "abuse"
+                    ],
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "NICS Telekomunikasyon A.S."
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "voice"
+                                },
+                                "uri",
+                                "tel:+90.2122132963"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "abuse@nicproxy.com"
+                            ]
+                        ]
+                    ]
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://nicproxy.com",
+                    "rel": "about",
+                    "href": "https://nicproxy.com"
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "NICS-registrant",
+            "roles": [
+                "registrant"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "REDACTED FOR PRIVACY"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "REDACTED FOR PRIVACY"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "TR"
+                        },
+                        "text",
+                        [
+                            "",
+                            "REDACTED FOR PRIVACY",
+                            "REDACTED FOR PRIVACY",
+                            "REDACTED FOR PRIVACY",
+                            "REDACTED FOR PRIVACY",
+                            "REDACTED FOR PRIVACY",
+                            ""
+                        ]
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "https://whoisshelter.nicproxy.com/?d=WCOFLIX.TV"
+                    ]
+                ]
+            ],
+            "remarks": [
+                {
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ],
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object redacted due to authorization"
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "NICS-administrative",
+            "roles": [
+                "administrative"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "REDACTED FOR PRIVACY"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "REDACTED FOR PRIVACY"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "TR"
+                        },
+                        "text",
+                        [
+                            "",
+                            "REDACTED FOR PRIVACY",
+                            "REDACTED FOR PRIVACY",
+                            "REDACTED FOR PRIVACY",
+                            "REDACTED FOR PRIVACY",
+                            "REDACTED FOR PRIVACY",
+                            ""
+                        ]
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "https://whoisshelter.nicproxy.com/?d=WCOFLIX.TV"
+                    ]
+                ]
+            ],
+            "remarks": [
+                {
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ],
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object redacted due to authorization"
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "NICS-technical",
+            "roles": [
+                "technical"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "REDACTED FOR PRIVACY"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "REDACTED FOR PRIVACY"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "TR"
+                        },
+                        "text",
+                        [
+                            "",
+                            "REDACTED FOR PRIVACY",
+                            "REDACTED FOR PRIVACY",
+                            "REDACTED FOR PRIVACY",
+                            "REDACTED FOR PRIVACY",
+                            "REDACTED FOR PRIVACY",
+                            ""
+                        ]
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "https://whoisshelter.nicproxy.com/?d=WCOFLIX.TV"
+                    ]
+                ]
+            ],
+            "remarks": [
+                {
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ],
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object redacted due to authorization"
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "NICS-billing",
+            "roles": [
+                "billing"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "REDACTED FOR PRIVACY"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "REDACTED FOR PRIVACY"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "TR"
+                        },
+                        "text",
+                        [
+                            "",
+                            "REDACTED FOR PRIVACY",
+                            "REDACTED FOR PRIVACY",
+                            "REDACTED FOR PRIVACY",
+                            "REDACTED FOR PRIVACY",
+                            "REDACTED FOR PRIVACY",
+                            ""
+                        ]
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "https://whoisshelter.nicproxy.com/?d=WCOFLIX.TV"
+                    ]
+                ]
+            ],
+            "remarks": [
+                {
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ],
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object redacted due to authorization"
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "princess.ns.cloudflare.com",
+            "status": [
+                "active"
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "edward.ns.cloudflare.com",
+            "status": [
+                "active"
+            ]
+        },
+        {
+            "objectClassName": "domain",
+            "handle": "DD1C1C67E2F6148A996406F1B39B65C99-GDREG",
+            "ldhName": "WCOFLIX.TV",
+            "links": [
+                {
+                    "value": "https://rdap.nicproxy.com/domain/WCOFLIX.TV",
+                    "rel": "self",
+                    "href": "https://rdap.nicproxy.com/domain/WCOFLIX.TV"
+                }
+            ],
+            "secureDNS": {
+                "delegationSigned": false
+            },
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "princess.ns.cloudflare.com",
+                    "status": [
+                        "active"
+                    ]
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "edward.ns.cloudflare.com",
+                    "status": [
+                        "active"
+                    ]
+                }
+            ],
+            "rdapConformance": [
+                "rdap_level_0",
+                "icann_rdap_technical_implementation_guide_1",
+                "icann_rdap_response_profile_1"
+            ],
+            "notices": [
+                {
+                    "title": "Status Codes",
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://icann.org/epp",
+                            "rel": "glossary",
+                            "href": "https://icann.org/epp"
+                        }
+                    ]
+                },
+                {
+                    "title": "RDDS Inaccuracy Complaint Form",
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://icann.org/wicf",
+                            "rel": "help",
+                            "href": "https://icann.org/wicf"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "domain": "wcoflix.tv\r"
+}

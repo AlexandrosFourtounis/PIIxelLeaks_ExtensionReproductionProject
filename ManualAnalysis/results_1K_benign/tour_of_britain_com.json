@@ -1,0 +1,411 @@
+{
+    "name": "tour-of-britain.com",
+    "handle": "2095697417_DOMAIN_COM-VRSN",
+    "registrationDate": "2/6/2017, 12:18:03 PM GMT+2",
+    "expirationDate": "2/6/2027, 12:18:03 PM GMT+2",
+    "lastChangedDate": "3/13/2026, 3:43:35 PM GMT+2",
+    "lastUpdateDate": "6/23/2026, 2:29:53 PM GMT+3",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "roles": [
+                "abuse"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+49.68949396850"
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": ""
+                        },
+                        "text",
+                        "abusereport@key-systems.net"
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "http://www.report-abuse.online"
+                    ]
+                ]
+            ]
+        },
+        {
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "roles": [
+                        "abuse"
+                    ],
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                ""
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "voice"
+                                },
+                                "uri",
+                                "tel:+49.68949396850"
+                            ],
+                            [
+                                "email",
+                                {
+                                    "type": ""
+                                },
+                                "text",
+                                "abusereport@key-systems.net"
+                            ],
+                            [
+                                "contact-uri",
+                                {},
+                                "uri",
+                                "http://www.report-abuse.online"
+                            ]
+                        ]
+                    ]
+                }
+            ],
+            "handle": "269",
+            "lang": "en-US",
+            "links": [
+                {
+                    "href": "http://www.key-systems.net",
+                    "rel": "about",
+                    "type": "application/rdap+json",
+                    "value": "https://rdap.rrpproxy.net/"
+                }
+            ],
+            "objectClassName": "entity",
+            "publicIds": [
+                {
+                    "identifier": "269",
+                    "type": "IANA Registrar ID"
+                }
+            ],
+            "roles": [
+                "registrar"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Key-Systems GmbH"
+                    ]
+                ]
+            ]
+        },
+        {
+            "lang": "en-US",
+            "objectClassName": "entity",
+            "remarks": [
+                {
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ],
+                    "type": "object redacted due to authorization"
+                }
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "On behalf of tour-of-britain.com OWNER"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "c/o whoisproxy.com"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "US",
+                            "type": ""
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "604 Cameron Street",
+                            "Alexandria",
+                            "VA",
+                            "22314",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+64.48319528"
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": ""
+                        },
+                        "text",
+                        "274e09e185eaec60bfa78d27952ce1135bf5d86f567fd888acb86eae962bad29@tour-of-britain.com.whoisproxy.org"
+                    ]
+                ]
+            ]
+        },
+        {
+            "lang": "en-US",
+            "objectClassName": "entity",
+            "remarks": [
+                {
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ],
+                    "type": "object redacted due to authorization"
+                }
+            ],
+            "roles": [
+                "technical"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "On behalf of tour-of-britain.com TECH"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "c/o whoisproxy.com"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "US",
+                            "type": ""
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "604 Cameron Street",
+                            "Alexandria",
+                            "VA",
+                            "22314",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+64.48319528"
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": ""
+                        },
+                        "text",
+                        "274e09e185eaec60bfa78d27952ce113d5f29d0690a18311573e6ec2d8879efa@tour-of-britain.com.whoisproxy.org"
+                    ]
+                ]
+            ]
+        },
+        {
+            "lang": "en-US",
+            "ldhName": "kara.ns.cloudflare.com",
+            "objectClassName": "nameserver",
+            "status": [
+                "active"
+            ],
+            "unicodeName": "kara.ns.cloudflare.com"
+        },
+        {
+            "lang": "en-US",
+            "ldhName": "major.ns.cloudflare.com",
+            "objectClassName": "nameserver",
+            "status": [
+                "active"
+            ],
+            "unicodeName": "major.ns.cloudflare.com"
+        },
+        {
+            "handle": "2095697417_DOMAIN_COM-VRSN",
+            "ldhName": "tour-of-britain.com",
+            "nameservers": [
+                {
+                    "lang": "en-US",
+                    "ldhName": "kara.ns.cloudflare.com",
+                    "objectClassName": "nameserver",
+                    "status": [
+                        "active"
+                    ],
+                    "unicodeName": "kara.ns.cloudflare.com"
+                },
+                {
+                    "lang": "en-US",
+                    "ldhName": "major.ns.cloudflare.com",
+                    "objectClassName": "nameserver",
+                    "status": [
+                        "active"
+                    ],
+                    "unicodeName": "major.ns.cloudflare.com"
+                }
+            ],
+            "notices": [
+                {
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ],
+                    "links": [
+                        {
+                            "href": "https://icann.org/epp",
+                            "rel": "glossary",
+                            "title": "More information on domain status codes",
+                            "type": "application/rdap+json",
+                            "value": "https://rdap.rrpproxy.net/domain/tour-of-britain.com"
+                        }
+                    ],
+                    "title": "Status Codes"
+                },
+                {
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ],
+                    "links": [
+                        {
+                            "href": "https://icann.org/wicf",
+                            "rel": "help",
+                            "type": "application/rdap+json",
+                            "value": "https://rdap.rrpproxy.net/domain/tour-of-britain.com"
+                        }
+                    ],
+                    "title": "RDDS Inaccuracy Complaint Form"
+                },
+                {
+                    "description": [
+                        "The data in the RDAP database of Key-Systems GmbH is provided by",
+                        "Key-Systems GmbH for information purposes, and to assist persons in",
+                        "obtaining information about or related to domain name registration",
+                        "records. Key-Systems GmbH does not guarantee its accuracy.",
+                        "By submitting a RDAP query, you agree that you will use this data",
+                        "only for lawful purposes and that, under no circumstances, you will",
+                        "use this data to",
+                        "1) allow, enable, or otherwise support the transmission of mass",
+                        "   unsolicited, commercial advertising or solicitations via E-mail",
+                        "   (spam); or",
+                        "2) enable high volume, automated, electronic processes that apply",
+                        "   to Key-Systems GmbH or its systems.",
+                        "Key-Systems GmbH reserves the right to modify these terms.",
+                        "By submitting this query, you agree to abide by this policy."
+                    ],
+                    "links": [
+                        {
+                            "href": "https://www.key-systems.net/en/legal/terms-conditions",
+                            "rel": "terms-of-service",
+                            "title": "Terms & Conditions",
+                            "value": "https://rdap.rrpproxy.net/domain/tour-of-britain.com"
+                        }
+                    ],
+                    "title": "Terms of Use"
+                }
+            ],
+            "objectClassName": "domain",
+            "rdapConformance": [
+                "rdap_level_0",
+                "icann_rdap_response_profile_1",
+                "icann_rdap_technical_implementation_guide_1",
+                "redacted"
+            ],
+            "redacted": [
+                {
+                    "method": "removal",
+                    "name": {
+                        "type": "Registry Registrant ID"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].handle"
+                },
+                {
+                    "method": "removal",
+                    "name": {
+                        "type": "Registry Tech ID"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='tech')].handle"
+                }
+            ],
+            "secureDNS": {
+                "delegationSigned": false
+            },
+            "unicodeName": "tour-of-britain.com"
+        }
+    ],
+    "domain": "tour-of-britain.com\r"
+}

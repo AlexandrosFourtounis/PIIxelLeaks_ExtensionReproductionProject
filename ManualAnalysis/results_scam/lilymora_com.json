@@ -1,0 +1,565 @@
+{
+    "name": "lilymora.com",
+    "handle": "3086003575_DOMAIN_COM-VRSN",
+    "registrationDate": "4/9/2026, 8:40:47 PM GMT+3",
+    "expirationDate": "4/9/2027, 8:40:47 PM GMT+3",
+    "lastChangedDate": "4/9/2026, 8:40:47 PM GMT+3",
+    "lastUpdateDate": "6/16/2026, 6:40:57 PM GMT+3",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "roles": [
+                "abuse"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Abuse Contact"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "abuse@sudu.cn"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+86-28-68399778"
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "1605",
+            "roles": [
+                "registrar"
+            ],
+            "publicIds": [
+                {
+                    "type": "IANA Registrar ID",
+                    "identifier": "1605"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "CHENGDU FLY-DIGITAL TECHNOLOGY CO., LTD"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "type": "work",
+                            "cc": "CN"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "10F-5,Beite Kangpai,No.51,Qinglong Street,Qingyang District",
+                            "Chengdu",
+                            "Sichuan",
+                            "610000",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+86-28-68399778"
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": "work,abuse"
+                        },
+                        "text",
+                        "abuse@sudu.cn"
+                    ]
+                ]
+            ],
+            "events": [
+                {
+                    "eventAction": "last update of RDAP database",
+                    "eventDate": "2026-06-16T15:40:57Z"
+                }
+            ],
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "https://whois.sudu.cn/entity/1605",
+                    "type": "application/rdap+json",
+                    "hreflang": "en-US",
+                    "value": "https://whois.sudu.cn/entity/1605"
+                },
+                {
+                    "rel": "related",
+                    "href": "https://whois.sudu.cn/",
+                    "type": "application/rdap+json",
+                    "hreflang": "en-US",
+                    "value": "https://whois.sudu.cn/"
+                },
+                {
+                    "rel": "about",
+                    "href": "https://www.sudu.cn",
+                    "type": "application/rdap+json",
+                    "hreflang": "en-US",
+                    "value": "https://whois.sudu.cn/"
+                }
+            ],
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "roles": [
+                        "abuse"
+                    ],
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Abuse Contact"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "abuse@sudu.cn"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "voice"
+                                },
+                                "uri",
+                                "tel:+86-28-68399778"
+                            ]
+                        ]
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "3086003575_DOMAIN_COM_VRSN_REGISTRANT-53aea425",
+            "roles": [
+                "registrant"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "CN"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "domain@sudu.cn"
+                    ]
+                ]
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2026-04-09T17:40:47Z"
+                }
+            ],
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "description": [
+                        "Personal data including name, address, phone number and email has been redacted per ICANN Registration Data Policy."
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "3086003575_DOMAIN_COM_VRSN_TECHNICAL-854f8d9b",
+            "roles": [
+                "technical"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "CN"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "domain@sudu.cn"
+                    ]
+                ]
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2026-04-09T17:40:47Z"
+                }
+            ],
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "description": [
+                        "Personal data including name, address, phone number and email has been redacted per ICANN Registration Data Policy. Redacted for privacy purposes. To contact the registrant, please use the contact information provided by the registrar."
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns1.judns.com",
+            "unicodeName": "ns1.judns.com",
+            "lang": "en-US"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns2.judns.com",
+            "unicodeName": "ns2.judns.com",
+            "lang": "en-US"
+        },
+        {
+            "rdapConformance": [
+                "rdap_level_0",
+                "icann_rdap_response_profile_1",
+                "icann_rdap_technical_implementation_guide_1",
+                "redacted"
+            ],
+            "objectClassName": "domain",
+            "handle": "3086003575_DOMAIN_COM-VRSN",
+            "ldhName": "lilymora.com",
+            "unicodeName": "lilymora.com",
+            "lang": "en-US",
+            "port43": "whois.sudu.cn",
+            "secureDNS": {
+                "delegationSigned": false
+            },
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns1.judns.com",
+                    "unicodeName": "ns1.judns.com",
+                    "lang": "en-US"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns2.judns.com",
+                    "unicodeName": "ns2.judns.com",
+                    "lang": "en-US"
+                }
+            ],
+            "redacted": [
+                {
+                    "name": {
+                        "type": "Registrant Name"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]==\"registrant\")].vcardArray[1][?(@[0]==\"fn\")][3]",
+                    "pathLang": "jsonpath",
+                    "method": "emptyValue",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "type": "Registrant Street"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]==\"registrant\")].vcardArray[1][?(@[0]==\"adr\")][3][2]",
+                    "pathLang": "jsonpath",
+                    "method": "emptyValue",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "type": "Registrant City"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]==\"registrant\")].vcardArray[1][?(@[0]==\"adr\")][3][3]",
+                    "pathLang": "jsonpath",
+                    "method": "emptyValue",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "type": "Registrant Postal Code"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]==\"registrant\")].vcardArray[1][?(@[0]==\"adr\")][3][5]",
+                    "pathLang": "jsonpath",
+                    "method": "emptyValue",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "type": "Registrant Phone"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]==\"registrant\")].vcardArray[1][?(@[0]==\"tel\")][3]",
+                    "pathLang": "jsonpath",
+                    "method": "removal",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "type": "Registrant Email"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]==\"registrant\")].vcardArray[1][?(@[0]==\"email\")][3]",
+                    "pathLang": "jsonpath",
+                    "method": "replacementValue",
+                    "replacement": "domain@sudu.cn",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "type": "Tech Name"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]==\"technical\")].vcardArray[1][?(@[0]==\"fn\")][3]",
+                    "pathLang": "jsonpath",
+                    "method": "emptyValue",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "type": "Tech Street"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]==\"technical\")].vcardArray[1][?(@[0]==\"adr\")][3][2]",
+                    "pathLang": "jsonpath",
+                    "method": "emptyValue",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "type": "Tech City"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]==\"technical\")].vcardArray[1][?(@[0]==\"adr\")][3][3]",
+                    "pathLang": "jsonpath",
+                    "method": "emptyValue",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "type": "Tech Postal Code"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]==\"technical\")].vcardArray[1][?(@[0]==\"adr\")][3][5]",
+                    "pathLang": "jsonpath",
+                    "method": "emptyValue",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "type": "Tech Phone"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]==\"technical\")].vcardArray[1][?(@[0]==\"tel\")][3]",
+                    "pathLang": "jsonpath",
+                    "method": "removal",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "type": "Tech Email"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]==\"technical\")].vcardArray[1][?(@[0]==\"email\")][3]",
+                    "pathLang": "jsonpath",
+                    "method": "replacementValue",
+                    "replacement": "domain@sudu.cn",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                }
+            ],
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "https://whois.sudu.cn/domain/lilymora.com",
+                    "type": "application/rdap+json",
+                    "hreflang": "en-US",
+                    "value": "https://whois.sudu.cn/domain/lilymora.com"
+                },
+                {
+                    "rel": "related",
+                    "href": "https://whois.sudu.cn/",
+                    "type": "application/rdap+json",
+                    "hreflang": "en-US",
+                    "value": "https://whois.sudu.cn/"
+                }
+            ],
+            "notices": [
+                {
+                    "title": "Data Redaction",
+                    "description": [
+                        "Personal data redacted per ICANN Registration Data Policy Section 3.2."
+                    ]
+                },
+                {
+                    "title": "Terms of Service",
+                    "description": [
+                        "Usage of RDAP data is subject to ICANN RDDS Specification and the registrar's terms of service."
+                    ],
+                    "links": [
+                        {
+                            "rel": "terms-of-service",
+                            "href": "https://whois.sudu.cn/terms",
+                            "type": "text/html",
+                            "hreflang": "en-US",
+                            "value": "https://whois.sudu.cn/domain/lilymora.com"
+                        }
+                    ]
+                },
+                {
+                    "title": "Status Codes",
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ],
+                    "links": [
+                        {
+                            "rel": "glossary",
+                            "href": "https://icann.org/epp",
+                            "type": "text/html",
+                            "hreflang": "en-US",
+                            "value": "https://whois.sudu.cn/domain/lilymora.com"
+                        }
+                    ]
+                },
+                {
+                    "title": "RDDS Inaccuracy Complaint Form",
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ],
+                    "links": [
+                        {
+                            "rel": "help",
+                            "href": "https://icann.org/wicf",
+                            "type": "text/html",
+                            "hreflang": "en-US",
+                            "value": "https://whois.sudu.cn/domain/lilymora.com"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "domain": "lilymora.com\r"
+}

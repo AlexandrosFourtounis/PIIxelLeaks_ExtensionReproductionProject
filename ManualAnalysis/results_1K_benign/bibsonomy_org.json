@@ -1,0 +1,503 @@
+{
+    "name": "bibsonomy.org",
+    "handle": "94a9d6a27b73481a8dd767db8da5be5d-LROR",
+    "registrationDate": "4/12/2005, 4:38:54 PM GMT+3",
+    "expirationDate": "4/12/2027, 4:38:54 PM GMT+3",
+    "lastChangedDate": "4/12/2026, 3:20:22 AM GMT+3",
+    "lastUpdateDate": "6/23/2026, 4:52:13 PM GMT+3",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Abuse Contact"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "INWX GmbH"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+49.30983212123"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "abuse@inwx.com"
+                    ]
+                ]
+            ],
+            "roles": [
+                "abuse"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "links": [
+                {
+                    "value": "https://rdap.domrobot.com/",
+                    "rel": "about",
+                    "href": "https://inwx.de"
+                }
+            ],
+            "handle": "1420",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "INWX GmbH"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrar"
+            ],
+            "publicIds": [
+                {
+                    "type": "IANA Registrar ID",
+                    "identifier": "1420"
+                }
+            ],
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Abuse Contact"
+                            ],
+                            [
+                                "org",
+                                {},
+                                "text",
+                                "INWX GmbH"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "voice"
+                                },
+                                "uri",
+                                "tel:+49.30983212123"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "abuse@inwx.com"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "abuse"
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "DE"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "Bayern",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "https://whois-contact.domrobot.com"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrant"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "DE"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "BE",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "https://whois-contact.domrobot.com"
+                    ]
+                ]
+            ],
+            "roles": [
+                "technical"
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns.inwx.de",
+            "unicodeName": "ns.inwx.de"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns2.inwx.de",
+            "unicodeName": "ns2.inwx.de"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns3.inwx.eu",
+            "unicodeName": "ns3.inwx.eu"
+        },
+        {
+            "rdapConformance": [
+                "redacted",
+                "rdap_level_0",
+                "icann_rdap_technical_implementation_guide_1",
+                "icann_rdap_response_profile_1"
+            ],
+            "objectClassName": "domain",
+            "links": [
+                {
+                    "value": "https://rdap.domrobot.com/domain/bibsonomy.org",
+                    "rel": "self",
+                    "href": "https://rdap.domrobot.com/domain/bibsonomy.org",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "notices": [
+                {
+                    "title": "Status Codes",
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.domrobot.com/domain/bibsonomy.org",
+                            "rel": "glossary",
+                            "href": "https://icann.org/epp",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "RDDS Inaccuracy Complaint Form",
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.domrobot.com/domain/bibsonomy.org",
+                            "rel": "help",
+                            "href": "https://icann.org/wicf",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "Terms of Use",
+                    "description": [
+                        "By submitting an inquiry, you agree to these Universal Terms of Service",
+                        "and limitations of warranty. In particular, you agree not to use this",
+                        "data to allow, enable, or otherwise make possible, dissemination or",
+                        "collection of this data, in part or in its entirety, for any purpose,",
+                        "such as the transmission of unsolicited advertising and solicitations of",
+                        "any kind, including spam. You further agree not to use this data to enable",
+                        "high volume, automated or robotic electronic processes designed to collect",
+                        "or compile this data for any purpose, including mining this data for your",
+                        "own personal or commercial purposes, or use this data in any way that violates",
+                        "applicable laws and regulations."
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.domrobot.com/domain/bibsonomy.org",
+                            "rel": "terms-of-service",
+                            "href": "https://www.inwx.com/en/aboutus/terms",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "RDAP Help Document",
+                    "description": [
+                        "Documentation describing the functionality of this RDAP service."
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.domrobot.com/domain/bibsonomy.org",
+                            "rel": "related",
+                            "href": "https://kb.inwx.com/en-us/1-domains/202-rdap-help",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "Query Policy",
+                    "description": [
+                        "Queries are limited to 60 per 60 seconds per IP."
+                    ]
+                }
+            ],
+            "port43": "whois.domrobot.com",
+            "handle": "94a9d6a27b73481a8dd767db8da5be5d-LROR",
+            "ldhName": "bibsonomy.org",
+            "unicodeName": "bibsonomy.org",
+            "secureDNS": {
+                "delegationSigned": false
+            },
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns.inwx.de",
+                    "unicodeName": "ns.inwx.de"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns2.inwx.de",
+                    "unicodeName": "ns2.inwx.de"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns3.inwx.eu",
+                    "unicodeName": "ns3.inwx.eu"
+                }
+            ],
+            "redacted": [
+                {
+                    "name": {
+                        "type": "Registrant Name"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='fn')][3]",
+                    "pathLang": "jsonpath",
+                    "method": "emptyValue"
+                },
+                {
+                    "name": {
+                        "type": "Registrant Organization"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='org')]",
+                    "pathLang": "jsonpath",
+                    "method": "removal"
+                },
+                {
+                    "name": {
+                        "type": "Registrant Street"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][:3]",
+                    "pathLang": "jsonpath",
+                    "method": "emptyValue"
+                },
+                {
+                    "name": {
+                        "type": "Registrant City"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][3]",
+                    "pathLang": "jsonpath",
+                    "method": "emptyValue"
+                },
+                {
+                    "name": {
+                        "type": "Registrant Postal Code"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][5]",
+                    "pathLang": "jsonpath",
+                    "method": "emptyValue"
+                },
+                {
+                    "name": {
+                        "type": "Registrant Phone"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[1].type=='voice')]",
+                    "pathLang": "jsonpath",
+                    "method": "removal"
+                },
+                {
+                    "name": {
+                        "type": "Registrant Fax"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[1].type=='fax')]",
+                    "pathLang": "jsonpath",
+                    "method": "removal"
+                },
+                {
+                    "name": {
+                        "type": "Registrant Email"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='email')]",
+                    "replacementPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='contact-uri')]",
+                    "pathLang": "jsonpath",
+                    "method": "replacementValue"
+                },
+                {
+                    "name": {
+                        "type": "Registry Registrant ID"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].handle",
+                    "pathLang": "jsonpath",
+                    "method": "removal"
+                },
+                {
+                    "name": {
+                        "type": "Tech Name"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='fn')][3]",
+                    "pathLang": "jsonpath",
+                    "method": "emptyValue"
+                },
+                {
+                    "name": {
+                        "type": "Tech Organization"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='org')]",
+                    "pathLang": "jsonpath",
+                    "method": "removal"
+                },
+                {
+                    "name": {
+                        "type": "Tech Street"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='adr')][3][:3]",
+                    "pathLang": "jsonpath",
+                    "method": "emptyValue"
+                },
+                {
+                    "name": {
+                        "type": "Tech City"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='adr')][3][3]",
+                    "pathLang": "jsonpath",
+                    "method": "emptyValue"
+                },
+                {
+                    "name": {
+                        "type": "Tech Postal Code"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='adr')][3][5]",
+                    "pathLang": "jsonpath",
+                    "method": "emptyValue"
+                },
+                {
+                    "name": {
+                        "type": "Tech Phone"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[1].type=='voice')]",
+                    "pathLang": "jsonpath",
+                    "method": "removal"
+                },
+                {
+                    "name": {
+                        "type": "Tech Fax"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[1].type=='fax')]",
+                    "pathLang": "jsonpath",
+                    "method": "removal"
+                },
+                {
+                    "name": {
+                        "type": "Tech Email"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='email')]",
+                    "replacementPath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='contact-uri')]",
+                    "pathLang": "jsonpath",
+                    "method": "replacementValue"
+                },
+                {
+                    "name": {
+                        "type": "Registry Tech ID"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='technical')].handle",
+                    "pathLang": "jsonpath",
+                    "method": "removal"
+                }
+            ]
+        }
+    ],
+    "domain": "bibsonomy.org\r"
+}

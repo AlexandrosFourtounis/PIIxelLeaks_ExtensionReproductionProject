@@ -1,0 +1,225 @@
+{
+    "name": "hankyung.com",
+    "handle": "11416213_DOMAIN_COM-VRSN",
+    "registrationDate": "10/18/1999, 4:33:13 AM GMT+3",
+    "expirationDate": "10/18/2030, 4:33:13 AM GMT+3",
+    "lastChangedDate": "10/21/2020, 7:10:10 PM GMT+3",
+    "lastUpdateDate": "6/23/2026, 7:12:44 PM GMT+3",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "handle": "",
+            "status": [
+                "active"
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "The Korea Economic Daily "
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "The Korea Economic Daily "
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "dahahkim@hankyung.com"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+82.232779900"
+                    ],
+                    [
+                        "adr",
+                        {},
+                        "text",
+                        [
+                            "",
+                            "",
+                            "463 Cheongpa-ro Jung-gu Seoul",
+                            "Korea",
+                            "",
+                            "04505",
+                            "KR"
+                        ]
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "",
+            "status": [
+                "active"
+            ],
+            "roles": [
+                "admin"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "The Korea Economic Daily "
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "The Korea Economic Daily "
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "dahahkim@hankyung.com"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+82.232779900"
+                    ],
+                    [
+                        "adr",
+                        {},
+                        "text",
+                        [
+                            "",
+                            "",
+                            "463 Cheongpa-ro Jung-gu Seoul",
+                            "Korea",
+                            "",
+                            "04505",
+                            "KR"
+                        ]
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "",
+            "status": [
+                "active"
+            ],
+            "roles": [
+                "technical"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "The Korea Economic Daily "
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "The Korea Economic Daily "
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "dahahkim@hankyung.com"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+82.232779900"
+                    ],
+                    [
+                        "adr",
+                        {},
+                        "text",
+                        [
+                            "",
+                            "",
+                            "463 Cheongpa-ro Jung-gu Seoul",
+                            "Korea",
+                            "",
+                            "04505",
+                            "KR"
+                        ]
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "NS1.HANKYUNG.COM"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "NS2.HANKYUNG.COM"
+        },
+        {
+            "rdapConformance": [
+                "rdap_level_0"
+            ],
+            "port43": "whois.co.kr",
+            "lang": "en",
+            "objectClassName": "domain",
+            "ldhName": "hankyung.com",
+            "handle": "11416213_DOMAIN_COM-VRSN",
+            "secureDNS": {
+                "delegationSigned": false
+            },
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "NS1.HANKYUNG.COM"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "NS2.HANKYUNG.COM"
+                }
+            ]
+        }
+    ],
+    "domain": "hankyung.com\r"
+}

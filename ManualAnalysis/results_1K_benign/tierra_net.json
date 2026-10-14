@@ -1,0 +1,515 @@
+{
+    "name": "TIERRA.NET",
+    "handle": "447715",
+    "registrationDate": "12/31/1996, 10:00:00 AM GMT+2",
+    "expirationDate": "12/30/2026, 9:49:02 AM GMT+2",
+    "lastChangedDate": "12/16/2025, 8:03:07 AM GMT+2",
+    "lastUpdateDate": "6/23/2026, 7:14:12 PM GMT+3",
+    "rawData": [
+        {
+            "roles": [
+                "registrant"
+            ],
+            "objectClassName": "entity",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "TierraNet Hostmaster"
+                    ],
+                    [
+                        "org",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "TierraNet, Inc."
+                    ],
+                    [
+                        "adr",
+                        {},
+                        "text",
+                        [
+                            "",
+                            "",
+                            "PO BOX 502010",
+                            "San Diego",
+                            "CA",
+                            "92150-2010",
+                            "US"
+                        ]
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "https://www.tierra.net/products/domains/whois?domain=tierra.net"
+                    ]
+                ]
+            ],
+            "handle": "1"
+        },
+        {
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "TierraNet Hostmaster"
+                    ],
+                    [
+                        "org",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "TierraNet, Inc."
+                    ],
+                    [
+                        "adr",
+                        {},
+                        "text",
+                        [
+                            "",
+                            "",
+                            "PO BOX 502010",
+                            "San Diego",
+                            "CA",
+                            "92150-2010",
+                            "US"
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {},
+                        "uri",
+                        "tel:+858.5609416"
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "https://www.tierra.net/products/domains/whois?domain=tierra.net"
+                    ]
+                ]
+            ],
+            "handle": "2",
+            "objectClassName": "entity",
+            "roles": [
+                "administrative"
+            ]
+        },
+        {
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "TierraNet Hostmaster"
+                    ],
+                    [
+                        "org",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "TierraNet, Inc."
+                    ],
+                    [
+                        "adr",
+                        {},
+                        "text",
+                        [
+                            "",
+                            "",
+                            "PO BOX 502010",
+                            "San Diego",
+                            "CA",
+                            "92150-2010",
+                            "US"
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {},
+                        "uri",
+                        "tel:+858.5609416"
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "https://www.tierra.net/products/domains/whois?domain=tierra.net"
+                    ]
+                ]
+            ],
+            "handle": "3",
+            "objectClassName": "entity",
+            "roles": [
+                "technical"
+            ]
+        },
+        {
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "TierraNet Hostmaster"
+                    ],
+                    [
+                        "org",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "TierraNet, Inc."
+                    ],
+                    [
+                        "adr",
+                        {},
+                        "text",
+                        [
+                            "",
+                            "",
+                            "PO BOX 502010",
+                            "San Diego",
+                            "CA",
+                            "92150-2010",
+                            "US"
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {},
+                        "uri",
+                        "tel:+858.5609416"
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "https://www.tierra.net/products/domains/whois?domain=tierra.net"
+                    ]
+                ]
+            ],
+            "handle": "4",
+            "objectClassName": "entity",
+            "roles": [
+                "billing"
+            ]
+        },
+        {
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "voice"
+                            ]
+                        },
+                        "uri",
+                        "tel:+1.6193932105"
+                    ],
+                    [
+                        "contact-uri",
+                        {
+                            "type": "work"
+                        },
+                        "uri",
+                        "mailto:icann-abuse-reports@tierra.net"
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "https://www.tierra.net/domain-abuse"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "DomainSpot LLC"
+                    ]
+                ]
+            ],
+            "handle": "",
+            "objectClassName": "entity",
+            "roles": [
+                "abuse"
+            ]
+        },
+        {
+            "entities": [
+                {
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "voice"
+                                    ]
+                                },
+                                "uri",
+                                "tel:+1.6193932105"
+                            ],
+                            [
+                                "contact-uri",
+                                {
+                                    "type": "work"
+                                },
+                                "uri",
+                                "mailto:icann-abuse-reports@tierra.net"
+                            ],
+                            [
+                                "contact-uri",
+                                {},
+                                "uri",
+                                "https://www.tierra.net/domain-abuse"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "DomainSpot LLC"
+                            ]
+                        ]
+                    ],
+                    "handle": "",
+                    "objectClassName": "entity",
+                    "roles": [
+                        "abuse"
+                    ]
+                }
+            ],
+            "handle": "86",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "DomainSpot LLC"
+                    ],
+                    [
+                        "contact-uri",
+                        {
+                            "type": "work"
+                        },
+                        "uri",
+                        "mailto:icann-abuse-reports@tierra.net"
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "https://www.tierra.net/domain-abuse"
+                    ]
+                ]
+            ],
+            "publicIds": [
+                {
+                    "type": "IANA Registrar ID",
+                    "identifier": "86"
+                }
+            ],
+            "roles": [
+                "registrar"
+            ],
+            "objectClassName": "entity"
+        },
+        {
+            "ldhName": "NS1.TIERRA.NET",
+            "objectClassName": "nameserver"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "NS2.TIERRA.NET"
+        },
+        {
+            "ldhName": "TIERRA.NET",
+            "nameservers": [
+                {
+                    "ldhName": "NS1.TIERRA.NET",
+                    "objectClassName": "nameserver"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "NS2.TIERRA.NET"
+                }
+            ],
+            "handle": "447715",
+            "rdapConformance": [
+                "rdap_level_0",
+                "icann_rdap_response_profile_0",
+                "icann_rdap_technical_implementation_guide_0"
+            ],
+            "secureDNS": {
+                "delegationSigned": false
+            },
+            "remarks": [
+                {
+                    "title": "EPP Status Codes",
+                    "links": [
+                        {
+                            "rel": "glossary",
+                            "value": "https://icann.org/epp",
+                            "href": "https://icann.org/epp"
+                        }
+                    ],
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ]
+                },
+                {
+                    "title": "Whois Inaccuracy Complaint Form",
+                    "links": [
+                        {
+                            "href": "https://www.icann.org/wicf",
+                            "rel": "help",
+                            "value": "https://www.icann.org/wicf"
+                        }
+                    ],
+                    "description": [
+                        "URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf"
+                    ]
+                }
+            ],
+            "objectClassName": "domain",
+            "links": [
+                {
+                    "type": "application/rdap+json",
+                    "href": "https://rdapanchor.com/domain/tierra.net",
+                    "value": "https://rdapanchor.com/domain/tierra.net",
+                    "rel": "self"
+                }
+            ],
+            "notices": [
+                {
+                    "title": "Status Codes",
+                    "links": [
+                        {
+                            "href": "https://icann.org/epp",
+                            "value": "https://icann.org/epp",
+                            "rel": "related",
+                            "type": "text/html"
+                        }
+                    ],
+                    "description": [
+                        "For more information on Whois status codes, please visit https://www.icann.org/epp",
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ]
+                },
+                {
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ],
+                    "links": [
+                        {
+                            "rel": "related",
+                            "value": "https://icann.org/wicf",
+                            "href": "https://icann.org/wicf",
+                            "type": "text/html"
+                        }
+                    ],
+                    "title": "RDDS Inaccuracy Complaint Form"
+                },
+                {
+                    "title": "Terms of Use",
+                    "description": [
+                        "Access to DomainSpot's RDAP information is provided to assist persons in determining the contents of a domain name registration record in DomainSpot's database. The data in this record is provided by DomainSpot for informational purposes only, and DomainSpot does not guarantee its accuracy. This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to (a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of any Registrar or Registry Operator, except as reasonably necessary to register domain names or modify existing registrations. All rights reserved. DomainSpot reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy.\n"
+                    ],
+                    "links": [
+                        {
+                            "rel": "terms-of-service",
+                            "value": "https://rdapanchor.com/terms_of_use.html",
+                            "href": "https://rdapanchor.com/terms_of_use.html",
+                            "type": "text/html"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "domain": "tierra.net\r"
+}

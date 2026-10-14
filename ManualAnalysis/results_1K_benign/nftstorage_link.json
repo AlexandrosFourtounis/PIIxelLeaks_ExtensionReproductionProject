@@ -1,0 +1,399 @@
+{
+    "name": "nftstorage.link",
+    "handle": "DO_d291aca874651dd75c3b38ea1260bb5d-UR",
+    "registrationDate": "2/11/2022, 12:44:03 PM GMT+2",
+    "expirationDate": "2/11/2028, 12:44:03 PM GMT+2",
+    "lastChangedDate": "11/24/2025, 2:59:50 PM GMT+2",
+    "lastUpdateDate": "6/23/2026, 2:04:12 PM GMT+3",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "roles": [
+                "abuse"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+49.68949396850"
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": ""
+                        },
+                        "text",
+                        "abuse@1api.net"
+                    ]
+                ]
+            ]
+        },
+        {
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "roles": [
+                        "abuse"
+                    ],
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                ""
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "voice"
+                                },
+                                "uri",
+                                "tel:+49.68949396850"
+                            ],
+                            [
+                                "email",
+                                {
+                                    "type": ""
+                                },
+                                "text",
+                                "abuse@1api.net"
+                            ]
+                        ]
+                    ]
+                }
+            ],
+            "handle": "1387",
+            "lang": "en-US",
+            "links": [
+                {
+                    "href": "https://dnsimple.com",
+                    "rel": "about",
+                    "type": "application/rdap+json",
+                    "value": "https://rdap.1api.net/"
+                }
+            ],
+            "objectClassName": "entity",
+            "publicIds": [
+                {
+                    "identifier": "1387",
+                    "type": "IANA Registrar ID"
+                }
+            ],
+            "roles": [
+                "registrar"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "1API GmbH"
+                    ]
+                ]
+            ]
+        },
+        {
+            "lang": "en-US",
+            "objectClassName": "entity",
+            "remarks": [
+                {
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ],
+                    "type": "object redacted due to authorization"
+                }
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "On behalf of nftstorage.link OWNER"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "c/o whoisproxy.com"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "US",
+                            "type": ""
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "604 Cameron Street",
+                            "Alexandria",
+                            "VA",
+                            "22314",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+64.48319528"
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": ""
+                        },
+                        "text",
+                        "311604ad5119b61b34fb32ad8a7c136ef0818f79c461ed016d16a039db0e3f78@nftstorage.link.whoisproxy.org"
+                    ]
+                ]
+            ]
+        },
+        {
+            "lang": "en-US",
+            "objectClassName": "entity",
+            "remarks": [
+                {
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ],
+                    "type": "object redacted due to authorization"
+                }
+            ],
+            "roles": [
+                "technical"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "On behalf of nftstorage.link TECH"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "c/o whoisproxy.com"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "US",
+                            "type": ""
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "604 Cameron Street",
+                            "Alexandria",
+                            "VA",
+                            "22314",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+64.48319528"
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": ""
+                        },
+                        "text",
+                        "311604ad5119b61b34fb32ad8a7c136ef0818f79c461ed016d16a039db0e3f78@nftstorage.link.whoisproxy.org"
+                    ]
+                ]
+            ]
+        },
+        {
+            "lang": "en-US",
+            "ldhName": "clarissa.ns.cloudflare.com",
+            "objectClassName": "nameserver",
+            "status": [
+                "active"
+            ],
+            "unicodeName": "clarissa.ns.cloudflare.com"
+        },
+        {
+            "lang": "en-US",
+            "ldhName": "tate.ns.cloudflare.com",
+            "objectClassName": "nameserver",
+            "status": [
+                "active"
+            ],
+            "unicodeName": "tate.ns.cloudflare.com"
+        },
+        {
+            "handle": "DO_d291aca874651dd75c3b38ea1260bb5d-UR",
+            "ldhName": "nftstorage.link",
+            "nameservers": [
+                {
+                    "lang": "en-US",
+                    "ldhName": "clarissa.ns.cloudflare.com",
+                    "objectClassName": "nameserver",
+                    "status": [
+                        "active"
+                    ],
+                    "unicodeName": "clarissa.ns.cloudflare.com"
+                },
+                {
+                    "lang": "en-US",
+                    "ldhName": "tate.ns.cloudflare.com",
+                    "objectClassName": "nameserver",
+                    "status": [
+                        "active"
+                    ],
+                    "unicodeName": "tate.ns.cloudflare.com"
+                }
+            ],
+            "notices": [
+                {
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ],
+                    "links": [
+                        {
+                            "href": "https://icann.org/epp",
+                            "rel": "glossary",
+                            "title": "More information on domain status codes",
+                            "type": "application/rdap+json",
+                            "value": "https://rdap.1api.net/domain/nftstorage.link"
+                        }
+                    ],
+                    "title": "Status Codes"
+                },
+                {
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ],
+                    "links": [
+                        {
+                            "href": "https://icann.org/wicf",
+                            "rel": "help",
+                            "type": "application/rdap+json",
+                            "value": "https://rdap.1api.net/domain/nftstorage.link"
+                        }
+                    ],
+                    "title": "RDDS Inaccuracy Complaint Form"
+                },
+                {
+                    "description": [
+                        "This data is provided by DNSimple",
+                        "for information purposes, and to assist persons obtaining information",
+                        "about or related to domain name registration records.",
+                        "DNSimple does not guarantee its accuracy.",
+                        "By submitting a RDAP query, you agree that you will use this data",
+                        "only for lawful purposes and that, under no circumstances, you will",
+                        "use this data to",
+                        "1) allow, enable, or otherwise support the transmission of mass",
+                        "   unsolicited, commercial advertising or solicitations via E-mail",
+                        "   (spam) or",
+                        "2) enable high volume, automated, electronic processes that apply",
+                        "   to this RDAP server.",
+                        "These terms may be changed without prior notice.",
+                        "By submitting this query, you agree to abide by this policy."
+                    ],
+                    "links": [
+                        {
+                            "href": "https://1api.net/legal/terms-of-service",
+                            "rel": "terms-of-service",
+                            "title": "Terms & Conditions",
+                            "value": "https://rdap.1api.net/domain/nftstorage.link"
+                        }
+                    ],
+                    "title": "Terms of Use"
+                }
+            ],
+            "objectClassName": "domain",
+            "rdapConformance": [
+                "rdap_level_0",
+                "icann_rdap_response_profile_1",
+                "icann_rdap_technical_implementation_guide_1",
+                "redacted"
+            ],
+            "redacted": [
+                {
+                    "method": "removal",
+                    "name": {
+                        "type": "Registry Registrant ID"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].handle"
+                },
+                {
+                    "method": "removal",
+                    "name": {
+                        "type": "Registry Tech ID"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='tech')].handle"
+                }
+            ],
+            "secureDNS": {
+                "delegationSigned": false
+            },
+            "unicodeName": "nftstorage.link"
+        }
+    ],
+    "domain": "nftstorage.link\r"
+}

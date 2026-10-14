@@ -1,0 +1,188 @@
+{
+    "name": "aktualne.cz",
+    "handle": "aktualne.cz",
+    "registrationDate": "10/15/1998, 3:00:00 AM GMT+3",
+    "expirationDate": "10/29/2026, 1:00:00 AM GMT+2",
+    "lastChangedDate": "4/5/2019, 4:45:59 PM GMT+3",
+    "lastUpdateDate": null,
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "handle": "CENTRUM-CZ",
+            "roles": [
+                "registrant"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.nic.cz/entity/CENTRUM-CZ",
+                    "rel": "self",
+                    "href": "https://rdap.nic.cz/entity/CENTRUM-CZ",
+                    "type": "application/rdap+json"
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "REG-WEDOS",
+            "roles": [
+                "registrar"
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "handle": "clark.ns.cloudflare.com",
+            "ldhName": "clark.ns.cloudflare.com",
+            "links": [
+                {
+                    "value": "https://rdap.nic.cz/nameserver/clark.ns.cloudflare.com",
+                    "rel": "self",
+                    "href": "https://rdap.nic.cz/nameserver/clark.ns.cloudflare.com",
+                    "type": "application/rdap+json"
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "handle": "janet.ns.cloudflare.com",
+            "ldhName": "janet.ns.cloudflare.com",
+            "links": [
+                {
+                    "value": "https://rdap.nic.cz/nameserver/janet.ns.cloudflare.com",
+                    "rel": "self",
+                    "href": "https://rdap.nic.cz/nameserver/janet.ns.cloudflare.com",
+                    "type": "application/rdap+json"
+                }
+            ]
+        },
+        {
+            "objectClassName": "domain",
+            "rdapConformance": [
+                "rdap_level_0",
+                "fred_version_0"
+            ],
+            "handle": "aktualne.cz",
+            "ldhName": "aktualne.cz",
+            "links": [
+                {
+                    "value": "https://rdap.nic.cz/domain/aktualne.cz",
+                    "rel": "self",
+                    "href": "https://rdap.nic.cz/domain/aktualne.cz",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "port43": "whois.nic.cz",
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "handle": "clark.ns.cloudflare.com",
+                    "ldhName": "clark.ns.cloudflare.com",
+                    "links": [
+                        {
+                            "value": "https://rdap.nic.cz/nameserver/clark.ns.cloudflare.com",
+                            "rel": "self",
+                            "href": "https://rdap.nic.cz/nameserver/clark.ns.cloudflare.com",
+                            "type": "application/rdap+json"
+                        }
+                    ]
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "handle": "janet.ns.cloudflare.com",
+                    "ldhName": "janet.ns.cloudflare.com",
+                    "links": [
+                        {
+                            "value": "https://rdap.nic.cz/nameserver/janet.ns.cloudflare.com",
+                            "rel": "self",
+                            "href": "https://rdap.nic.cz/nameserver/janet.ns.cloudflare.com",
+                            "type": "application/rdap+json"
+                        }
+                    ]
+                }
+            ],
+            "fred_nsset": {
+                "objectClassName": "fred_nsset",
+                "handle": "EXT-CLOUDFLARE",
+                "links": [
+                    {
+                        "value": "https://rdap.nic.cz/fred_nsset/EXT-CLOUDFLARE",
+                        "rel": "self",
+                        "href": "https://rdap.nic.cz/fred_nsset/EXT-CLOUDFLARE",
+                        "type": "application/rdap+json"
+                    }
+                ],
+                "nameservers": [
+                    {
+                        "objectClassName": "nameserver",
+                        "handle": "clark.ns.cloudflare.com",
+                        "ldhName": "clark.ns.cloudflare.com",
+                        "links": [
+                            {
+                                "value": "https://rdap.nic.cz/nameserver/clark.ns.cloudflare.com",
+                                "rel": "self",
+                                "href": "https://rdap.nic.cz/nameserver/clark.ns.cloudflare.com",
+                                "type": "application/rdap+json"
+                            }
+                        ]
+                    },
+                    {
+                        "objectClassName": "nameserver",
+                        "handle": "janet.ns.cloudflare.com",
+                        "ldhName": "janet.ns.cloudflare.com",
+                        "links": [
+                            {
+                                "value": "https://rdap.nic.cz/nameserver/janet.ns.cloudflare.com",
+                                "rel": "self",
+                                "href": "https://rdap.nic.cz/nameserver/janet.ns.cloudflare.com",
+                                "type": "application/rdap+json"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "secureDNS": {
+                "zoneSigned": true,
+                "delegationSigned": true,
+                "keyData": [
+                    {
+                        "flags": 257,
+                        "protocol": 3,
+                        "algorithm": 13,
+                        "publicKey": "mdsswUyr3DPW132mOi8V9xESWE8jTo0dxCjjnopKl+GqJxpVXckHAeF+KkxLbxILfDLUT0rAK9iUzy1L53eKGQ=="
+                    }
+                ],
+                "maxSigLife": 1209600
+            },
+            "fred_keyset": {
+                "objectClassName": "fred_keyset",
+                "handle": "AUTO-PFE2S5QQFFL77NDLWBBO6UI4J",
+                "links": [
+                    {
+                        "value": "https://rdap.nic.cz/fred_keyset/AUTO-PFE2S5QQFFL77NDLWBBO6UI4J",
+                        "rel": "self",
+                        "href": "https://rdap.nic.cz/fred_keyset/AUTO-PFE2S5QQFFL77NDLWBBO6UI4J",
+                        "type": "application/rdap+json"
+                    }
+                ],
+                "dns_keys": [
+                    {
+                        "flags": 257,
+                        "protocol": 3,
+                        "algorithm": 13,
+                        "publicKey": "mdsswUyr3DPW132mOi8V9xESWE8jTo0dxCjjnopKl+GqJxpVXckHAeF+KkxLbxILfDLUT0rAK9iUzy1L53eKGQ=="
+                    }
+                ]
+            },
+            "notices": [
+                {
+                    "title": "Disclaimer",
+                    "description": [
+                        "(c) 2023 CZ.NIC, z.s.p.o.",
+                        "Intended use of supplied data and information",
+                        "Data contained in the domain name register, as well as information supplied through public information services of CZ.NIC association, are appointed only for purposes connected with Internet network administration and operation, or for the purpose of legal or other similar proceedings, in process as regards a matter connected particularly with holding and using a concrete domain name."
+                    ]
+                }
+            ]
+        }
+    ],
+    "domain": "aktualne.cz\r"
+}

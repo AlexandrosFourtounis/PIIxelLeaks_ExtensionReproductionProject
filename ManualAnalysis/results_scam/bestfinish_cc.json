@@ -1,0 +1,365 @@
+{
+    "name": "BESTFINISH.CC",
+    "handle": "208370908_DOMAIN_CC-VRSN",
+    "registrationDate": "4/5/2026, 5:35:47 PM GMT+3",
+    "expirationDate": "4/5/2027, 5:35:47 PM GMT+3",
+    "lastChangedDate": null,
+    "lastUpdateDate": "6/16/2026, 3:35:07 AM GMT+3",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "roles": [
+                "abuse"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Abuse Contact"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+65.31581931"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "complaint@gname.com"
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "1923",
+            "roles": [
+                "registrar"
+            ],
+            "publicIds": [
+                {
+                    "type": "IANA Registrar ID",
+                    "identifier": "1923"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Gname.com Pte. Ltd."
+                    ]
+                ]
+            ],
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "roles": [
+                        "abuse"
+                    ],
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Abuse Contact"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "voice"
+                                },
+                                "uri",
+                                "tel:+65.31581931"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "complaint@gname.com"
+                            ]
+                        ]
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "1",
+            "roles": [
+                "registrant"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Redacted for Privacy"
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "https://rdap.gname.com/extra/contact?type=registrant&domain=bestfinish.cc"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "CN"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ]
+                ]
+            ],
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object redacted due to authorization",
+                    "description": [
+                        "Some of the data in this object has been removed."
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "2",
+            "roles": [
+                "administrative"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Redacted for Privacy"
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "https://rdap.gname.com/extra/contact?type=administrative&domain=bestfinish.cc"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "CN"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ]
+                ]
+            ],
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object redacted due to authorization",
+                    "description": [
+                        "Some of the data in this object has been removed."
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "3",
+            "roles": [
+                "technical"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Redacted for Privacy"
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "https://rdap.gname.com/extra/contact?type=technical&domain=bestfinish.cc"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "CN"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ]
+                ]
+            ],
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object redacted due to authorization",
+                    "description": [
+                        "Some of the data in this object has been removed."
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "LARS.NS.CLOUDFLARE.COM"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "MEG.NS.CLOUDFLARE.COM"
+        },
+        {
+            "objectClassName": "domain",
+            "ldhName": "BESTFINISH.CC",
+            "handle": "208370908_DOMAIN_CC-VRSN",
+            "links": [
+                {
+                    "value": "https://rdap.gname.com/domain/bestfinish.cc",
+                    "rel": "self",
+                    "href": "https://rdap.gname.com/domain/bestfinish.cc",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "LARS.NS.CLOUDFLARE.COM"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "MEG.NS.CLOUDFLARE.COM"
+                }
+            ],
+            "secureDNS": {
+                "delegationSigned": false
+            },
+            "rdapConformance": [
+                "rdap_level_0",
+                "icann_rdap_technical_implementation_guide_0",
+                "icann_rdap_response_profile_0"
+            ],
+            "notices": [
+                {
+                    "title": "Terms of Use",
+                    "description": [
+                        "URL of the Terms of Use: www.gname.com"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://www.gname.com",
+                            "rel": "related",
+                            "href": "https://www.gname.com",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "Status Codes",
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://icann.org/epp",
+                            "rel": "related",
+                            "href": "https://icann.org/epp",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "RDDS Inaccuracy Complaint Form",
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://icann.org/wicf",
+                            "rel": "related",
+                            "href": "https://icann.org/wicf",
+                            "type": "text/html"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "domain": "bestfinish.cc\r"
+}

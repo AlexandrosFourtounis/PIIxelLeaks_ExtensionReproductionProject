@@ -1,0 +1,15 @@
+{
+    "name": null,
+    "handle": null,
+    "registrationDate": null,
+    "expirationDate": null,
+    "lastChangedDate": null,
+    "lastUpdateDate": null,
+    "rawData": [
+        {
+            "errorCode": 429,
+            "title": "Your IP address \"139.91.90.27\" has been rate-limited. Please try the request again in 60 seconds"
+        }
+    ],
+    "domain": "apexgoodsonline.com\r"
+}

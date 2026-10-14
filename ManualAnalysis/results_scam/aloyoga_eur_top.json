@@ -1,0 +1,206 @@
+{
+    "name": "aloyoga-eur.top",
+    "handle": "20260328g10001g-71347154",
+    "registrationDate": "3/28/2026, 10:25:05 AM GMT+2",
+    "expirationDate": "3/28/2027, 11:25:05 AM GMT+3",
+    "lastChangedDate": "5/12/2026, 10:14:16 AM GMT+3",
+    "lastUpdateDate": "6/16/2026, 2:48:50 PM GMT+3",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "roles": [
+                "abuse"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:85268504817"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "abuse@kenpai.net"
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "events": [
+                {
+                    "eventAction": "registrar expiration",
+                    "eventDate": "2027-03-28T08:25:05.0Z"
+                }
+            ],
+            "handle": "4543",
+            "roles": [
+                "registrar"
+            ],
+            "publicIds": [
+                {
+                    "type": "IANA Registrar ID",
+                    "identifier": "4543"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Kenpai International Technology Limited"
+                    ]
+                ]
+            ],
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "roles": [
+                        "abuse"
+                    ],
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                ""
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "voice"
+                                },
+                                "uri",
+                                "tel:85268504817"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "abuse@kenpai.net"
+                            ]
+                        ]
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "NS1.NIKODNS.COM"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "NS2.NIKODNS.COM"
+        },
+        {
+            "objectClassName": "domain",
+            "handle": "20260328g10001g-71347154",
+            "ldhName": "aloyoga-eur.top",
+            "links": [
+                {
+                    "value": "https://rdap.zdnsgtld.com/top/domain/aloyoga-eur.top",
+                    "rel": "self",
+                    "href": "https://rdap.zdnsgtld.com/top/domain/aloyoga-eur.top",
+                    "type": "application/rdap+json"
+                },
+                {
+                    "value": "https://rdap.kphk.rdapwhois.cn/domain/aloyoga-eur.top",
+                    "rel": "related",
+                    "href": "https://rdap.kphk.rdapwhois.cn/domain/aloyoga-eur.top",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "secureDNS": {
+                "delegationSigned": false
+            },
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "NS1.NIKODNS.COM"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "NS2.NIKODNS.COM"
+                }
+            ],
+            "rdapConformance": [
+                "rdap_level_0",
+                "icann_rdap_technical_implementation_guide_0",
+                "icann_rdap_response_profile_0"
+            ],
+            "notices": [
+                {
+                    "title": "Terms of Use",
+                    "description": [
+                        "Service subject to Terms of Use."
+                    ],
+                    "links": [
+                        {
+                            "href": "https://www.kenpai.net/en/privacyReport.html",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "Status Codes",
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ],
+                    "links": [
+                        {
+                            "href": "https://icann.org/epp",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "RDDS Inaccuracy Complaint Form",
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ],
+                    "links": [
+                        {
+                            "href": "https://icann.org/wicf",
+                            "type": "text/html"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "domain": "aloyoga-eur.top\r"
+}

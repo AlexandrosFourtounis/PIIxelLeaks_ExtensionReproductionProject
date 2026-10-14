@@ -1,0 +1,378 @@
+{
+    "name": "monobank.ua",
+    "handle": "monobank.ua",
+    "registrationDate": "7/12/2018, 4:51:29 PM GMT+3 (by ua.imena)",
+    "expirationDate": "7/12/2026, 4:51:29 PM GMT+3",
+    "lastChangedDate": "6/18/2025, 12:32:32 PM GMT+3 (by ua.imena)",
+    "lastUpdateDate": null,
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "handle": "ua.imena",
+            "roles": [
+                "registrar"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Internet Invest LLC"
+                    ],
+                    [
+                        "org",
+                        {
+                            "altid": "1"
+                        },
+                        "text",
+                        "Internet Invest LLC"
+                    ],
+                    [
+                        "org",
+                        {
+                            "altid": "1"
+                        },
+                        "text",
+                        "ТОВ 'Інтернет Інвест'"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "type": "work",
+                            "altid": "1",
+                            "label": "50-B Simi Prakhovykh St., Kyiv, 01033, Ukraine"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "adr",
+                        {
+                            "type": "work",
+                            "altid": "1",
+                            "label": "вул. Сім'ї Прахових, 50-Б, м. Київ, 01033, Україна"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "voice"
+                            ]
+                        },
+                        "uri",
+                        "tel:+380442010102"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "abuse@imena.ua"
+                    ],
+                    [
+                        "url",
+                        {
+                            "type": "home"
+                        },
+                        "uri",
+                        "http://www.imena.ua"
+                    ]
+                ]
+            ],
+            "status": [
+                "active"
+            ],
+            "links": [
+                {
+                    "rel": "self",
+                    "value": "https://rdap.hostmaster.ua/entity/ua.imena",
+                    "type": "application/rdap+json",
+                    "href": "https://rdap.hostmaster.ua/entity/ua.imena"
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "ua.imena",
+            "roles": [
+                "registrar"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "C0002945325-UA",
+            "roles": [
+                "administrative"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "not published"
+                    ]
+                ]
+            ],
+            "remarks": [
+                {
+                    "title": "Data Policy",
+                    "description": [
+                        "Some of the data in this object has been removed."
+                    ]
+                }
+            ],
+            "status": [
+                "active",
+                "associated",
+                "private"
+            ],
+            "events": [
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2018-07-11T18:03:37+03:00",
+                    "eventActor": "ua.imena"
+                },
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2018-07-11T18:03:40+03:00",
+                    "eventActor": "ua.imena"
+                }
+            ],
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "handle": "ua.imena",
+                    "roles": [
+                        "registrar"
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "ua.imena",
+            "roles": [
+                "registrar"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "C0002945327-UA",
+            "roles": [
+                "technical"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "not published"
+                    ]
+                ]
+            ],
+            "remarks": [
+                {
+                    "title": "Data Policy",
+                    "description": [
+                        "Some of the data in this object has been removed."
+                    ]
+                }
+            ],
+            "status": [
+                "active",
+                "associated",
+                "private"
+            ],
+            "events": [
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2018-07-11T18:03:38+03:00",
+                    "eventActor": "ua.imena"
+                },
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2018-07-11T18:03:41+03:00",
+                    "eventActor": "ua.imena"
+                }
+            ],
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "handle": "ua.imena",
+                    "roles": [
+                        "registrar"
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "ua.imena",
+            "roles": [
+                "registrar"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "C0002945324-UA",
+            "roles": [
+                "registrant"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "not published"
+                    ]
+                ]
+            ],
+            "remarks": [
+                {
+                    "title": "Data Policy",
+                    "description": [
+                        "Some of the data in this object has been removed."
+                    ]
+                }
+            ],
+            "status": [
+                "active",
+                "associated",
+                "private"
+            ],
+            "events": [
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2018-07-11T18:03:37+03:00",
+                    "eventActor": "ua.imena"
+                },
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2018-07-11T18:03:40+03:00",
+                    "eventActor": "ua.imena"
+                }
+            ],
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "handle": "ua.imena",
+                    "roles": [
+                        "registrar"
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns-1429.awsdns-50.org"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns-1869.awsdns-41.co.uk"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns-195.awsdns-24.com"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns-798.awsdns-35.net"
+        },
+        {
+            "rdapConformance": [
+                "rdap_level_0"
+            ],
+            "objectClassName": "domain",
+            "handle": "monobank.ua",
+            "ldhName": "monobank.ua",
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns-1429.awsdns-50.org"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns-1869.awsdns-41.co.uk"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns-195.awsdns-24.com"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns-798.awsdns-35.net"
+                }
+            ],
+            "secureDNS": {
+                "delegationSigned": false
+            },
+            "links": [
+                {
+                    "rel": "self",
+                    "value": "https://rdap.hostmaster.ua/domain/monobank.ua",
+                    "type": "application/rdap+json",
+                    "href": "https://rdap.hostmaster.ua/domain/monobank.ua"
+                }
+            ],
+            "remarks": [
+                {
+                    "description": [
+                        "license: 243849"
+                    ]
+                }
+            ],
+            "port43": "whois.ua"
+        }
+    ],
+    "domain": "monobank.ua\r"
+}

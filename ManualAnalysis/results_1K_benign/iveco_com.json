@@ -1,0 +1,335 @@
+{
+    "name": "iveco.com",
+    "handle": "1084609_DOMAIN_COM-VRSN",
+    "registrationDate": "5/25/2015, 3:00:00 AM GMT+3",
+    "expirationDate": "3/16/2027, 2:00:00 AM GMT+2",
+    "lastChangedDate": null,
+    "lastUpdateDate": "6/23/2026, 6:53:49 PM GMT+3",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "roles": [
+                "abuse"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+447796116112"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "abuse@barbero.co.uk"
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "3776",
+            "roles": [
+                "registrar"
+            ],
+            "publicIds": [
+                {
+                    "type": "IANA Registrar ID",
+                    "identifier": "3776"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Barbero & Associates Limited"
+                    ]
+                ]
+            ],
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "roles": [
+                        "abuse"
+                    ],
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                ""
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "voice"
+                                },
+                                "uri",
+                                "tel:+447796116112"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "abuse@barbero.co.uk"
+                            ]
+                        ]
+                    ]
+                }
+            ],
+            "links": [
+                {
+                    "rel": "about",
+                    "href": "https://www.barbero.co.uk",
+                    "type": "text/html",
+                    "value": "https://rdap.barbero.co.uk/"
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "roles": [
+                "registrant"
+            ],
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object redacted due to authorization",
+                    "description": [
+                        "Some of the data in this object has been removed."
+                    ]
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "IT"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "TO",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "redacted@barbero.domains"
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns1.fptindustrial.com"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns1.iveco.com"
+        },
+        {
+            "objectClassName": "domain",
+            "handle": "1084609_DOMAIN_COM-VRSN",
+            "ldhName": "iveco.com",
+            "unicodeName": "iveco.com",
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns1.fptindustrial.com"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns1.iveco.com"
+                }
+            ],
+            "secureDNS": {
+                "delegationSigned": false
+            },
+            "redacted": [
+                {
+                    "method": "removal",
+                    "name": {
+                        "type": "Registry Registrant ID"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].handle"
+                },
+                {
+                    "method": "emptyValue",
+                    "name": {
+                        "type": "Registrant Name"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='fn')][3]"
+                },
+                {
+                    "method": "removal",
+                    "name": {
+                        "type": "Registrant Organization"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='org')]"
+                },
+                {
+                    "method": "emptyValue",
+                    "name": {
+                        "type": "Registrant Street"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][:3]"
+                },
+                {
+                    "method": "emptyValue",
+                    "name": {
+                        "type": "Registrant Postal Code"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][5]"
+                },
+                {
+                    "method": "emptyValue",
+                    "name": {
+                        "type": "Registrant City"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][3]"
+                },
+                {
+                    "method": "replacementValue",
+                    "name": {
+                        "type": "Registrant Email"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='email')]"
+                },
+                {
+                    "method": "removal",
+                    "name": {
+                        "type": "Registrant Phone"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[1].type=='voice')]"
+                },
+                {
+                    "method": "removal",
+                    "name": {
+                        "type": "Registrant Fax"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[1].type=='fax')]"
+                }
+            ],
+            "rdapConformance": [
+                "rdap_level_0",
+                "icann_rdap_response_profile_1",
+                "icann_rdap_technical_implementation_guide_1",
+                "redacted"
+            ],
+            "notices": [
+                {
+                    "title": "Status Codes",
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ],
+                    "links": [
+                        {
+                            "href": "https://icann.org/epp",
+                            "rel": "glossary",
+                            "title": "More information on domain status codes",
+                            "type": "application/rdap+json",
+                            "value": "https:///domain/IVECO.COM"
+                        }
+                    ]
+                },
+                {
+                    "title": "RDDS Inaccuracy Complaint Form",
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ],
+                    "links": [
+                        {
+                            "href": "https://icann.org/wicf",
+                            "rel": "help",
+                            "type": "application/rdap+json",
+                            "value": "https:///domain/IVECO.COM"
+                        }
+                    ]
+                },
+                {
+                    "title": "Terms of Use",
+                    "description": [
+                        "This data is provided by BARBERO & Associates Ltd",
+                        "for information purposes, and to assist persons obtaining information",
+                        "about or related to domain name registration records.",
+                        "BARBERO & Associates Ltd does not guarantee its accuracy.",
+                        "By submitting a RDAP query, you agree that you will use this data",
+                        "only for lawful purposes and that, under no circumstances, you will",
+                        "use this data to",
+                        "1) allow, enable, or otherwise support the transmission of mass",
+                        "   unsolicited, commercial advertising or solicitations via E-mail",
+                        "   (spam) or",
+                        "2) enable high volume, automated, electronic processes that apply",
+                        "   to this RDAP server.",
+                        "These terms may be changed without prior notice.",
+                        "By submitting this query, you agree to abide by this policy."
+                    ],
+                    "links": [
+                        {
+                            "href": "https://www.barbero.co.uk/term-use",
+                            "rel": "terms-of-service",
+                            "title": "Terms & Conditions",
+                            "value": "https:///domain/IVECO.COM"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "domain": "iveco.com\r"
+}

@@ -1,0 +1,539 @@
+{
+    "name": "hdsex.org",
+    "handle": "1c91b3de2aa64a49b97c66e21c4dafc5-LROR",
+    "registrationDate": "11/12/2004, 6:06:13 AM GMT+2",
+    "expirationDate": "11/12/2027, 6:06:13 AM GMT+2",
+    "lastChangedDate": "6/4/2026, 7:47:06 AM GMT+3",
+    "lastUpdateDate": "6/23/2026, 3:35:03 PM GMT+3",
+    "rawData": [
+        {
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "hdsex.org@whoisprotectservice.net"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "GB"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ]
+                ]
+            ],
+            "entities": [],
+            "roles": [
+                "registrant",
+                "technical"
+            ],
+            "objectClassName": "entity"
+        },
+        {
+            "handle": "ABUSE-1418",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Danesco Trading Ltd."
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "Danesco Trading Ltd."
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "abuse@danesconames.com"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+357.95713635"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "CY"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "John Kennedy Iris House, 7th Fl., of.470B",
+                            "Limassol",
+                            "",
+                            "3106",
+                            ""
+                        ]
+                    ],
+                    [
+                        "url",
+                        {},
+                        "uri",
+                        "https://danesconames.com"
+                    ]
+                ]
+            ],
+            "entities": [],
+            "roles": [
+                "abuse"
+            ],
+            "objectClassName": "entity"
+        },
+        {
+            "handle": "1418",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Danesco Trading Ltd."
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "Danesco Trading Ltd."
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "abuse@danesconames.com"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+357.95713635"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "CY"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "John Kennedy Iris House, 7th Fl., of.470B",
+                            "Limassol",
+                            "",
+                            "3106",
+                            ""
+                        ]
+                    ],
+                    [
+                        "url",
+                        {},
+                        "uri",
+                        "https://danesconames.com"
+                    ]
+                ]
+            ],
+            "entities": [
+                {
+                    "handle": "ABUSE-1418",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Danesco Trading Ltd."
+                            ],
+                            [
+                                "org",
+                                {},
+                                "text",
+                                "Danesco Trading Ltd."
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "abuse@danesconames.com"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "voice"
+                                },
+                                "text",
+                                "+357.95713635"
+                            ],
+                            [
+                                "adr",
+                                {
+                                    "cc": "CY"
+                                },
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "John Kennedy Iris House, 7th Fl., of.470B",
+                                    "Limassol",
+                                    "",
+                                    "3106",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "url",
+                                {},
+                                "uri",
+                                "https://danesconames.com"
+                            ]
+                        ]
+                    ],
+                    "entities": [],
+                    "roles": [
+                        "abuse"
+                    ],
+                    "objectClassName": "entity"
+                }
+            ],
+            "roles": [
+                "registrar"
+            ],
+            "publicIds": [
+                {
+                    "type": "IANA Registrar ID",
+                    "identifier": "1418"
+                }
+            ],
+            "links": [
+                {
+                    "href": "https://danesconames.com",
+                    "type": "text/html",
+                    "value": "https://rdap.danesconames.com/",
+                    "rel": "about"
+                }
+            ],
+            "objectClassName": "entity"
+        },
+        {
+            "ldhName": "dee.ns.cloudflare.com",
+            "objectClassName": "nameserver"
+        },
+        {
+            "ldhName": "tadeo.ns.cloudflare.com",
+            "objectClassName": "nameserver"
+        },
+        {
+            "ldhName": "hdsex.org",
+            "unicodeName": "hdsex.org",
+            "handle": "1c91b3de2aa64a49b97c66e21c4dafc5-LROR",
+            "nameservers": [
+                {
+                    "ldhName": "dee.ns.cloudflare.com",
+                    "objectClassName": "nameserver"
+                },
+                {
+                    "ldhName": "tadeo.ns.cloudflare.com",
+                    "objectClassName": "nameserver"
+                }
+            ],
+            "secureDNS": {
+                "delegationSigned": false
+            },
+            "redacted": [
+                {
+                    "name": {
+                        "type": "Registry Registrant ID"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].handle",
+                    "pathLang": "jsonpath",
+                    "method": "removal",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "type": "Registry Tech ID"
+                    },
+                    "prePath": "$.entities[?(@.roles[1]=='technical')].handle",
+                    "pathLang": "jsonpath",
+                    "method": "removal",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "type": "Registrant Name"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='fn')][3]",
+                    "pathLang": "jsonpath",
+                    "method": "emptyValue",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "type": "Registrant Organization"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='org')]",
+                    "pathLang": "jsonpath",
+                    "method": "removal",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "type": "Registrant Street"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][2]",
+                    "pathLang": "jsonpath",
+                    "method": "emptyValue",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "type": "Registrant City"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][3]",
+                    "pathLang": "jsonpath",
+                    "method": "emptyValue",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "type": "Registrant Postal Code"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][5]",
+                    "pathLang": "jsonpath",
+                    "method": "emptyValue",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "type": "Registrant Phone"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[1].type=='voice')]",
+                    "pathLang": "jsonpath",
+                    "method": "removal",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "type": "Registrant Phone Ext"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[1].type=='voice')]",
+                    "pathLang": "jsonpath",
+                    "method": "removal",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "type": "Registrant Fax"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[1].type=='fax')]",
+                    "pathLang": "jsonpath",
+                    "method": "removal",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "type": "Registrant Fax Ext"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[1].type=='fax')]",
+                    "pathLang": "jsonpath",
+                    "method": "removal",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "type": "Registrant Email"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='email')][3]",
+                    "pathLang": "jsonpath",
+                    "method": "replacementValue",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "type": "Tech Name"
+                    },
+                    "postPath": "$.entities[?(@.roles[1]=='technical')].vcardArray[1][?(@[0]=='fn')][3]",
+                    "pathLang": "jsonpath",
+                    "method": "emptyValue",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "type": "Tech Phone"
+                    },
+                    "prePath": "$.entities[?(@.roles[1]=='technical')].vcardArray[1][?(@[1].type=='voice')]",
+                    "pathLang": "jsonpath",
+                    "method": "removal",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "type": "Tech Phone Ext"
+                    },
+                    "prePath": "$.entities[?(@.roles[1]=='technical')].vcardArray[1][?(@[1].type=='voice')]",
+                    "pathLang": "jsonpath",
+                    "method": "removal",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "type": "Tech Email"
+                    },
+                    "postPath": "$.entities[?(@.roles[1]=='technical')].vcardArray[1][?(@[0]=='email')][3]",
+                    "pathLang": "jsonpath",
+                    "method": "replacementValue",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                }
+            ],
+            "links": [
+                {
+                    "href": "https://rdap.danesconames.com/domain/hdsex.org",
+                    "type": "application/rdap+json",
+                    "value": "https://rdap.danesconames.com/domain/hdsex.org",
+                    "rel": "self"
+                }
+            ],
+            "notices": [
+                {
+                    "title": "Terms of Service",
+                    "description": [
+                        "Service subject to Terms of Use."
+                    ],
+                    "links": [
+                        {
+                            "href": "https://danesconames.com/rules",
+                            "type": "text/html",
+                            "value": "https://rdap.danesconames.com/domain/hdsex.org",
+                            "rel": "terms-of-service"
+                        }
+                    ]
+                },
+                {
+                    "title": "Status Codes",
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ],
+                    "links": [
+                        {
+                            "href": "https://icann.org/epp",
+                            "type": "text/html",
+                            "value": "https://rdap.danesconames.com/domain/hdsex.org",
+                            "rel": "glossary"
+                        }
+                    ]
+                },
+                {
+                    "title": "RDDS Inaccuracy Complaint Form",
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ],
+                    "links": [
+                        {
+                            "href": "https://icann.org/wicf",
+                            "type": "text/html",
+                            "value": "https://rdap.danesconames.com/domain/hdsex.org",
+                            "rel": "help"
+                        }
+                    ]
+                }
+            ],
+            "lang": "en",
+            "objectClassName": "domain",
+            "port43": "whois.danesconames.com",
+            "rdapConformance": [
+                "rdap_level_0",
+                "icann_rdap_technical_implementation_guide_1",
+                "icann_rdap_response_profile_1",
+                "redacted"
+            ]
+        }
+    ],
+    "domain": "hdsex.org\r"
+}

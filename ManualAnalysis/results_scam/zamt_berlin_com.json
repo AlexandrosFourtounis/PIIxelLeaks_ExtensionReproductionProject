@@ -1,0 +1,682 @@
+{
+    "name": "zamt-berlin.com",
+    "handle": "2521894517_DOMAIN_COM-VRSN",
+    "registrationDate": "5/4/2020, 12:30:46 AM GMT+3",
+    "expirationDate": "5/4/2027, 12:30:46 AM GMT+3",
+    "lastChangedDate": "5/7/2026, 7:41:54 PM GMT+3",
+    "lastUpdateDate": "6/16/2026, 5:56:16 PM GMT+3",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "roles": [
+                "registrant"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Contact"
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "https://www.bookmyname.com/whoisctc.cgi"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "FR"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ]
+                ]
+            ],
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object redacted due to authorization",
+                    "description": [
+                        "Some of the data in this object has been removed."
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "roles": [
+                "technical",
+                "administrative"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Contact"
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "https://www.bookmyname.com/whoisctc.cgi"
+                    ]
+                ]
+            ],
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object redacted due to authorization",
+                    "description": [
+                        "Some of the data in this object has been removed."
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "74",
+            "roles": [
+                "abuse"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Registrar Abuse Contact"
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "abuse@bookmyname.com"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "voice"
+                            ]
+                        },
+                        "uri",
+                        "tel:+33.184130099"
+                    ]
+                ]
+            ],
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object redacted due to authorization",
+                    "description": [
+                        "Some of the data in this object has been removed."
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "74",
+            "port43": "whois.bookmyname.com",
+            "publicIds": [
+                {
+                    "identifier": "74",
+                    "type": "IANA Registrar ID"
+                }
+            ],
+            "links": [
+                {
+                    "href": "https://www.bookmyname.com",
+                    "value": "https://www.bookmyname.com",
+                    "hreflang": [
+                        "en",
+                        "fr"
+                    ],
+                    "rel": "self"
+                },
+                {
+                    "href": "https://rdap.bookmyname.com/",
+                    "value": "https://rdap.bookmyname.com/",
+                    "hreflang": [
+                        "en",
+                        "fr"
+                    ],
+                    "rel": "about"
+                }
+            ],
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "handle": "74",
+                    "roles": [
+                        "abuse"
+                    ],
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Registrar Abuse Contact"
+                            ],
+                            [
+                                "email",
+                                {
+                                    "type": "work"
+                                },
+                                "text",
+                                "abuse@bookmyname.com"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "voice"
+                                    ]
+                                },
+                                "uri",
+                                "tel:+33.184130099"
+                            ]
+                        ]
+                    ],
+                    "remarks": [
+                        {
+                            "title": "REDACTED FOR PRIVACY",
+                            "type": "object redacted due to authorization",
+                            "description": [
+                                "Some of the data in this object has been removed."
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "roles": [
+                "registrar",
+                "sponsor"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Registrar Contact"
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "noreply@scaleway.com"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+33.184130099"
+                    ]
+                ]
+            ],
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object redacted due to authorization",
+                    "description": [
+                        "Some of the data in this object has been removed."
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns1.o2switch.net"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns2.o2switch.net"
+        },
+        {
+            "handle": "2521894517_DOMAIN_COM-VRSN",
+            "ldhName": "zamt-berlin.com",
+            "objectClassName": "domain",
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns1.o2switch.net"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns2.o2switch.net"
+                }
+            ],
+            "secureDNS": {
+                "delegationSigned": false
+            },
+            "links": [
+                {
+                    "title": "Authoritative URL for this resource",
+                    "rel": "self",
+                    "type": "application/rdap+json",
+                    "href": "https://rdap.bookmyname.com/domain/ZAMT-BERLIN.COM",
+                    "value": "https://rdap.bookmyname.com/domain/ZAMT-BERLIN.COM"
+                },
+                {
+                    "title": "Registrar Website",
+                    "rel": "related",
+                    "href": "https://www.bookmyname.com/",
+                    "value": "https://www.bookmyname.com/"
+                }
+            ],
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object redacted due to authorization",
+                    "description": [
+                        "Some of the data in this object has been removed."
+                    ]
+                }
+            ],
+            "notices": [
+                {
+                    "title": "Terms of Use",
+                    "description": [
+                        "By submitting an RDAP query, you agree that you will use this data only for",
+                        "lawful purposes and that, under no circumstances will you use this data to:",
+                        "(1) allow, enable, or otherwise support the transmission by email, telephone,",
+                        "or facsimile of mass, unsolicited, commercial advertising, or spam; or",
+                        "(2) enable high volume, automated, or electronic processes that send queries,",
+                        "data, or email to Bookmyname (or its systems) or the domain name contacts (or",
+                        "its systems).",
+                        "Bookmyname reserves the right to modify these terms at any time.",
+                        "By submitting this query, you agree to abide by this policy.",
+                        "Visit Bookmyname at https://www.bookmyname.com",
+                        "Contact us at +33.184130099"
+                    ],
+                    "links": [
+                        {
+                            "href": "https://en.faqs.bookmyname.com/enfaqs/services#rdap",
+                            "value": "https://en.faqs.bookmyname.com/enfaqs/services#rdap",
+                            "rel": "related"
+                        },
+                        {
+                            "href": "https://rdap.bookmyname.com/domain/ZAMT-BERLIN.COM",
+                            "value": "https://rdap.bookmyname.com/domain/ZAMT-BERLIN.COM",
+                            "rel": "terms-of-service"
+                        }
+                    ]
+                },
+                {
+                    "title": "Status Codes",
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.bookmyname.com/domain/ZAMT-BERLIN.COM",
+                            "rel": "glossary",
+                            "href": "https://icann.org/epp",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "RDDS Inaccuracy Complaint Form",
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.bookmyname.com/domain/ZAMT-BERLIN.COM",
+                            "rel": "help",
+                            "href": "https://icann.org/wicf",
+                            "type": "text/html"
+                        }
+                    ]
+                }
+            ],
+            "redacted": [
+                {
+                    "name": {
+                        "description": "Admin City",
+                        "type": "Admin City"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='administrative')].vcardArray[3][?(@[0]=='adr')][3][3]",
+                    "pathLang": "jsonpath",
+                    "method": "emptyValue"
+                },
+                {
+                    "name": {
+                        "description": "Admin Email",
+                        "type": "Admin Email"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='administrative')].vcardArray[1][?(@[0]=='email')]",
+                    "pathLang": "jsonpath",
+                    "method": "replacementValue"
+                },
+                {
+                    "name": {
+                        "description": "Admin Fax",
+                        "type": "Admin Fax"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='administrative')].vcardArray[1][?(@[1].type=='fax')]",
+                    "pathLang": "jsonpath",
+                    "method": "removal"
+                },
+                {
+                    "name": {
+                        "description": "Admin Name",
+                        "type": "Admin Name"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='administrative')].vcardArray[1][?(@[0]=='fn')][1]",
+                    "pathLang": "jsonpath",
+                    "method": "emptyValue"
+                },
+                {
+                    "name": {
+                        "description": "Admin Organization",
+                        "type": "Admin Organization"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='administrative')].vcardArray[1][?(@[0]=='org')]",
+                    "pathLang": "jsonpath",
+                    "method": "removal"
+                },
+                {
+                    "name": {
+                        "description": "Admin Phone",
+                        "type": "Admin Phone"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='administrative')].vcardArray[1][?(@[1].type=='voice')]",
+                    "pathLang": "jsonpath",
+                    "method": "removal"
+                },
+                {
+                    "name": {
+                        "description": "Admin Postal Code",
+                        "type": "Admin Postal Code"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='administrative')].vcardArray[1][?(@[0]=='adr')][3][5]",
+                    "pathLang": "jsonpath",
+                    "method": "emptyValue"
+                },
+                {
+                    "name": {
+                        "description": "Admin Province",
+                        "type": "Admin Province"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='administrative')].vcardArray[1][?(@[0]=='adr')][3][4]",
+                    "pathLang": "jsonpath",
+                    "method": "emptyValue"
+                },
+                {
+                    "name": {
+                        "description": "Admin Street",
+                        "type": "Admin Street"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='administrative')].vcardArray[1][?(@[0]=='adr')][3][:3]",
+                    "pathLang": "jsonpath",
+                    "method": "emptyValue"
+                },
+                {
+                    "name": {
+                        "description": "Registrant City",
+                        "type": "Registrant City"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][3]",
+                    "pathLang": "jsonpath",
+                    "method": "emptyValue"
+                },
+                {
+                    "name": {
+                        "description": "Registrant Email",
+                        "type": "Registrant Email"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='email')]",
+                    "replacementPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='contact-uri')]",
+                    "pathLang": "jsonpath",
+                    "method": "replacementValue"
+                },
+                {
+                    "name": {
+                        "description": "Registrant Fax",
+                        "type": "Registrant Fax"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[1].type=='fax')]",
+                    "pathLang": "jsonpath",
+                    "method": "removal"
+                },
+                {
+                    "name": {
+                        "description": "Registrant Name",
+                        "type": "Registrant Name"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='fn')][1]",
+                    "pathLang": "jsonpath",
+                    "method": "emptyValue"
+                },
+                {
+                    "name": {
+                        "description": "Registrant Organization",
+                        "type": "Registrant Organization"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='org')]",
+                    "pathLang": "jsonpath",
+                    "method": "removal"
+                },
+                {
+                    "name": {
+                        "description": "Registrant Phone",
+                        "type": "Registrant Phone"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[1].type=='voice')]",
+                    "pathLang": "jsonpath",
+                    "method": "removal"
+                },
+                {
+                    "name": {
+                        "description": "Registrant Postal Code",
+                        "type": "Registrant Postal Code"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][5]",
+                    "pathLang": "jsonpath",
+                    "method": "emptyValue"
+                },
+                {
+                    "name": {
+                        "description": "Registrant Province",
+                        "type": "Registrant Province"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][4]",
+                    "pathLang": "jsonpath",
+                    "method": "emptyValue"
+                },
+                {
+                    "name": {
+                        "description": "Registrant Street",
+                        "type": "Registrant Street"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][:3]",
+                    "pathLang": "jsonpath",
+                    "method": "emptyValue"
+                },
+                {
+                    "name": {
+                        "description": "Tech City",
+                        "type": "Tech City"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='adr')][3][3]",
+                    "pathLang": "jsonpath",
+                    "method": "emptyValue"
+                },
+                {
+                    "name": {
+                        "description": "Tech Email",
+                        "type": "Tech Email"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='email')]",
+                    "replacementPath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='contact-uri')]",
+                    "pathLang": "jsonpath",
+                    "method": "replacementValue"
+                },
+                {
+                    "name": {
+                        "description": "Tech Fax",
+                        "type": "Tech Fax"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[1].type=='fax')]",
+                    "pathLang": "jsonpath",
+                    "method": "removal"
+                },
+                {
+                    "name": {
+                        "description": "Tech Name",
+                        "type": "Tech Name"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='fn')][1]",
+                    "pathLang": "jsonpath",
+                    "method": "emptyValue"
+                },
+                {
+                    "name": {
+                        "description": "Tech Organization",
+                        "type": "Tech Organization"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='org')]",
+                    "pathLang": "jsonpath",
+                    "method": "removal"
+                },
+                {
+                    "name": {
+                        "description": "Tech Phone",
+                        "type": "Tech Phone"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[1].type=='voice')]",
+                    "pathLang": "jsonpath",
+                    "method": "removal"
+                },
+                {
+                    "name": {
+                        "description": "Tech Postal Code",
+                        "type": "Tech Postal Code"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='adr')][3][5]",
+                    "pathLang": "jsonpath",
+                    "method": "emptyValue"
+                },
+                {
+                    "name": {
+                        "description": "Tech Province",
+                        "type": "Tech Province"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='adr')][3][4]",
+                    "pathLang": "jsonpath",
+                    "method": "emptyValue"
+                },
+                {
+                    "name": {
+                        "description": "Tech Street",
+                        "type": "Tech Street"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='adr')][3][:3]",
+                    "pathLang": "jsonpath",
+                    "method": "emptyValue"
+                },
+                {
+                    "name": {
+                        "description": "Registry Admin ID",
+                        "type": "Registry Admin ID"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='administrative')].handle",
+                    "pathLang": "jsonpath",
+                    "method": "removal"
+                },
+                {
+                    "name": {
+                        "description": "Registry Registrant ID",
+                        "type": "Registry Registrant ID"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].handle",
+                    "pathLang": "jsonpath",
+                    "method": "removal"
+                },
+                {
+                    "name": {
+                        "description": "Registry Tech ID",
+                        "type": "Registry Tech ID"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='technical')].handle",
+                    "pathLang": "jsonpath",
+                    "method": "removal"
+                },
+                {
+                    "name": {
+                        "description": "Registry Billing ID",
+                        "type": "Registry Billing ID"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='billing')].handle",
+                    "pathLang": "jsonpath",
+                    "method": "removal"
+                }
+            ],
+            "rdapConformance": [
+                "rdap_level_0",
+                "icann_rdap_technical_implementation_guide_1",
+                "icann_rdap_response_profile_1",
+                "redacted"
+            ]
+        }
+    ],
+    "domain": "zamt-berlin.com\r"
+}

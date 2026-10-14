@@ -1,0 +1,518 @@
+{
+    "name": "complyauto.com",
+    "handle": "2419582752_DOMAIN_COM-VRSN",
+    "registrationDate": "8/3/2019, 8:18:09 AM GMT+3",
+    "expirationDate": "8/3/2026, 8:18:09 AM GMT+3",
+    "lastChangedDate": "11/24/2025, 12:06:06 PM GMT+2",
+    "lastUpdateDate": "6/23/2026, 2:43:43 PM GMT+3",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "roles": [
+                "abuse"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+1.8772733049"
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": ""
+                        },
+                        "text",
+                        "domainabuse@automattic.com"
+                    ]
+                ]
+            ]
+        },
+        {
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "roles": [
+                        "abuse"
+                    ],
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                ""
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "voice"
+                                },
+                                "uri",
+                                "tel:+1.8772733049"
+                            ],
+                            [
+                                "email",
+                                {
+                                    "type": ""
+                                },
+                                "text",
+                                "domainabuse@automattic.com"
+                            ]
+                        ]
+                    ]
+                }
+            ],
+            "handle": "1531",
+            "lang": "en-US",
+            "links": [
+                {
+                    "href": "http://www.automattic.com/",
+                    "rel": "about",
+                    "type": "application/rdap+json",
+                    "value": "https://rdap.sawbuck.com/"
+                }
+            ],
+            "objectClassName": "entity",
+            "publicIds": [
+                {
+                    "identifier": "1531",
+                    "type": "IANA Registrar ID"
+                }
+            ],
+            "roles": [
+                "registrar"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Automattic Inc."
+                    ]
+                ]
+            ]
+        },
+        {
+            "lang": "en-US",
+            "objectClassName": "entity",
+            "remarks": [
+                {
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ],
+                    "type": "object redacted due to authorization"
+                }
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "US",
+                            "type": ""
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "California",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": ""
+                        },
+                        "text",
+                        "info@domain-contact.org"
+                    ]
+                ]
+            ]
+        },
+        {
+            "lang": "en-US",
+            "objectClassName": "entity",
+            "remarks": [
+                {
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ],
+                    "type": "object redacted due to authorization"
+                }
+            ],
+            "roles": [
+                "technical"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "US",
+                            "type": ""
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": ""
+                        },
+                        "text",
+                        "info@domain-contact.org"
+                    ]
+                ]
+            ]
+        },
+        {
+            "ipAddresses": {
+                "v4": [
+                    "205.251.196.141"
+                ]
+            },
+            "lang": "en-US",
+            "ldhName": "ns-1165.awsdns-17.org",
+            "objectClassName": "nameserver",
+            "status": [
+                "active"
+            ],
+            "unicodeName": "ns-1165.awsdns-17.org"
+        },
+        {
+            "lang": "en-US",
+            "ldhName": "ns-180.awsdns-22.com",
+            "objectClassName": "nameserver",
+            "status": [
+                "active"
+            ],
+            "unicodeName": "ns-180.awsdns-22.com"
+        },
+        {
+            "ipAddresses": {
+                "v4": [
+                    "205.251.199.111"
+                ]
+            },
+            "lang": "en-US",
+            "ldhName": "ns-1903.awsdns-45.co.uk",
+            "objectClassName": "nameserver",
+            "status": [
+                "active"
+            ],
+            "unicodeName": "ns-1903.awsdns-45.co.uk"
+        },
+        {
+            "lang": "en-US",
+            "ldhName": "ns-603.awsdns-11.net",
+            "objectClassName": "nameserver",
+            "status": [
+                "active"
+            ],
+            "unicodeName": "ns-603.awsdns-11.net"
+        },
+        {
+            "handle": "2419582752_DOMAIN_COM-VRSN",
+            "ldhName": "complyauto.com",
+            "nameservers": [
+                {
+                    "ipAddresses": {
+                        "v4": [
+                            "205.251.196.141"
+                        ]
+                    },
+                    "lang": "en-US",
+                    "ldhName": "ns-1165.awsdns-17.org",
+                    "objectClassName": "nameserver",
+                    "status": [
+                        "active"
+                    ],
+                    "unicodeName": "ns-1165.awsdns-17.org"
+                },
+                {
+                    "lang": "en-US",
+                    "ldhName": "ns-180.awsdns-22.com",
+                    "objectClassName": "nameserver",
+                    "status": [
+                        "active"
+                    ],
+                    "unicodeName": "ns-180.awsdns-22.com"
+                },
+                {
+                    "ipAddresses": {
+                        "v4": [
+                            "205.251.199.111"
+                        ]
+                    },
+                    "lang": "en-US",
+                    "ldhName": "ns-1903.awsdns-45.co.uk",
+                    "objectClassName": "nameserver",
+                    "status": [
+                        "active"
+                    ],
+                    "unicodeName": "ns-1903.awsdns-45.co.uk"
+                },
+                {
+                    "lang": "en-US",
+                    "ldhName": "ns-603.awsdns-11.net",
+                    "objectClassName": "nameserver",
+                    "status": [
+                        "active"
+                    ],
+                    "unicodeName": "ns-603.awsdns-11.net"
+                }
+            ],
+            "notices": [
+                {
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ],
+                    "links": [
+                        {
+                            "href": "https://icann.org/epp",
+                            "rel": "glossary",
+                            "title": "More information on domain status codes",
+                            "type": "application/rdap+json",
+                            "value": "https://rdap.sawbuck.com/domain/complyauto.com"
+                        }
+                    ],
+                    "title": "Status Codes"
+                },
+                {
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ],
+                    "links": [
+                        {
+                            "href": "https://icann.org/wicf",
+                            "rel": "help",
+                            "type": "application/rdap+json",
+                            "value": "https://rdap.sawbuck.com/domain/complyauto.com"
+                        }
+                    ],
+                    "title": "RDDS Inaccuracy Complaint Form"
+                },
+                {
+                    "description": [
+                        "This data is provided by Automattic Inc.",
+                        "for information purposes, and to assist persons obtaining information",
+                        "about or related to domain name registration records.",
+                        "Automattic Inc. does not guarantee its accuracy.",
+                        "By submitting a RDAP query, you agree that you will use this data",
+                        "only for lawful purposes and that, under no circumstances, you will",
+                        "use this data to",
+                        "1) allow, enable, or otherwise support the transmission of mass",
+                        "   unsolicited, commercial advertising or solicitations via E-mail",
+                        "   (spam) or",
+                        "2) enable high volume, automated, electronic processes that apply",
+                        "   to this RDAP server.",
+                        "These terms may be changed without prior notice.",
+                        "By submitting this query, you agree to abide by this policy."
+                    ],
+                    "links": [
+                        {
+                            "href": "https://wordpress.com/automattic-domain-name-registration-agreement/",
+                            "rel": "terms-of-service",
+                            "title": "Terms & Conditions",
+                            "value": "https://rdap.sawbuck.com/domain/complyauto.com"
+                        }
+                    ],
+                    "title": "Terms of Use"
+                }
+            ],
+            "objectClassName": "domain",
+            "rdapConformance": [
+                "rdap_level_0",
+                "icann_rdap_response_profile_1",
+                "icann_rdap_technical_implementation_guide_1",
+                "redacted"
+            ],
+            "redacted": [
+                {
+                    "method": "emptyValue",
+                    "name": {
+                        "type": "Registrant City"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][3]"
+                },
+                {
+                    "method": "replacementValue",
+                    "name": {
+                        "type": "Registrant Email"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='email')]"
+                },
+                {
+                    "method": "emptyValue",
+                    "name": {
+                        "type": "Registrant Name"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='fn')][3]"
+                },
+                {
+                    "method": "removal",
+                    "name": {
+                        "type": "Registrant Phone"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[1].type=='voice')]"
+                },
+                {
+                    "method": "emptyValue",
+                    "name": {
+                        "type": "Registrant Street"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][:3]"
+                },
+                {
+                    "method": "emptyValue",
+                    "name": {
+                        "type": "Registrant Postal Code"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][5]"
+                },
+                {
+                    "method": "emptyValue",
+                    "name": {
+                        "type": "Tech City"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='adr')][3][3]"
+                },
+                {
+                    "method": "replacementValue",
+                    "name": {
+                        "type": "Tech Email"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='email')]"
+                },
+                {
+                    "method": "emptyValue",
+                    "name": {
+                        "type": "Tech Name"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='fn')][3]"
+                },
+                {
+                    "method": "removal",
+                    "name": {
+                        "type": "Tech Phone"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[1].type=='voice')]"
+                },
+                {
+                    "method": "emptyValue",
+                    "name": {
+                        "type": "Tech Province"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='adr')][3][4]"
+                },
+                {
+                    "method": "emptyValue",
+                    "name": {
+                        "type": "Tech Street"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='adr')][3][:3]"
+                },
+                {
+                    "method": "emptyValue",
+                    "name": {
+                        "type": "Tech Postal Code"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='adr')][3][5]"
+                },
+                {
+                    "method": "removal",
+                    "name": {
+                        "type": "Registry Registrant ID"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].handle"
+                },
+                {
+                    "method": "removal",
+                    "name": {
+                        "type": "Registry Tech ID"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='tech')].handle"
+                }
+            ],
+            "secureDNS": {
+                "delegationSigned": false
+            },
+            "unicodeName": "complyauto.com"
+        }
+    ],
+    "domain": "complyauto.com\r"
+}

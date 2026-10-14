@@ -1,0 +1,408 @@
+{
+    "name": "worldsbk.com",
+    "handle": "106",
+    "registrationDate": "12/10/2013, 2:25:15 PM GMT+2",
+    "expirationDate": "6/8/2027, 3:00:00 AM GMT+3",
+    "lastChangedDate": "6/9/2026, 3:39:39 AM GMT+3",
+    "lastUpdateDate": "6/9/2026, 3:39:39 AM GMT+3",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "abuse@ascio.com"
+                    ],
+                    [
+                        "lang",
+                        {},
+                        "language-tag",
+                        "en"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+442081583881"
+                    ]
+                ]
+            ],
+            "roles": [
+                "abuse"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "106",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Ascio Technologies, Inc"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ],
+                    [
+                        "lang",
+                        {},
+                        "language-tag",
+                        "en"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrar"
+            ],
+            "publicIds": [
+                {
+                    "type": "IANA Registrar ID",
+                    "identifier": "106"
+                }
+            ],
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                ""
+                            ],
+                            [
+                                "kind",
+                                {},
+                                "text",
+                                "org"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "abuse@ascio.com"
+                            ],
+                            [
+                                "lang",
+                                {},
+                                "language-tag",
+                                "en"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "voice"
+                                },
+                                "uri",
+                                "tel:+442081583881"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "abuse"
+                    ]
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.ascio.com/",
+                    "rel": "about",
+                    "href": "http://www.ascio.com"
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "IT"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "Roma",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "https://whoiscontact.ascio.com?domainname=worldsbk.com"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrant"
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns-475.awsdns-59.com",
+            "status": [
+                "active"
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns-1332.awsdns-38.org",
+            "status": [
+                "active"
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns-1752.awsdns-27.co.uk",
+            "status": [
+                "active"
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns-622.awsdns-13.net",
+            "status": [
+                "active"
+            ]
+        },
+        {
+            "rdapConformance": [
+                "rdap_level_0",
+                "icann_rdap_technical_implementation_guide_1",
+                "icann_rdap_response_profile_1",
+                "redacted"
+            ],
+            "objectClassName": "domain",
+            "ldhName": "worldsbk.com",
+            "unicodeName": "worldsbk.com",
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns-475.awsdns-59.com",
+                    "status": [
+                        "active"
+                    ]
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns-1332.awsdns-38.org",
+                    "status": [
+                        "active"
+                    ]
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns-1752.awsdns-27.co.uk",
+                    "status": [
+                        "active"
+                    ]
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns-622.awsdns-13.net",
+                    "status": [
+                        "active"
+                    ]
+                }
+            ],
+            "secureDNS": {
+                "zoneSigned": false,
+                "delegationSigned": false
+            },
+            "notices": [
+                {
+                    "title": "Status Codes",
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.ascio.com/domain/worldsbk.com",
+                            "rel": "glossary",
+                            "href": "https://icann.org/epp",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "RDDS Inaccuracy Complaint Form",
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.ascio.com/domain/worldsbk.com",
+                            "rel": "help",
+                            "href": "https://icann.org/wicf",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "Terms of Service",
+                    "description": [
+                        "The data provided by the Registration Data Access Protocol (“RDAP” or “Whois”) is provided to you by Tucows for information purposes only and may be used to assist you in obtaining information about or related to a domain name's registration record. These terms govern your use of this service and access to this database. We reserve the right to modify these terms at any time.",
+                        "This information is provided \"as is\" and does not guarantee its accuracy.",
+                        "By submitting a query, you certify that you have a legitimate purpose for requesting the data, that you will use this data only for lawful purposes and delete the data immediately when the data are no longer necessary for your lawful or legitimate purpose, and that, under no circumstances, will you use this data to: a) allow, enable, or otherwise support the transmission of mass, unsolicited, commercial advertising, or solicitations to entities other than the data recipient’s own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of any registry operator or ICANN-accredited registrar, except as reasonably necessary to register domain names or modify existing registrations.",
+                        "The compilation, repackaging, dissemination, or other use of these data is expressly prohibited.",
+                        "Your access to the database may be terminated at any time in our sole discretion including, without limitation, for excessive querying of the database or for failure to otherwise abide by this policy.",
+                        "Your IP address, the queried domain, the response, and a timestamp is stored for the purposes of maintaining the service and to ensure adherence with these terms.",
+                        "By submitting this query, you agree to these terms.",
+                        "NOTE: THIS DATABASE IS A CONTACT DATABASE ONLY.  LACK OF A DOMAIN RECORD DOES NOT SIGNIFY DOMAIN AVAILABILITY."
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.ascio.com/domain/worldsbk.com",
+                            "rel": "terms-of-service",
+                            "href": "http://www.tucowsdomains.com/rdap/tos",
+                            "type": "text/html"
+                        }
+                    ]
+                }
+            ],
+            "redacted": [
+                {
+                    "name": {
+                        "type": "Registry Domain ID"
+                    },
+                    "method": "removal",
+                    "reason": {}
+                },
+                {
+                    "name": {
+                        "type": "Registrant Name"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='fn')][3]",
+                    "pathLang": "jsonpath",
+                    "method": "emptyValue",
+                    "reason": {}
+                },
+                {
+                    "name": {
+                        "type": "Registrant Organization"
+                    },
+                    "method": "removal",
+                    "reason": {}
+                },
+                {
+                    "name": {
+                        "type": "Registrant Phone"
+                    },
+                    "method": "removal",
+                    "reason": {}
+                },
+                {
+                    "name": {
+                        "type": "Registrant Email"
+                    },
+                    "method": "replacementValue",
+                    "reason": {}
+                },
+                {
+                    "name": {
+                        "type": "Registrant Street"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][:3]",
+                    "pathLang": "jsonpath",
+                    "method": "emptyValue",
+                    "reason": {}
+                },
+                {
+                    "name": {
+                        "type": "Registrant City"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][3]",
+                    "pathLang": "jsonpath",
+                    "method": "emptyValue",
+                    "reason": {}
+                },
+                {
+                    "name": {
+                        "type": "Registrant Postal Code"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][5]",
+                    "pathLang": "jsonpath",
+                    "method": "emptyValue",
+                    "reason": {}
+                },
+                {
+                    "name": {
+                        "type": "Registry Registrant ID"
+                    },
+                    "method": "removal",
+                    "reason": {}
+                }
+            ]
+        }
+    ],
+    "domain": "worldsbk.com\r"
+}

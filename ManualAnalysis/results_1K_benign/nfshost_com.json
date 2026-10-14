@@ -1,0 +1,517 @@
+{
+    "name": "nfshost.com",
+    "handle": "93660907_DOMAIN_COM-VRSN",
+    "registrationDate": "3/27/2006, 7:02:00 PM GMT+3",
+    "expirationDate": "3/27/2035, 6:04:58 PM GMT+3",
+    "lastChangedDate": "3/13/2026, 7:11:27 PM GMT+2",
+    "lastUpdateDate": "6/23/2026, 3:05:26 PM GMT+3",
+    "rawData": [
+        {
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "NearlyFreeSpeech.NET Hostmaster"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "US"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            [
+                                "",
+                                "",
+                                "1540 INTERNATIONAL PKWY STE 2000"
+                            ],
+                            "LAKE MARY",
+                            "FL",
+                            "32746",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "whois@nearlyfreespeech.net"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+1.8887414678"
+                    ]
+                ]
+            ],
+            "handle": "2680507",
+            "status": [
+                "active"
+            ],
+            "roles": [
+                "administrative",
+                "technical"
+            ],
+            "objectClassName": "entity",
+            "lang": "en"
+        },
+        {
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "NearlyFreeSpeech.NET Hostmaster"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "US"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            [
+                                "",
+                                "",
+                                "1540 INTERNATIONAL PKWY STE 2000"
+                            ],
+                            "LAKE MARY",
+                            "FL",
+                            "32746",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "whois@nearlyfreespeech.net"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+1.8887414678"
+                    ]
+                ]
+            ],
+            "handle": "2680507",
+            "status": [
+                "active"
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "objectClassName": "entity",
+            "lang": "en"
+        },
+        {
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "PDR Ltd. d/b/a PublicDomainRegistry.com"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "tel:+1.2013775952"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "abuse-contact@publicdomainregistry.com"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "PDR Ltd. d/b/a PublicDomainRegistry.com"
+                    ]
+                ]
+            ],
+            "status": [
+                "active"
+            ],
+            "roles": [
+                "abuse"
+            ],
+            "objectClassName": "entity",
+            "lang": "en"
+        },
+        {
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "PDR Ltd. d/b/a PublicDomainRegistry.com"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "PDR Ltd. d/b/a PublicDomainRegistry.com"
+                    ]
+                ]
+            ],
+            "handle": "303",
+            "status": [
+                "active"
+            ],
+            "roles": [
+                "registrar"
+            ],
+            "entities": [
+                {
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "org",
+                                {},
+                                "text",
+                                "PDR Ltd. d/b/a PublicDomainRegistry.com"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "voice"
+                                },
+                                "text",
+                                "tel:+1.2013775952"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "abuse-contact@publicdomainregistry.com"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "PDR Ltd. d/b/a PublicDomainRegistry.com"
+                            ]
+                        ]
+                    ],
+                    "status": [
+                        "active"
+                    ],
+                    "roles": [
+                        "abuse"
+                    ],
+                    "objectClassName": "entity",
+                    "lang": "en"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdapserver.net/",
+                    "type": "application/rdap+json",
+                    "rel": "about",
+                    "href": "https://www.publicdomainregistry.com"
+                }
+            ],
+            "publicIds": [
+                {
+                    "type": "IANA Registrar ID",
+                    "identifier": "303"
+                }
+            ],
+            "objectClassName": "entity",
+            "lang": "en"
+        },
+        {
+            "ldhName": "ns.phx1.nearlyfreespeech.net",
+            "unicodeName": "ns.phx1.nearlyfreespeech.net",
+            "status": [
+                "active"
+            ],
+            "objectClassName": "nameserver",
+            "lang": "en"
+        },
+        {
+            "ldhName": "ns.phx2.nearlyfreespeech.net",
+            "unicodeName": "ns.phx2.nearlyfreespeech.net",
+            "status": [
+                "active"
+            ],
+            "objectClassName": "nameserver",
+            "lang": "en"
+        },
+        {
+            "ldhName": "ns.phx3.nearlyfreespeech.net",
+            "unicodeName": "ns.phx3.nearlyfreespeech.net",
+            "status": [
+                "active"
+            ],
+            "objectClassName": "nameserver",
+            "lang": "en"
+        },
+        {
+            "ldhName": "ns.phx4.nearlyfreespeech.net",
+            "unicodeName": "ns.phx4.nearlyfreespeech.net",
+            "status": [
+                "active"
+            ],
+            "objectClassName": "nameserver",
+            "lang": "en"
+        },
+        {
+            "ldhName": "ns.phx5.nearlyfreespeech.net",
+            "unicodeName": "ns.phx5.nearlyfreespeech.net",
+            "status": [
+                "active"
+            ],
+            "objectClassName": "nameserver",
+            "lang": "en"
+        },
+        {
+            "ldhName": "ns.phx6.nearlyfreespeech.net",
+            "unicodeName": "ns.phx6.nearlyfreespeech.net",
+            "status": [
+                "active"
+            ],
+            "objectClassName": "nameserver",
+            "lang": "en"
+        },
+        {
+            "ldhName": "ns.phx7.nearlyfreespeech.net",
+            "unicodeName": "ns.phx7.nearlyfreespeech.net",
+            "status": [
+                "active"
+            ],
+            "objectClassName": "nameserver",
+            "lang": "en"
+        },
+        {
+            "ldhName": "ns.phx8.nearlyfreespeech.net",
+            "unicodeName": "ns.phx8.nearlyfreespeech.net",
+            "status": [
+                "active"
+            ],
+            "objectClassName": "nameserver",
+            "lang": "en"
+        },
+        {
+            "handle": "93660907_DOMAIN_COM-VRSN",
+            "ldhName": "nfshost.com",
+            "secureDNS": {
+                "delegationSigned": false
+            },
+            "notices": [
+                {
+                    "title": "Data Policy",
+                    "type": "object truncated due to authorization",
+                    "description": [
+                        "The contact information for one or more entities associated with this domain has been redacted in accordance with the entity's disclosure preferences."
+                    ]
+                },
+                {
+                    "title": "Terms of Use",
+                    "links": [
+                        {
+                            "value": "https://rdapserver.net/domain/nfshost.com",
+                            "type": "application/rdap+json",
+                            "rel": "terms-of-service",
+                            "href": "https://rdapserver.net/terms-of-use/"
+                        }
+                    ],
+                    "description": [
+                        "URL for Terms of Use https://rdapserver.net/terms-of-use/"
+                    ]
+                },
+                {
+                    "title": "Status Codes",
+                    "links": [
+                        {
+                            "value": "https://rdapserver.net/domain/nfshost.com",
+                            "type": "application/rdap+json",
+                            "rel": "glossary",
+                            "href": "https://icann.org/epp"
+                        }
+                    ],
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ]
+                },
+                {
+                    "title": "RDDS Inaccuracy Complaint Form",
+                    "links": [
+                        {
+                            "value": "https://rdapserver.net/domain/nfshost.com",
+                            "type": "application/rdap+json",
+                            "rel": "help",
+                            "href": "https://icann.org/wicf"
+                        }
+                    ],
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ]
+                }
+            ],
+            "rdapConformance": [
+                "icann_rdap_response_profile_1",
+                "icann_rdap_technical_implementation_guide_1",
+                "rdap_level_0",
+                "redacted"
+            ],
+            "objectClassName": "domain",
+            "lang": "en",
+            "nameservers": [
+                {
+                    "ldhName": "ns.phx1.nearlyfreespeech.net",
+                    "unicodeName": "ns.phx1.nearlyfreespeech.net",
+                    "status": [
+                        "active"
+                    ],
+                    "objectClassName": "nameserver",
+                    "lang": "en"
+                },
+                {
+                    "ldhName": "ns.phx2.nearlyfreespeech.net",
+                    "unicodeName": "ns.phx2.nearlyfreespeech.net",
+                    "status": [
+                        "active"
+                    ],
+                    "objectClassName": "nameserver",
+                    "lang": "en"
+                },
+                {
+                    "ldhName": "ns.phx3.nearlyfreespeech.net",
+                    "unicodeName": "ns.phx3.nearlyfreespeech.net",
+                    "status": [
+                        "active"
+                    ],
+                    "objectClassName": "nameserver",
+                    "lang": "en"
+                },
+                {
+                    "ldhName": "ns.phx4.nearlyfreespeech.net",
+                    "unicodeName": "ns.phx4.nearlyfreespeech.net",
+                    "status": [
+                        "active"
+                    ],
+                    "objectClassName": "nameserver",
+                    "lang": "en"
+                },
+                {
+                    "ldhName": "ns.phx5.nearlyfreespeech.net",
+                    "unicodeName": "ns.phx5.nearlyfreespeech.net",
+                    "status": [
+                        "active"
+                    ],
+                    "objectClassName": "nameserver",
+                    "lang": "en"
+                },
+                {
+                    "ldhName": "ns.phx6.nearlyfreespeech.net",
+                    "unicodeName": "ns.phx6.nearlyfreespeech.net",
+                    "status": [
+                        "active"
+                    ],
+                    "objectClassName": "nameserver",
+                    "lang": "en"
+                },
+                {
+                    "ldhName": "ns.phx7.nearlyfreespeech.net",
+                    "unicodeName": "ns.phx7.nearlyfreespeech.net",
+                    "status": [
+                        "active"
+                    ],
+                    "objectClassName": "nameserver",
+                    "lang": "en"
+                },
+                {
+                    "ldhName": "ns.phx8.nearlyfreespeech.net",
+                    "unicodeName": "ns.phx8.nearlyfreespeech.net",
+                    "status": [
+                        "active"
+                    ],
+                    "objectClassName": "nameserver",
+                    "lang": "en"
+                }
+            ],
+            "redacted": [
+                {
+                    "name": {
+                        "type": "Registrant Organization"
+                    },
+                    "reason": {
+                        "description": "Data redacted due to Privacy."
+                    },
+                    "method": "removal",
+                    "pathLang": "jsonpath",
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='org')]"
+                }
+            ]
+        }
+    ],
+    "domain": "nfshost.com\r"
+}

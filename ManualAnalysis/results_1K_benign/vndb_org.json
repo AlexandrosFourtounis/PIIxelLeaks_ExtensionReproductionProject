@@ -1,0 +1,404 @@
+{
+    "name": "vndb.org",
+    "handle": "82d81a68490040648e9955d8b351c75c-LROR",
+    "registrationDate": "9/17/2007, 9:56:13 AM GMT+3",
+    "expirationDate": "9/17/2026, 9:56:13 AM GMT+3",
+    "lastChangedDate": "12/18/2025, 10:36:38 AM GMT+2",
+    "lastUpdateDate": "6/23/2026, 6:48:21 PM GMT+3",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "status": [
+                "removed"
+            ],
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object redacted due to authorization",
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ]
+                }
+            ],
+            "roles": [
+                "registrant",
+                "technical"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "https://mydomainprovider.com/contact_domain/"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "NL"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "roles": [
+                "reseller"
+            ],
+            "entities": [],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "RegistrarHub"
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Abuse Contact"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "NextName B.V. d/b/a RegistrarHub"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "abuse@registrarhub.net"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+31.362024021"
+                    ]
+                ]
+            ],
+            "roles": [
+                "abuse"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "1587",
+            "roles": [
+                "registrar"
+            ],
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Abuse Contact"
+                            ],
+                            [
+                                "org",
+                                {},
+                                "text",
+                                "NextName B.V. d/b/a RegistrarHub"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "abuse@registrarhub.net"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "voice"
+                                },
+                                "uri",
+                                "tel:+31.362024021"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "abuse"
+                    ]
+                }
+            ],
+            "links": [
+                {
+                    "rel": "about",
+                    "href": "http://www.registrarhub.net",
+                    "value": "https://rdap.registrarhub.net/"
+                }
+            ],
+            "publicIds": [
+                {
+                    "type": "IANA Registrar ID",
+                    "identifier": "1587"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "NextName B.V. d/b/a RegistrarHub"
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns1.blicky.net"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns2.blicky.net"
+        },
+        {
+            "rdapConformance": [
+                "icann_rdap_response_profile_1",
+                "icann_rdap_technical_implementation_guide_1",
+                "rdap_level_0",
+                "redacted"
+            ],
+            "notices": [
+                {
+                    "title": "Terms of Use",
+                    "description": [
+                        "The data in this rdap database is provided to you for information purposes only, that is,",
+                        "to assist you in obtaining information about or related to a domain name registration record.",
+                        "We make this information available \"as is,\" and do not guarantee its accuracy.",
+                        "By submitting a rdap query, you agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to:",
+                        "(1) enable high volume, automated, electronic processes that stress or load this rdap database system providing you this information; or",
+                        "(2) allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via direct mail,",
+                        "electronic mail, or by telephone. The compilation, repackaging, dissemination or other use of this data is expressly prohibited without",
+                        "prior written consent from NextName B.V. d/b/a RegistrarHub"
+                    ],
+                    "links": [
+                        {
+                            "title": "Terms of Use",
+                            "rel": "terms-of-service",
+                            "href": "https://manager.mijndomeinreseller.nl/doc/voorwaarden_mijndomeinreseller.pdf",
+                            "value": "https://rdap.registrarhub.net/domain/vndb.org"
+                        }
+                    ]
+                },
+                {
+                    "title": "RDDS Inaccuracy Complaint Form",
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ],
+                    "links": [
+                        {
+                            "rel": "help",
+                            "href": "https://icann.org/wicf",
+                            "value": "https://rdap.registrarhub.net/domain/vndb.org"
+                        }
+                    ]
+                },
+                {
+                    "title": "Status Codes",
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ],
+                    "links": [
+                        {
+                            "rel": "glossary",
+                            "href": "https://icann.org/epp",
+                            "value": "https://rdap.registrarhub.net/domain/vndb.org"
+                        }
+                    ]
+                }
+            ],
+            "objectClassName": "domain",
+            "handle": "82d81a68490040648e9955d8b351c75c-LROR",
+            "ldhName": "vndb.org",
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns1.blicky.net"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns2.blicky.net"
+                }
+            ],
+            "secureDNS": {
+                "delegationSigned": false
+            },
+            "redacted": [
+                {
+                    "name": {
+                        "type": "Registry Registrant ID"
+                    },
+                    "method": "removal"
+                },
+                {
+                    "name": {
+                        "type": "Registrant Email"
+                    },
+                    "method": "replacementValue",
+                    "postPath": "$.entities[?(@.roles[?(@=='registrant')])].vcardArray[1][?(@[0]=='contact-uri')]",
+                    "pathLang": "jsonpath"
+                },
+                {
+                    "name": {
+                        "type": "Registrant Organization"
+                    },
+                    "method": "removal",
+                    "prePath": "$.entities[?(@.roles[?(@=='registrant')])].vcardArray[1][?(@[0]=='org')]",
+                    "pathLang": "jsonpath"
+                },
+                {
+                    "name": {
+                        "type": "Registrant City"
+                    },
+                    "method": "emptyValue",
+                    "postPath": "$.entities[?(@.roles[?(@=='registrant')])].vcardArray[1][?(@[0]=='adr')][3][3]",
+                    "pathLang": "jsonpath"
+                },
+                {
+                    "name": {
+                        "type": "Registrant Postal Code"
+                    },
+                    "method": "emptyValue",
+                    "postPath": "$.entities[?(@.roles[?(@=='registrant')])].vcardArray[1][?(@[0]=='adr')][3][5]",
+                    "pathLang": "jsonpath"
+                },
+                {
+                    "name": {
+                        "type": "Registrant Phone"
+                    },
+                    "method": "removal",
+                    "prePath": "$.entities[?(@.roles[?(@=='registrant')])].vcardArray[1][?(@[1].type=='voice')]",
+                    "pathLang": "jsonpath"
+                },
+                {
+                    "name": {
+                        "type": "Registrant Street"
+                    },
+                    "method": "emptyValue",
+                    "postPath": "$.entities[?(@.roles[?(@=='registrant')])].vcardArray[1][?(@[0]=='adr')][3][:3]",
+                    "pathLang": "jsonpath"
+                },
+                {
+                    "name": {
+                        "type": "Registrant Fax"
+                    },
+                    "method": "removal",
+                    "prePath": "$.entities[?(@.roles[?(@=='registrant')])].vcardArray[1][?(@[1].type=='fax')]",
+                    "pathLang": "jsonpath"
+                },
+                {
+                    "name": {
+                        "type": "Registrant Name"
+                    },
+                    "method": "emptyValue",
+                    "postPath": "$.entities[?(@.roles[?(@=='registrant')])].vcardArray[1][?(@[0]=='fn')][3]",
+                    "pathLang": "jsonpath"
+                },
+                {
+                    "name": {
+                        "type": "Tech Fax"
+                    },
+                    "method": "removal",
+                    "prePath": "$.entities[?(@.roles[?(@=='technical')])].vcardArray[1][?(@[1].type=='fax')]",
+                    "pathLang": "jsonpath"
+                },
+                {
+                    "name": {
+                        "type": "Tech Phone"
+                    },
+                    "method": "removal",
+                    "prePath": "$.entities[?(@.roles[?(@=='technical')])].vcardArray[1][?(@[1].type=='voice')]",
+                    "pathLang": "jsonpath"
+                },
+                {
+                    "name": {
+                        "type": "Tech Email"
+                    },
+                    "method": "replacementValue",
+                    "postPath": "$.entities[?(@.roles[?(@=='technical')])].vcardArray[1][?(@[0]=='contact-uri')]",
+                    "pathLang": "jsonpath"
+                },
+                {
+                    "name": {
+                        "type": "Tech Name"
+                    },
+                    "method": "emptyValue",
+                    "postPath": "$.entities[?(@.roles[?(@=='technical')])].vcardArray[1][?(@[0]=='fn')][3]",
+                    "pathLang": "jsonpath"
+                }
+            ],
+            "lang": "en"
+        }
+    ],
+    "domain": "vndb.org\r"
+}

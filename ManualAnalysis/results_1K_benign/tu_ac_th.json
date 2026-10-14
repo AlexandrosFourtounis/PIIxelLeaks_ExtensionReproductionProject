@@ -1,0 +1,528 @@
+{
+    "name": "tu.ac.th",
+    "handle": "DOMAIN_148484-TH",
+    "registrationDate": "1/16/1999, 7:00:00 PM GMT+2",
+    "expirationDate": "1/15/2027, 7:00:00 PM GMT+2",
+    "lastChangedDate": "12/26/2025, 2:39:57 PM GMT+2",
+    "lastUpdateDate": "6/23/2026, 5:02:34 PM GMT+3",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "roles": [
+                "registrant",
+                "administrative"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        ""
+                    ]
+                ]
+            ],
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object redacted due to authorization",
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ]
+                },
+                {
+                    "title": "EMAIL REDACTED FOR PRIVACY",
+                    "type": "object redacted due to authorization",
+                    "description": [
+                        "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant of the queried domain name"
+                    ]
+                }
+            ],
+            "events": [
+                {
+                    "eventAction": "registration",
+                    "eventDate": "1999-01-16T17:00:00.000Z"
+                },
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2024-04-03T04:14:13.000Z"
+                },
+                {
+                    "eventAction": "last update of RDAP database",
+                    "eventDate": "2026-06-23T14:02:34.000Z"
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "roles": [
+                "technical"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        ""
+                    ]
+                ]
+            ],
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object redacted due to authorization",
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ]
+                },
+                {
+                    "title": "EMAIL REDACTED FOR PRIVACY",
+                    "type": "object redacted due to authorization",
+                    "description": [
+                        "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant of the queried domain name"
+                    ]
+                }
+            ],
+            "events": [
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2023-05-02T04:17:05.000Z"
+                },
+                {
+                    "eventAction": "last update of RDAP database",
+                    "eventDate": "2026-06-23T14:02:34.000Z"
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Abuse Support"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "work",
+                                "voice"
+                            ],
+                            "pref": "1"
+                        },
+                        "uri",
+                        "tel:+66.21054007"
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "abuse@thnic.co.th"
+                    ]
+                ]
+            ],
+            "roles": [
+                "abuse"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "10001",
+            "port43": "whois.thnic.co.th",
+            "roles": [
+                "registrar"
+            ],
+            "publicIds": [
+                {
+                    "identifier": "10001",
+                    "type": "IANA Registrar ID"
+                }
+            ],
+            "lang": "en-US",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "T.H.NIC Co., Ltd."
+                    ],
+                    [
+                        "adr",
+                        {},
+                        "text",
+                        [
+                            "",
+                            "",
+                            [
+                                "111 Mu 9, Thailand Science Park, 2nd Fl. P-206",
+                                "Phahon Yothin Rd.",
+                                "Khlong Nueng"
+                            ],
+                            "Khlong Luang",
+                            "Pathum Thani",
+                            "12120",
+                            "Thailand",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "work",
+                                "voice"
+                            ],
+                            "pref": "1"
+                        },
+                        "uri",
+                        "tel:+66.21054007"
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "staff@thnic.co.th"
+                    ]
+                ]
+            ],
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Abuse Support"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "work",
+                                        "voice"
+                                    ],
+                                    "pref": "1"
+                                },
+                                "uri",
+                                "tel:+66.21054007"
+                            ],
+                            [
+                                "email",
+                                {
+                                    "type": "work"
+                                },
+                                "text",
+                                "abuse@thnic.co.th"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "abuse"
+                    ]
+                }
+            ],
+            "links": [
+                {
+                    "href": "https://rdap.thains.co.th/entity/10001",
+                    "rel": "self",
+                    "type": "application/rdap+json",
+                    "value": "https://rdap.thains.co.th/entity/10001"
+                }
+            ],
+            "events": [
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2006-01-09T00:00:00.000Z"
+                },
+                {
+                    "eventAction": "last update of RDAP database",
+                    "eventDate": "2026-06-23T14:02:34.000Z"
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "port43": "whois.thnic.co.th",
+            "handle": "HOST_108784-ACTH",
+            "ldhName": "ns.tu.ac.th",
+            "lang": "en-US",
+            "ipAddresses": {
+                "v4": [
+                    "203.131.222.11"
+                ],
+                "v6": [
+                    "2404:140:1:1::1111"
+                ]
+            },
+            "links": [
+                {
+                    "href": "https://rdap.thains.co.th/nameserver/ns.tu.ac.th",
+                    "rel": "self",
+                    "type": "application/rdap+json",
+                    "value": "https://rdap.thains.co.th/nameserver/ns.tu.ac.th"
+                }
+            ],
+            "events": [
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2019-10-01T07:00:00.000Z"
+                },
+                {
+                    "eventAction": "last update of RDAP database",
+                    "eventDate": "2026-06-23T14:02:34.000Z"
+                }
+            ],
+            "status": [
+                "active",
+                "associated"
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "port43": "whois.thnic.co.th",
+            "handle": "HOST_108785-ACTH",
+            "ldhName": "nsx.tu.ac.th",
+            "lang": "en-US",
+            "ipAddresses": {
+                "v4": [
+                    "210.86.146.227"
+                ],
+                "v6": [
+                    "2001:fb0:1061:3e4:210:86:146:227"
+                ]
+            },
+            "links": [
+                {
+                    "href": "https://rdap.thains.co.th/nameserver/nsx.tu.ac.th",
+                    "rel": "self",
+                    "type": "application/rdap+json",
+                    "value": "https://rdap.thains.co.th/nameserver/nsx.tu.ac.th"
+                }
+            ],
+            "events": [
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2019-10-01T07:00:00.000Z"
+                },
+                {
+                    "eventAction": "last update of RDAP database",
+                    "eventDate": "2026-06-23T14:02:34.000Z"
+                }
+            ],
+            "status": [
+                "active",
+                "associated"
+            ]
+        },
+        {
+            "rdapConformance": [
+                "rdap_level_0",
+                "icann_rdap_response_profile_0",
+                "icann_rdap_technical_implementation_guide_0"
+            ],
+            "notices": [
+                {
+                    "description": [
+                        "Service subject to Terms of Use."
+                    ],
+                    "links": [
+                        {
+                            "href": "https://www.thains.co.th/index.php?lg=en&ct=89",
+                            "type": "text/html"
+                        }
+                    ],
+                    "title": "RDAP Terms of Service"
+                },
+                {
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ],
+                    "links": [
+                        {
+                            "href": "https://icann.org/epp",
+                            "type": "text/html"
+                        }
+                    ],
+                    "title": "Status Codes"
+                },
+                {
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://www.icann.org/wicf"
+                    ],
+                    "links": [
+                        {
+                            "href": "https://www.icann.org/wicf",
+                            "type": "text/html"
+                        }
+                    ],
+                    "title": "RDDS Inaccuracy Complaint Form"
+                }
+            ],
+            "objectClassName": "domain",
+            "port43": "whois.thnic.co.th",
+            "ldhName": "tu.ac.th",
+            "handle": "DOMAIN_148484-TH",
+            "links": [
+                {
+                    "href": "https://rdap.thains.co.th/domain/tu.ac.th",
+                    "rel": "self",
+                    "type": "application/rdap+json",
+                    "value": "https://rdap.thains.co.th/domain/tu.ac.th"
+                }
+            ],
+            "lang": "en-US",
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "port43": "whois.thnic.co.th",
+                    "handle": "HOST_108784-ACTH",
+                    "ldhName": "ns.tu.ac.th",
+                    "lang": "en-US",
+                    "ipAddresses": {
+                        "v4": [
+                            "203.131.222.11"
+                        ],
+                        "v6": [
+                            "2404:140:1:1::1111"
+                        ]
+                    },
+                    "links": [
+                        {
+                            "href": "https://rdap.thains.co.th/nameserver/ns.tu.ac.th",
+                            "rel": "self",
+                            "type": "application/rdap+json",
+                            "value": "https://rdap.thains.co.th/nameserver/ns.tu.ac.th"
+                        }
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "2019-10-01T07:00:00.000Z"
+                        },
+                        {
+                            "eventAction": "last update of RDAP database",
+                            "eventDate": "2026-06-23T14:02:34.000Z"
+                        }
+                    ],
+                    "status": [
+                        "active",
+                        "associated"
+                    ]
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "port43": "whois.thnic.co.th",
+                    "handle": "HOST_108785-ACTH",
+                    "ldhName": "nsx.tu.ac.th",
+                    "lang": "en-US",
+                    "ipAddresses": {
+                        "v4": [
+                            "210.86.146.227"
+                        ],
+                        "v6": [
+                            "2001:fb0:1061:3e4:210:86:146:227"
+                        ]
+                    },
+                    "links": [
+                        {
+                            "href": "https://rdap.thains.co.th/nameserver/nsx.tu.ac.th",
+                            "rel": "self",
+                            "type": "application/rdap+json",
+                            "value": "https://rdap.thains.co.th/nameserver/nsx.tu.ac.th"
+                        }
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "2019-10-01T07:00:00.000Z"
+                        },
+                        {
+                            "eventAction": "last update of RDAP database",
+                            "eventDate": "2026-06-23T14:02:34.000Z"
+                        }
+                    ],
+                    "status": [
+                        "active",
+                        "associated"
+                    ]
+                }
+            ],
+            "secureDNS": {
+                "delegationSigned": true,
+                "dsData": [
+                    {
+                        "keyTag": 47596,
+                        "algorithm": 8,
+                        "digestType": 2,
+                        "digest": "0AA92704497EA178C84F9722048C1A5AAA169282EC86E80D72482DE666748ED9",
+                        "events": [
+                            {
+                                "eventAction": "registration",
+                                "eventDate": "2021-09-08T01:04:17.000Z"
+                            }
+                        ]
+                    },
+                    {
+                        "keyTag": 13584,
+                        "algorithm": 8,
+                        "digestType": 2,
+                        "digest": "57BAFB5DC1003EC91F1F3AD6838AA80AF646388981EF7799DF9A8C2E1B600666",
+                        "events": [
+                            {
+                                "eventAction": "registration",
+                                "eventDate": "2021-12-24T12:01:18.000Z"
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "domain": "tu.ac.th\r"
+}

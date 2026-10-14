@@ -1,0 +1,77 @@
+{
+    "comfort.com.gr": {
+        "PIXEL_GTM": {
+            "comfort.com.gr": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-K48C4BV": [
+                        "1506210999704853"
+                    ]
+                },
+                "base_code_type": "potential",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "opinel.com": {
+        "PIXEL_GTM": {
+            "opinel.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-TTHJMR": [
+                        "1630779677940376"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "bookingplanner.com": {
+        "PIXEL_GTM": {
+            "bookingplanner.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-PF3BM5C": [
+                        "922739942779460"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "kemira.com": {
+        "PIXEL_GTM": {
+            "kemira.com": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-5SJGQV8": [
+                        "1661312837478980"
+                    ]
+                },
+                "base_code_type": "potential",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "aflegal.org": {
+        "PIXEL_GTM": {
+            "aflegal.org": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-5W23W4F": [
+                        "630547721951165"
+                    ]
+                },
+                "base_code_type": "potential",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    }
+}

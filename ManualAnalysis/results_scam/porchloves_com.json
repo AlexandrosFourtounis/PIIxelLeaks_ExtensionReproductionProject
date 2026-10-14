@@ -1,0 +1,372 @@
+{
+    "name": "porchloves.com",
+    "handle": "3008224858_DOMAIN_COM-VRSN",
+    "registrationDate": "8/8/2025, 5:21:01 AM GMT+3",
+    "expirationDate": "8/8/2026, 5:21:01 AM GMT+3",
+    "lastChangedDate": "8/8/2025, 5:21:01 AM GMT+3",
+    "lastUpdateDate": "6/16/2026, 2:02:03 PM GMT+3",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "handle": "porchlovescom-reg",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Registration Private"
+                    ],
+                    [
+                        "org",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "Domains By Proxy, LLC"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "US"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "DomainsByProxy.com 100 S. Mill Ave, Suite 1600",
+                            "Tempe",
+                            "Arizona",
+                            "85281",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+1.4806242599"
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "https://www.godaddy.com/whois/results.aspx?domain=porchloves.com&action=contactDomainOwner"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2025-08-08T00:20:57Z"
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+1.480-624-2505"
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "abuse@godaddy.com"
+                    ]
+                ]
+            ],
+            "roles": [
+                "abuse"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "146",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "GoDaddy.com, LLC"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "US"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "2155 E Godaddy Way",
+                            "Tempe",
+                            "AZ",
+                            "85284",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "abuse@godaddy.com"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrar"
+            ],
+            "publicIds": [
+                {
+                    "type": "IANA Registrar ID",
+                    "identifier": "146"
+                }
+            ],
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                ""
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "voice"
+                                },
+                                "uri",
+                                "tel:+1.480-624-2505"
+                            ],
+                            [
+                                "email",
+                                {
+                                    "type": "work"
+                                },
+                                "text",
+                                "abuse@godaddy.com"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "abuse"
+                    ]
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.godaddy.com/v1/",
+                    "rel": "about",
+                    "href": "https://www.godaddy.com",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "port43": "whois.godaddy.com"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns67.domaincontrol.com",
+            "status": [
+                "active"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2025-08-08T00:21:02Z"
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns68.domaincontrol.com",
+            "status": [
+                "active"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2025-08-08T00:21:02Z"
+                }
+            ]
+        },
+        {
+            "objectClassName": "domain",
+            "handle": "3008224858_DOMAIN_COM-VRSN",
+            "ldhName": "porchloves.com",
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns67.domaincontrol.com",
+                    "status": [
+                        "active"
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2025-08-08T00:21:02Z"
+                        }
+                    ]
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns68.domaincontrol.com",
+                    "status": [
+                        "active"
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2025-08-08T00:21:02Z"
+                        }
+                    ]
+                }
+            ],
+            "secureDNS": {
+                "delegationSigned": false
+            },
+            "links": [
+                {
+                    "value": "https://rdap.godaddy.com/v1/domain/porchloves.com",
+                    "rel": "self",
+                    "href": "https://rdap.godaddy.com/v1/domain/porchloves.com",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "notices": [
+                {
+                    "title": "Status Codes",
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.godaddy.com/v1/domain/porchloves.com",
+                            "rel": "glossary",
+                            "href": "https://icann.org/epp",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "RDDS Inaccuracy Complaint Form",
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.godaddy.com/v1/domain/porchloves.com",
+                            "rel": "help",
+                            "href": "https://icann.org/wicf",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "Terms of Use",
+                    "description": [
+                        "By submitting an inquiry, you agree to these Universal Terms of Service",
+                        "and limitations of warranty. In particular, you agree not to use this",
+                        "data to allow, enable, or otherwise make possible, dissemination or",
+                        "collection of this data, in part or in its entirety, for any purpose,",
+                        "such as the transmission of unsolicited advertising and solicitations of",
+                        "any kind, including spam. You further agree not to use this data to enable",
+                        "high volume, automated or robotic electronic processes designed to collect",
+                        "or compile this data for any purpose, including mining this data for your",
+                        "own personal or commercial purposes, or use this data in any way that violates",
+                        "applicable laws and regulations."
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.godaddy.com/v1/domain/porchloves.com",
+                            "rel": "terms-of-service",
+                            "href": "https://www.godaddy.com/agreements/showdoc?pageid=5403",
+                            "type": "text/html"
+                        }
+                    ]
+                }
+            ],
+            "rdapConformance": [
+                "rdap_level_0",
+                "redacted",
+                "icann_rdap_response_profile_1",
+                "icann_rdap_technical_implementation_guide_1"
+            ],
+            "port43": "whois.godaddy.com",
+            "redacted": [
+                {
+                    "name": {
+                        "description": "Registrant Email"
+                    },
+                    "method": "replacementValue",
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='email')]",
+                    "replacementPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='contact-uri')]",
+                    "pathLang": "jsonpath",
+                    "reason": {
+                        "description": "Server Policy"
+                    }
+                }
+            ]
+        }
+    ],
+    "domain": "porchloves.com\r"
+}

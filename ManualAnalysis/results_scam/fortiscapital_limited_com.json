@@ -1,0 +1,427 @@
+{
+    "name": "fortiscapital-limited.com",
+    "handle": "3017494270_DOMAIN_COM-VRSN",
+    "registrationDate": "9/7/2025, 3:00:00 AM GMT+3",
+    "expirationDate": "9/7/2026, 3:00:00 AM GMT+3",
+    "lastChangedDate": "9/7/2025, 3:00:00 AM GMT+3",
+    "lastUpdateDate": "6/16/2026, 5:40:00 PM GMT+3",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "roles": [
+                "registrant"
+            ],
+            "handle": "G-117199",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Whois protection, this company does not own this domain name s.r.o."
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "CZ"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "Harmonicka 1384/13",
+                            "Praha 5",
+                            "",
+                            "15800",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "fortiscapital-limited.com@fablovkawhoisprotection.com"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+420.226517341"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "uri",
+                        "tel:+420.226517351"
+                    ]
+                ]
+            ],
+            "remarks": [
+                {
+                    "type": "object redacted due to authorization",
+                    "title": "REDACTED FOR PRIVACY",
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "roles": [
+                "administrative"
+            ],
+            "handle": "G-117199",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Whois protection, this company does not own this domain name s.r.o."
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "CZ"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "Harmonicka 1384/13",
+                            "Praha 5",
+                            "",
+                            "15800",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "fortiscapital-limited.com@fablovkawhoisprotection.com"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+420.226517341"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "uri",
+                        "tel:+420.226517351"
+                    ]
+                ]
+            ],
+            "remarks": [
+                {
+                    "type": "object redacted due to authorization",
+                    "title": "REDACTED FOR PRIVACY",
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "roles": [
+                "technical"
+            ],
+            "handle": "G-117199",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Whois protection, this company does not own this domain name s.r.o."
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "CZ"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "Harmonicka 1384/13",
+                            "Praha 5",
+                            "",
+                            "15800",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "fortiscapital-limited.com@fablovkawhoisprotection.com"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+420.226517341"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "uri",
+                        "tel:+420.226517351"
+                    ]
+                ]
+            ],
+            "remarks": [
+                {
+                    "type": "object redacted due to authorization",
+                    "title": "REDACTED FOR PRIVACY",
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "roles": [
+                "abuse"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Ultahost, Inc."
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "u-abuse@ultahost.com"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+1.3026001222"
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "roles": [
+                "registrar"
+            ],
+            "handle": "4331",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Ultahost, Inc."
+                    ]
+                ]
+            ],
+            "publicIds": [
+                {
+                    "type": "IANA Registrar ID",
+                    "identifier": "4331"
+                }
+            ],
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "roles": [
+                        "abuse"
+                    ],
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Ultahost, Inc."
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "u-abuse@ultahost.com"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "voice"
+                                },
+                                "uri",
+                                "tel:+1.3026001222"
+                            ]
+                        ]
+                    ]
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.ultahosting.com/",
+                    "rel": "about",
+                    "href": "https://ultahost.com/",
+                    "type": "text/html"
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns3.mywebvps2.com"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns4.mywebvps2.com"
+        },
+        {
+            "objectClassName": "domain",
+            "ldhName": "fortiscapital-limited.com",
+            "handle": "3017494270_DOMAIN_COM-VRSN",
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns3.mywebvps2.com"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns4.mywebvps2.com"
+                }
+            ],
+            "secureDNS": {
+                "delegationSigned": false
+            },
+            "redacted": [],
+            "notices": [
+                {
+                    "title": "Registrar URL",
+                    "links": [
+                        {
+                            "value": "https://rdap.ultahosting.com/domain/fortiscapital-limited.com",
+                            "rel": "about",
+                            "href": "https://ultahost.com/",
+                            "type": "text/html"
+                        }
+                    ],
+                    "description": []
+                },
+                {
+                    "title": "Terms of Service",
+                    "links": [
+                        {
+                            "value": "https://rdap.ultahosting.com/domain/fortiscapital-limited.com",
+                            "rel": "terms-of-service",
+                            "href": "https://ultahost.com/terms",
+                            "type": "text/html"
+                        }
+                    ],
+                    "description": [
+                        "By submitting an inquiry, you agree to these Universal Terms of Service and limitations of warranty. In particular, you agree not to use this data to allow, enable, or otherwise make possible, dissemination or collection of this data, in part or in its entirety, for any purpose, such as the transmission of unsolicited advertising and solicitations of any kind, including spam. You further agree not to use this data to enable high volume, automated or robotic electronic processes designed to collect or compile this data for any purpose, including mining this data for your own personal or commercial purposes, or use this data in any way that violates applicable laws and regulations. ULTAHOST INC reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy."
+                    ]
+                },
+                {
+                    "title": "Status Codes",
+                    "links": [
+                        {
+                            "value": "https://rdap.ultahosting.com/domain/fortiscapital-limited.com",
+                            "rel": "glossary",
+                            "href": "https://icann.org/epp",
+                            "type": "text/html"
+                        }
+                    ],
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ]
+                },
+                {
+                    "title": "RDDS Inaccuracy Complaint Form",
+                    "links": [
+                        {
+                            "value": "https://rdap.ultahosting.com/domain/fortiscapital-limited.com",
+                            "rel": "help",
+                            "href": "https://icann.org/wicf",
+                            "type": "text/html"
+                        }
+                    ],
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ]
+                }
+            ],
+            "rdapConformance": [
+                "rdap_level_0",
+                "icann_rdap_response_profile_1",
+                "icann_rdap_technical_implementation_guide_1",
+                "redacted"
+            ]
+        }
+    ],
+    "domain": "fortiscapital-limited.com\r"
+}

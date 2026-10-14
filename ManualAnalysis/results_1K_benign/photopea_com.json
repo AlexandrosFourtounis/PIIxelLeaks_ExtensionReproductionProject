@@ -1,0 +1,611 @@
+{
+    "name": "photopea.com",
+    "handle": "1759105448_DOMAIN_COM-VRSN",
+    "registrationDate": "11/13/2012, 2:00:00 AM GMT+2",
+    "expirationDate": "11/13/2027, 2:00:00 AM GMT+2",
+    "lastChangedDate": "5/11/2026, 3:00:00 AM GMT+3",
+    "lastUpdateDate": "6/23/2026, 6:36:00 PM GMT+3",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "roles": [
+                "registrant"
+            ],
+            "handle": "G-1146906",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "CZ"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "Hlavni město Praha",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "photopea.com@fablovkawhoisprotection.com"
+                    ]
+                ]
+            ],
+            "remarks": [
+                {
+                    "type": "object redacted due to authorization",
+                    "title": "REDACTED FOR PRIVACY",
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "roles": [
+                "administrative"
+            ],
+            "handle": "",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": ""
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "photopea.com@fablovkawhoisprotection.com"
+                    ]
+                ]
+            ],
+            "remarks": [
+                {
+                    "type": "object redacted due to authorization",
+                    "title": "REDACTED FOR PRIVACY",
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "roles": [
+                "technical"
+            ],
+            "handle": "",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": ""
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "photopea.com@fablovkawhoisprotection.com"
+                    ]
+                ]
+            ],
+            "remarks": [
+                {
+                    "type": "object redacted due to authorization",
+                    "title": "REDACTED FOR PRIVACY",
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "roles": [
+                "abuse"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Gransy, s.r.o."
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "abuse@regtons.com"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+420.734463373"
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "roles": [
+                "registrar"
+            ],
+            "handle": "1505",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Gransy, s.r.o."
+                    ]
+                ]
+            ],
+            "publicIds": [
+                {
+                    "type": "IANA Registrar ID",
+                    "identifier": "1505"
+                }
+            ],
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "roles": [
+                        "abuse"
+                    ],
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Gransy, s.r.o."
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "abuse@regtons.com"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "voice"
+                                },
+                                "uri",
+                                "tel:+420.734463373"
+                            ]
+                        ]
+                    ]
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.regtons.com/",
+                    "rel": "about",
+                    "href": "http://regtons.com",
+                    "type": "text/html"
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "abby.ns.cloudflare.com"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "greg.ns.cloudflare.com"
+        },
+        {
+            "objectClassName": "domain",
+            "ldhName": "photopea.com",
+            "handle": "1759105448_DOMAIN_COM-VRSN",
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "abby.ns.cloudflare.com"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "greg.ns.cloudflare.com"
+                }
+            ],
+            "secureDNS": {
+                "delegationSigned": false
+            },
+            "redacted": [
+                {
+                    "name": {
+                        "type": "Registrant Name"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='fn')][3]",
+                    "pathLang": "jsonpath",
+                    "method": "emptyValue",
+                    "reason": {
+                        "type": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "type": "Registrant Street"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][:3]",
+                    "pathLang": "jsonpath",
+                    "method": "emptyValue",
+                    "reason": {
+                        "type": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "type": "Registrant City"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][3]",
+                    "pathLang": "jsonpath",
+                    "method": "emptyValue",
+                    "reason": {
+                        "type": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "type": "Registrant Postal Code"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][5]",
+                    "pathLang": "jsonpath",
+                    "method": "emptyValue",
+                    "reason": {
+                        "type": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "type": "Registrant Email"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='email')][3]",
+                    "pathLang": "jsonpath",
+                    "method": "replacementValue",
+                    "reason": {
+                        "type": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "type": "Registrant Phone"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[1].type=='voice')]",
+                    "pathLang": "jsonpath",
+                    "method": "removal",
+                    "reason": {
+                        "type": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "type": "Registrant Fax"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[1].type=='fax')]",
+                    "pathLang": "jsonpath",
+                    "method": "removal",
+                    "reason": {
+                        "type": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "type": "Administrative Name"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='administrative')].vcardArray[1][?(@[0]=='fn')][3]",
+                    "pathLang": "jsonpath",
+                    "method": "emptyValue",
+                    "reason": {
+                        "type": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "type": "Administrative Street"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='administrative')].vcardArray[1][?(@[0]=='adr')][3][:3]",
+                    "pathLang": "jsonpath",
+                    "method": "emptyValue",
+                    "reason": {
+                        "type": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "type": "Administrative City"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='administrative')].vcardArray[1][?(@[0]=='adr')][3][3]",
+                    "pathLang": "jsonpath",
+                    "method": "emptyValue",
+                    "reason": {
+                        "type": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "type": "Administrative Postal Code"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='administrative')].vcardArray[1][?(@[0]=='adr')][3][5]",
+                    "pathLang": "jsonpath",
+                    "method": "emptyValue",
+                    "reason": {
+                        "type": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "type": "Administrative Email"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='administrative')].vcardArray[1][?(@[0]=='email')][3]",
+                    "pathLang": "jsonpath",
+                    "method": "replacementValue",
+                    "reason": {
+                        "type": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "type": "Administrative Phone"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='administrative')].vcardArray[1][?(@[1].type=='voice')]",
+                    "pathLang": "jsonpath",
+                    "method": "removal",
+                    "reason": {
+                        "type": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "type": "Administrative Fax"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='administrative')].vcardArray[1][?(@[1].type=='fax')]",
+                    "pathLang": "jsonpath",
+                    "method": "removal",
+                    "reason": {
+                        "type": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "type": "Tech Name"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='fn')][3]",
+                    "pathLang": "jsonpath",
+                    "method": "emptyValue",
+                    "reason": {
+                        "type": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "type": "Tech Street"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='adr')][3][:3]",
+                    "pathLang": "jsonpath",
+                    "method": "emptyValue",
+                    "reason": {
+                        "type": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "type": "Tech City"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='adr')][3][3]",
+                    "pathLang": "jsonpath",
+                    "method": "emptyValue",
+                    "reason": {
+                        "type": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "type": "Tech Postal Code"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='adr')][3][5]",
+                    "pathLang": "jsonpath",
+                    "method": "emptyValue",
+                    "reason": {
+                        "type": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "type": "Tech Email"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='email')][3]",
+                    "pathLang": "jsonpath",
+                    "method": "replacementValue",
+                    "reason": {
+                        "type": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "type": "Tech Phone"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[1].type=='voice')]",
+                    "pathLang": "jsonpath",
+                    "method": "removal",
+                    "reason": {
+                        "type": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "type": "Tech Fax"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[1].type=='fax')]",
+                    "pathLang": "jsonpath",
+                    "method": "removal",
+                    "reason": {
+                        "type": "Server policy"
+                    }
+                }
+            ],
+            "notices": [
+                {
+                    "title": "Registrar URL",
+                    "links": [
+                        {
+                            "value": "https://rdap.regtons.com/domain/photopea.com",
+                            "rel": "about",
+                            "href": "http://regtons.com",
+                            "type": "text/html"
+                        }
+                    ],
+                    "description": []
+                },
+                {
+                    "title": "Terms of Service",
+                    "links": [
+                        {
+                            "value": "https://rdap.regtons.com/domain/photopea.com",
+                            "rel": "terms-of-service",
+                            "href": "https://regtons.com/en/support/terms-and-conditions/",
+                            "type": "text/html"
+                        }
+                    ],
+                    "description": [
+                        "By submitting an inquiry, you agree to these Universal Terms of Service and limitations of warranty. In particular, you agree not to use this data to allow, enable, or otherwise make possible, dissemination or collection of this data, in part or in its entirety, for any purpose, such as the transmission of unsolicited advertising and solicitations of any kind, including spam. You further agree not to use this data to enable high volume, automated or robotic electronic processes designed to collect or compile this data for any purpose, including mining this data for your own personal or commercial purposes, or use this data in any way that violates applicable laws and regulations. Gransy s.r.o. reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy."
+                    ]
+                },
+                {
+                    "title": "Status Codes",
+                    "links": [
+                        {
+                            "value": "https://rdap.regtons.com/domain/photopea.com",
+                            "rel": "glossary",
+                            "href": "https://icann.org/epp",
+                            "type": "text/html"
+                        }
+                    ],
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ]
+                },
+                {
+                    "title": "RDDS Inaccuracy Complaint Form",
+                    "links": [
+                        {
+                            "value": "https://rdap.regtons.com/domain/photopea.com",
+                            "rel": "help",
+                            "href": "https://icann.org/wicf",
+                            "type": "text/html"
+                        }
+                    ],
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ]
+                }
+            ],
+            "rdapConformance": [
+                "rdap_level_0",
+                "icann_rdap_response_profile_1",
+                "icann_rdap_technical_implementation_guide_1",
+                "redacted"
+            ]
+        }
+    ],
+    "domain": "photopea.com\r"
+}

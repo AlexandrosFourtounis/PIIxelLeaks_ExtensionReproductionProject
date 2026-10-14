@@ -1,0 +1,439 @@
+{
+    "name": "barion.com",
+    "handle": "96331262_DOMAIN_COM-VRSN",
+    "registrationDate": "3/31/2003, 10:13:30 PM GMT+3",
+    "expirationDate": "3/31/2030, 9:13:30 PM GMT+3",
+    "lastChangedDate": "3/31/2026, 8:38:04 AM GMT+3",
+    "lastUpdateDate": "6/23/2026, 4:54:31 PM GMT+3",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "roles": [
+                "abuse"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+1.9546071294"
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": ""
+                        },
+                        "text",
+                        "abusereport@moniker.com"
+                    ]
+                ]
+            ]
+        },
+        {
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "roles": [
+                        "abuse"
+                    ],
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                ""
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "voice"
+                                },
+                                "uri",
+                                "tel:+1.9546071294"
+                            ],
+                            [
+                                "email",
+                                {
+                                    "type": ""
+                                },
+                                "text",
+                                "abusereport@moniker.com"
+                            ]
+                        ]
+                    ]
+                }
+            ],
+            "handle": "228",
+            "lang": "en-US",
+            "links": [
+                {
+                    "href": "http://www.moniker.com",
+                    "rel": "about",
+                    "type": "application/rdap+json",
+                    "value": "https://rdap.rrpproxy.net/"
+                }
+            ],
+            "objectClassName": "entity",
+            "publicIds": [
+                {
+                    "identifier": "228",
+                    "type": "IANA Registrar ID"
+                }
+            ],
+            "roles": [
+                "registrar"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Moniker Online Services LLC"
+                    ]
+                ]
+            ]
+        },
+        {
+            "lang": "en-US",
+            "objectClassName": "entity",
+            "remarks": [
+                {
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ],
+                    "type": "object redacted due to authorization"
+                }
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Moniker Privacy Services"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "Moniker Privacy Services"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "US",
+                            "type": ""
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "2320 NE 9th St, Second Floor",
+                            "Fort Lauderdale",
+                            "FL",
+                            "33304",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+1.8006886311"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "uri",
+                        "tel:+1.9545859186"
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": ""
+                        },
+                        "text",
+                        "ebb9ed6519d739e558d22bc7140d5871c94184bc58fe087d2bf24349ffdd1fdf@barion.com.whoisproxy.org"
+                    ]
+                ]
+            ]
+        },
+        {
+            "lang": "en-US",
+            "objectClassName": "entity",
+            "remarks": [
+                {
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ],
+                    "type": "object redacted due to authorization"
+                }
+            ],
+            "roles": [
+                "technical"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Moniker Privacy Services"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "Moniker Privacy Services"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "US",
+                            "type": ""
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "2320 NE 9th St, Second Floor",
+                            "Fort Lauderdale",
+                            "FL",
+                            "33304",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+1.8006886311"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "uri",
+                        "tel:+1.9545859186"
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": ""
+                        },
+                        "text",
+                        "ebb9ed6519d739e558d22bc7140d5871c94184bc58fe087d2bf24349ffdd1fdf@barion.com.whoisproxy.org"
+                    ]
+                ]
+            ]
+        },
+        {
+            "lang": "en-US",
+            "ldhName": "arnold.ns.cloudflare.com",
+            "objectClassName": "nameserver",
+            "status": [
+                "active"
+            ],
+            "unicodeName": "arnold.ns.cloudflare.com"
+        },
+        {
+            "ipAddresses": {
+                "v4": [
+                    "173.245.58.143"
+                ]
+            },
+            "lang": "en-US",
+            "ldhName": "ruth.ns.cloudflare.com",
+            "objectClassName": "nameserver",
+            "status": [
+                "active"
+            ],
+            "unicodeName": "ruth.ns.cloudflare.com"
+        },
+        {
+            "handle": "96331262_DOMAIN_COM-VRSN",
+            "ldhName": "barion.com",
+            "nameservers": [
+                {
+                    "lang": "en-US",
+                    "ldhName": "arnold.ns.cloudflare.com",
+                    "objectClassName": "nameserver",
+                    "status": [
+                        "active"
+                    ],
+                    "unicodeName": "arnold.ns.cloudflare.com"
+                },
+                {
+                    "ipAddresses": {
+                        "v4": [
+                            "173.245.58.143"
+                        ]
+                    },
+                    "lang": "en-US",
+                    "ldhName": "ruth.ns.cloudflare.com",
+                    "objectClassName": "nameserver",
+                    "status": [
+                        "active"
+                    ],
+                    "unicodeName": "ruth.ns.cloudflare.com"
+                }
+            ],
+            "notices": [
+                {
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ],
+                    "links": [
+                        {
+                            "href": "https://icann.org/epp",
+                            "rel": "glossary",
+                            "title": "More information on domain status codes",
+                            "type": "application/rdap+json",
+                            "value": "https://rdap.rrpproxy.net/domain/barion.com"
+                        }
+                    ],
+                    "title": "Status Codes"
+                },
+                {
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ],
+                    "links": [
+                        {
+                            "href": "https://icann.org/wicf",
+                            "rel": "help",
+                            "type": "application/rdap+json",
+                            "value": "https://rdap.rrpproxy.net/domain/barion.com"
+                        }
+                    ],
+                    "title": "RDDS Inaccuracy Complaint Form"
+                },
+                {
+                    "description": [
+                        "This data is provided by MONIKER ONLINE SERVICES LLC.",
+                        "for information purposes, and to assist persons obtaining information",
+                        "about or related to domain name registration records.",
+                        "MONIKER ONLINE SERVICES LLC. does not guarantee its accuracy.",
+                        "By submitting a RDAP query, you agree that you will use this data",
+                        "only for lawful purposes and that, under no circumstances, you will",
+                        "use this data to",
+                        "1) allow, enable, or otherwise support the transmission of mass",
+                        "   unsolicited, commercial advertising or solicitations via E-mail",
+                        "   (spam) or",
+                        "2) enable high volume, automated, electronic processes that apply",
+                        "   to this RDAP server.",
+                        "These terms may be changed without prior notice.",
+                        "By submitting this query, you agree to abide by this policy."
+                    ],
+                    "links": [
+                        {
+                            "href": "https://www.key-systems.net/en/legal/terms-conditions",
+                            "rel": "terms-of-service",
+                            "title": "Terms & Conditions",
+                            "value": "https://rdap.rrpproxy.net/domain/barion.com"
+                        }
+                    ],
+                    "title": "Terms of Use"
+                }
+            ],
+            "objectClassName": "domain",
+            "rdapConformance": [
+                "rdap_level_0",
+                "icann_rdap_response_profile_1",
+                "icann_rdap_technical_implementation_guide_1",
+                "redacted"
+            ],
+            "redacted": [
+                {
+                    "method": "removal",
+                    "name": {
+                        "type": "Registry Registrant ID"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].handle"
+                },
+                {
+                    "method": "removal",
+                    "name": {
+                        "type": "Registry Tech ID"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='tech')].handle"
+                }
+            ],
+            "secureDNS": {
+                "delegationSigned": true,
+                "dsData": [
+                    {
+                        "algorithm": 13,
+                        "digest": "0CFD7A906AE01DF09B391BE075748BEF32BFB5ED",
+                        "digestType": 1,
+                        "keyTag": 2371
+                    },
+                    {
+                        "algorithm": 13,
+                        "digest": "B427D891626A010EA494E8E49D4E9440F84AB032BD7609918D48D1CF6BCC1795",
+                        "digestType": 2,
+                        "keyTag": 2371
+                    }
+                ]
+            },
+            "unicodeName": "barion.com"
+        }
+    ],
+    "domain": "barion.com\r"
+}

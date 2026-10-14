@@ -1,0 +1,408 @@
+{
+    "name": "rojadirectatv3.pl",
+    "handle": null,
+    "registrationDate": "2/3/2026, 11:45:48 PM GMT+2",
+    "expirationDate": "2/3/2029, 11:45:48 PM GMT+2",
+    "lastChangedDate": "6/17/2026, 12:18:07 AM GMT+3",
+    "lastUpdateDate": "6/23/2026, 5:57:08 PM GMT+3",
+    "rawData": [
+        {
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Domain Admin"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "Motion Picture Association, Inc."
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "US"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            [
+                                "15301 Ventura Blvd.",
+                                "Bldg. E"
+                            ],
+                            "Sherman Oaks",
+                            "CA",
+                            "91403",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "VOICE"
+                        },
+                        "uri",
+                        "tel:+1.8189956600"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "FAX"
+                        },
+                        "uri",
+                        "tel:+1.8182854456"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object truncated due to authorization",
+                    "description": [
+                        "The object does not contain all data due to lack of authorization."
+                    ]
+                }
+            ],
+            "objectClassName": "entity"
+        },
+        {
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Markmonitor, Inc."
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "US"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "1120 S. Rackham Way, Suite 300",
+                            "Meridian",
+                            "Idaho",
+                            "83642",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "VOICE"
+                        },
+                        "uri",
+                        "tel:+1.2083895740"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "ccops@markmonitor.com"
+                    ],
+                    [
+                        "url",
+                        {},
+                        "uri",
+                        "https://www.markmonitor.com/"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrar"
+            ],
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object truncated due to authorization",
+                    "description": [
+                        "The object does not contain all data due to lack of authorization."
+                    ]
+                }
+            ],
+            "objectClassName": "entity"
+        },
+        {
+            "ldhName": "ns2.markmonitor.com",
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object truncated due to authorization",
+                    "description": [
+                        "The object does not contain all data due to lack of authorization."
+                    ]
+                }
+            ],
+            "objectClassName": "nameserver"
+        },
+        {
+            "ldhName": "ns6.markmonitor.com",
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object truncated due to authorization",
+                    "description": [
+                        "The object does not contain all data due to lack of authorization."
+                    ]
+                }
+            ],
+            "objectClassName": "nameserver"
+        },
+        {
+            "ldhName": "ns3.markmonitor.com",
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object truncated due to authorization",
+                    "description": [
+                        "The object does not contain all data due to lack of authorization."
+                    ]
+                }
+            ],
+            "objectClassName": "nameserver"
+        },
+        {
+            "ldhName": "ns7.markmonitor.com",
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object truncated due to authorization",
+                    "description": [
+                        "The object does not contain all data due to lack of authorization."
+                    ]
+                }
+            ],
+            "objectClassName": "nameserver"
+        },
+        {
+            "ldhName": "ns1.markmonitor.com",
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object truncated due to authorization",
+                    "description": [
+                        "The object does not contain all data due to lack of authorization."
+                    ]
+                }
+            ],
+            "objectClassName": "nameserver"
+        },
+        {
+            "ldhName": "ns5.markmonitor.com",
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object truncated due to authorization",
+                    "description": [
+                        "The object does not contain all data due to lack of authorization."
+                    ]
+                }
+            ],
+            "objectClassName": "nameserver"
+        },
+        {
+            "ldhName": "ns4.markmonitor.com",
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object truncated due to authorization",
+                    "description": [
+                        "The object does not contain all data due to lack of authorization."
+                    ]
+                }
+            ],
+            "objectClassName": "nameserver"
+        },
+        {
+            "rdapConformance": [
+                "rdap_level_0",
+                "nask0"
+            ],
+            "notices": [
+                {
+                    "title": "Domain name life cycle",
+                    "description": [
+                        "For more information on domain name life cycle, please visit https://www.dns.pl/en/domain_name_life_cycle"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://www.dns.pl/en/domain_name_life_cycle",
+                            "rel": "related",
+                            "href": "https://www.dns.pl/en/domain_name_life_cycle",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "Delay in data display",
+                    "description": [
+                        "RDAP displays data with a delay not exceeding 15 minutes in relation to the .pl Registry system. For more information on RDAP in NASK, please visit: https://www.dns.pl/en/RDAP_in_NASK"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://www.dns.pl/en/RDAP_in_NASK",
+                            "rel": "related",
+                            "href": "https://www.dns.pl/en/RDAP_in_NASK",
+                            "type": "text/html"
+                        }
+                    ]
+                }
+            ],
+            "nameservers": [
+                {
+                    "ldhName": "ns2.markmonitor.com",
+                    "remarks": [
+                        {
+                            "title": "REDACTED FOR PRIVACY",
+                            "type": "object truncated due to authorization",
+                            "description": [
+                                "The object does not contain all data due to lack of authorization."
+                            ]
+                        }
+                    ],
+                    "objectClassName": "nameserver"
+                },
+                {
+                    "ldhName": "ns6.markmonitor.com",
+                    "remarks": [
+                        {
+                            "title": "REDACTED FOR PRIVACY",
+                            "type": "object truncated due to authorization",
+                            "description": [
+                                "The object does not contain all data due to lack of authorization."
+                            ]
+                        }
+                    ],
+                    "objectClassName": "nameserver"
+                },
+                {
+                    "ldhName": "ns3.markmonitor.com",
+                    "remarks": [
+                        {
+                            "title": "REDACTED FOR PRIVACY",
+                            "type": "object truncated due to authorization",
+                            "description": [
+                                "The object does not contain all data due to lack of authorization."
+                            ]
+                        }
+                    ],
+                    "objectClassName": "nameserver"
+                },
+                {
+                    "ldhName": "ns7.markmonitor.com",
+                    "remarks": [
+                        {
+                            "title": "REDACTED FOR PRIVACY",
+                            "type": "object truncated due to authorization",
+                            "description": [
+                                "The object does not contain all data due to lack of authorization."
+                            ]
+                        }
+                    ],
+                    "objectClassName": "nameserver"
+                },
+                {
+                    "ldhName": "ns1.markmonitor.com",
+                    "remarks": [
+                        {
+                            "title": "REDACTED FOR PRIVACY",
+                            "type": "object truncated due to authorization",
+                            "description": [
+                                "The object does not contain all data due to lack of authorization."
+                            ]
+                        }
+                    ],
+                    "objectClassName": "nameserver"
+                },
+                {
+                    "ldhName": "ns5.markmonitor.com",
+                    "remarks": [
+                        {
+                            "title": "REDACTED FOR PRIVACY",
+                            "type": "object truncated due to authorization",
+                            "description": [
+                                "The object does not contain all data due to lack of authorization."
+                            ]
+                        }
+                    ],
+                    "objectClassName": "nameserver"
+                },
+                {
+                    "ldhName": "ns4.markmonitor.com",
+                    "remarks": [
+                        {
+                            "title": "REDACTED FOR PRIVACY",
+                            "type": "object truncated due to authorization",
+                            "description": [
+                                "The object does not contain all data due to lack of authorization."
+                            ]
+                        }
+                    ],
+                    "objectClassName": "nameserver"
+                }
+            ],
+            "secureDNS": {
+                "delegationSigned": false
+            },
+            "port43": "whois.dns.pl",
+            "ldhName": "rojadirectatv3.pl",
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object truncated due to authorization",
+                    "description": [
+                        "The object does not contain all data due to lack of authorization."
+                    ]
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.dns.pl/domain/rojadirectatv3.pl",
+                    "rel": "self",
+                    "href": "https://rdap.dns.pl/domain/rojadirectatv3.pl",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "objectClassName": "domain",
+            "nask0_state": "registered"
+        }
+    ],
+    "domain": "rojadirectatv3.pl\r"
+}

@@ -1,0 +1,254 @@
+{
+    "name": "i.ua",
+    "handle": "i.ua",
+    "registrationDate": "3/24/2006, 4:18:47 PM GMT+2 (by ua.ukrnames)",
+    "expirationDate": "3/24/2029, 4:18:47 PM GMT+2",
+    "lastChangedDate": "2/11/2026, 5:31:04 PM GMT+2 (by ua.imena)",
+    "lastUpdateDate": null,
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "handle": "ua.imena",
+            "roles": [
+                "registrar"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Internet Invest LLC"
+                    ],
+                    [
+                        "org",
+                        {
+                            "altid": "1"
+                        },
+                        "text",
+                        "Internet Invest LLC"
+                    ],
+                    [
+                        "org",
+                        {
+                            "altid": "1"
+                        },
+                        "text",
+                        "ТОВ 'Інтернет Інвест'"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "type": "work",
+                            "altid": "1",
+                            "label": "50-B Simi Prakhovykh St., Kyiv, 01033, Ukraine"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "adr",
+                        {
+                            "type": "work",
+                            "altid": "1",
+                            "label": "вул. Сім'ї Прахових, 50-Б, м. Київ, 01033, Україна"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "voice"
+                            ]
+                        },
+                        "uri",
+                        "tel:+380442010102"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "abuse@imena.ua"
+                    ],
+                    [
+                        "url",
+                        {
+                            "type": "home"
+                        },
+                        "uri",
+                        "http://www.imena.ua"
+                    ]
+                ]
+            ],
+            "status": [
+                "active"
+            ],
+            "links": [
+                {
+                    "rel": "self",
+                    "value": "https://rdap.hostmaster.ua/entity/ua.imena",
+                    "type": "application/rdap+json",
+                    "href": "https://rdap.hostmaster.ua/entity/ua.imena"
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "ua.imena",
+            "roles": [
+                "registrar"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "C0003248735-UA",
+            "roles": [
+                "registrant"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Digital Ventures LLC"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "Digital Ventures LLC"
+                    ],
+                    [
+                        "adr",
+                        {},
+                        "text",
+                        [
+                            "",
+                            "50",
+                            "Gaidara str.",
+                            "KYIV",
+                            "",
+                            "01033",
+                            "Ukraine"
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "voice"
+                            ]
+                        },
+                        "text",
+                        "+380.444950010"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "hostmaster@digital-ventures.net"
+                    ]
+                ]
+            ],
+            "status": [
+                "active",
+                "associated"
+            ],
+            "events": [
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2019-07-21T14:24:01+03:00",
+                    "eventActor": "ua.imena"
+                }
+            ],
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "handle": "ua.imena",
+                    "roles": [
+                        "registrar"
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "katja.ns.cloudflare.com"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "kayden.ns.cloudflare.com"
+        },
+        {
+            "rdapConformance": [
+                "rdap_level_0"
+            ],
+            "objectClassName": "domain",
+            "handle": "i.ua",
+            "ldhName": "i.ua",
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "katja.ns.cloudflare.com"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "kayden.ns.cloudflare.com"
+                }
+            ],
+            "secureDNS": {
+                "delegationSigned": false
+            },
+            "links": [
+                {
+                    "rel": "self",
+                    "value": "https://rdap.hostmaster.ua/domain/i.ua",
+                    "type": "application/rdap+json",
+                    "href": "https://rdap.hostmaster.ua/domain/i.ua"
+                }
+            ],
+            "remarks": [
+                {
+                    "description": [
+                        "license: 75982"
+                    ]
+                }
+            ],
+            "port43": "whois.ua"
+        }
+    ],
+    "domain": "i.ua\r"
+}

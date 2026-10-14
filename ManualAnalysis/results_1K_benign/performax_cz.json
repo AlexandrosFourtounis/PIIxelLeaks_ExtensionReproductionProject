@@ -1,0 +1,170 @@
+{
+    "name": "performax.cz",
+    "handle": "performax.cz",
+    "registrationDate": "8/20/2013, 8:05:04 PM GMT+3",
+    "expirationDate": "8/20/2027, 1:00:00 AM GMT+3",
+    "lastChangedDate": "2/28/2025, 10:26:06 AM GMT+2",
+    "lastUpdateDate": null,
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "handle": "GR-KAMILKOUPY-F01EF",
+            "roles": [
+                "registrant"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.nic.cz/entity/GR-KAMILKOUPY-F01EF",
+                    "rel": "self",
+                    "href": "https://rdap.nic.cz/entity/GR-KAMILKOUPY-F01EF",
+                    "type": "application/rdap+json"
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "REG-GRANSY",
+            "roles": [
+                "registrar"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "M4WA-D07ED",
+            "roles": [
+                "administrative"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.nic.cz/entity/M4WA-D07ED",
+                    "rel": "self",
+                    "href": "https://rdap.nic.cz/entity/M4WA-D07ED",
+                    "type": "application/rdap+json"
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "handle": "alan.ns.cloudflare.com",
+            "ldhName": "alan.ns.cloudflare.com",
+            "links": [
+                {
+                    "value": "https://rdap.nic.cz/nameserver/alan.ns.cloudflare.com",
+                    "rel": "self",
+                    "href": "https://rdap.nic.cz/nameserver/alan.ns.cloudflare.com",
+                    "type": "application/rdap+json"
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "handle": "uma.ns.cloudflare.com",
+            "ldhName": "uma.ns.cloudflare.com",
+            "links": [
+                {
+                    "value": "https://rdap.nic.cz/nameserver/uma.ns.cloudflare.com",
+                    "rel": "self",
+                    "href": "https://rdap.nic.cz/nameserver/uma.ns.cloudflare.com",
+                    "type": "application/rdap+json"
+                }
+            ]
+        },
+        {
+            "objectClassName": "domain",
+            "rdapConformance": [
+                "rdap_level_0",
+                "fred_version_0"
+            ],
+            "handle": "performax.cz",
+            "ldhName": "performax.cz",
+            "links": [
+                {
+                    "value": "https://rdap.nic.cz/domain/performax.cz",
+                    "rel": "self",
+                    "href": "https://rdap.nic.cz/domain/performax.cz",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "port43": "whois.nic.cz",
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "handle": "alan.ns.cloudflare.com",
+                    "ldhName": "alan.ns.cloudflare.com",
+                    "links": [
+                        {
+                            "value": "https://rdap.nic.cz/nameserver/alan.ns.cloudflare.com",
+                            "rel": "self",
+                            "href": "https://rdap.nic.cz/nameserver/alan.ns.cloudflare.com",
+                            "type": "application/rdap+json"
+                        }
+                    ]
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "handle": "uma.ns.cloudflare.com",
+                    "ldhName": "uma.ns.cloudflare.com",
+                    "links": [
+                        {
+                            "value": "https://rdap.nic.cz/nameserver/uma.ns.cloudflare.com",
+                            "rel": "self",
+                            "href": "https://rdap.nic.cz/nameserver/uma.ns.cloudflare.com",
+                            "type": "application/rdap+json"
+                        }
+                    ]
+                }
+            ],
+            "fred_nsset": {
+                "objectClassName": "fred_nsset",
+                "handle": "SUB-20250228092606",
+                "links": [
+                    {
+                        "value": "https://rdap.nic.cz/fred_nsset/SUB-20250228092606",
+                        "rel": "self",
+                        "href": "https://rdap.nic.cz/fred_nsset/SUB-20250228092606",
+                        "type": "application/rdap+json"
+                    }
+                ],
+                "nameservers": [
+                    {
+                        "objectClassName": "nameserver",
+                        "handle": "alan.ns.cloudflare.com",
+                        "ldhName": "alan.ns.cloudflare.com",
+                        "links": [
+                            {
+                                "value": "https://rdap.nic.cz/nameserver/alan.ns.cloudflare.com",
+                                "rel": "self",
+                                "href": "https://rdap.nic.cz/nameserver/alan.ns.cloudflare.com",
+                                "type": "application/rdap+json"
+                            }
+                        ]
+                    },
+                    {
+                        "objectClassName": "nameserver",
+                        "handle": "uma.ns.cloudflare.com",
+                        "ldhName": "uma.ns.cloudflare.com",
+                        "links": [
+                            {
+                                "value": "https://rdap.nic.cz/nameserver/uma.ns.cloudflare.com",
+                                "rel": "self",
+                                "href": "https://rdap.nic.cz/nameserver/uma.ns.cloudflare.com",
+                                "type": "application/rdap+json"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "notices": [
+                {
+                    "title": "Disclaimer",
+                    "description": [
+                        "(c) 2023 CZ.NIC, z.s.p.o.",
+                        "Intended use of supplied data and information",
+                        "Data contained in the domain name register, as well as information supplied through public information services of CZ.NIC association, are appointed only for purposes connected with Internet network administration and operation, or for the purpose of legal or other similar proceedings, in process as regards a matter connected particularly with holding and using a concrete domain name."
+                    ]
+                }
+            ]
+        }
+    ],
+    "domain": "performax.cz\r"
+}

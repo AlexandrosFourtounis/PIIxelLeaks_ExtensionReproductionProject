@@ -1,0 +1,1017 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<script>
+var gform;gform||(document.addEventListener("gform_main_scripts_loaded",function(){gform.scriptsLoaded=!0}),document.addEventListener("gform/theme/scripts_loaded",function(){gform.themeScriptsLoaded=!0}),window.addEventListener("DOMContentLoaded",function(){gform.domLoaded=!0}),gform={domLoaded:!1,scriptsLoaded:!1,themeScriptsLoaded:!1,isFormEditor:()=>"function"==typeof InitializeEditor,callIfLoaded:function(o){return!(!gform.domLoaded||!gform.scriptsLoaded||!gform.themeScriptsLoaded&&!gform.isFormEditor()||(gform.isFormEditor()&&console.warn("The use of gform.initializeOnLoaded() is deprecated in the form editor context and will be removed in Gravity Forms 3.1."),o(),0))},initializeOnLoaded:function(o){gform.callIfLoaded(o)||(document.addEventListener("gform_main_scripts_loaded",()=>{gform.scriptsLoaded=!0,gform.callIfLoaded(o)}),document.addEventListener("gform/theme/scripts_loaded",()=>{gform.themeScriptsLoaded=!0,gform.callIfLoaded(o)}),window.addEventListener("DOMContentLoaded",()=>{gform.domLoaded=!0,gform.callIfLoaded(o)}))},hooks:{action:{},filter:{}},addAction:function(o,r,e,t){gform.addHook("action",o,r,e,t)},addFilter:function(o,r,e,t){gform.addHook("filter",o,r,e,t)},doAction:function(o){gform.doHook("action",o,arguments)},applyFilters:function(o){return gform.doHook("filter",o,arguments)},removeAction:function(o,r){gform.removeHook("action",o,r)},removeFilter:function(o,r,e){gform.removeHook("filter",o,r,e)},addHook:function(o,r,e,t,n){null==gform.hooks[o][r]&&(gform.hooks[o][r]=[]);var d=gform.hooks[o][r];null==n&&(n=r+"_"+d.length),gform.hooks[o][r].push({tag:n,callable:e,priority:t=null==t?10:t})},doHook:function(r,o,e){var t;if(e=Array.prototype.slice.call(e,1),null!=gform.hooks[r][o]&&((o=gform.hooks[r][o]).sort(function(o,r){return o.priority-r.priority}),o.forEach(function(o){"function"!=typeof(t=o.callable)&&(t=window[t]),"action"==r?t.apply(null,e):e[0]=t.apply(null,e)})),"filter"==r)return e[0]},removeHook:function(o,r,t,n){var e;null!=gform.hooks[o][r]&&(e=(e=gform.hooks[o][r]).filter(function(o,r,e){return!!(null!=n&&n!=o.tag||null!=t&&t!=o.priority)}),gform.hooks[o][r]=e)}});
+</script>
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;1,300;1,400;1,700&display=swap" rel="stylesheet">
+<link rel='stylesheet'  href='https://townandcountrycollective.co.uk/wp-content/themes/onepress/newstyle.css' type='text/css' media='all' />
+<script data-cfasync="false" data-no-defer="1" data-no-minify="1" data-no-optimize="1">var ewww_webp_supported=!1;function check_webp_feature(A,e){var w;e=void 0!==e?e:function(){},ewww_webp_supported?e(ewww_webp_supported):((w=new Image).onload=function(){ewww_webp_supported=0<w.width&&0<w.height,e&&e(ewww_webp_supported)},w.onerror=function(){e&&e(!1)},w.src="data:image/webp;base64,"+{alpha:"UklGRkoAAABXRUJQVlA4WAoAAAAQAAAAAAAAAAAAQUxQSAwAAAARBxAR/Q9ERP8DAABWUDggGAAAABQBAJ0BKgEAAQAAAP4AAA3AAP7mtQAAAA=="}[A])}check_webp_feature("alpha");</script><script data-cfasync="false" data-no-defer="1" data-no-minify="1" data-no-optimize="1">var Arrive=function(c,w){"use strict";if(c.MutationObserver&&"undefined"!=typeof HTMLElement){var r,a=0,u=(r=HTMLElement.prototype.matches||HTMLElement.prototype.webkitMatchesSelector||HTMLElement.prototype.mozMatchesSelector||HTMLElement.prototype.msMatchesSelector,{matchesSelector:function(e,t){return e instanceof HTMLElement&&r.call(e,t)},addMethod:function(e,t,r){var a=e[t];e[t]=function(){return r.length==arguments.length?r.apply(this,arguments):"function"==typeof a?a.apply(this,arguments):void 0}},callCallbacks:function(e,t){t&&t.options.onceOnly&&1==t.firedElems.length&&(e=[e[0]]);for(var r,a=0;r=e[a];a++)r&&r.callback&&r.callback.call(r.elem,r.elem);t&&t.options.onceOnly&&1==t.firedElems.length&&t.me.unbindEventWithSelectorAndCallback.call(t.target,t.selector,t.callback)},checkChildNodesRecursively:function(e,t,r,a){for(var i,n=0;i=e[n];n++)r(i,t,a)&&a.push({callback:t.callback,elem:i}),0<i.childNodes.length&&u.checkChildNodesRecursively(i.childNodes,t,r,a)},mergeArrays:function(e,t){var r,a={};for(r in e)e.hasOwnProperty(r)&&(a[r]=e[r]);for(r in t)t.hasOwnProperty(r)&&(a[r]=t[r]);return a},toElementsArray:function(e){return e=void 0!==e&&("number"!=typeof e.length||e===c)?[e]:e}}),e=(l.prototype.addEvent=function(e,t,r,a){a={target:e,selector:t,options:r,callback:a,firedElems:[]};return this._beforeAdding&&this._beforeAdding(a),this._eventsBucket.push(a),a},l.prototype.removeEvent=function(e){for(var t,r=this._eventsBucket.length-1;t=this._eventsBucket[r];r--)e(t)&&(this._beforeRemoving&&this._beforeRemoving(t),(t=this._eventsBucket.splice(r,1))&&t.length&&(t[0].callback=null))},l.prototype.beforeAdding=function(e){this._beforeAdding=e},l.prototype.beforeRemoving=function(e){this._beforeRemoving=e},l),t=function(i,n){var o=new e,l=this,s={fireOnAttributesModification:!1};return o.beforeAdding(function(t){var e=t.target;e!==c.document&&e!==c||(e=document.getElementsByTagName("html")[0]);var r=new MutationObserver(function(e){n.call(this,e,t)}),a=i(t.options);r.observe(e,a),t.observer=r,t.me=l}),o.beforeRemoving(function(e){e.observer.disconnect()}),this.bindEvent=function(e,t,r){t=u.mergeArrays(s,t);for(var a=u.toElementsArray(this),i=0;i<a.length;i++)o.addEvent(a[i],e,t,r)},this.unbindEvent=function(){var r=u.toElementsArray(this);o.removeEvent(function(e){for(var t=0;t<r.length;t++)if(this===w||e.target===r[t])return!0;return!1})},this.unbindEventWithSelectorOrCallback=function(r){var a=u.toElementsArray(this),i=r,e="function"==typeof r?function(e){for(var t=0;t<a.length;t++)if((this===w||e.target===a[t])&&e.callback===i)return!0;return!1}:function(e){for(var t=0;t<a.length;t++)if((this===w||e.target===a[t])&&e.selector===r)return!0;return!1};o.removeEvent(e)},this.unbindEventWithSelectorAndCallback=function(r,a){var i=u.toElementsArray(this);o.removeEvent(function(e){for(var t=0;t<i.length;t++)if((this===w||e.target===i[t])&&e.selector===r&&e.callback===a)return!0;return!1})},this},i=new function(){var s={fireOnAttributesModification:!1,onceOnly:!1,existing:!1};function n(e,t,r){return!(!u.matchesSelector(e,t.selector)||(e._id===w&&(e._id=a++),-1!=t.firedElems.indexOf(e._id)))&&(t.firedElems.push(e._id),!0)}var c=(i=new t(function(e){var t={attributes:!1,childList:!0,subtree:!0};return e.fireOnAttributesModification&&(t.attributes=!0),t},function(e,i){e.forEach(function(e){var t=e.addedNodes,r=e.target,a=[];null!==t&&0<t.length?u.checkChildNodesRecursively(t,i,n,a):"attributes"===e.type&&n(r,i)&&a.push({callback:i.callback,elem:r}),u.callCallbacks(a,i)})})).bindEvent;return i.bindEvent=function(e,t,r){t=void 0===r?(r=t,s):u.mergeArrays(s,t);var a=u.toElementsArray(this);if(t.existing){for(var i=[],n=0;n<a.length;n++)for(var o=a[n].querySelectorAll(e),l=0;l<o.length;l++)i.push({callback:r,elem:o[l]});if(t.onceOnly&&i.length)return r.call(i[0].elem,i[0].elem);setTimeout(u.callCallbacks,1,i)}c.call(this,e,t,r)},i},o=new function(){var a={};function i(e,t){return u.matchesSelector(e,t.selector)}var n=(o=new t(function(){return{childList:!0,subtree:!0}},function(e,r){e.forEach(function(e){var t=e.removedNodes,e=[];null!==t&&0<t.length&&u.checkChildNodesRecursively(t,r,i,e),u.callCallbacks(e,r)})})).bindEvent;return o.bindEvent=function(e,t,r){t=void 0===r?(r=t,a):u.mergeArrays(a,t),n.call(this,e,t,r)},o};d(HTMLElement.prototype),d(NodeList.prototype),d(HTMLCollection.prototype),d(HTMLDocument.prototype),d(Window.prototype);var n={};return s(i,n,"unbindAllArrive"),s(o,n,"unbindAllLeave"),n}function l(){this._eventsBucket=[],this._beforeAdding=null,this._beforeRemoving=null}function s(e,t,r){u.addMethod(t,r,e.unbindEvent),u.addMethod(t,r,e.unbindEventWithSelectorOrCallback),u.addMethod(t,r,e.unbindEventWithSelectorAndCallback)}function d(e){e.arrive=i.bindEvent,s(i,e,"unbindArrive"),e.leave=o.bindEvent,s(o,e,"unbindLeave")}}(window,void 0),ewww_webp_supported=!1;function check_webp_feature(e,t){var r;ewww_webp_supported?t(ewww_webp_supported):((r=new Image).onload=function(){ewww_webp_supported=0<r.width&&0<r.height,t(ewww_webp_supported)},r.onerror=function(){t(!1)},r.src="data:image/webp;base64,"+{alpha:"UklGRkoAAABXRUJQVlA4WAoAAAAQAAAAAAAAAAAAQUxQSAwAAAARBxAR/Q9ERP8DAABWUDggGAAAABQBAJ0BKgEAAQAAAP4AAA3AAP7mtQAAAA==",animation:"UklGRlIAAABXRUJQVlA4WAoAAAASAAAAAAAAAAAAQU5JTQYAAAD/////AABBTk1GJgAAAAAAAAAAAAAAAAAAAGQAAABWUDhMDQAAAC8AAAAQBxAREYiI/gcA"}[e])}function ewwwLoadImages(e){if(e){for(var t=document.querySelectorAll(".batch-image img, .image-wrapper a, .ngg-pro-masonry-item a, .ngg-galleria-offscreen-seo-wrapper a"),r=0,a=t.length;r<a;r++)ewwwAttr(t[r],"data-src",t[r].getAttribute("data-webp")),ewwwAttr(t[r],"data-thumbnail",t[r].getAttribute("data-webp-thumbnail"));for(var i=document.querySelectorAll("div.woocommerce-product-gallery__image"),r=0,a=i.length;r<a;r++)ewwwAttr(i[r],"data-thumb",i[r].getAttribute("data-webp-thumb"))}for(var n=document.querySelectorAll("video"),r=0,a=n.length;r<a;r++)ewwwAttr(n[r],"poster",e?n[r].getAttribute("data-poster-webp"):n[r].getAttribute("data-poster-image"));for(var o,l=document.querySelectorAll("img.ewww_webp_lazy_load"),r=0,a=l.length;r<a;r++)e&&(ewwwAttr(l[r],"data-lazy-srcset",l[r].getAttribute("data-lazy-srcset-webp")),ewwwAttr(l[r],"data-srcset",l[r].getAttribute("data-srcset-webp")),ewwwAttr(l[r],"data-lazy-src",l[r].getAttribute("data-lazy-src-webp")),ewwwAttr(l[r],"data-src",l[r].getAttribute("data-src-webp")),ewwwAttr(l[r],"data-orig-file",l[r].getAttribute("data-webp-orig-file")),ewwwAttr(l[r],"data-medium-file",l[r].getAttribute("data-webp-medium-file")),ewwwAttr(l[r],"data-large-file",l[r].getAttribute("data-webp-large-file")),null!=(o=l[r].getAttribute("srcset"))&&!1!==o&&o.includes("R0lGOD")&&ewwwAttr(l[r],"src",l[r].getAttribute("data-lazy-src-webp"))),l[r].className=l[r].className.replace(/\bewww_webp_lazy_load\b/,"");for(var s=document.querySelectorAll(".ewww_webp"),r=0,a=s.length;r<a;r++)e?(ewwwAttr(s[r],"srcset",s[r].getAttribute("data-srcset-webp")),ewwwAttr(s[r],"src",s[r].getAttribute("data-src-webp")),ewwwAttr(s[r],"data-orig-file",s[r].getAttribute("data-webp-orig-file")),ewwwAttr(s[r],"data-medium-file",s[r].getAttribute("data-webp-medium-file")),ewwwAttr(s[r],"data-large-file",s[r].getAttribute("data-webp-large-file")),ewwwAttr(s[r],"data-large_image",s[r].getAttribute("data-webp-large_image")),ewwwAttr(s[r],"data-src",s[r].getAttribute("data-webp-src"))):(ewwwAttr(s[r],"srcset",s[r].getAttribute("data-srcset-img")),ewwwAttr(s[r],"src",s[r].getAttribute("data-src-img"))),s[r].className=s[r].className.replace(/\bewww_webp\b/,"ewww_webp_loaded");window.jQuery&&jQuery.fn.isotope&&jQuery.fn.imagesLoaded&&(jQuery(".fusion-posts-container-infinite").imagesLoaded(function(){jQuery(".fusion-posts-container-infinite").hasClass("isotope")&&jQuery(".fusion-posts-container-infinite").isotope()}),jQuery(".fusion-portfolio:not(.fusion-recent-works) .fusion-portfolio-wrapper").imagesLoaded(function(){jQuery(".fusion-portfolio:not(.fusion-recent-works) .fusion-portfolio-wrapper").isotope()}))}function ewwwWebPInit(e){ewwwLoadImages(e),ewwwNggLoadGalleries(e),document.arrive(".ewww_webp",function(){ewwwLoadImages(e)}),document.arrive(".ewww_webp_lazy_load",function(){ewwwLoadImages(e)}),document.arrive("videos",function(){ewwwLoadImages(e)}),"loading"==document.readyState?document.addEventListener("DOMContentLoaded",ewwwJSONParserInit):("undefined"!=typeof galleries&&ewwwNggParseGalleries(e),ewwwWooParseVariations(e))}function ewwwAttr(e,t,r){null!=r&&!1!==r&&e.setAttribute(t,r)}function ewwwJSONParserInit(){"undefined"!=typeof galleries&&check_webp_feature("alpha",ewwwNggParseGalleries),check_webp_feature("alpha",ewwwWooParseVariations)}function ewwwWooParseVariations(e){if(e)for(var t=document.querySelectorAll("form.variations_form"),r=0,a=t.length;r<a;r++){var i=t[r].getAttribute("data-product_variations"),n=!1;try{for(var o in i=JSON.parse(i))void 0!==i[o]&&void 0!==i[o].image&&(void 0!==i[o].image.src_webp&&(i[o].image.src=i[o].image.src_webp,n=!0),void 0!==i[o].image.srcset_webp&&(i[o].image.srcset=i[o].image.srcset_webp,n=!0),void 0!==i[o].image.full_src_webp&&(i[o].image.full_src=i[o].image.full_src_webp,n=!0),void 0!==i[o].image.gallery_thumbnail_src_webp&&(i[o].image.gallery_thumbnail_src=i[o].image.gallery_thumbnail_src_webp,n=!0),void 0!==i[o].image.thumb_src_webp&&(i[o].image.thumb_src=i[o].image.thumb_src_webp,n=!0));n&&ewwwAttr(t[r],"data-product_variations",JSON.stringify(i))}catch(e){}}}function ewwwNggParseGalleries(e){if(e)for(var t in galleries){var r=galleries[t];galleries[t].images_list=ewwwNggParseImageList(r.images_list)}}function ewwwNggLoadGalleries(e){e&&document.addEventListener("ngg.galleria.themeadded",function(e,t){window.ngg_galleria._create_backup=window.ngg_galleria.create,window.ngg_galleria.create=function(e,t){var r=$(e).data("id");return galleries["gallery_"+r].images_list=ewwwNggParseImageList(galleries["gallery_"+r].images_list),window.ngg_galleria._create_backup(e,t)}})}function ewwwNggParseImageList(e){for(var t in e){var r=e[t];if(void 0!==r["image-webp"]&&(e[t].image=r["image-webp"],delete e[t]["image-webp"]),void 0!==r["thumb-webp"]&&(e[t].thumb=r["thumb-webp"],delete e[t]["thumb-webp"]),void 0!==r.full_image_webp&&(e[t].full_image=r.full_image_webp,delete e[t].full_image_webp),void 0!==r.srcsets)for(var a in r.srcsets)nggSrcset=r.srcsets[a],void 0!==r.srcsets[a+"-webp"]&&(e[t].srcsets[a]=r.srcsets[a+"-webp"],delete e[t].srcsets[a+"-webp"]);if(void 0!==r.full_srcsets)for(var i in r.full_srcsets)nggFSrcset=r.full_srcsets[i],void 0!==r.full_srcsets[i+"-webp"]&&(e[t].full_srcsets[i]=r.full_srcsets[i+"-webp"],delete e[t].full_srcsets[i+"-webp"])}return e}check_webp_feature("alpha",ewwwWebPInit);</script><meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v27.7 - https://yoast.com/product/yoast-seo-wordpress/ -->
+	<title>Town and Country: Home - Town &amp; Country Collective</title>
+	<link rel="canonical" href="https://townandcountrycollective.co.uk/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Town and Country: Home - Town &amp; Country Collective" />
+	<meta property="og:description" content="Book a room  Contact  Find your place at ours Handpicked for their heritage and location, you&#8217;ll find the best of town and country at all our places. Each one offers ..." />
+	<meta property="og:url" content="https://townandcountrycollective.co.uk/" />
+	<meta property="og:site_name" content="Town &amp; Country Collective" />
+	<meta property="article:publisher" content="https://www.facebook.com/TownandCountryCollective/" />
+	<meta property="article:modified_time" content="2026-04-27T14:44:15+00:00" />
+	<meta property="og:image" content="https://townandcountrycollective.co.uk/wp-content/uploads/2026/04/town_and_country_new_logo_cropped.webp" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https:\/\/schema.org","@graph":[{"@type":"WebPage","@id":"https:\/\/townandcountrycollective.co.uk\/","url":"https:\/\/townandcountrycollective.co.uk\/","name":"Town and Country: Home - Town &amp; Country Collective","isPartOf":{"@id":"https:\/\/townandcountrycollective.co.uk\/#website"},"about":{"@id":"https:\/\/townandcountrycollective.co.uk\/#organization"},"primaryImageOfPage":{"@id":"https:\/\/townandcountrycollective.co.uk\/#primaryimage"},"image":{"@id":"https:\/\/townandcountrycollective.co.uk\/#primaryimage"},"thumbnailUrl":"https:\/\/townandcountrycollective.co.uk\/wp-content\/uploads\/2026\/04\/town_and_country_new_logo_cropped.webp","datePublished":"2020-08-10T10:40:09+00:00","dateModified":"2026-04-27T14:44:15+00:00","breadcrumb":{"@id":"https:\/\/townandcountrycollective.co.uk\/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https:\/\/townandcountrycollective.co.uk\/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/townandcountrycollective.co.uk\/#primaryimage","url":"https:\/\/townandcountrycollective.co.uk\/wp-content\/uploads\/2026\/04\/town_and_country_new_logo_cropped.webp","contentUrl":"https:\/\/townandcountrycollective.co.uk\/wp-content\/uploads\/2026\/04\/town_and_country_new_logo_cropped.webp","width":1200,"height":273},{"@type":"BreadcrumbList","@id":"https:\/\/townandcountrycollective.co.uk\/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]},{"@type":"WebSite","@id":"https:\/\/townandcountrycollective.co.uk\/#website","url":"https:\/\/townandcountrycollective.co.uk\/","name":"Town & Country Collective","description":"Official Website","publisher":{"@id":"https:\/\/townandcountrycollective.co.uk\/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/townandcountrycollective.co.uk\/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https:\/\/townandcountrycollective.co.uk\/#organization","name":"Town & Country Collective","url":"https:\/\/townandcountrycollective.co.uk\/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/townandcountrycollective.co.uk\/#\/schema\/logo\/image\/","url":"https:\/\/townandcountrycollective.co.uk\/wp-content\/uploads\/2020\/08\/newpage-icon-2.png","contentUrl":"https:\/\/townandcountrycollective.co.uk\/wp-content\/uploads\/2020\/08\/newpage-icon-2.png","width":178,"height":144,"caption":"Town & Country Collective"},"image":{"@id":"https:\/\/townandcountrycollective.co.uk\/#\/schema\/logo\/image\/"},"sameAs":["https:\/\/www.facebook.com\/TownandCountryCollective\/"]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//code.jquery.com' />
+<link rel='dns-prefetch' href='//www.googletagmanager.com' />
+<link rel='dns-prefetch' href='//cdn.linearicons.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="Town &amp; Country Collective &raquo; Feed" href="https://townandcountrycollective.co.uk/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Town &amp; Country Collective &raquo; Comments Feed" href="https://townandcountrycollective.co.uk/comments/feed/" />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://townandcountrycollective.co.uk/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftownandcountrycollective.co.uk%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://townandcountrycollective.co.uk/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftownandcountrycollective.co.uk%2F&#038;format=xml" />
+<style id="wp-img-auto-sizes-contain-inline-css">
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<style id="cf-frontend-style-inline-css">
+@font-face {
+	font-family: 'Dancing Script';
+	font-weight: 400;
+	src: url('https://townandcountrycollective.co.uk/wp-content/uploads/2024/07/DancingScript-SemiBold.woff2') format('woff2');
+}
+@font-face {
+	font-family: 'Dancing Script';
+	font-weight: 400;
+	src: url('https://townandcountrycollective.co.uk/wp-content/uploads/2024/07/DancingScript-SemiBold.woff2') format('woff2');
+}
+@font-face {
+	font-family: 'Lora Italic';
+	font-weight: 400;
+	src: url('https://townandcountrycollective.co.uk/wp-content/uploads/2024/02/Lora-Italic.woff2') format('woff2');
+}
+@font-face {
+	font-family: 'Lora Italic';
+	font-weight: 500;
+	src: url('https://townandcountrycollective.co.uk/wp-content/uploads/2024/02/Lora-MediumItalic.woff2') format('woff2');
+}
+@font-face {
+	font-family: 'Lora Italic';
+	font-weight: 600;
+	src: url('https://townandcountrycollective.co.uk/wp-content/uploads/2024/02/Lora-SemiBoldItalic.woff2') format('woff2');
+}
+@font-face {
+	font-family: 'Lora Italic';
+	font-weight: 700;
+	src: url('https://townandcountrycollective.co.uk/wp-content/uploads/2024/02/Lora-BoldItalic.woff2') format('woff2');
+}
+@font-face {
+	font-family: 'Lora';
+	font-weight: 400;
+	src: url('https://wordpress-1302521-4737583.cloudwaysapps.com/wp-content/uploads/2024/02/Lora-Regular.woff2') format('woff2');
+}
+@font-face {
+	font-family: 'Lora';
+	font-weight: 500;
+	src: url('https://wordpress-1302521-4737583.cloudwaysapps.com/wp-content/uploads/2024/02/Lora-Medium.woff2') format('woff2');
+}
+@font-face {
+	font-family: 'Lora';
+	font-weight: 600;
+	src: url('https://wordpress-1302521-4737583.cloudwaysapps.com/wp-content/uploads/2024/02/Lora-SemiBold.woff2') format('woff2');
+}
+@font-face {
+	font-family: 'Lora';
+	font-weight: 700;
+	src: url('https://wordpress-1302521-4737583.cloudwaysapps.com/wp-content/uploads/2024/02/Lora-Bold.woff2') format('woff2');
+}
+@font-face {
+	font-family: 'Inter';
+	font-weight: 300;
+	src: url('https://wordpress-1302521-4737583.cloudwaysapps.com/wp-content/uploads/2024/02/Inter-Light.woff2') format('woff2');
+}
+@font-face {
+	font-family: 'Inter';
+	font-weight: 400;
+	src: url('https://wordpress-1302521-4737583.cloudwaysapps.com/wp-content/uploads/2024/02/Inter-Regular.woff2') format('woff2');
+}
+@font-face {
+	font-family: 'Inter';
+	font-weight: 500;
+	src: url('https://wordpress-1302521-4737583.cloudwaysapps.com/wp-content/uploads/2024/02/Inter-Medium.woff2') format('woff2');
+}
+@font-face {
+	font-family: 'Inter';
+	font-weight: 600;
+	src: url('https://wordpress-1302521-4737583.cloudwaysapps.com/wp-content/uploads/2024/02/Inter-SemiBold.woff2') format('woff2');
+}
+@font-face {
+	font-family: 'Inter';
+	font-weight: 700;
+	src: url('https://wordpress-1302521-4737583.cloudwaysapps.com/wp-content/uploads/2024/02/Inter-Bold.woff2') format('woff2');
+}
+@font-face {
+	font-family: 'Rift';
+	font-weight: 500;
+	src: url('https://townandcountrycollective.co.uk/wp-content/uploads/2024/02/Rift-Medium.woff2') format('woff2');
+}
+@font-face {
+	font-family: 'Rift';
+	font-weight: 600;
+	src: url('https://townandcountrycollective.co.uk/wp-content/uploads/2024/02/rift-demi.woff2') format('woff2');
+}
+@font-face {
+	font-family: 'Rift';
+	font-weight: 700;
+	src: url('https://townandcountrycollective.co.uk/wp-content/uploads/2024/02/Rift-Bold.woff2') format('woff2');
+}
+@font-face {
+	font-family: 'Haylard';
+	font-weight: 400;
+	src: url('https://wordpress-1302521-4737583.cloudwaysapps.com/wp-content/uploads/2023/11/haylard-text-regular.woff2') format('woff2');
+}
+@font-face {
+	font-family: 'Baskerville';
+	font-weight: 400;
+	src: url('https://townandcountrycollective.co.uk/wp-content/uploads/2023/11/baskerville-old-face-regular.woff2') format('woff2');
+}
+@font-face {
+	font-family: 'Baskerville';
+	font-weight: 700;
+	src: url('https://townandcountrycollective.co.uk/wp-content/uploads/2023/11/Baskerville-Bold.woff2') format('woff2');
+}
+@font-face {
+	font-family: 'micro';
+	font-weight: 400;
+	font-display: auto;
+	font-fallback: Georgia, Garamond, serif;
+	src: url('/wp-content/uploads/2023/05/MicrobrewOne.otf') format('OpenType');
+}
+@font-face {
+	font-family: 'Merriweather';
+	font-weight: 400;
+	font-display: auto;
+	font-fallback: Verdana, Tahoma, Arial, sans-serif;
+	src: url('/wp-content/uploads/2023/05/Merriweather-Regular.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'IM Fell Double Pica';
+	font-weight: 400;
+	font-display: auto;
+	font-fallback: Georgia, Garamond, serif;
+	src: url('/wp-content/uploads/2023/05/IMFellDoublePica-Regular.ttf') format('truetype');
+}
+/*# sourceURL=cf-frontend-style-inline-css */
+</style>
+<link rel='stylesheet' id='sbi_styles-css' href='https://townandcountrycollective.co.uk/wp-content/plugins/instagram-feed-pro/css/sbi-styles.min.css?ver=6.9.0' media='all' />
+<style id="wp-emoji-styles-inline-css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+/*# sourceURL=wp-emoji-styles-inline-css */
+</style>
+<style id="wp-block-styles-placeholder-inline-css">
+:root { --wp-internal-comment: "Placeholder for wp_hoist_late_printed_styles() to replace with the block styles printed at wp_footer." }
+/*# sourceURL=wp-block-styles-placeholder-inline-css */
+</style>
+<link rel='stylesheet' id='jet-engine-frontend-css' href='https://townandcountrycollective.co.uk/wp-content/plugins/jet-engine/assets/css/frontend.css?ver=3.8.2.1' media='all' />
+<style id="wp-global-styles-placeholder-inline-css">
+:root { --wp-internal-comment: "Placeholder for wp_hoist_late_printed_styles() to replace with the global-styles printed at wp_footer." }
+/*# sourceURL=wp-global-styles-placeholder-inline-css */
+</style>
+<link rel='stylesheet' id='yui3-css' href='https://townandcountrycollective.co.uk/wp-content/plugins/bb-plugin/css/yui3.css?ver=2.10.1.6' media='all' />
+<link rel='stylesheet' id='fl-slideshow-css' href='https://townandcountrycollective.co.uk/wp-content/plugins/bb-plugin/css/fl-slideshow.min.css?ver=2.10.1.6' media='all' />
+<link rel='stylesheet' id='fl-builder-layout-1282-css' href='https://townandcountrycollective.co.uk/wp-content/uploads/bb-plugin/cache/1282-layout.css?ver=261ebc67e7c4e19f47cb087146f7fb75' media='all' />
+<link rel='stylesheet' id='contact-form-7-css' href='https://townandcountrycollective.co.uk/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.6' media='all' />
+<link rel='stylesheet' id='onepress-fonts-css' href='https://fonts.googleapis.com/css?family=Raleway%3A400%2C500%2C600%2C700%2C300%2C100%2C800%2C900%7COpen+Sans%3A400%2C300%2C300italic%2C400italic%2C600%2C600italic%2C700%2C700italic&#038;subset=latin%2Clatin-ext&#038;ver=2.2.4' media='all' />
+<link rel='stylesheet' id='onepress-animate-css' href='https://townandcountrycollective.co.uk/wp-content/themes/onepress/assets/css/animate.min.css?ver=2.2.4' media='all' />
+<link rel='stylesheet' id='onepress-fa-css' href='https://townandcountrycollective.co.uk/wp-content/themes/onepress/assets/css/font-awesome.min.css?ver=4.7.0' media='all' />
+<link rel='stylesheet' id='onepress-bootstrap-css' href='https://townandcountrycollective.co.uk/wp-content/themes/onepress/assets/css/bootstrap.min.css?ver=2.2.4' media='all' />
+<link rel='stylesheet' id='onepress-style-css' href='https://townandcountrycollective.co.uk/wp-content/themes/onepress/style.css?ver=7.0' media='all' />
+<style id="onepress-style-inline-css">
+#main .video-section section.hero-slideshow-wrapper{background:transparent}.hero-slideshow-wrapper:after{position:absolute;top:0px;left:0px;width:100%;height:100%;background-color:rgba(0,0,0,0.3);display:block;content:""}.body-desktop .parallax-hero .hero-slideshow-wrapper:after{display:none!important}#parallax-hero>.parallax-bg::before{background-color:rgba(0,0,0,0.3);opacity:1}.body-desktop .parallax-hero .hero-slideshow-wrapper:after{display:none!important}#footer-widgets{}.gallery-carousel .g-item{padding:0px 10px}.gallery-carousel{margin-left:-10px;margin-right:-10px}.gallery-grid .g-item,.gallery-masonry .g-item .inner{padding:10px}.gallery-grid,.gallery-masonry{margin:-10px}.single-post .site-main,.single-post .entry-content>*{max-width:100px}
+/*# sourceURL=onepress-style-inline-css */
+</style>
+<link rel='stylesheet' id='onepress-gallery-lightgallery-css' href='https://townandcountrycollective.co.uk/wp-content/themes/onepress/assets/css/lightgallery.css?ver=7.0' media='all' />
+<link rel='stylesheet' id='jquery-ui-css-css' href='https://code.jquery.com/ui/1.13.2/themes/base/jquery-ui.css?ver=7.0' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css' href='https://townandcountrycollective.co.uk/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=4.0.3' media='all' />
+<link rel='stylesheet' id='elementor-post-41740-css' href='https://townandcountrycollective.co.uk/wp-content/uploads/elementor/css/post-41740.css?ver=1780924298' media='all' />
+<link rel='stylesheet' id='sbistyles-css' href='https://townandcountrycollective.co.uk/wp-content/plugins/instagram-feed-pro/css/sbi-styles.min.css?ver=6.9.0' media='all' />
+<link rel='stylesheet' id='wpmm-frontend-css' href='https://townandcountrycollective.co.uk/wp-content/plugins/wp-mega-menu-pro/css/style.css?ver=1' media='all' />
+<link rel='stylesheet' id='wpmm-dynamic-css-css' href='https://townandcountrycollective.co.uk/wp-content/plugins/wp-mega-menu-pro/wpmm-dynamic-css/template-dynamic_style.css?timestamp=1780995356&#038;ver=7.0' media='all' />
+<link rel='stylesheet' id='wpmm-default-responsive-stylesheet-css' href='https://townandcountrycollective.co.uk/wp-content/plugins/wp-mega-menu-pro/css/default-responsive.css?ver=1' media='all' />
+<link rel='stylesheet' id='wpmm-custom-theme-css' href='https://townandcountrycollective.co.uk/wp-content/plugins/wp-mega-menu-pro/wpmm-dynamic-css/wpmm-custom-theme.css?timestamp=1780995356&#038;ver=1' media='all' />
+<link rel='stylesheet' id='wpmm-extra-custom-css' href='https://townandcountrycollective.co.uk/wp-content/plugins/wp-mega-menu-pro/wpmm-dynamic-css/wpmm-extra-custom.css?timestamp=1780995356&#038;ver=1' media='all' />
+<link rel='stylesheet' id='wpmm-animate-css-css' href='https://townandcountrycollective.co.uk/wp-content/plugins/wp-mega-menu-pro/css/animate.css?ver=2.1.6' media='all' />
+<link rel='stylesheet' id='wpmm-colorbox-css' href='https://townandcountrycollective.co.uk/wp-content/plugins/wp-mega-menu-pro/css/colorbox.css?ver=2.1.6' media='all' />
+<link rel='stylesheet' id='wpmm-frontwalker-stylesheet-css' href='https://townandcountrycollective.co.uk/wp-content/plugins/wp-mega-menu-pro/css/frontend_walker.css?ver=2.1.6' media='all' />
+<link rel='stylesheet' id='wpmm-google-fonts-style-css' href='//fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700&#038;ver=7.0' media='all' />
+<link rel='stylesheet' id='wpmm-bxslider-style-css' href='https://townandcountrycollective.co.uk/wp-content/plugins/wp-mega-menu-pro/css/jquery.bxslider.css?ver=2.1.6' media='all' />
+<link rel='stylesheet' id='wpmegamenu-linecon-css-css' href='https://townandcountrycollective.co.uk/wp-content/plugins/wp-mega-menu-pro/css/wpmm-icons/linecon.css?ver=2.1.6' media='all' />
+<link rel='stylesheet' id='wpmegamenu-genericons-css' href='https://townandcountrycollective.co.uk/wp-content/plugins/wp-mega-menu-pro/css/wpmm-icons/genericons.css?ver=7.0' media='all' />
+<link rel='stylesheet' id='wpmegamenu-icomoon-css' href='https://townandcountrycollective.co.uk/wp-content/plugins/wp-mega-menu-pro/css/wpmm-icons/icomoon.css?ver=7.0' media='all' />
+<link rel='stylesheet' id='wpmegamenu-icon-picker-fontawesome-css' href='https://townandcountrycollective.co.uk/wp-content/plugins/wp-mega-menu-pro/css/wpmm-icons/fontawesome.css?ver=7.0' media='all' />
+<link rel='stylesheet' id='wpmegamenu-icon-picker-fa-solid-css' href='https://townandcountrycollective.co.uk/wp-content/plugins/wp-mega-menu-pro/css/wpmm-icons/fa-solid.css?ver=7.0' media='all' />
+<link rel='stylesheet' id='wpmegamenu-icon-picker-fa-regular-css' href='https://townandcountrycollective.co.uk/wp-content/plugins/wp-mega-menu-pro/css/wpmm-icons/fa-regular.css?ver=7.0' media='all' />
+<link rel='stylesheet' id='wpmegamenu-icon-picker-fa-brands-css' href='https://townandcountrycollective.co.uk/wp-content/plugins/wp-mega-menu-pro/css/wpmm-icons/fa-brands.css?ver=7.0' media='all' />
+<link rel='stylesheet' id='wpmegamenu-font-awesome-style-css' href='https://townandcountrycollective.co.uk/wp-content/plugins/wp-mega-menu-pro/css/wpmm-icons/font-awesome.min.css?ver=2.1.6' media='all' />
+<link rel='stylesheet' id='wpmegamenu-linearicons-css' href='https://cdn.linearicons.com/free/1.0.0/icon-font.min.css?ver=7.0' media='all' />
+<link rel='stylesheet' id='wpmegamenu-themify-css' href='https://townandcountrycollective.co.uk/wp-content/plugins/wp-mega-menu-pro/css/wpmm-icons/themify-icons.css?ver=7.0' media='all' />
+<link rel='stylesheet' id='pp-animate-css' href='https://townandcountrycollective.co.uk/wp-content/plugins/bbpowerpack/assets/css/animate.min.css?ver=3.5.1' media='all' />
+<link rel='stylesheet' id='elementor-gf-roboto-css' href='https://fonts.googleapis.com/css?family=Roboto:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&#038;display=swap' media='all' />
+<link rel='stylesheet' id='elementor-gf-robotoslab-css' href='https://fonts.googleapis.com/css?family=Roboto+Slab:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&#038;display=swap' media='all' />
+<script id="jquery-core-js-extra">
+var onepress_js_settings = {"onepress_disable_animation":"1","onepress_disable_sticky_header":"1","onepress_vertical_align_menu":"","hero_animation":"flipInX","hero_speed":"5000","hero_fade":"750","hero_duration":"5000","hero_disable_preload":"","is_home":"","gallery_enable":"1","is_rtl":""};
+//# sourceURL=jquery-core-js-extra
+</script>
+<script id="jquery-core-js" src="https://townandcountrycollective.co.uk/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"></script>
+<script id="jquery-migrate-js" src="https://townandcountrycollective.co.uk/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1"></script>
+<script id="breeze-prefetch-js-extra">
+var breeze_prefetch = {"local_url":"https://townandcountrycollective.co.uk","ignore_remote_prefetch":"1","ignore_list":["wp-admin","wp-login.php"]};
+//# sourceURL=breeze-prefetch-js-extra
+</script>
+<script id="breeze-prefetch-js" src="https://townandcountrycollective.co.uk/wp-content/plugins/breeze/assets/js/js-front-end/breeze-prefetch-links.min.js?ver=2.5.3"></script>
+
+<!-- Google tag (gtag.js) snippet added by Site Kit -->
+<!-- Google Analytics snippet added by Site Kit -->
+<script id="google_gtagjs-js" src="https://www.googletagmanager.com/gtag/js?id=GT-K5564498" async></script>
+<script id="google_gtagjs-js-after">
+window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}
+gtag("set","linker",{"domains":["townandcountrycollective.co.uk"]});
+gtag("js", new Date());
+gtag("set", "developer_id.dZTNiMT", true);
+gtag("config", "GT-K5564498");
+ window._googlesitekit = window._googlesitekit || {}; window._googlesitekit.throttledEvents = []; window._googlesitekit.gtagEvent = (name, data) => { var key = JSON.stringify( { name, data } ); if ( !! window._googlesitekit.throttledEvents[ key ] ) { return; } window._googlesitekit.throttledEvents[ key ] = true; setTimeout( () => { delete window._googlesitekit.throttledEvents[ key ]; }, 5 ); gtag( "event", name, { ...data, event_source: "site-kit" } ); }; 
+//# sourceURL=google_gtagjs-js-after
+</script>
+<script id="wpmm-jquery-bxslider-min-js" src="https://townandcountrycollective.co.uk/wp-content/plugins/wp-mega-menu-pro/js/jquery.bxslider.min.js?ver=2.1.6"></script>
+<script id="wp_megamenu_actual_scripts-js" src="https://townandcountrycollective.co.uk/wp-content/plugins/wp-mega-menu-pro/js/jquery.actual.js?ver=2.1.6"></script>
+<script id="wp_megamenu_colorbox-js" src="https://townandcountrycollective.co.uk/wp-content/plugins/wp-mega-menu-pro/js/jquery.colorbox.js?ver=2.1.6"></script>
+<script id="wp_megamenu_validate_scripts-js" src="https://townandcountrycollective.co.uk/wp-content/plugins/wp-mega-menu-pro/js/jquery.validate.js?ver=2.1.6"></script>
+<script id="wpmm_ajax-auth-script-js-extra">
+var wp_megamenu_ajax_auth_object = {"ajaxurl":"https://townandcountrycollective.co.uk/wp-admin/admin-ajax.php","redirecturl":"https://townandcountrycollective.co.uk","loadingmessage":"Sending user info, please wait..."};
+//# sourceURL=wpmm_ajax-auth-script-js-extra
+</script>
+<script id="wpmm_ajax-auth-script-js" src="https://townandcountrycollective.co.uk/wp-content/plugins/wp-mega-menu-pro/js/ajax-auth-script.js?ver=2.1.6"></script>
+<script id="wpmegamenu-linearicons-js" src="https://cdn.linearicons.com/free/1.0.0/svgembedder.min.js?ver=7.0"></script>
+<link rel="https://api.w.org/" href="https://townandcountrycollective.co.uk/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://townandcountrycollective.co.uk/wp-json/wp/v2/pages/1282" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://townandcountrycollective.co.uk/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 7.0" />
+<link rel='shortlink' href='https://townandcountrycollective.co.uk/' />
+        <link rel="stylesheet" class="wpcb2-external-style" href="https://townandcountrycollective.co.uk/wp-content/uploads/wpcodebox/2.css?v=f03f1af7b2c7790f"/>
+
+    
+<script type="text/javascript"  defer  async  src="https://townandcountrycollective.co.uk/wp-content/uploads/wpcodebox/12.js?v=89d0da3c4f895ae9"></script>
+
+                <link rel="stylesheet" class="wpcb2-external-style" href="https://townandcountrycollective.co.uk/wp-content/uploads/wpcodebox/13.css?v=ba899058f31c6762"/>
+
+            <link rel="stylesheet" class="wpcb2-external-style" href="https://townandcountrycollective.co.uk/wp-content/uploads/wpcodebox/14.css?v=8252ff3a9a12735c"/>
+
+    
+<script type="text/javascript"  src="https://townandcountrycollective.co.uk/wp-content/uploads/wpcodebox/15.js?v=d1194e193017cf8c"></script>
+
+        		<script>
+			var bb_powerpack = {
+				version: '2.42.1',
+				getAjaxUrl: function() { return atob( 'aHR0cHM6Ly90b3duYW5kY291bnRyeWNvbGxlY3RpdmUuY28udWsvd3AtYWRtaW4vYWRtaW4tYWpheC5waHA=' ); },
+				callback: function() {},
+				mapMarkerData: {},
+				post_id: '1282',
+				search_term: '',
+				current_page: 'https://townandcountrycollective.co.uk/',
+				conditionals: {
+					is_front_page: true,
+					is_home: false,
+					is_archive: false,
+					current_post_type: '',
+					is_tax: false,
+										is_author: false,
+					current_author: false,
+					is_search: false,
+									}
+			};
+					</script>
+		<meta name="generator" content="Site Kit by Google 1.179.0" /><script type="text/javascript" src="https://booking.resdiary.com/bundles/WidgetV2Loader.js"></script>
+<meta name="google-site-verification" content="_afikkQ6Zj1VN3uZcfmTkVtNJzJGNQkQ66P9eSDNL2A" /><style type="text/css" id="simple-css-output">/* Button Hover Transitions * ----------------------------- */a,a:hover,button,button:hover,.fl-button,.fl-button:hover { transition: all .35s ease-in-out !important; -webkit-transition: all .35s ease-in-out !important;}button span,button:hover span,.fl-button span,.fl-button span:hover { transition: all .35s ease-in-out !important; -webkit-transition: all .35s ease-in-out !important;}/* --- */.single-post .my-header, .single-post .header-here{display:none!important;}*:focus-visible { outline: none!important;}html { overflow-x: hidden; } .html { overflow-x: hidden;}/*-------- MAIN -------- */.tcheader { position: fixed; top: 0; left: 0; width: 100%; height: 80px; z-index: 1000;}.tcnav { display: block; margin-top: -30px;}.tcnav .tcnavmenu { z-index: 2000000; position: fixed; top: 10px; left: 62px; width: 58px; height: 58px; transition: top 0.5s linear, right 0.5s linear; cursor: pointer;}.tcnav .hamburger { position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 36px; height: 6px; background: url(/wp-content/uploads/2021/11/middle.png); display: block; transform-origin: center; transition: 0.5s ease-in-out; background-repeat: no-repeat; background-size: contain;}.tcnav .hamburger:after, .tcnav .hamburger:before { transition: 0.5s ease-in-out; content: ""; position: absolute; display: block; width: 100%; height: 100%;}.tcnav input { display: none;}.hotelnav { display: block!important; position: absolute; top: 58px; right: 36px; z-index: 20000000; appearance: none; width: 58px; height: 89px; margin: 0; background: url(/wp-content/uploads/2021/11/cropped-tcc-home.png); background-size: contain; background-repeat: no-repeat; opacity: 0; visibility: hidden; margin: 0!important; transition: none; cursor: pointer; -webkit-appearance: none; border: none;}.homelink { position: absolute; top: -295px; left: 50%; transform: translateX(-50%);}.hotelnav:after { position: absolute; content: ''; width: 17.5px; height: 9px; background: url(/wp-content/uploads/2021/11/down-arrow-white.png); left: 50%; bottom: 0; transform: translateX(-50%); transition: all .5s ease-in-out;}.headerhome { position: fixed; left: 50%; transform: translateX(-50%); top: 8px; visibility: hidden; opacity: 0; transition: opacity .5s ease-in-out;}.headerhome.active { visibility: visible; opacity: 1;}@media (min-width: 1724px) { .hotellist { max-width: 1200px; }}.tcnav .hamburger:before { top: -10px; background: url(/wp-content/uploads/2021/11/top.png); background-repeat: no-repeat; background-size: contain;}.tcnav .hamburger:after { bottom: -10px; background: url(/wp-content/uploads/2021/11/bottom.png); background-repeat: no-repeat; background-size: contain;}.tcnav input:checked + .tcnavmenu { border-radius: 0; transition: background 0.4s ease-in-out, top 0.5s linear, right 0.5s linear; background: url(/wp-content/uploads/2021/11/oscar-cta-arrow-1.png); background-size: contain; background-repeat: no-repeat;}.tcnav input:checked + .tcnavmenu .hamburger { transform: rotate(45deg); left: 11px; top: 43%;}.tcnav input:checked + .tcnavmenu .hamburger:after { transform: rotate(90deg); bottom: 0; opacity: 0;}.tcnav input:checked + .tcnavmenu .hamburger:before { transform: rotate(90deg); top: 0;}.tcnav input:checked + .tcnavmenu + .hotelnav + .tcmainnav { opacity: 1; visibility: visible;}.tcnav input:checked ~ .hotelnav { opacity: 1; visibility: visible; transition: .5s 1s ease-in-out;}.tcnavlist { position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); z-index: 1000000000000000; opacity: 0; padding-left: 0; margin-bottom: 0; list-style: none;}.tcnav input:checked ~ .tcmainnav > .tcnavlist { opacity: 1; transition: 0.5s ease-in-out;}.tcnav .tcmainnav { z-index: 200000; background: #1B4547; position: fixed; width: 100vw; height: 100vh; top: 0; left: 0; opacity: 0; transition: 0.5s 0s ease-in-out; visibility: hidden;}.tcnav .tcnavlink { display: inline-block; color: white; font-size: 50px; text-decoration: none; font-family: micro !important; font-weight: 400; text-align: center; transition: 0.3s ease-in-out; position: relative; cursor: pointer;}.tcnavlistitem { display: block; transition: all 0.5s linear; text-align: center; line-height: 38px; margin: 0; position: relative;}.tcnavlistitem:not(:last-child) { margin-bottom: 30px;}.tcnavlink:hover { color: #C59571;}.hotelnav:checked::after { transform: rotate(180deg); left: 33%;}.tcnav .hotelnav:checked ~ .tcmainnav > .tcnavlist { opacity: 0; visibility: hidden; transition: 0.5s ease-in-out;}.hotellist { position: absolute; width: 80vw; left: 50%; transform: translateX(-50%); display: flex; flex-wrap: wrap; bottom: 70px; padding-left: 0; margin-bottom: 0; justify-content: center; opacity: 0; visibility: hidden; transition: 0.5s ease-in-out;}.hotellist:before { content: ''; position: absolute; top: -40px; width: 100vw; height: 3px; background: white; opacity: 0.3;}.tchotellistitem { display: block; width: 22%; margin: 0; text-align: center; max-width: 260px; margin: 8px; transition: .5s ease-in-out;}.tcnav .hotelnav:checked ~ .tcmainnav > .hotellist { opacity: 1; visibility: visible; transition: 0.25s ease-in-out;}.tchotellistitem:hover { transform: scale(1.025);}.tcheader .search-form { position: fixed; top: 10px; left: 139px; width: 255px;}.tcheader .search-form input { background: transparent; color: white; border-width: 2px; font-family: "IM Fell Double Pica", serif; box-shadow: none; font-style: italic; padding-left: 0; font-size: 16px;}.tcheader .search-form input::placeholder { color: white; font-family: "IM Fell Double Pica", serif;}.tcheader .search-form input[type=submit] { color: transparent; background: url(/wp-content/uploads/2021/11/down-arrow-white-1.png); background-repeat: no-repeat; background-position-y: center;}.tcheader .tc__bookroom { position: fixed; top: 20px; right: 67px; font-family: "IM Fell Double Pica", serif; font-size: 16px; color: white; font-style: italic; font-weight: bold; background: transparent; border: 2px solid white; box-shadow: none; height: 36px; width: 150px;}.tcheader .tc__bookroom:hover { background: white; color: #1B4547;}.tcsubmenu { position: absolute; opacity: 0; visibility: hidden; padding-left: 0; right: -235px; top: 0; transition: opacity .5s ease-in-out;}.tcnav label.tcnavlink { display: block; line-height: 38px; margin-bottom: 30px;}.tcnav .submenutrigger { display: block; appearance: none; -webkit-appearance: none; border: none; position: absolute; width: 17.5px; height: 9px; background: url(/wp-content/uploads/2021/11/down-arrow-white.png); right: -45px; top: 15px; transform: rotate(-90deg); transition: all .5s ease-in-out;}.hassubmenu label { margin-bottom: 0;}.tcsubmenu .tcnavlistitem { line-height: 30px;}.tcsubmenu .tcnavlistitem:not(:last-child) { margin-bottom: 15px;}.tcsubmenu .tcnavlistitem .tcnavlink { font-size: 30px;}.submenutrigger:checked ~ .tcsubmenu { visibility: visible; opacity: 1;}.hassubmenu label:checked::after { transform: rotate(180deg);}.tcnav .submenutrigger:checked { transform: rotate(90deg);}/*-------- COED -------- */.tcmainnav.coed { background: #A74234; display: flex; align-items: center;}.coedheader { position: fixed; top: 0; left: 0; width: 100%; height: 80px; z-index: 1000;}.coedheader .search-form { position: fixed; top: 10px; left: 139px; width: 255px;}.coedheader .search-form input { background: transparent; color: white; border-width: 2px; font-family: Merriweather, serif; box-shadow: none; font-style: italic; padding-left: 0; font-size: 16px;}.coedheader .search-form input::placeholder { color: white; font-family: Merriweather, serif;}.coedheader .search-form input[type=submit] { color: transparent; background: url(/wp-content/uploads/2021/11/down-arrow-white-1.png); background-repeat: no-repeat; background-position-y: center;}.coedheader .tc__bookroom { position: fixed; top: 20px; right: 67px; font-family: 'Merriweather'; font-size: 16px; color: white; font-style: italic; font-weight: bold; background: transparent; border: 2px solid white; box-shadow: none; height: 36px; width: 150px;}.coedheader .tc__bookroom:hover { background: white; color: #A74234;}.coedheader .tcnav .tcnavlistitem { text-align: left;}.coedheader .coedinfo { width: 60%; text-align: center; opacity: 0;}.tcnav input:checked ~ .tcmainnav > .coedinfo { opacity: 1; transition: 0.5s ease-in-out;}.coedheader .tcnavlist { position: static; width: 40%; transform: none; margin-top: 175px;}.coedheader .tcnav .tcnavlink { font-size: 40px;}.coedicons { display: flex; justify-content: space-between; list-style: none; padding-left: 0; margin-bottom: 0; height: 50px; width: 349px; margin: auto; margin-top: 75px;}.coedicons li { margin: 0;}.coedicons li a { display: flex; flex-direction: column; align-items: center; height: 100%;}.coedicons li a span { margin-top: auto; color: white; font-family: 'Merriweather'; font-size: 11px;}.tcnav .hotelnav:checked ~ .tcmainnav > .coedinfo { opacity: 0; visibility: hidden; transition: 0.5s ease-in-out;}/*-------- WEST HOUSE -------- */.tcmainnav.westhouse { background: #2D4E62; display: flex; align-items: center;}.westhouseheader { position: fixed; top: 0; left: 0; width: 100%; height: 80px; z-index: 1000;}.westhouseheader .search-form { position: fixed; top: 10px; left: 139px; width: 255px;}.westhouseheader .search-form input { background: transparent; color: white; border-width: 2px; font-family: Merriweather, serif; box-shadow: none; font-style: italic; padding-left: 0; font-size: 16px;}.westhouseheader .search-form input::placeholder { color: white; font-family: Merriweather, serif;}.westhouseheader .search-form input[type=submit] { color: transparent; background: url(/wp-content/uploads/2021/11/down-arrow-white-1.png); background-repeat: no-repeat; background-position-y: center;}.westhouseheader .tc__bookroom { position: fixed; top: 20px; right: 67px; font-family: 'Merriweather'; font-size: 16px; color: white; font-style: italic; font-weight: bold; background: transparent; border: 2px solid white; box-shadow: none; height: 36px; width: 150px;}.westhouseheader .tc__bookroom:hover { background: white; color: #2D4E62;}.westhouseheader .tcnav .tcnavlistitem { text-align: left;}.westhouseheader .westhouseinfo { width: 60%; text-align: center; opacity: 0;}.tcnav input:checked ~ .tcmainnav > .westhouseinfo { opacity: 1; transition: 0.5s ease-in-out;}.westhouseheader .tcnavlist { position: static; width: 40%; transform: none; margin-top: 175px;}.westhouseheader .tcnav .tcnavlink { font-size: 40px;}.westhouseicons { display: flex; justify-content: space-between; list-style: none; padding-left: 0; margin-bottom: 0; height: 50px; width: 349px; margin: auto; margin-top: 75px;}.westhouseicons li { margin: 0;}.westhouseicons li a { display: flex; flex-direction: column; align-items: center; height: 100%;}.westhouseicons li a span { margin-top: auto; color: white; font-family: 'Merriweather'; font-size: 11px;}.tcnav .hotelnav:checked ~ .tcmainnav > .westhouseinfo { opacity: 0; visibility: hidden; transition: 0.5s ease-in-out;}/*-------- BEAR -------- */.tcmainnav.bear { background: #2F777B; display: flex; align-items: center;}.bearheader { position: fixed; top: 0; left: 0; width: 100%; height: 80px; z-index: 1000;}.bearheader .search-form { position: fixed; top: 10px; left: 139px; width: 255px;}.bearheader .search-form input { background: transparent; color: white; border-width: 2px; font-family: Merriweather, serif; box-shadow: none; font-style: italic; padding-left: 0; font-size: 16px;}.bearheader .search-form input::placeholder { color: white; font-family: Merriweather, serif;}.bearheader .search-form input[type=submit] { color: transparent; background: url(/wp-content/uploads/2021/11/down-arrow-white-1.png); background-repeat: no-repeat; background-position-y: center;}.bearheader .tc__bookroom { position: fixed; top: 20px; right: 67px; font-family: 'Merriweather'; font-size: 16px; color: white; font-style: italic; font-weight: bold; background: transparent; border: 2px solid white; box-shadow: none; height: 36px; width: 150px;}.bearheader .tc__bookroom:hover { background: white; color: #2F777B;}.bearheader .tcnav .tcnavlistitem { text-align: left;}.bearheader .bearinfo { width: 60%; text-align: center; opacity: 0;}.tcnav input:checked ~ .tcmainnav > .bearinfo { opacity: 1; transition: 0.5s ease-in-out;}.bearheader .tcnavlist { position: static; width: 40%; transform: none; margin-top: 175px;}.bearheader .tcnav .tcnavlink { font-size: 40px;}.bearicons { display: flex; justify-content: space-between; list-style: none; padding-left: 0; margin-bottom: 0; height: 50px; width: 349px; margin: auto; margin-top: 75px;}.bearicons li { margin: 0;}.bearicons li a { display: flex; flex-direction: column; align-items: center; height: 100%;}.bearicons li a span { margin-top: auto; color: white; font-family: 'Merriweather'; font-size: 11px;}.tcnav .hotelnav:checked ~ .tcmainnav > .bearinfo { opacity: 0; visibility: hidden; transition: 0.5s ease-in-out;}/*-------- NEWHOUSE -------- */.tcmainnav.newhouse { background: #7683A5; display: flex; align-items: center;}.newhouseheader { position: fixed; top: 0; left: 0; width: 100%; height: 80px; z-index: 1000;}.newhouseheader .search-form { position: fixed; top: 10px; left: 139px; width: 255px;}.newhouseheader .search-form input { background: transparent; color: white; border-width: 2px; font-family: Merriweather, serif; box-shadow: none; font-style: italic; padding-left: 0; font-size: 16px;}.newhouseheader .search-form input::placeholder { color: white; font-family: Merriweather, serif;}.newhouseheader .search-form input[type=submit] { color: transparent; background: url(/wp-content/uploads/2021/11/down-arrow-white-1.png); background-repeat: no-repeat; background-position-y: center;}.newhouseheader .tc__bookroom { position: fixed; top: 20px; right: 67px; font-family: 'Merriweather'; font-size: 16px; color: white; font-style: italic; font-weight: bold; background: transparent; border: 2px solid white; box-shadow: none; height: 36px; width: 150px;}.newhouseheader .tc__bookroom:hover { background: white; color: #7683A5;}.newhouseheader .tcnav .tcnavlistitem { text-align: left;}.newhouseheader .newhouseinfo { width: 60%; text-align: center; opacity: 0;}.tcnav input:checked ~ .tcmainnav > .newhouseinfo { opacity: 1; transition: 0.5s ease-in-out;}.newhouseheader .tcnavlist { position: static; width: 40%; transform: none; margin-top: 175px;}.newhouseheader .tcnav .tcnavlink { font-size: 40px;}.newhouseicons { display: flex; justify-content: space-between; list-style: none; padding-left: 0; margin-bottom: 0; height: 50px; width: 349px; margin: auto; margin-top: 75px;}.newhouseicons li { margin: 0;}.newhouseicons li a { display: flex; flex-direction: column; align-items: center; height: 100%;}.newhouseicons li a span { margin-top: auto; color: white; font-family: 'Merriweather'; font-size: 11px;}.tcnav .hotelnav:checked ~ .tcmainnav > .newhouseinfo { opacity: 0; visibility: hidden; transition: 0.5s ease-in-out;}/*-------- CATERING -------- */.tcmainnav.catering { background: #524D58; display: flex; align-items: center;}.cateringheader { position: fixed; top: 0; left: 0; width: 100%; height: 80px; z-index: 1000;}.cateringheader .search-form { position: fixed; top: 10px; left: 139px; width: 255px;}.cateringheader .search-form input { background: transparent; color: white; border-width: 2px; font-family: Merriweather, serif; box-shadow: none; font-style: italic; padding-left: 0; font-size: 16px;}.cateringheader .search-form input::placeholder { color: white; font-family: Merriweather, serif;}.cateringheader .search-form input[type=submit] { color: transparent; background: url(/wp-content/uploads/2021/11/down-arrow-white-1.png); background-repeat: no-repeat; background-position-y: center;}.cateringheader .tc__bookroom { position: fixed; top: 20px; right: 67px; font-family: 'Merriweather'; font-size: 16px; color: white; font-style: italic; font-weight: bold; background: transparent; border: 2px solid white; box-shadow: none; height: 36px; width: 150px;}.cateringheader .tc__bookroom:hover { background: white; color: #524D58;}.cateringheader .tcnav .tcnavlistitem { text-align: left;}.cateringheader .cateringinfo { width: 60%; text-align: center; opacity: 0;}.tcnav input:checked ~ .tcmainnav > .cateringinfo { opacity: 1; transition: 0.5s ease-in-out;}.cateringheader .tcnavlist { position: static; width: 40%; transform: none; margin-top: 15px;}.cateringheader .tcnav .tcnavlink { font-size: 40px;}.cateringicons { display: flex; justify-content: space-between; list-style: none; padding-left: 0; margin-bottom: 0; height: 50px; width: 349px; margin: auto; margin-top: 75px;}.cateringicons li { margin: 0;}.cateringicons li a { display: flex; flex-direction: column; align-items: center; height: 100%;}.cateringicons li a span { margin-top: auto; color: white; font-family: 'Merriweather'; font-size: 11px;}.tcnav .hotelnav:checked ~ .tcmainnav > .cateringinfo { opacity: 0; visibility: hidden; transition: 0.5s ease-in-out;}/*-------- PENNY FARTHING -------- */.tcmainnav.pennyfarthing { background: #BF9F35; display: flex; align-items: center;}.pennyfarthingheader { position: fixed; top: 0; left: 0; width: 100%; height: 80px; z-index: 1000;}.pennyfarthingheader .search-form { position: fixed; top: 10px; left: 139px; width: 255px;}.pennyfarthingheader .search-form input { background: transparent; color: white; border-width: 2px; font-family: Merriweather, serif; box-shadow: none; font-style: italic; padding-left: 0; font-size: 16px;}.pennyfarthingheader .search-form input::placeholder { color: white; font-family: Merriweather, serif;}.pennyfarthingheader .search-form input[type=submit] { color: transparent; background: url(/wp-content/uploads/2021/11/down-arrow-white-1.png); background-repeat: no-repeat; background-position-y: center;}.pennyfarthingheader .tc__bookroom { position: fixed; top: 20px; right: 67px; font-family: 'Merriweather'; font-size: 16px; color: white; font-style: italic; font-weight: bold; background: transparent; border: 2px solid white; box-shadow: none; height: 36px; width: 150px;}.pennyfarthingheader .tc__bookroom:hover { background: white; color: #BF9F35;}.pennyfarthingheader .tcnav .tcnavlistitem { text-align: left;}.pennyfarthingheader .pennyfarthinginfo { width: 60%; text-align: center; opacity: 0;}.tcnav input:checked ~ .tcmainnav > .pennyfarthinginfo { opacity: 1; transition: 0.5s ease-in-out;}.pennyfarthingheader .tcnavlist { position: static; width: 40%; transform: none; margin-top: -45px;}.pennyfarthingheader .tcnav .tcnavlink { font-size: 40px;}.pennyfarthingicons { display: flex; justify-content: space-between; list-style: none; padding-left: 0; margin-bottom: 0; height: 50px; width: 349px; margin: auto; margin-top: 75px;}.pennyfarthingicons li { margin: 0;}.pennyfarthingicons li a { display: flex; flex-direction: column; align-items: center; height: 100%;}.pennyfarthingicons li a span { margin-top: auto; color: white; font-family: 'Merriweather'; font-size: 11px;}.tcnav .hotelnav:checked ~ .tcmainnav > .pennyfarthinginfo { opacity: 0; visibility: hidden; transition: 0.5s ease-in-out;}/*-------- OSCARS -------- */.tcmainnav.oscars { background: #D27632; display: flex; align-items: center;}.oscarsheader { position: fixed; top: 0; left: 0; width: 100%; height: 80px; z-index: 1000;}.oscarsheader .search-form { position: fixed; top: 10px; left: 139px; width: 255px;}.oscarsheader .search-form input { background: transparent; color: white; border-width: 2px; font-family: Merriweather, serif; box-shadow: none; font-style: italic; padding-left: 0; font-size: 16px;}.oscarsheader .search-form input::placeholder { color: white; font-family: Merriweather, serif;}.oscarsheader .search-form input[type=submit] { color: transparent; background: url(/wp-content/uploads/2021/11/down-arrow-white-1.png); background-repeat: no-repeat; background-position-y: center;}.oscarsheader .tc__bookroom { position: fixed; top: 20px; right: 67px; font-family: 'Merriweather'; font-size: 16px; color: white; font-style: italic; font-weight: bold; background: transparent; border: 2px solid white; box-shadow: none; height: 36px; width: 150px;}.oscarsheader .tc__bookroom:hover { background: white; color: #D27632;}.oscarsheader .tcnav .tcnavlistitem { text-align: left;}.oscarsheader .oscarsinfo { width: 60%; text-align: center; opacity: 0;}.tcnav input:checked ~ .tcmainnav > .oscarsinfo { opacity: 1; transition: 0.5s ease-in-out;}.oscarsheader .tcnavlist { position: static; width: 40%; transform: none; margin-top: -110px;}.oscarsheader .tcnav .tcnavlink { font-size: 40px;}.oscarsicons { display: flex; justify-content: space-between; list-style: none; padding-left: 0; margin-bottom: 0; height: 50px; width: 349px; margin: auto; margin-top: 75px;}.oscarsicons li { margin: 0;}.oscarsicons li a { display: flex; flex-direction: column; align-items: center; height: 100%;}.oscarsicons li a span { margin-top: auto; color: white; font-family: 'Merriweather'; font-size: 11px;}.tcnav .hotelnav:checked ~ .tcmainnav > .oscarsinfo { opacity: 0; visibility: hidden; transition: 0.5s ease-in-out;}/*-------- ST DONAT'S -------- */.tcmainnav.donats { background: #6C7778; display: flex; align-items: center;}.donatsheader { position: fixed; top: 0; left: 0; width: 100%; height: 80px; z-index: 1000;}.donatsheader .search-form { position: fixed; top: 10px; left: 139px; width: 255px;}.donatsheader .search-form input { background: transparent; color: white; border-width: 2px; font-family: Merriweather, serif; box-shadow: none; font-style: italic; padding-left: 0; font-size: 16px;}.donatsheader .search-form input::placeholder { color: white; font-family: Merriweather, serif;}.donatsheader .search-form input[type=submit] { color: transparent; background: url(/wp-content/uploads/2021/11/down-arrow-white-1.png); background-repeat: no-repeat; background-position-y: center;}.donatsheader .tc__bookroom { position: fixed; top: 20px; right: 67px; font-family: 'Merriweather'; font-size: 16px; color: white; font-style: italic; font-weight: bold; background: transparent; border: 2px solid white; box-shadow: none; height: 36px; width: 150px;}.donatsheader .tc__bookroom:hover { background: white; color: #6C7778;}.donatsheader .tcnav .tcnavlistitem { text-align: left;}.donatsheader .donatsinfo { width: 60%; text-align: center; opacity: 0;}.tcnav input:checked ~ .tcmainnav > .donatsinfo { opacity: 1; transition: 0.5s ease-in-out;}.donatsheader .tcnavlist { position: static; width: 40%; transform: none; margin-top: -110px;}.donatsheader .tcnav .tcnavlink { font-size: 40px;}.donatsicons { display: flex; justify-content: space-between; list-style: none; padding-left: 0; margin-bottom: 0; height: 50px; width: 349px; margin: auto; margin-top: 75px;}.donatsicons li { margin: 0;}.donatsicons li a { display: flex; flex-direction: column; align-items: center; height: 100%;}.donatsicons li a span { margin-top: auto; color: white; font-family: 'Merriweather'; font-size: 11px;}.tcnav .hotelnav:checked ~ .tcmainnav > .donatsinfo { opacity: 0; visibility: hidden; transition: 0.5s ease-in-out;}/*-------- RESPONSIVE -------- */@media (max-width: 900px) { .hotelnav { top: 20px; } .hotellist { bottom: 10%; } .tcnav .tcnavlink, .tcnavlink { font-size: 30px!important; } .tcnavlistitem:not(:last-child) { margin-bottom: 15px; } .tcnav .tcnavmenu { top: 12px; left: 25px; } .tcheader .tc__bookroom, .coedheader .tc__bookroom, .coedheader .tc__bookroom, .westhouseheader .tc__bookroom, .bearheader .tc__bookroom, .newhouseheader .tc__bookroom, .cateringheader .tc__bookroom, .pennyfarthingheader .tc__bookroom, .oscarsheader .tc__bookroom, .donatsheader .tc__bookroom { top: 22px; right: 35px; } .headerhome { display: none; } .tcheader .search-form, .coedheader .search-form, .westhouseheader .search-form, .bearheader .search-form, .newhouseheader .search-form, .cateringheader .search-form, .pennyfarthingheader .search-form, .oscarsheader .search-form, .donatsheader .search-form { display: none; } .coedinfo, .westhouseinfo, .bearinfo, .newhouseinfo, .cateringinfo, .pennyfarthinginfo, .oscarsinfo, .donatsinfo { display: none; } .tcnavlist, .coedheader .tcnavlist, .westhouseheader .tcnavlist, .bearheader .tcnavlist, .newhouseheader .tcnavlist, .cateringheader .tcnavlist, .pennyfarthingheader .tcnavlist, .oscarsheader .tcnavlist, .donatsheader .tcnavlist { position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); z-index: 1000000000000000; opacity: 0; padding-left: 0; margin-bottom: 0; margin-top: 0; } .tchotellistitem { width: 42%; } .coedheader .tcnav .tcnavlistitem, .westhouseheader .tcnav .tcnavlistitem, .bearheader .tcnav .tcnavlistitem, .newhouseheader .tcnav .tcnavlistitem, .cateringheader .tcnav .tcnavlistitem, .pennyfarthingheader .tcnav .tcnavlistitem, .oscarsheader .tcnav .tcnavlistitem, .donatsheader .tcnav .tcnavlistitem { text-align: center; } .tcsubmenu { display: none; position: relative; right: 0; margin-top: 30px; } .tcsubmenu .tcnavlistitem { line-height: 15px; } .tcsubmenu .tcnavlistitem .tcnavlink { font-size: 20px; } .submenutrigger:checked ~ .tcsubmenu { display: block; visibility: visible; opacity: 1; } .homelink { top: -180px; } .tchotellistitem { margin: 2px; }}#borderradius img{border-radius:300px!important;}.pennyfarthingheader .tc__bookroom { display: none;}.tchotellistitem { width: 33%; max-width: 273px;}</style><meta name="generator" content="Elementor 4.0.3; features: e_font_icon_svg, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap">
+<style>.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>			<style>
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload) * {
+					background-image: none !important;
+				}
+				@media screen and (max-height: 1024px) {
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+				@media screen and (max-height: 640px) {
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+			</style>
+			<!-- Start of HubSpot Embed Code -->
+<script type="text/javascript" id="hs-script-loader" async defer src="//js-eu1.hs-scripts.com/145193897.js"></script>
+<!-- End of HubSpot Embed Code --><!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-89303874-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-89303874-1');
+</script><link rel="icon" href="https://townandcountrycollective.co.uk/wp-content/uploads/2020/06/cropped-tcc-home-1-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://townandcountrycollective.co.uk/wp-content/uploads/2020/06/cropped-tcc-home-1-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://townandcountrycollective.co.uk/wp-content/uploads/2020/06/cropped-tcc-home-1-180x180.png" />
+<meta name="msapplication-TileImage" content="https://townandcountrycollective.co.uk/wp-content/uploads/2020/06/cropped-tcc-home-1-270x270.png" />
+</head>
+
+<body class="home wp-singular page-template page-template-template-main page-template-template-main-php page page-id-1282 page-parent wp-custom-logo wp-theme-onepress fl-builder fl-builder-2-10-1-6 fl-themer-1-5-2 fl-no-js hiding-page-title animation-disable elementor-default elementor-kit-41740 elementor-page elementor-page-1282">
+
+<header class="tcheader">
+    <label class="tcnav">
+        <input type='checkbox'>
+        <span class='tcnavmenu'>
+        <span class='hamburger'></span>
+        </span>
+		<input type='checkbox' class="hotelnav">
+		<div class="tcmainnav">
+			<ul class="tcnavlist">
+				<li class="tcnavlistitem">
+					<a href='/' class="tcnavlink">HOME</a>
+				</li> 
+				<li class="tcnavlistitem">
+					<a href='/tc-sleep/' class="tcnavlink">SLEEP</a>
+				</li>
+				<label for="dine" class="tcnavlink">DINE
+				<input type="radio" id="dine" name="radiosubmenu" class="submenutrigger">
+					<ul class="tcsubmenu">
+						<li class="tcnavlistitem">
+							<a href='/the-bear-home/the-bear-dine/' class="tcnavlink">THE BEAR</a>
+						</li>
+						<li class="tcnavlistitem">
+							<a href='/new-house-home/new-house-dine/' class="tcnavlink">NEW HOUSE</a>
+						</li>
+						<li class="tcnavlistitem">
+							<a href='/coed-y-mwstwr-hotel/coed-y-mwstwr-dine/' class="tcnavlink">COED-Y-MWSTWR</a>
+						</li>
+						<li class="tcnavlistitem">
+							<a href='/penny-farthing-home/penny-farthing-dine/' class="tcnavlink">PENNY FARTHING</a>
+						</li>
+					</ul>
+				</label>
+				<label for="weddings" class="tcnavlink">WEDDINGS
+				<input type="radio" id="weddings" name="radiosubmenu" class="submenutrigger">
+					<ul class="tcsubmenu">
+						<li class="tcnavlistitem">
+							<a href='https://townandcountrycollective.co.uk/the-bear-weddings/' class="tcnavlink">THE BEAR</a>
+						</li>
+						<li class="tcnavlistitem">
+							<a href='https://townandcountrycollective.co.uk/new-house-weddings/' class="tcnavlink">NEW HOUSE</a>
+						</li>
+						<li class="tcnavlistitem">
+							<a href='https://townandcountrycollective.co.uk/coed-y-mwstwr-weddings/' class="tcnavlink">COED-Y-MWSTWR</a>
+						</li>
+					</ul>
+				</label>
+				<label for="christmas" class="tcnavlink">Christmas
+				<input type="radio" id="christmas" name="radiosubmenu" class="submenutrigger">
+					<ul class="tcsubmenu">
+						<li class="tcnavlistitem">
+							<a href='/coed-y-mwstwr-hotel/christmasatthecoed2026/' class="tcnavlink">Coed-Y-Mwstwr</a>
+						</li>
+						<li class="tcnavlistitem">
+							<a href='/new-house-home/christmasatthenewhouse2026/' class="tcnavlink">New House Hotel</a>
+						</li>
+						<li class="tcnavlistitem" style="display:block !important;">
+							<a href='/the-bear-home/christmasathebear2026/' class="tcnavlink">The Bear Hotel</a>
+						</li>
+                        <li class="tcnavlistitem" style="display:block !important;">
+							<a href='/penny-farthing-home/penny-farthing-christmas/' class="tcnavlink">The Penny Farthing</a>
+						</li>
+					</ul>
+				</label>
+				<label for="meetings" class="tcnavlink">MEETINGS &amp; OCCASIONS
+				<input type="radio" id="meetings" name="radiosubmenu" class="submenutrigger">
+					<ul class="tcsubmenu">
+						<li class="tcnavlistitem">
+							<a href='/the-bear-home/the-bear-meetings/' class="tcnavlink">THE BEAR</a>
+						</li>
+						<li class="tcnavlistitem">
+							<a href='/new-house-home/new-house-meetings/' class="tcnavlink">NEW HOUSE</a>
+						</li>
+						<li class="tcnavlistitem">
+							<a href='/coed-y-mwstwr-hotel/coed-y-mwstwr-meetings/' class="tcnavlink">COED-Y-MWSTWR</a>
+						</li>
+						<li class="tcnavlistitem">
+							<a href='/penny-farthing-home/penny-farthing-meetings/' class="tcnavlink">PENNY FARTHING</a>
+						</li>
+					</ul>
+				</label>
+				<li class="tcnavlistitem">
+					<a href='town-and-country-home/town-and-country-location/' class="tcnavlink">LOCATION</a>
+				</li>
+				<li class="tcnavlistitem">
+					<a href='https://townandcountryhotels.enjovia.net/' class="tcnavlink">GIFT VOUCHERS</a>
+				</li>
+			</ul>
+			<ul class="hotellist">
+				<div class="homelink">
+
+							<a href="/"><img src="/wp-content/uploads/2026/04/town_and_country_new_logo_cropped.webp"></a>
+
+						</div>
+
+						<li class="tchotellistitem">
+
+							<a href='/penny-farthing-home/' class="tcnavlink pennyFarthing"><img src="/wp-content/uploads/2026/04/pf_new_logo_1x.webp"></a>
+
+						</li>
+
+						<li class="tchotellistitem">
+
+							<a href='/new-house-home/' class="tcnavlink newHouse"><img src="/wp-content/uploads/2026/04/nh_new_logo_1x.webp"></a>
+							
+						</li>
+
+						<li class="tchotellistitem">
+
+							<a href='/the-bear-home/' class="tcnavlink bear"><img src="/wp-content/uploads/2026/04/bear_new_logo_1x.webp"></a>
+
+						</li>
+
+						<li class="tchotellistitem">
+
+							<a href='/coed-y-mwstwr-hotel/' class="tcnavlink coed"><img src="/wp-content/uploads/2026/04/coed_new_logo_1x.webp"></a>
+
+						</li>
+
+			</ul>
+		</div>
+    </label>
+	<form role="search" method="get" class="search-form" action="https://townandcountrycollective.co.uk/">
+  <label>
+    <span class="screen-reader-text">Search for:</span>
+    <input type="search" class="search-field" placeholder="Search …" value="" name="s" minlength="3" required>
+  </label>
+  <input type="submit" class="search-submit" value="Search">
+</form>
+	<a class="headerhome" href="/"><img src="/wp-content/uploads/2021/11/cropped-tcc-home.png"></a>
+	<a href="https://booking.eu.guestline.app/TCC" class="book-btn" target="_blank">Book Now</a>
+</header>
+<div id="content" class="site-content">
+		<div id="content-inside" class="no-sidebar new-home-page">
+		<div id="primary" class="content-area">
+			<main id="main" class="site-main" role="main">
+
+				
+					
+<article id="post-1282" class="post-1282 page type-page status-publish hentry">
+	<header class="entry-header">
+			</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<div class="fl-builder-content fl-builder-content-1282 fl-builder-content-primary fl-builder-global-templates-locked" data-post-id="1282"><div class="fl-row fl-row-full-width fl-row-bg-slideshow fl-node-5f3123bab2883 fl-row-custom-height fl-row-align-center fl-row-bg-overlay fl-animation fl-slide-in-up" data-node="5f3123bab2883" data-animation-delay="0" data-animation-duration="1">
+	<div class="fl-row-content-wrap">
+		<div class="uabb-row-separator uabb-top-row-separator" >
+</div>
+		<div class="fl-bg-slideshow"></div>				<div class="fl-row-content fl-row-fixed-width fl-node-content">
+		
+<div class="fl-col-group fl-node-5f3123bab2888" data-node="5f3123bab2888">
+			<div class="fl-col fl-node-5f3123bab288a fl-col-bg-color fl-col-has-cols" data-node="5f3123bab288a">
+	<div class="fl-col-content fl-node-content"><div  class="fl-module fl-module-rich-text fl-rich-text fl-node-5f3123bab288c micro banner-big-home" id="page-header" data-node="5f3123bab288c">
+	</div>
+<div role="figure" class="fl-module fl-module-photo fl-photo fl-photo-align-center fl-node-5f31243c3285e" data-node="5f31243c3285e" itemscope itemtype="https://schema.org/ImageObject">
+	<div class="fl-photo-content fl-photo-img-webp">
+				<img loading="lazy" loading="lazy" decoding="async" class="fl-photo-img wp-image-60443 size-full" src="https://townandcountrycollective.co.uk/wp-content/uploads/2026/04/town_and_country_new_logo_cropped.webp" alt="town_and_country_new_logo_cropped" height="273" width="1200" title="town_and_country_new_logo_cropped" loading="lazy" itemprop="image" srcset="https://townandcountrycollective.co.uk/wp-content/uploads/2026/04/town_and_country_new_logo_cropped.webp 1200w, https://townandcountrycollective.co.uk/wp-content/uploads/2026/04/town_and_country_new_logo_cropped-300x68.webp 300w, https://townandcountrycollective.co.uk/wp-content/uploads/2026/04/town_and_country_new_logo_cropped-1024x233.webp 1024w, https://townandcountrycollective.co.uk/wp-content/uploads/2026/04/town_and_country_new_logo_cropped-768x175.webp 768w" sizes="auto, (max-width: 1200px) 100vw, 1200px" />
+					</div>
+	</div>
+
+<div class="fl-col-group fl-node-618aa86446d85 fl-col-group-nested" data-node="618aa86446d85">
+			<div class="fl-col fl-node-618aa864470ee fl-col-bg-color fl-col-small" data-node="618aa864470ee">
+	<div class="fl-col-content fl-node-content"><div  class="fl-module fl-module-rich-text fl-rich-text fl-node-618aa85c8931b" data-node="618aa85c8931b">
+	<p><a href="https://tcc.dbm.guestline.net/availability?hotel=TCCMWSTWR" target="_blank" rel="noopener">Book a room  <img decoding="async" class="alignnone wp-image-202" role="img" src="https://townandcountrycollective.co.uk/wp-content/uploads/2020/06/cta-arrow-1.svg" alt="" width="25" height="25" /></a></p>
+</div>
+</div>
+</div>
+			<div class="fl-col fl-node-618aa864470f3 fl-col-bg-color fl-col-small" data-node="618aa864470f3">
+	<div class="fl-col-content fl-node-content"><div  class="fl-module fl-module-rich-text fl-rich-text fl-node-618aa87120ed7" data-node="618aa87120ed7">
+	<p><a href="/the-bear-home/the-bear-contact/">Contact  <img decoding="async" class="alignnone wp-image-202" role="img" src="https://townandcountrycollective.co.uk/wp-content/uploads/2020/06/cta-arrow-1.svg" alt="" width="25" height="25" /></a></p>
+</div>
+</div>
+</div>
+	</div>
+<div role="figure" class="fl-module fl-module-photo fl-photo fl-photo-align-center fl-node-5f3123bab28af" data-node="5f3123bab28af" itemscope itemtype="https://schema.org/ImageObject">
+	<div class="fl-photo-content fl-photo-img-svg">
+				<a href="#down-it"  target="_self" itemprop="url">
+				<img loading="lazy" loading="lazy" decoding="async" class="fl-photo-img wp-image-171 size-full" src="https://townandcountrycollective.co.uk/wp-content/uploads/2020/06/arrow.svg" alt="arrow" height="42" width="20" title="arrow" loading="lazy" itemprop="image" />
+				</a>
+					</div>
+	</div>
+</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+<style>.fl-node-5f3123bab2883.fl-animation:not(.fl-animated){opacity:0}</style><div class="fl-row fl-row-full-width fl-row-bg-none fl-node-618eccea7e59f fl-row-default-height fl-row-align-center" data-node="618eccea7e59f">
+	<div class="fl-row-content-wrap">
+		<div class="uabb-row-separator uabb-top-row-separator" >
+</div>
+						<div class="fl-row-content fl-row-fixed-width fl-node-content">
+		
+<div class="fl-col-group fl-node-618eccea7e592 fl-col-group-equal-height fl-col-group-align-center" data-node="618eccea7e592">
+			<div class="fl-col fl-node-618eccea7e593 fl-col-bg-color fl-col-small" data-node="618eccea7e593">
+	<div class="fl-col-content fl-node-content"><div role="figure" class="fl-module fl-module-photo fl-photo fl-photo-align-center fl-node-618eccea7e597 homeLogo" data-node="618eccea7e597" itemscope itemtype="https://schema.org/ImageObject">
+	<div class="fl-photo-content fl-photo-img-webp">
+				<a href="/coed-y-mwstwr-hotel/"  target="_self" itemprop="url">
+				<img loading="lazy" loading="lazy" decoding="async" class="fl-photo-img wp-image-60432 size-full" src="https://townandcountrycollective.co.uk/wp-content/uploads/2026/04/coed_new_logo_1x.webp" alt="coed_new_logo_1x" height="512" width="943" title="coed_new_logo_1x" loading="lazy" itemprop="image" srcset="https://townandcountrycollective.co.uk/wp-content/uploads/2026/04/coed_new_logo_1x.webp 943w, https://townandcountrycollective.co.uk/wp-content/uploads/2026/04/coed_new_logo_1x-300x163.webp 300w, https://townandcountrycollective.co.uk/wp-content/uploads/2026/04/coed_new_logo_1x-768x417.webp 768w" sizes="auto, (max-width: 943px) 100vw, 943px" />
+				</a>
+					</div>
+	</div>
+<div class="fl-module fl-module-uabb-button fl-node-618eccea7e598 fl-visible-mobile" data-node="618eccea7e598">
+	<div class="fl-module-content fl-node-content">
+		
+<div class="uabb-module-content uabb-button-wrap uabb-creative-button-wrap uabb-button-width-auto uabb-creative-button-width-auto uabb-button-center uabb-creative-button-center uabb-button-reponsive-center uabb-creative-button-reponsive-center">
+			<a href="tel:01656860621" title="Contact Venue" target="_self"  class="uabb-button ast-button uabb-creative-button uabb-creative-default-btn   "  role="button" aria-label="Contact Venue">
+							<span class="uabb-button-text uabb-creative-button-text">Contact Venue</span>
+							
+						
+		</a>
+	</div>
+
+
+
+
+	</div>
+</div>
+</div>
+</div>
+			<div class="fl-col fl-node-618eccea7e595 fl-col-bg-color fl-col-small" data-node="618eccea7e595">
+	<div class="fl-col-content fl-node-content"><div role="figure" class="fl-module fl-module-photo fl-photo fl-photo-align-center fl-node-618eccea7e59b homeLogo" data-node="618eccea7e59b" itemscope itemtype="https://schema.org/ImageObject">
+	<div class="fl-photo-content fl-photo-img-webp">
+				<a href="/the-bear-home"  target="_self" itemprop="url">
+				<img loading="lazy" loading="lazy" decoding="async" class="fl-photo-img wp-image-60431 size-full" src="https://townandcountrycollective.co.uk/wp-content/uploads/2026/04/bear_new_logo_1x.webp" alt="bear_new_logo_1x" height="512" width="894" title="bear_new_logo_1x" loading="lazy" itemprop="image" srcset="https://townandcountrycollective.co.uk/wp-content/uploads/2026/04/bear_new_logo_1x.webp 894w, https://townandcountrycollective.co.uk/wp-content/uploads/2026/04/bear_new_logo_1x-300x172.webp 300w, https://townandcountrycollective.co.uk/wp-content/uploads/2026/04/bear_new_logo_1x-768x440.webp 768w" sizes="auto, (max-width: 894px) 100vw, 894px" />
+				</a>
+					</div>
+	</div>
+<div class="fl-module fl-module-uabb-button fl-node-618eccea7e59c fl-visible-mobile" data-node="618eccea7e59c">
+	<div class="fl-module-content fl-node-content">
+		
+<div class="uabb-module-content uabb-button-wrap uabb-creative-button-wrap uabb-button-width-auto uabb-creative-button-width-auto uabb-button-center uabb-creative-button-center uabb-button-reponsive-center uabb-creative-button-reponsive-center">
+			<a href="tel:01446774814" title="Contact Venue" target="_self"  class="uabb-button ast-button uabb-creative-button uabb-creative-default-btn   "  role="button" aria-label="Contact Venue">
+							<span class="uabb-button-text uabb-creative-button-text">Contact Venue</span>
+							
+						
+		</a>
+	</div>
+
+
+
+
+	</div>
+</div>
+</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+<div class="fl-row fl-row-full-width fl-row-bg-color fl-node-618eccf125573 fl-row-default-height fl-row-align-center" data-node="618eccf125573">
+	<div class="fl-row-content-wrap">
+		<div class="uabb-row-separator uabb-top-row-separator" >
+</div>
+						<div class="fl-row-content fl-row-fixed-width fl-node-content">
+		
+<div class="fl-col-group fl-node-618eccf125565 fl-col-group-equal-height fl-col-group-align-center" data-node="618eccf125565">
+			<div class="fl-col fl-node-618eccea7e596 fl-col-bg-color fl-col-small" data-node="618eccea7e596">
+	<div class="fl-col-content fl-node-content"><div role="figure" class="fl-module fl-module-photo fl-photo fl-photo-align-center fl-node-618eccea7e59d homeLogo" data-node="618eccea7e59d" itemscope itemtype="https://schema.org/ImageObject">
+	<div class="fl-photo-content fl-photo-img-webp">
+				<a href="/new-house-home/"  target="_self" itemprop="url">
+				<img loading="lazy" loading="lazy" decoding="async" class="fl-photo-img wp-image-60433 size-full" src="https://townandcountrycollective.co.uk/wp-content/uploads/2026/04/nh_new_logo_1x.webp" alt="nh_new_logo_1x" height="512" width="1113" title="nh_new_logo_1x" loading="lazy" itemprop="image" srcset="https://townandcountrycollective.co.uk/wp-content/uploads/2026/04/nh_new_logo_1x.webp 1113w, https://townandcountrycollective.co.uk/wp-content/uploads/2026/04/nh_new_logo_1x-300x138.webp 300w, https://townandcountrycollective.co.uk/wp-content/uploads/2026/04/nh_new_logo_1x-1024x471.webp 1024w, https://townandcountrycollective.co.uk/wp-content/uploads/2026/04/nh_new_logo_1x-768x353.webp 768w" sizes="auto, (max-width: 1113px) 100vw, 1113px" />
+				</a>
+					</div>
+	</div>
+<div class="fl-module fl-module-uabb-button fl-node-618eccea7e59e fl-visible-mobile" data-node="618eccea7e59e">
+	<div class="fl-module-content fl-node-content">
+		
+<div class="uabb-module-content uabb-button-wrap uabb-creative-button-wrap uabb-button-width-auto uabb-creative-button-width-auto uabb-button-center uabb-creative-button-center uabb-button-reponsive-center uabb-creative-button-reponsive-center">
+			<a href="tel:02920520280" title="Contact Venue" target="_self"  class="uabb-button ast-button uabb-creative-button uabb-creative-default-btn   "  role="button" aria-label="Contact Venue">
+							<span class="uabb-button-text uabb-creative-button-text">Contact Venue</span>
+							
+						
+		</a>
+	</div>
+
+
+
+
+	</div>
+</div>
+</div>
+</div>
+			<div class="fl-col fl-node-618eccf125568 fl-col-bg-color fl-col-small" data-node="618eccf125568">
+	<div class="fl-col-content fl-node-content"><div role="figure" class="fl-module fl-module-photo fl-photo fl-photo-align-center fl-node-618eccf12556d homeLogo" data-node="618eccf12556d" itemscope itemtype="https://schema.org/ImageObject">
+	<div class="fl-photo-content fl-photo-img-webp">
+				<a href="/penny-farthing-home/"  target="_self" itemprop="url">
+				<img loading="lazy" loading="lazy" decoding="async" class="fl-photo-img wp-image-60434 size-full" src="https://townandcountrycollective.co.uk/wp-content/uploads/2026/04/pf_new_logo_1x.webp" alt="pf_new_logo_1x" height="512" width="1602" title="pf_new_logo_1x" loading="lazy" itemprop="image" srcset="https://townandcountrycollective.co.uk/wp-content/uploads/2026/04/pf_new_logo_1x.webp 1602w, https://townandcountrycollective.co.uk/wp-content/uploads/2026/04/pf_new_logo_1x-300x96.webp 300w, https://townandcountrycollective.co.uk/wp-content/uploads/2026/04/pf_new_logo_1x-1024x327.webp 1024w, https://townandcountrycollective.co.uk/wp-content/uploads/2026/04/pf_new_logo_1x-768x245.webp 768w, https://townandcountrycollective.co.uk/wp-content/uploads/2026/04/pf_new_logo_1x-1536x491.webp 1536w" sizes="auto, (max-width: 1602px) 100vw, 1602px" />
+				</a>
+					</div>
+	</div>
+<div class="fl-module fl-module-uabb-button fl-node-618eccf12556e fl-visible-mobile" data-node="618eccf12556e">
+	<div class="fl-module-content fl-node-content">
+		
+<div class="uabb-module-content uabb-button-wrap uabb-creative-button-wrap uabb-button-width-auto uabb-creative-button-width-auto uabb-button-center uabb-creative-button-center uabb-button-reponsive-center uabb-creative-button-reponsive-center">
+			<a href="tel:01446774999" title="Contact Venue" target="_self"  class="uabb-button ast-button uabb-creative-button uabb-creative-default-btn   "  role="button" aria-label="Contact Venue">
+							<span class="uabb-button-text uabb-creative-button-text">Contact Venue</span>
+							
+						
+		</a>
+	</div>
+
+
+
+
+	</div>
+</div>
+</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+<div id="down-it" class="fl-row fl-row-full-width fl-row-bg-color fl-node-5f3123bab2895 fl-row-default-height fl-row-align-center row-1" data-node="5f3123bab2895">
+	<div class="fl-row-content-wrap">
+		<div class="uabb-row-separator uabb-top-row-separator" >
+</div>
+						<div class="fl-row-content fl-row-fixed-width fl-node-content">
+		
+<div class="fl-col-group fl-node-5f3123bab2897" data-node="5f3123bab2897">
+			<div class="fl-col fl-node-5f3123bab2899 fl-col-bg-color" data-node="5f3123bab2899">
+	<div class="fl-col-content fl-node-content"><div  class="fl-module fl-module-rich-text fl-rich-text fl-node-61bc75a92fee0 micro row-1-big-text" data-node="61bc75a92fee0">
+	<p>Find your place at ours</p>
+</div>
+<div  class="fl-module fl-module-rich-text fl-rich-text fl-node-5f3123bab289d row-1-small-text" data-node="5f3123bab289d">
+	<p>Handpicked for their heritage and location, you’ll find the best of town and country at all our places.</p>
+<p>Each one offers all our guests something different, but always with contemporary luxury alongside colourful histories that include King Arthur and Napoleon and a warm, friendly welcome.</p>
+<p>Once inside, you’ll find Welsh accents running through our well-stocked bars, tempting menus and individually designed bedrooms. And, whether you’re eating, drinking, staying or celebrating, you’ll be welcomed by a team who all look for ways to make your experience extra special, from our first encounter and every time you return.</p>
+<p><strong>We wish you a warm Welsh welcome to the Town &amp; Country Collective!</strong></p>
+<p><a href="https://townandcountryhotels.enjovia.com/"><strong>EXPLORE OUR GIFT &amp; EXPERIENCE VOUCHERS HERE &gt; </strong></a></p>
+</div>
+</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+<div class="fl-row fl-row-fixed-width fl-row-bg-none fl-node-5f3123bab28e6 fl-row-default-height fl-row-align-center hide-desktop fixed-row" data-node="5f3123bab28e6">
+	<div class="fl-row-content-wrap">
+		<div class="uabb-row-separator uabb-top-row-separator" >
+</div>
+						<div class="fl-row-content fl-row-fixed-width fl-node-content">
+				</div>
+	</div>
+</div>
+<div class="fl-row fl-row-full-width fl-row-bg-color fl-node-618ab933861bf fl-row-default-height fl-row-align-center join-our-family" data-node="618ab933861bf">
+	<div class="fl-row-content-wrap">
+		<div class="uabb-row-separator uabb-top-row-separator" >
+</div>
+						<div class="fl-row-content fl-row-full-width fl-node-content">
+		
+<div class="fl-col-group fl-node-5ef2f83e72a0d" data-node="5ef2f83e72a0d">
+			<div class="fl-col fl-node-5ef2f83e72a12 fl-col-bg-color" data-node="5ef2f83e72a12">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-rich-text fl-node-5ef2f83e72a14 micro big-join-text" data-node="5ef2f83e72a14">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-rich-text">
+	<p>Join our family</p>
+</div>
+	</div>
+</div>
+<div class="fl-module fl-module-rich-text fl-node-5ef2f83e72a16 join-small-text" data-node="5ef2f83e72a16">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-rich-text">
+	<p>If you would like to keep your finger on the Town &amp; Country pulse please sign up and receive our occasional newsletter, including special events, exclusive stories, news and special offers.</p>
+</div>
+	</div>
+</div>
+<div class="fl-module fl-module-html fl-node-5ef2f83e72a19 form-here" data-node="5ef2f83e72a19">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-html">
+	<center></center></div>
+	</div>
+</div>
+</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+<div class="fl-row fl-row-full-width fl-row-bg-color fl-node-5f3123bab28b2 fl-row-default-height fl-row-align-center" data-node="5f3123bab28b2">
+	<div class="fl-row-content-wrap">
+		<div class="uabb-row-separator uabb-top-row-separator" >
+</div>
+						<div class="fl-row-content fl-row-fixed-width fl-node-content">
+		
+<div class="fl-col-group fl-node-61387317bc399" data-node="61387317bc399">
+			<div class="fl-col fl-node-61387317bc430 fl-col-bg-color" data-node="61387317bc430">
+	<div class="fl-col-content fl-node-content"></div>
+</div>
+	</div>
+
+<div class="fl-col-group fl-node-5ef2f856a4fed" data-node="5ef2f856a4fed">
+			<div class="fl-col fl-node-5ef2f856a4ff1 fl-col-bg-color fl-col-small" data-node="5ef2f856a4ff1">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-photo fl-node-5ef2f856a4ff9" data-node="5ef2f856a4ff9">
+	<div class="fl-module-content fl-node-content">
+		<div role="figure" class="fl-photo fl-photo-align-center" itemscope itemtype="https://schema.org/ImageObject">
+	<div class="fl-photo-content fl-photo-img-webp">
+				<img fetchpriority="high" fetchpriority="high" decoding="async" class="fl-photo-img wp-image-60443 size-full" src="https://townandcountrycollective.co.uk/wp-content/uploads/2026/04/town_and_country_new_logo_cropped.webp" alt="town_and_country_new_logo_cropped" height="273" width="1200" title="town_and_country_new_logo_cropped"  itemprop="image" srcset="https://townandcountrycollective.co.uk/wp-content/uploads/2026/04/town_and_country_new_logo_cropped.webp 1200w, https://townandcountrycollective.co.uk/wp-content/uploads/2026/04/town_and_country_new_logo_cropped-300x68.webp 300w, https://townandcountrycollective.co.uk/wp-content/uploads/2026/04/town_and_country_new_logo_cropped-1024x233.webp 1024w, https://townandcountrycollective.co.uk/wp-content/uploads/2026/04/town_and_country_new_logo_cropped-768x175.webp 768w" sizes="(max-width: 1200px) 100vw, 1200px" />
+					</div>
+	</div>
+	</div>
+</div>
+<div class="fl-module fl-module-rich-text fl-node-5ef2f856a4ffb" data-node="5ef2f856a4ffb">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-rich-text">
+	<p style="text-align: center;"><a href="https://www.facebook.com/TownandCountryCollective/" target="_blank" rel="noopener"><img decoding="async" class="alignnone size-full wp-image-41" src="https://townandcountrycollective.co.uk/wp-content/uploads/2020/06/fb.svg" alt="" width="28" height="28" /></a> <img loading="lazy" loading="lazy" decoding="async" class="alignnone size-full wp-image-41" src="https://townandcountrycollective.co.uk/wp-content/uploads/2020/06/Layer-2.png" alt="" width="28" height="28" /> <a href="https://twitter.com/tc_hotels_wales?lang=en" target="_blank" rel="noopener"><img loading="lazy" loading="lazy" decoding="async" class="alignnone size-full wp-image-41" src="https://townandcountrycollective.co.uk/wp-content/uploads/2023/09/xicontwitternew.svg" alt="" width="28" height="28" /></a></p>
+</div>
+	</div>
+</div>
+<div class="fl-module fl-module-rich-text fl-node-5ef2f856a4ffd" data-node="5ef2f856a4ffd">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-rich-text">
+	<p style="text-align: center;"><a href="https://townandcountrycollective.co.uk/town-and-country-privacy-policy">Privacy</a> | <a href="https://townandcountrycollective.co.uk/town-and-country-terms-and-conditions">Terms &amp; Conditions </a>| <a href="https://townandcountrycollective.co.uk/town-and-country-privacy-policy">Cookies</a></p>
+</div>
+	</div>
+</div>
+<div class="fl-module fl-module-rich-text fl-node-61b1fe6c24b49" data-node="61b1fe6c24b49">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-rich-text">
+	<p style="text-align: center;">Hurryflow Limited<br />
+Town &amp; Country Hotels Limited<br />
+Event Detail Limited</p>
+<p style="text-align: center;">All registered at 63 High Street, Cowbridge, CF71 7AF</p>
+<p>&nbsp;</p>
+</div>
+	</div>
+</div>
+</div>
+</div>
+			<div class="fl-col fl-node-5ef2f856a4ff3 fl-col-bg-color fl-col-small" data-node="5ef2f856a4ff3">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-widget fl-node-5ef2f856a4fff footer-menu" data-node="5ef2f856a4fff">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-widget">
+<div class="widget widget_nav_menu"><h2 class="widgettitle">THE COLLECTIVE</h2><div class="menu-the-collective-container"><ul id="menu-the-collective" class="menu"><li id="menu-item-44" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-44"><a href="https://townandcountrycollective.co.uk/the-bear-home/">The Bear</a></li>
+<li id="menu-item-45" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-45"><a href="https://townandcountrycollective.co.uk/new-house-home/">New House Country Hotel</a></li>
+<li id="menu-item-46" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-46"><a href="https://townandcountrycollective.co.uk/coed-y-mwstwr-home/">Coed-Y-Mwstwr Hotel</a></li>
+<li id="menu-item-49" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-49"><a href="https://townandcountrycollective.co.uk/penny-farthing-home/">The Penny Farthing</a></li>
+</ul></div></div></div>
+	</div>
+</div>
+</div>
+</div>
+			<div class="fl-col fl-node-5ef2f856a4ff5 fl-col-bg-color fl-col-small" data-node="5ef2f856a4ff5">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-widget fl-node-5ef2f856a5003 footer-menu" data-node="5ef2f856a5003">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-widget">
+<div class="widget widget_nav_menu"><h2 class="widgettitle">useful links</h2><div class="menu-useful-links-container"><ul id="menu-useful-links" class="menu"><li id="menu-item-57" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-57"><a href="https://townandcountrycollective.co.uk/the-bear-home/the-bear-contact/">Get in touch</a></li>
+<li id="menu-item-58" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-58"><a href="https://townandcountrycollective.co.uk/#join-the-family" aria-current="page">Join the family</a></li>
+<li id="menu-item-59" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-59"><a href="https://townandcountryhotels.enjovia.net/">Vouchers</a></li>
+<li id="menu-item-60" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-60"><a href="#">Make a booking</a></li>
+<li id="menu-item-2853" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2853"><a href="https://townandcountrycollective.co.uk/town-and-country-home/town-and-country-careers/">Careers</a></li>
+<li id="menu-item-39320" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39320"><a href="https://townandcountrycollective.co.uk/town-and-country-home/town-and-country-staff-page/">Team Portal</a></li>
+</ul></div></div></div>
+	</div>
+</div>
+</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+</div><div class="uabb-js-breakpoint" style="display: none;"></div>			</div><!-- .entry-content -->
+</article><!-- #post-## -->
+
+
+					
+				
+			</main><!-- #main -->
+		</div><!-- #primary -->
+	</div><!--#content-inside -->
+</div><!-- #content -->
+
+</div><!-- #page -->
+
+
+
+
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/onepress/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+
+<div>
+
+    <dialog id="weddingDialog" class="weddingDialog">
+
+        <button class="closeDialogButton" aria-label="Close" onclick="this.parentElement.close()"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" viewBox="0 0 256 256"><path d="M165.66,101.66,139.31,128l26.35,26.34a8,8,0,0,1-11.32,11.32L128,139.31l-26.34,26.35a8,8,0,0,1-11.32-11.32L116.69,128,90.34,101.66a8,8,0,0,1,11.32-11.32L128,116.69l26.34-26.35a8,8,0,0,1,11.32,11.32ZM232,128A104,104,0,1,1,128,24,104.11,104.11,0,0,1,232,128Zm-16,0a88,88,0,1,0-88,88A88.1,88.1,0,0,0,216,128Z"></path></svg></button>
+
+        <div class="weddingDialogContent">
+
+            
+        </div>
+
+    </dialog>
+
+    <script>
+        const initWeddingDialog = (buttonId) => {
+            const button = document.getElementById(buttonId);
+            const dialog = document.getElementById('weddingDialog');
+
+            if (button && dialog) {
+                button.addEventListener('click', () => {
+                    dialog.showModal();
+                });
+            }
+        };
+
+        document.addEventListener('DOMContentLoaded', () => {
+                    });
+    </script>
+
+    <style>
+        .weddingDialog {
+            height: max-content;
+            overflow-y: auto;
+            scrollbar-width: thin;
+            border: 1px solid rgba(0, 0, 0, 15%);
+            border-radius: 16px;
+            box-shadow: 2px 4px 40px 0 rgba(0, 0, 0, 15%);
+
+            .closeDialogButton {
+                display: flex;
+                justify-content: flex-end;
+                width: 100%;
+                background: transparent;
+                border: none;
+                margin-bottom: 16px;
+                color: #000;
+                outline: none;
+                cursor: pointer;
+            }
+
+            iframe {
+                height: 450px !important;
+            }
+        }
+    </style>
+
+</div>
+ 
+<script type="text/javascript"  src="https://townandcountrycollective.co.uk/wp-content/uploads/wpcodebox/11.js?v=e99baa2bf73038b8"></script>
+
+        <!--
+The IP2Location Country Blocker is using IP2Location LITE geolocation database. Please visit https://lite.ip2location.com for more information.
+-->
+<!-- Custom Feeds for Instagram JS -->
+<script type="text/javascript">
+var sbiajaxurl = "https://townandcountrycollective.co.uk/wp-admin/admin-ajax.php";
+
+</script>
+			<script>
+				const lazyloadRunObserver = () => {
+					const lazyloadBackgrounds = document.querySelectorAll( `.e-con.e-parent:not(.e-lazyloaded)` );
+					const lazyloadBackgroundObserver = new IntersectionObserver( ( entries ) => {
+						entries.forEach( ( entry ) => {
+							if ( entry.isIntersecting ) {
+								let lazyloadBackground = entry.target;
+								if( lazyloadBackground ) {
+									lazyloadBackground.classList.add( 'e-lazyloaded' );
+								}
+								lazyloadBackgroundObserver.unobserve( entry.target );
+							}
+						});
+					}, { rootMargin: '200px 0px 200px 0px' } );
+					lazyloadBackgrounds.forEach( ( lazyloadBackground ) => {
+						lazyloadBackgroundObserver.observe( lazyloadBackground );
+					} );
+				};
+				const events = [
+					'DOMContentLoaded',
+					'elementor/lazyload/observe',
+				];
+				events.forEach( ( event ) => {
+					document.addEventListener( event, lazyloadRunObserver );
+				} );
+			</script>
+			<script id="yui3-js" src="https://townandcountrycollective.co.uk/wp-content/plugins/bb-plugin/js/libs/yui3.min.js?ver=2.10.1.6"></script>
+<script id="fl-slideshow-js" src="https://townandcountrycollective.co.uk/wp-content/plugins/bb-plugin/js/fl-slideshow.min.js?ver=2.10.1.6"></script>
+<script id="imagesloaded-js" src="https://townandcountrycollective.co.uk/wp-content/plugins/bb-plugin/js/libs/jquery.imagesloaded.min.js?ver=2.10.1.6"></script>
+<script id="jquery-waypoints-js" src="https://townandcountrycollective.co.uk/wp-content/plugins/bb-plugin/js/libs/jquery.waypoints.min.js?ver=2.10.1.6"></script>
+<script id="fl-builder-layout-1282-js" src="https://townandcountrycollective.co.uk/wp-content/uploads/bb-plugin/cache/1282-layout.js?ver=e024c565aff5859cbb5f93b4e54846b7"></script>
+<script id="wp-hooks-js" src="https://townandcountrycollective.co.uk/wp-includes/js/dist/hooks.min.js?ver=7496969728ca0f95732d"></script>
+<script id="wp-i18n-js" src="https://townandcountrycollective.co.uk/wp-includes/js/dist/i18n.min.js?ver=781d11515ad3d91786ec"></script>
+<script id="wp-i18n-js-after">
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+//# sourceURL=wp-i18n-js-after
+</script>
+<script id="swv-js" src="https://townandcountrycollective.co.uk/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=6.1.6"></script>
+<script id="contact-form-7-js-before">
+var wpcf7 = {
+    "api": {
+        "root": "https:\/\/townandcountrycollective.co.uk\/wp-json\/",
+        "namespace": "contact-form-7\/v1"
+    },
+    "cached": 1
+};
+//# sourceURL=contact-form-7-js-before
+</script>
+<script id="contact-form-7-js" src="https://townandcountrycollective.co.uk/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.6"></script>
+<script id="onepress-js-plugins-js" src="https://townandcountrycollective.co.uk/wp-content/themes/onepress/assets/js/plugins.js?ver=2.2.4"></script>
+<script id="onepress-js-bootstrap-js" src="https://townandcountrycollective.co.uk/wp-content/themes/onepress/assets/js/bootstrap.min.js?ver=2.2.4"></script>
+<script id="onepress-theme-js" src="https://townandcountrycollective.co.uk/wp-content/themes/onepress/assets/js/theme.js?ver=2.2.4"></script>
+<script id="wedding-scripts-js-js" src="https://townandcountrycollective.co.uk/wp-content/themes/onepress/js/main.js?ver=1.0"></script>
+<script id="jquery-ui-js-js" src="https://code.jquery.com/ui/1.13.2/jquery-ui.min.js?ver=1.13.2"></script>
+<script id="googlesitekit-events-provider-contact-form-7-js" src="https://townandcountrycollective.co.uk/wp-content/plugins/google-site-kit/dist/assets/js/googlesitekit-events-provider-contact-form-7-08e8756782316cb65854.js" defer></script>
+<script id="mc4wp-forms-api-js" defer src="https://townandcountrycollective.co.uk/wp-content/plugins/mailchimp-for-wp/assets/js/forms.js?ver=4.13.0"></script>
+<script id="googlesitekit-events-provider-mailchimp-js" src="https://townandcountrycollective.co.uk/wp-content/plugins/google-site-kit/dist/assets/js/googlesitekit-events-provider-mailchimp-55e506112a29131ad26e.js" defer></script>
+<script id="wp_megamenu-frontend_scripts-js-extra">
+var wp_megamenu_params = {"wpmm_mobile_toggle_option":"toggle_accordion","wpmm_enable_rtl":"0","wpmm_event_behavior":"follow_link","wpmm_ajaxurl":"https://townandcountrycollective.co.uk/wp-admin/admin-ajax.php","wpmm_ajax_nonce":"8b9e5f8009","check_woocommerce_enabled":"false","wpmm_mlabel_animation_type":"flash","wpmm_animation_delay":"","wpmm_animation_duration":"","wpmm_animation_iteration_count":"1","enable_mobile":"0","wpmm_sticky_opacity":"1","wpmm_sticky_offset":"0px","wpmm_sticky_zindex":"9999"};
+//# sourceURL=wp_megamenu-frontend_scripts-js-extra
+</script>
+<script id="wp_megamenu-frontend_scripts-js" src="https://townandcountrycollective.co.uk/wp-content/plugins/wp-mega-menu-pro/js/frontend.js?ver=2.1.6"></script>
+<script id="wp-emoji-settings" type="application/json">
+{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://townandcountrycollective.co.uk/wp-includes/js/wp-emoji-release.min.js?ver=7.0"}}
+</script>
+<script type="module">
+/*! This file is auto-generated */
+const a=JSON.parse(document.getElementById("wp-emoji-settings").textContent),o=(window._wpemojiSettings=a,"wpEmojiSettingsSupports"),s=["flag","emoji"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const a=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===a[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,a){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!a(e,"\ud83e\u1fac8")}return!1}function f(e,t,n,a){let r;const o=(r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement("canvas")).getContext("2d",{willReadFrequently:!0}),s=(o.textBaseline="top",o.font="600 32px Arial",{});return e.forEach(e=>{s[e]=t(o,e,n,a)}),s}function r(e){var t=document.createElement("script");t.src=e,t.defer=!0,document.head.appendChild(t)}a.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),c.toString(),p.toString()].join(",")+"));",a=new Blob([e],{type:"text/javascript"});const r=new Worker(URL.createObjectURL(a),{name:"wpTestEmojiSupports"});return void(r.onmessage=e=>{i(n=e.data),r.terminate(),t(n)})}catch(e){}i(n=f(s,u,c,p))}t(n)}).then(e=>{for(const n in e)a.supports[n]=e[n],a.supports.everything=a.supports.everything&&a.supports[n],"flag"!==n&&(a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&a.supports[n]);var t;a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&!a.supports.flag,a.supports.everything||((t=a.source||{}).concatemoji?r(t.concatemoji):t.wpemoji&&t.twemoji&&(r(t.twemoji),r(t.wpemoji)))});
+//# sourceURL=https://townandcountrycollective.co.uk/wp-includes/js/wp-emoji-loader.min.js
+</script>
+
+<script>
+
+  jQuery(window).scroll(function() {
+    if (jQuery(document).scrollTop() > 50) {
+      jQuery("div#my-header").addClass("fix-this-div");
+	  jQuery(".header-here").addClass("fix-this-div-2"); 		
+    } else {
+      jQuery("div#my-header").removeClass("fix-this-div");
+	  jQuery(".header-here").removeClass("fix-this-div-2"); 	
+    }
+  });
+	
+	
+	
+</script>
+
+<link rel='stylesheet'  href='https://townandcountrycollective.co.uk/wp-content/themes/onepress/newstyle.css?v=1.3' type='text/css' media='all' />
+<link rel='stylesheet'  href='https://townandcountrycollective.co.uk/wp-content/themes/onepress/color.css' type='text/css' media='all' />
+<link rel='stylesheet'  href='https://townandcountrycollective.co.uk/wp-content/themes/onepress/header-color.css' type='text/css' media='all' />
+<script type='text/javascript' src='https://townandcountrycollective.co.uk/wp-content/themes/onepress/scripts.js'></script>
+<script type='text/javascript' src='https://townandcountrycollective.co.uk/wp-content/themes/onepress/image-change.js'></script>
+<script type='text/javascript' src='https://townandcountrycollective.co.uk/wp-content/themes/onepress/header-change.js'></script>
+<link rel='stylesheet'  href='https://townandcountrycollective.co.uk/wp-content/themes/onepress/media.css' type='text/css' media='all' />
+<link rel='stylesheet'  href='https://townandcountrycollective.co.uk/wp-content/themes/onepress/newmobile.css' type='text/css' media='all' />
+
+
+<!--NEW PAGES CSS FILES-->
+<link rel='stylesheet'  href='https://townandcountrycollective.co.uk/wp-content/themes/onepress/newpage.css' type='text/css' media='all' />
+<!--NEW PAGES CSS FILES-->
+
+<script type='text/javascript' src='https://townandcountrycollective.co.uk/wp-content/themes/onepress/newmobile.js'></script>
+
+
+
+<!-- Coed-Y-Mwstwr -->
+
+<!-- <script type="text/javascript" data-hotel-id="TCCMWSTWR" async="" id="guestline-tag" src="https://gxptag.guestline.net/static/js/tag.js"></script> -->
+
+<!-- Bear -->
+<!-- <script type="text/javascript" data-hotel-id=TCCBEAR async="" id="guestline-tag" src="https://gxptag.guestline.net/static/js/tag.js"></script> -->
+
+<!-- New House -->
+<!-- <script type="text/javascript" data-hotel-id=TCCHOUSE async="" id="guestline-tag" src="https://gxptag.guestline.net/static/js/tag.js"></script> -->
+
+<!-- West House -->
+<!-- <script type="text/javascript" data-hotel-id=TCCWEST async="" id="guestline-tag" src="https://gxptag.guestline.net/static/js/tag.js"></script> -->
+
+<script type="text/javascript" id="guestline-tag" data-group-id="TCC" async src="https://gxptag.guestline.net/static/js/tag.js"></script>
+
+</body>
+</html>
+<!-- Cache served by breeze CACHE (Desktop) - Last modified: Tue, 09 Jun 2026 08:55:56 GMT -->

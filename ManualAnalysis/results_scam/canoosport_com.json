@@ -1,0 +1,513 @@
+{
+    "name": "canoosport.com",
+    "handle": "domain-2kcfaxjq",
+    "registrationDate": "3/27/2026, 9:39:49 AM GMT+2",
+    "expirationDate": "3/27/2027, 9:39:49 AM GMT+2",
+    "lastChangedDate": null,
+    "lastUpdateDate": "3/27/2026, 5:40:11 PM GMT+2",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "handle": "tmpl-pkddhmcb",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Redacted for Privacy"
+                    ],
+                    [
+                        "org",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "Redacted for Privacy"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "Redacted for Privacy"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "Redacted for Privacy"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "CN"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "江苏省",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "https://whois.cloud.tencent.com/whoisform?domain=canoosport.com"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object truncated due to authorization",
+                    "description": [
+                        "Some of the data in this object has been removed."
+                    ]
+                }
+            ],
+            "lang": "en"
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "tmpl-pkddhmcb",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Redacted for Privacy"
+                    ],
+                    [
+                        "org",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "Redacted for Privacy"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "Redacted for Privacy"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "Redacted for Privacy"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "CN"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "江苏省",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "https://whois.cloud.tencent.com/whoisform?domain=canoosport.com"
+                    ]
+                ]
+            ],
+            "roles": [
+                "administrative"
+            ],
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object truncated due to authorization",
+                    "description": [
+                        "Some of the data in this object has been removed."
+                    ]
+                }
+            ],
+            "lang": "en"
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "tmpl-pkddhmcb",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Redacted for Privacy"
+                    ],
+                    [
+                        "org",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "Redacted for Privacy"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "Redacted for Privacy"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "Redacted for Privacy"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "CN"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "江苏省",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "https://whois.cloud.tencent.com/whoisform?domain=canoosport.com"
+                    ]
+                ]
+            ],
+            "roles": [
+                "technical"
+            ],
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object truncated due to authorization",
+                    "description": [
+                        "Some of the data in this object has been removed."
+                    ]
+                }
+            ],
+            "lang": "en"
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "tmpl-pkddhmcb",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Redacted for Privacy"
+                    ],
+                    [
+                        "org",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "Redacted for Privacy"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "Redacted for Privacy"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "Redacted for Privacy"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "CN"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "江苏省",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "https://whois.cloud.tencent.com/whoisform?domain=canoosport.com"
+                    ]
+                ]
+            ],
+            "roles": [
+                "billing"
+            ],
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object truncated due to authorization",
+                    "description": [
+                        "Some of the data in this object has been removed."
+                    ]
+                }
+            ],
+            "lang": "en"
+        },
+        {
+            "objectClassName": "entity",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+86.95716"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "dnsabuse_complaint@tencent.com"
+                    ]
+                ]
+            ],
+            "roles": [
+                "abuse"
+            ],
+            "lang": "en"
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "1697",
+            "roles": [
+                "registrar"
+            ],
+            "publicIds": [
+                {
+                    "type": "IANA Registrar ID",
+                    "identifier": "1697"
+                }
+            ],
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                ""
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "voice"
+                                },
+                                "uri",
+                                "tel:+86.95716"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "dnsabuse_complaint@tencent.com"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "abuse"
+                    ],
+                    "lang": "en"
+                }
+            ],
+            "lang": "en"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "sailfish.dnspod.net",
+            "unicodeName": "sailfish.dnspod.net",
+            "lang": "en"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "command.dnspod.net",
+            "unicodeName": "command.dnspod.net",
+            "lang": "en"
+        },
+        {
+            "notices": [
+                {
+                    "title": "Epp Status Codes",
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://icann.org/epp",
+                            "rel": "glossary",
+                            "href": "https://icann.org/epp",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "RDDS Inaccuracy Complaint Form",
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://icann.org/wicf",
+                            "rel": "help",
+                            "href": "https://icann.org/wicf",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "Pilot",
+                    "description": [
+                        "Registration Data Access Protocol (RDAP) Pilot of dnspod"
+                    ]
+                },
+                {
+                    "title": "Search policy",
+                    "description": [
+                        "Result set is truncated due to configured limit. Search results are limited to 5 per query"
+                    ]
+                },
+                {
+                    "title": "Privacy policy",
+                    "description": [
+                        "To protect registrant's privacy, some of the data are removed(such as registrant's name and email/phont number)"
+                    ]
+                }
+            ],
+            "rdapConformance": [
+                "rdap_level_0",
+                "icann_rdap_technical_implementation_guide_1",
+                "icann_rdap_response_profile_1"
+            ],
+            "objectClassName": "domain",
+            "handle": "domain-2kcfaxjq",
+            "ldhName": "canoosport.com",
+            "unicodeName": "canoosport.com",
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "sailfish.dnspod.net",
+                    "unicodeName": "sailfish.dnspod.net",
+                    "lang": "en"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "command.dnspod.net",
+                    "unicodeName": "command.dnspod.net",
+                    "lang": "en"
+                }
+            ],
+            "secureDNS": {
+                "delegationSigned": false
+            },
+            "links": [
+                {
+                    "value": "https://global-rdap.dnspod.com/domain/canoosport.com",
+                    "rel": "related",
+                    "href": "https://global-rdap.dnspod.com/domain/canoosport.com",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "port43": "whois.dnspod.com",
+            "lang": "en"
+        }
+    ],
+    "domain": "canoosport.com\r"
+}

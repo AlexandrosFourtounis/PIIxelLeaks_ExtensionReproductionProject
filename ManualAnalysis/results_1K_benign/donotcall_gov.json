@@ -1,0 +1,547 @@
+{
+    "name": "donotcall.gov",
+    "handle": "DF12B0E64-GOV",
+    "registrationDate": "4/22/2003, 11:35:56 PM GMT+3 (by gov2023)",
+    "expirationDate": "7/7/2027, 9:14:02 PM GMT+3",
+    "lastChangedDate": "6/14/2026, 2:40:13 PM GMT+3",
+    "lastUpdateDate": "6/23/2026, 3:51:27 PM GMT+3",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "handle": "8888888",
+            "links": [
+                {
+                    "href": "https://rdap.cloudflareregistry.com/rdap/entity/8888888",
+                    "rel": "self",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "publicIds": [
+                {
+                    "identifier": "8888888",
+                    "type": "IANA Registrar ID"
+                }
+            ],
+            "remarks": [
+                {
+                    "description": [
+                        "Summary data only. For complete data, send a specific query for the object."
+                    ],
+                    "title": "Incomplete Data",
+                    "type": "object truncated due to unexplainable reasons"
+                }
+            ],
+            "roles": [
+                "registrar"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "get.gov"
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "DF12A8AFC-ROID",
+            "remarks": [
+                {
+                    "description": [
+                        "Please query the RDDS service of the Registrar of Record identifies in this output for information on how to contact the Registrant of the queried domain name."
+                    ],
+                    "title": "EMAIL REDACTED FOR PRIVACY",
+                    "type": "object redacted due to authorization"
+                }
+            ],
+            "roles": [
+                "administrative",
+                "registrant"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "REDACTED FOR PRIVACY"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "REDACTED FOR PRIVACY"
+                    ],
+                    [
+                        "adr",
+                        {},
+                        "text",
+                        [
+                            "",
+                            "",
+                            "REDACTED FOR PRIVACY",
+                            "REDACTED FOR PRIVACY",
+                            "REDACTED FOR PRIVACY",
+                            "REDACTED FOR PRIVACY",
+                            "REDACTED FOR PRIVACY"
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "voice"
+                            ]
+                        },
+                        "uri",
+                        "REDACTED FOR PRIVACY"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "fax"
+                            ]
+                        },
+                        "uri",
+                        "REDACTED FOR PRIVACY"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "REDACTED FOR PRIVACY"
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "DF129CDBE-ROID",
+            "remarks": [
+                {
+                    "description": [
+                        "Please query the RDDS service of the Registrar of Record identifies in this output for information on how to contact the Registrant of the queried domain name."
+                    ],
+                    "title": "EMAIL REDACTED FOR PRIVACY",
+                    "type": "object redacted due to authorization"
+                }
+            ],
+            "roles": [
+                "security"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "REDACTED FOR PRIVACY"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "REDACTED FOR PRIVACY"
+                    ],
+                    [
+                        "adr",
+                        {},
+                        "text",
+                        [
+                            "",
+                            "",
+                            "REDACTED FOR PRIVACY",
+                            "REDACTED FOR PRIVACY",
+                            "REDACTED FOR PRIVACY",
+                            "REDACTED FOR PRIVACY",
+                            "REDACTED FOR PRIVACY"
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "voice"
+                            ]
+                        },
+                        "uri",
+                        "REDACTED FOR PRIVACY"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "security@ftc.gov"
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "DF12A8EB8-ROID",
+            "remarks": [
+                {
+                    "description": [
+                        "Please query the RDDS service of the Registrar of Record identifies in this output for information on how to contact the Registrant of the queried domain name."
+                    ],
+                    "title": "EMAIL REDACTED FOR PRIVACY",
+                    "type": "object redacted due to authorization"
+                }
+            ],
+            "roles": [
+                "technical"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "REDACTED FOR PRIVACY"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "REDACTED FOR PRIVACY"
+                    ],
+                    [
+                        "adr",
+                        {},
+                        "text",
+                        [
+                            "",
+                            "",
+                            "REDACTED FOR PRIVACY",
+                            "REDACTED FOR PRIVACY",
+                            "REDACTED FOR PRIVACY",
+                            "REDACTED FOR PRIVACY",
+                            "REDACTED FOR PRIVACY"
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "voice"
+                            ]
+                        },
+                        "uri",
+                        "REDACTED FOR PRIVACY"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "fax"
+                            ]
+                        },
+                        "uri",
+                        "REDACTED FOR PRIVACY"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "REDACTED FOR PRIVACY"
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "handle": "DF12BA88D-ROID",
+            "ldhName": "ns-1183.awsdns-19.org",
+            "links": [
+                {
+                    "href": "https://rdap.cloudflareregistry.com/rdap/nameserver/ns-1183.awsdns-19.org",
+                    "rel": "self",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "remarks": [
+                {
+                    "description": [
+                        "Summary data only. For complete data, send a specific query for the object."
+                    ],
+                    "title": "Incomplete Data",
+                    "type": "object truncated due to unexplainable reasons"
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "handle": "DF12B7F3F-ROID",
+            "ldhName": "ns-16.awsdns-02.com",
+            "links": [
+                {
+                    "href": "https://rdap.cloudflareregistry.com/rdap/nameserver/ns-16.awsdns-02.com",
+                    "rel": "self",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "remarks": [
+                {
+                    "description": [
+                        "Summary data only. For complete data, send a specific query for the object."
+                    ],
+                    "title": "Incomplete Data",
+                    "type": "object truncated due to unexplainable reasons"
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "handle": "DF12BA4CD-ROID",
+            "ldhName": "ns-1986.awsdns-56.co.uk",
+            "links": [
+                {
+                    "href": "https://rdap.cloudflareregistry.com/rdap/nameserver/ns-1986.awsdns-56.co.uk",
+                    "rel": "self",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "remarks": [
+                {
+                    "description": [
+                        "Summary data only. For complete data, send a specific query for the object."
+                    ],
+                    "title": "Incomplete Data",
+                    "type": "object truncated due to unexplainable reasons"
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "handle": "DF12BB9CD-ROID",
+            "ldhName": "ns-832.awsdns-40.net",
+            "links": [
+                {
+                    "href": "https://rdap.cloudflareregistry.com/rdap/nameserver/ns-832.awsdns-40.net",
+                    "rel": "self",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "remarks": [
+                {
+                    "description": [
+                        "Summary data only. For complete data, send a specific query for the object."
+                    ],
+                    "title": "Incomplete Data",
+                    "type": "object truncated due to unexplainable reasons"
+                }
+            ]
+        },
+        {
+            "rdapConformance": [
+                "rdap_level_0",
+                "icann_rdap_response_profile_0",
+                "icann_rdap_technical_implementation_guide_0"
+            ],
+            "objectClassName": "domain",
+            "handle": "DF12B0E64-GOV",
+            "ldhName": "donotcall.gov",
+            "links": [
+                {
+                    "href": "https://rdap.cloudflareregistry.com/rdap/domain/donotcall.gov",
+                    "rel": "self",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "handle": "DF12BA88D-ROID",
+                    "ldhName": "ns-1183.awsdns-19.org",
+                    "links": [
+                        {
+                            "href": "https://rdap.cloudflareregistry.com/rdap/nameserver/ns-1183.awsdns-19.org",
+                            "rel": "self",
+                            "type": "application/rdap+json"
+                        }
+                    ],
+                    "remarks": [
+                        {
+                            "description": [
+                                "Summary data only. For complete data, send a specific query for the object."
+                            ],
+                            "title": "Incomplete Data",
+                            "type": "object truncated due to unexplainable reasons"
+                        }
+                    ]
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "handle": "DF12B7F3F-ROID",
+                    "ldhName": "ns-16.awsdns-02.com",
+                    "links": [
+                        {
+                            "href": "https://rdap.cloudflareregistry.com/rdap/nameserver/ns-16.awsdns-02.com",
+                            "rel": "self",
+                            "type": "application/rdap+json"
+                        }
+                    ],
+                    "remarks": [
+                        {
+                            "description": [
+                                "Summary data only. For complete data, send a specific query for the object."
+                            ],
+                            "title": "Incomplete Data",
+                            "type": "object truncated due to unexplainable reasons"
+                        }
+                    ]
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "handle": "DF12BA4CD-ROID",
+                    "ldhName": "ns-1986.awsdns-56.co.uk",
+                    "links": [
+                        {
+                            "href": "https://rdap.cloudflareregistry.com/rdap/nameserver/ns-1986.awsdns-56.co.uk",
+                            "rel": "self",
+                            "type": "application/rdap+json"
+                        }
+                    ],
+                    "remarks": [
+                        {
+                            "description": [
+                                "Summary data only. For complete data, send a specific query for the object."
+                            ],
+                            "title": "Incomplete Data",
+                            "type": "object truncated due to unexplainable reasons"
+                        }
+                    ]
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "handle": "DF12BB9CD-ROID",
+                    "ldhName": "ns-832.awsdns-40.net",
+                    "links": [
+                        {
+                            "href": "https://rdap.cloudflareregistry.com/rdap/nameserver/ns-832.awsdns-40.net",
+                            "rel": "self",
+                            "type": "application/rdap+json"
+                        }
+                    ],
+                    "remarks": [
+                        {
+                            "description": [
+                                "Summary data only. For complete data, send a specific query for the object."
+                            ],
+                            "title": "Incomplete Data",
+                            "type": "object truncated due to unexplainable reasons"
+                        }
+                    ]
+                }
+            ],
+            "secureDNS": {
+                "delegationSigned": true,
+                "dsData": [
+                    {
+                        "algorithm": 13,
+                        "digest": "9FF9CA2F09DF9AA52858D70E2AAEE5F727D3C73B",
+                        "digestType": 1,
+                        "keyTag": 49773
+                    },
+                    {
+                        "algorithm": 13,
+                        "digest": "21CD0AD6B7AAC569C7FE390E54CAF676C222E08C04EDCCBF87DF76CB3B58FAFD",
+                        "digestType": 2,
+                        "keyTag": 49773
+                    }
+                ],
+                "zoneSigned": true
+            },
+            "notices": [
+                {
+                    "description": [
+                        "By querying our Domain Database as part of the RDAP pilot program (RDAP Domain Database), you are agreeing to comply with these terms, so please read them carefully.",
+                        "Any information provided is 'as is' without any guarantee of accuracy.",
+                        "Please do not misuse the RDAP Domain Database. It is intended solely for query-based access on an experimental basis and should not be used for or relied upon for any other purpose.",
+                        "Don't use the RDAP Domain Database to allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations.",
+                        "Don't access our RDAP Domain Database through the use of high volume, automated electronic processes that send queries or data to the systems of any ICANN-accredited registrar.",
+                        "You may only use the information contained in the RDAP Domain Database for lawful purposes.",
+                        "Do not compile, repackage, disseminate, or otherwise use the information contained in the RDAP Domain Database in its entirety, or in any substantial portion, without our prior written permission.",
+                        "We may retain certain details about queries to our RDAP Domain Database for the purposes of detecting and preventing misuse.",
+                        "We reserve the right to restrict or deny your access to the RDAP Domain Database if we suspect that you have failed to comply with these terms.",
+                        "We reserve the right to modify or discontinue our participation in the RDAP pilot program and suspend or terminate access to the RDAP Domain Database at any time and for any reason in our sole discretion.",
+                        "We reserve the right to modify this agreement at any time.",
+                        ""
+                    ],
+                    "links": [
+                        {
+                            "href": "https://rdap.cloudflareregistry.com/rdap/help/tos",
+                            "rel": "self",
+                            "type": "application/rdap+json"
+                        }
+                    ],
+                    "title": "RDAP Terms of Service"
+                },
+                {
+                    "description": [
+                        "This response conforms to the RDAP Operational Profile for gTLD Registries and Registrars version 1.0"
+                    ]
+                },
+                {
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ],
+                    "links": [
+                        {
+                            "href": "https://icann.org/epp",
+                            "rel": "alternate",
+                            "type": "text/html"
+                        }
+                    ],
+                    "title": "Status Codes"
+                },
+                {
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://www.icann.org/wicf"
+                    ],
+                    "links": [
+                        {
+                            "href": "https://www.icann.org/wicf",
+                            "rel": "alternate",
+                            "type": "text/html"
+                        }
+                    ],
+                    "title": "RDDS Inaccuracy Complaint Form"
+                }
+            ]
+        }
+    ],
+    "domain": "donotcall.gov\r"
+}

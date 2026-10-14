@@ -1,0 +1,291 @@
+{
+  "generated_at": "2026-05-29T11:01:16.170705+00:00",
+  "source_summary": "/mnt/c/Users/amakridou/Desktop/PIIxel_Leaks/CrawlerOutputs/crawler_output_active_domains/validation/pixel_usage_summary.json",
+  "summary": {
+    "total_domains": 79,
+    "shared_cluster_count": 12,
+    "shared_clustered_domains": 52,
+    "shared_clustered_domain_pct": 65.82,
+    "clusters_with_shared_registrar": 5,
+    "clusters_with_shared_nameservers": 0,
+    "clusters_with_shared_asn": 12
+  },
+  "clusters": [
+    {
+      "cluster_id": 1,
+      "domains": [
+        "vsb46.sbs",
+        "vsb47.sbs",
+        "vsb49.sbs",
+        "vsb50.sbs",
+        "vsb51.sbs",
+        "vsb52.sbs",
+        "vsb53.sbs",
+        "vsb54.sbs",
+        "vsb55.sbs",
+        "vsb56.sbs",
+        "vsb57.sbs",
+        "vsb59.sbs"
+      ],
+      "cluster_size": 12,
+      "shared_signals": [
+        "registrar",
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "Dynadot LLC"
+        ],
+        "asn": [
+          "13335"
+        ],
+        "asn_holders": [
+          "CLOUDFLARENET - Cloudflare, Inc."
+        ]
+      }
+    },
+    {
+      "cluster_id": 3,
+      "domains": [
+        "30bet.top",
+        "93bet.top",
+        "bet17.top",
+        "bet31.top",
+        "bet54.top",
+        "bet70.top",
+        "bet85.top",
+        "bet90.top"
+      ],
+      "cluster_size": 8,
+      "shared_signals": [
+        "registrar",
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "Gname.com Pte. Ltd."
+        ],
+        "asn": [
+          "16509"
+        ],
+        "asn_holders": [
+          "AMAZON-02 - Amazon.com, Inc."
+        ]
+      }
+    },
+    {
+      "cluster_id": 4,
+      "domains": [
+        "apktohir78-a11.store",
+        "apktohir78-a13.store",
+        "apktohir78-a14.store",
+        "apktohir78-a15.store",
+        "apktohir78-a18.store",
+        "apktohir78-a19.store"
+      ],
+      "cluster_size": 6,
+      "shared_signals": [
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "asn": [
+          "13335"
+        ],
+        "asn_holders": [
+          "CLOUDFLARENET - Cloudflare, Inc."
+        ]
+      }
+    },
+    {
+      "cluster_id": 5,
+      "domains": [
+        "cincin3.sbs",
+        "dingin2.sbs",
+        "kumpul1.sbs",
+        "kumpul3.sbs",
+        "ngopi1.sbs",
+        "sendal1.sbs"
+      ],
+      "cluster_size": 6,
+      "shared_signals": [
+        "registrar",
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "Dynadot LLC"
+        ],
+        "asn": [
+          "16509"
+        ],
+        "asn_holders": [
+          "AMAZON-02 - Amazon.com, Inc."
+        ]
+      }
+    },
+    {
+      "cluster_id": 6,
+      "domains": [
+        "1001bet.top",
+        "1881bet.top",
+        "33rr.top",
+        "9111bet.top",
+        "9998bet.top"
+      ],
+      "cluster_size": 5,
+      "shared_signals": [
+        "registrar",
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "Gname.com Pte. Ltd."
+        ],
+        "asn": [
+          "13335"
+        ],
+        "asn_holders": [
+          "CLOUDFLARENET - Cloudflare, Inc."
+        ]
+      }
+    },
+    {
+      "cluster_id": 7,
+      "domains": [
+        "dealmaxlog1.store",
+        "dealmaxlog2.store",
+        "dealmaxlog3.store"
+      ],
+      "cluster_size": 3,
+      "shared_signals": [
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "asn": [
+          "13335"
+        ],
+        "asn_holders": [
+          "CLOUDFLARENET - Cloudflare, Inc."
+        ]
+      }
+    },
+    {
+      "cluster_id": 8,
+      "domains": [
+        "aarab2.sbs",
+        "aarab9.sbs"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "registrar",
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "registrar": [
+          "Namecheap"
+        ],
+        "asn": [
+          "13335"
+        ],
+        "asn_holders": [
+          "CLOUDFLARENET - Cloudflare, Inc."
+        ]
+      }
+    },
+    {
+      "cluster_id": 9,
+      "domains": [
+        "alexisgg-hoki3.top",
+        "alexisgg-hoki6.top"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "asn": [
+          "13335"
+        ],
+        "asn_holders": [
+          "CLOUDFLARENET - Cloudflare, Inc."
+        ]
+      }
+    },
+    {
+      "cluster_id": 10,
+      "domains": [
+        "flixindo10411.top",
+        "flixindo20813.top"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "asn": [
+          "13335"
+        ],
+        "asn_holders": [
+          "CLOUDFLARENET - Cloudflare, Inc."
+        ]
+      }
+    },
+    {
+      "cluster_id": 11,
+      "domains": [
+        "gameempire321.top",
+        "shopchallenge777.top"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "asn": [
+          "13335"
+        ],
+        "asn_holders": [
+          "CLOUDFLARENET - Cloudflare, Inc."
+        ]
+      }
+    },
+    {
+      "cluster_id": 12,
+      "domains": [
+        "keris34dnitcstope.top",
+        "killbrostk3.top"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "asn": [
+          "13335"
+        ],
+        "asn_holders": [
+          "CLOUDFLARENET - Cloudflare, Inc."
+        ]
+      }
+    },
+    {
+      "cluster_id": 14,
+      "domains": [
+        "starlink4d888.top",
+        "starlink4d999.top"
+      ],
+      "cluster_size": 2,
+      "shared_signals": [
+        "asn"
+      ],
+      "shared_signal_proof": {
+        "asn": [
+          "13335"
+        ],
+        "asn_holders": [
+          "CLOUDFLARENET - Cloudflare, Inc."
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,334 @@
+{
+    "name": "infor.pl",
+    "handle": null,
+    "registrationDate": "4/6/1998, 2:00:00 PM GMT+3",
+    "expirationDate": "4/5/2027, 3:00:00 PM GMT+3",
+    "lastChangedDate": "5/15/2026, 8:33:46 PM GMT+3",
+    "lastUpdateDate": "6/23/2026, 3:38:06 PM GMT+3",
+    "rawData": [
+        {
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "INFOR PL S.A."
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "PL"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "Burakowska 14",
+                            "Warszawa",
+                            "mazowieckie",
+                            "01-066",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "VOICE"
+                        },
+                        "uri",
+                        "tel:+48.225304315"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object truncated due to authorization",
+                    "description": [
+                        "The object does not contain all data due to lack of authorization."
+                    ]
+                }
+            ],
+            "objectClassName": "entity"
+        },
+        {
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "cyber_Folks S.A."
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "PL"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "ul. Wierzbięcice 1B",
+                            "Poznań",
+                            "",
+                            "61-569",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "VOICE"
+                        },
+                        "uri",
+                        "tel:+48.122963663"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "domeny@cyberfolks.pl"
+                    ],
+                    [
+                        "url",
+                        {},
+                        "uri",
+                        "https://cyberfolks.pl/"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrar"
+            ],
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object truncated due to authorization",
+                    "description": [
+                        "The object does not contain all data due to lack of authorization."
+                    ]
+                }
+            ],
+            "objectClassName": "entity"
+        },
+        {
+            "ldhName": "ns1.infor.pl",
+            "ipAddresses": [
+                {
+                    "v4": [
+                        "193.164.157.21"
+                    ]
+                }
+            ],
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object truncated due to authorization",
+                    "description": [
+                        "The object does not contain all data due to lack of authorization."
+                    ]
+                }
+            ],
+            "objectClassName": "nameserver"
+        },
+        {
+            "ldhName": "ns4.infor.pl",
+            "ipAddresses": [
+                {
+                    "v4": [
+                        "20.215.250.108"
+                    ]
+                }
+            ],
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object truncated due to authorization",
+                    "description": [
+                        "The object does not contain all data due to lack of authorization."
+                    ]
+                }
+            ],
+            "objectClassName": "nameserver"
+        },
+        {
+            "ldhName": "ns5.infor.pl",
+            "ipAddresses": [
+                {
+                    "v4": [
+                        "20.215.251.45"
+                    ]
+                }
+            ],
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object truncated due to authorization",
+                    "description": [
+                        "The object does not contain all data due to lack of authorization."
+                    ]
+                }
+            ],
+            "objectClassName": "nameserver"
+        },
+        {
+            "rdapConformance": [
+                "rdap_level_0",
+                "nask0"
+            ],
+            "notices": [
+                {
+                    "title": "Domain name life cycle",
+                    "description": [
+                        "For more information on domain name life cycle, please visit https://www.dns.pl/en/domain_name_life_cycle"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://www.dns.pl/en/domain_name_life_cycle",
+                            "rel": "related",
+                            "href": "https://www.dns.pl/en/domain_name_life_cycle",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "Delay in data display",
+                    "description": [
+                        "RDAP displays data with a delay not exceeding 15 minutes in relation to the .pl Registry system. For more information on RDAP in NASK, please visit: https://www.dns.pl/en/RDAP_in_NASK"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://www.dns.pl/en/RDAP_in_NASK",
+                            "rel": "related",
+                            "href": "https://www.dns.pl/en/RDAP_in_NASK",
+                            "type": "text/html"
+                        }
+                    ]
+                }
+            ],
+            "nameservers": [
+                {
+                    "ldhName": "ns1.infor.pl",
+                    "ipAddresses": [
+                        {
+                            "v4": [
+                                "193.164.157.21"
+                            ]
+                        }
+                    ],
+                    "remarks": [
+                        {
+                            "title": "REDACTED FOR PRIVACY",
+                            "type": "object truncated due to authorization",
+                            "description": [
+                                "The object does not contain all data due to lack of authorization."
+                            ]
+                        }
+                    ],
+                    "objectClassName": "nameserver"
+                },
+                {
+                    "ldhName": "ns4.infor.pl",
+                    "ipAddresses": [
+                        {
+                            "v4": [
+                                "20.215.250.108"
+                            ]
+                        }
+                    ],
+                    "remarks": [
+                        {
+                            "title": "REDACTED FOR PRIVACY",
+                            "type": "object truncated due to authorization",
+                            "description": [
+                                "The object does not contain all data due to lack of authorization."
+                            ]
+                        }
+                    ],
+                    "objectClassName": "nameserver"
+                },
+                {
+                    "ldhName": "ns5.infor.pl",
+                    "ipAddresses": [
+                        {
+                            "v4": [
+                                "20.215.251.45"
+                            ]
+                        }
+                    ],
+                    "remarks": [
+                        {
+                            "title": "REDACTED FOR PRIVACY",
+                            "type": "object truncated due to authorization",
+                            "description": [
+                                "The object does not contain all data due to lack of authorization."
+                            ]
+                        }
+                    ],
+                    "objectClassName": "nameserver"
+                }
+            ],
+            "secureDNS": {
+                "delegationSigned": false
+            },
+            "port43": "whois.dns.pl",
+            "ldhName": "infor.pl",
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object truncated due to authorization",
+                    "description": [
+                        "The object does not contain all data due to lack of authorization."
+                    ]
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.dns.pl/domain/infor.pl",
+                    "rel": "self",
+                    "href": "https://rdap.dns.pl/domain/infor.pl",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "objectClassName": "domain",
+            "nask0_state": "registered"
+        }
+    ],
+    "domain": "infor.pl\r"
+}

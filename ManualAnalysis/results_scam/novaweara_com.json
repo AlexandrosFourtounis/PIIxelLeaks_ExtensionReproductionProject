@@ -1,0 +1,365 @@
+{
+    "name": "NOVAWEARA.COM",
+    "handle": "3078183730_DOMAIN_COM-VRSN",
+    "registrationDate": "3/18/2026, 12:15:34 PM GMT+2",
+    "expirationDate": "3/18/2027, 12:15:34 PM GMT+2",
+    "lastChangedDate": null,
+    "lastUpdateDate": "6/10/2026, 1:21:12 PM GMT+3",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "roles": [
+                "abuse"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Abuse Contact"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+86.4009972996"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "ymn@juming.com"
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "3758",
+            "roles": [
+                "registrar"
+            ],
+            "publicIds": [
+                {
+                    "type": "IANA Registrar ID",
+                    "identifier": "3758"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Hefei Juming Network Technology Co., Ltd."
+                    ]
+                ]
+            ],
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "roles": [
+                        "abuse"
+                    ],
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Abuse Contact"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "voice"
+                                },
+                                "uri",
+                                "tel:+86.4009972996"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "ymn@juming.com"
+                            ]
+                        ]
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "1",
+            "roles": [
+                "registrant"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Redacted for Privacy"
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "https://rdap.jumi.com/extra/contact?type=registrant&domain=novaweara.com"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "CN"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ]
+                ]
+            ],
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object redacted due to authorization",
+                    "description": [
+                        "Some of the data in this object has been removed."
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "2",
+            "roles": [
+                "administrative"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Redacted for Privacy"
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "https://rdap.jumi.com/extra/contact?type=administrative&domain=novaweara.com"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "CN"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ]
+                ]
+            ],
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object redacted due to authorization",
+                    "description": [
+                        "Some of the data in this object has been removed."
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "3",
+            "roles": [
+                "technical"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Redacted for Privacy"
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "https://rdap.jumi.com/extra/contact?type=technical&domain=novaweara.com"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "CN"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ]
+                ]
+            ],
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object redacted due to authorization",
+                    "description": [
+                        "Some of the data in this object has been removed."
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "MONOCEROS.DNSPOD.NET"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "SEVENTEEN.DNSPOD.NET"
+        },
+        {
+            "objectClassName": "domain",
+            "ldhName": "NOVAWEARA.COM",
+            "handle": "3078183730_DOMAIN_COM-VRSN",
+            "links": [
+                {
+                    "value": "https://rdap.jumi.com/domain/novaweara.com",
+                    "rel": "self",
+                    "href": "https://rdap.jumi.com/domain/novaweara.com",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "MONOCEROS.DNSPOD.NET"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "SEVENTEEN.DNSPOD.NET"
+                }
+            ],
+            "secureDNS": {
+                "delegationSigned": false
+            },
+            "rdapConformance": [
+                "rdap_level_0",
+                "icann_rdap_technical_implementation_guide_0",
+                "icann_rdap_response_profile_0"
+            ],
+            "notices": [
+                {
+                    "title": "Terms of Use",
+                    "description": [
+                        "URL of the Terms of Use: www.juming.com"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://www.juming.com",
+                            "rel": "related",
+                            "href": "https://www.juming.com",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "Status Codes",
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://icann.org/epp",
+                            "rel": "related",
+                            "href": "https://icann.org/epp",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "RDDS Inaccuracy Complaint Form",
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://icann.org/wicf",
+                            "rel": "related",
+                            "href": "https://icann.org/wicf",
+                            "type": "text/html"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "domain": "novaweara.com\r"
+}

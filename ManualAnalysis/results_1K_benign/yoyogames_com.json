@@ -1,0 +1,353 @@
+{
+    "name": "yoyogames.com",
+    "handle": null,
+    "registrationDate": "3/1/2021, 2:00:00 AM GMT+2",
+    "expirationDate": "10/18/2026, 3:00:00 AM GMT+3",
+    "lastChangedDate": "10/23/2025, 5:03:45 PM GMT+3",
+    "lastUpdateDate": null,
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Whois Privacy Provider"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "NameWeb BV (whois privacy)"
+                    ],
+                    [
+                        "adr",
+                        {},
+                        "text",
+                        [
+                            "",
+                            "",
+                            "Zakstraat 44B",
+                            "Ranst",
+                            "",
+                            "2520",
+                            "BE"
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {},
+                        "text",
+                        "+32.33699772"
+                    ],
+                    [
+                        "fax",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "yoyogames.com@WhoisPrivacyProvider.com"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrant"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Whois Privacy Provider"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "NameWeb BV (whois privacy)"
+                    ],
+                    [
+                        "adr",
+                        {},
+                        "text",
+                        [
+                            "",
+                            "",
+                            "Zakstraat 44B",
+                            "Ranst",
+                            "",
+                            "2520",
+                            "BE"
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {},
+                        "text",
+                        "+32.33699772"
+                    ],
+                    [
+                        "fax",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "yoyogames.com@WhoisPrivacyProvider.com"
+                    ]
+                ]
+            ],
+            "roles": [
+                "admin"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Whois Privacy Provider"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "NameWeb BV (whois privacy)"
+                    ],
+                    [
+                        "adr",
+                        {},
+                        "text",
+                        [
+                            "",
+                            "",
+                            "Zakstraat 44B",
+                            "Ranst",
+                            "",
+                            "2520",
+                            "BE"
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {},
+                        "text",
+                        "+32.33699772"
+                    ],
+                    [
+                        "fax",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "yoyogames.com@WhoisPrivacyProvider.com"
+                    ]
+                ]
+            ],
+            "roles": [
+                "tech"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Whois Privacy Provider"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "NameWeb BV (whois privacy)"
+                    ],
+                    [
+                        "adr",
+                        {},
+                        "text",
+                        [
+                            "",
+                            "",
+                            "Zakstraat 44B",
+                            "Ranst",
+                            "",
+                            "2520",
+                            "BE"
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {},
+                        "text",
+                        "+32.33699772"
+                    ],
+                    [
+                        "fax",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "yoyogames.com@WhoisPrivacyProvider.com"
+                    ]
+                ]
+            ],
+            "roles": [
+                "billing"
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "port43": "whois.nameweb.biz",
+            "ipAdresses": {
+                "v6": {
+                    "0": ""
+                },
+                "v4": {
+                    "0": "173.245.59.233"
+                }
+            },
+            "lang": "en-US",
+            "ldhName": "skip.ns.cloudflare.com"
+        },
+        {
+            "objectClassName": "nameserver",
+            "port43": "whois.nameweb.biz",
+            "ipAdresses": {
+                "v6": {
+                    "0": ""
+                },
+                "v4": {
+                    "0": "173.245.58.70"
+                }
+            },
+            "lang": "en-US",
+            "ldhName": "arya.ns.cloudflare.com"
+        },
+        {
+            "rdapConformance": [
+                "rdap_level_0"
+            ],
+            "secureDNS": {
+                "dsData": [],
+                "lang": "en-US"
+            },
+            "unicodeName": "yoyogames.com",
+            "Handle": "133129523_domain_com-vrsn",
+            "objectClassName": "domain",
+            "port43": "whois.nameweb.biz",
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "port43": "whois.nameweb.biz",
+                    "ipAdresses": {
+                        "v6": {
+                            "0": ""
+                        },
+                        "v4": {
+                            "0": "173.245.59.233"
+                        }
+                    },
+                    "lang": "en-US",
+                    "ldhName": "skip.ns.cloudflare.com"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "port43": "whois.nameweb.biz",
+                    "ipAdresses": {
+                        "v6": {
+                            "0": ""
+                        },
+                        "v4": {
+                            "0": "173.245.58.70"
+                        }
+                    },
+                    "lang": "en-US",
+                    "ldhName": "arya.ns.cloudflare.com"
+                }
+            ],
+            "links": [],
+            "lang": "en-US",
+            "ldhName": "yoyogames.com"
+        }
+    ],
+    "domain": "yoyogames.com\r"
+}

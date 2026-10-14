@@ -1,0 +1,463 @@
+{
+    "name": "dimepkairos.com.br",
+    "handle": "dimepkairos.com.br",
+    "registrationDate": "3/14/2014, 2:27:30 PM GMT+2",
+    "expirationDate": "3/14/2027, 2:27:30 PM GMT+2",
+    "lastChangedDate": "3/15/2024, 11:20:33 AM GMT+2",
+    "lastUpdateDate": null,
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "handle": "MAJMA5",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Maria Josi Martins"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "ti@dimep.com.br"
+                    ],
+                    [
+                        "lang",
+                        {},
+                        "language-tag",
+                        "pt"
+                    ],
+                    [
+                        "adr",
+                        {},
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "BR"
+                        ]
+                    ]
+                ]
+            ],
+            "roles": [
+                "administrative"
+            ],
+            "events": [
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2007-02-07T11:04:56Z"
+                },
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2023-10-17T11:17:57Z"
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "61099008000141",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "DIMAS DE MELO PIMENTA SIST.DE PONTO E ACESSO LTDA"
+                    ],
+                    [
+                        "adr",
+                        {},
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "BR"
+                        ]
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "publicIds": [
+                {
+                    "type": "cnpj",
+                    "identifier": "61.099.008/0001-41"
+                }
+            ],
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "handle": "MAJMA5",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "kind",
+                                {},
+                                "text",
+                                "individual"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Maria Josi Martins"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "ti@dimep.com.br"
+                            ],
+                            [
+                                "lang",
+                                {},
+                                "language-tag",
+                                "pt"
+                            ],
+                            [
+                                "adr",
+                                {},
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "BR"
+                                ]
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "administrative"
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "2007-02-07T11:04:56Z"
+                        },
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2023-10-17T11:17:57Z"
+                        }
+                    ]
+                }
+            ],
+            "events": [
+                {
+                    "eventAction": "registration",
+                    "eventDate": "1997-12-24T12:00:00Z"
+                },
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2018-10-14T17:45:38Z"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.registro.br/entity/61099008000141",
+                    "rel": "self",
+                    "href": "https://rdap.registro.br/entity/61099008000141",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "legalRepresentative": "Valter Pillon"
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "MAJMA5",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Maria Josi Martins"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "ti@dimep.com.br"
+                    ],
+                    [
+                        "lang",
+                        {},
+                        "language-tag",
+                        "pt"
+                    ],
+                    [
+                        "adr",
+                        {},
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "BR"
+                        ]
+                    ]
+                ]
+            ],
+            "roles": [
+                "technical"
+            ],
+            "events": [
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2007-02-07T11:04:56Z"
+                },
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2023-10-17T11:17:57Z"
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns-cloud-c1.googledomains.com",
+            "events": [
+                {
+                    "eventAction": "delegation check",
+                    "eventDate": "2026-06-23T08:02:37Z",
+                    "status": [
+                        "ns aa"
+                    ]
+                },
+                {
+                    "eventAction": "last correct delegation check",
+                    "eventDate": "2026-06-23T08:02:37Z"
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns-cloud-c2.googledomains.com",
+            "events": [
+                {
+                    "eventAction": "delegation check",
+                    "eventDate": "2026-06-23T08:02:37Z",
+                    "status": [
+                        "ns aa"
+                    ]
+                },
+                {
+                    "eventAction": "last correct delegation check",
+                    "eventDate": "2026-06-23T08:02:37Z"
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns-cloud-c3.googledomains.com",
+            "events": [
+                {
+                    "eventAction": "delegation check",
+                    "eventDate": "2026-06-23T08:02:37Z",
+                    "status": [
+                        "ns aa"
+                    ]
+                },
+                {
+                    "eventAction": "last correct delegation check",
+                    "eventDate": "2026-06-23T08:02:37Z"
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns-cloud-c4.googledomains.com",
+            "events": [
+                {
+                    "eventAction": "delegation check",
+                    "eventDate": "2026-06-23T08:02:37Z",
+                    "status": [
+                        "ns aa"
+                    ]
+                },
+                {
+                    "eventAction": "last correct delegation check",
+                    "eventDate": "2026-06-23T08:02:37Z"
+                }
+            ]
+        },
+        {
+            "objectClassName": "domain",
+            "handle": "dimepkairos.com.br",
+            "ldhName": "dimepkairos.com.br",
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns-cloud-c1.googledomains.com",
+                    "events": [
+                        {
+                            "eventAction": "delegation check",
+                            "eventDate": "2026-06-23T08:02:37Z",
+                            "status": [
+                                "ns aa"
+                            ]
+                        },
+                        {
+                            "eventAction": "last correct delegation check",
+                            "eventDate": "2026-06-23T08:02:37Z"
+                        }
+                    ]
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns-cloud-c2.googledomains.com",
+                    "events": [
+                        {
+                            "eventAction": "delegation check",
+                            "eventDate": "2026-06-23T08:02:37Z",
+                            "status": [
+                                "ns aa"
+                            ]
+                        },
+                        {
+                            "eventAction": "last correct delegation check",
+                            "eventDate": "2026-06-23T08:02:37Z"
+                        }
+                    ]
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns-cloud-c3.googledomains.com",
+                    "events": [
+                        {
+                            "eventAction": "delegation check",
+                            "eventDate": "2026-06-23T08:02:37Z",
+                            "status": [
+                                "ns aa"
+                            ]
+                        },
+                        {
+                            "eventAction": "last correct delegation check",
+                            "eventDate": "2026-06-23T08:02:37Z"
+                        }
+                    ]
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns-cloud-c4.googledomains.com",
+                    "events": [
+                        {
+                            "eventAction": "delegation check",
+                            "eventDate": "2026-06-23T08:02:37Z",
+                            "status": [
+                                "ns aa"
+                            ]
+                        },
+                        {
+                            "eventAction": "last correct delegation check",
+                            "eventDate": "2026-06-23T08:02:37Z"
+                        }
+                    ]
+                }
+            ],
+            "secureDNS": {
+                "delegationSigned": false
+            },
+            "nicbr_arbitration": true,
+            "links": [
+                {
+                    "value": "https://rdap.registro.br/domain/dimepkairos.com.br",
+                    "rel": "self",
+                    "href": "https://rdap.registro.br/domain/dimepkairos.com.br",
+                    "type": "application/rdap+json"
+                },
+                {
+                    "value": "https://rdap.registro.br/domain/dimepkairos.com.br",
+                    "rel": "archives",
+                    "href": "https://rdap.registro.br/domain/dimepkairos.com.br?ticket=12683666",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "notices": [
+                {
+                    "title": "Use and Privacy Policy",
+                    "description": [
+                        "Copyright (c) Nic.br - Use of this data is governed by the Use and Privacy Policy. Distribution, commercialization, reproduction, and use for advertising or similar purposes are expressly prohibited.",
+                        "2026-06-23T12:28:01-03:00 - 139.91.90.27"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.registro.br/domain/dimepkairos.com.br",
+                            "rel": "alternate",
+                            "href": "https://registro.br/upp",
+                            "type": "text/html"
+                        }
+                    ]
+                }
+            ],
+            "rdapConformance": [
+                "rdap_level_0",
+                "nicbr_level_0"
+            ],
+            "port43": "whois.registro.br"
+        }
+    ],
+    "domain": "dimepkairos.com.br\r"
+}

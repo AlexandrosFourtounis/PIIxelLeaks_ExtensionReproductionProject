@@ -1,0 +1,587 @@
+{
+    "name": "revolutionsraceur.com",
+    "handle": "3078215969_DOMAIN_COM-VRSN",
+    "registrationDate": "3/18/2026, 4:38:05 PM GMT+2",
+    "expirationDate": "3/18/2027, 4:38:05 PM GMT+2",
+    "lastChangedDate": "3/18/2026, 5:00:02 PM GMT+2",
+    "lastUpdateDate": "6/16/2026, 11:40:59 AM GMT+3",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "roles": [
+                "abuse"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "voice"
+                            ]
+                        },
+                        "uri",
+                        "tel:+1.6505854708"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "abuse@dynadot.com"
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "472",
+            "roles": [
+                "registrar"
+            ],
+            "publicIds": [
+                {
+                    "type": "IANA Registrar ID",
+                    "identifier": "472"
+                }
+            ],
+            "links": [
+                {
+                    "rel": "about",
+                    "value": "https://rdap.dynadot.com/",
+                    "href": "https://dynadot.com/"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "DYNADOT LLC"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "US"
+                        },
+                        "text",
+                        [
+                            "",
+                            "PO Box 701",
+                            "",
+                            "San Mateo",
+                            "California",
+                            "94401",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "voice"
+                            ]
+                        },
+                        "uri",
+                        "tel:+1.6505854708"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "abuse@dynadot.com"
+                    ]
+                ]
+            ],
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "roles": [
+                        "abuse"
+                    ],
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                ""
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "voice"
+                                    ]
+                                },
+                                "uri",
+                                "tel:+1.6505854708"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "abuse@dynadot.com"
+                            ]
+                        ]
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "5a86bbf0ba08004bc3200287c19b674d-Dyna",
+            "roles": [
+                "registrant"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2026-03-18T13:08:39Z"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Dynadot Privacy Service"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "Super Privacy Service LTD c/o Dynadot"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "US"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "PO Box 701",
+                            "San Mateo",
+                            "California",
+                            "94401",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "voice"
+                            ]
+                        },
+                        "uri",
+                        "tel:+1.6505854708"
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "https://www.dynadot.com/domain/contact-request?domain=revolutionsraceur.com"
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "5a86bbf0ba08004bc3200287c19b674d-Dyna",
+            "roles": [
+                "administrative"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2026-03-18T13:08:39Z"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Dynadot Privacy Service"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "Super Privacy Service LTD c/o Dynadot"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "US"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "PO Box 701",
+                            "San Mateo",
+                            "California",
+                            "94401",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "voice"
+                            ]
+                        },
+                        "uri",
+                        "tel:+1.6505854708"
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "https://www.dynadot.com/domain/contact-request?domain=revolutionsraceur.com"
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "5a86bbf0ba08004bc3200287c19b674d-Dyna",
+            "roles": [
+                "technical"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2026-03-18T13:08:39Z"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Dynadot Privacy Service"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "Super Privacy Service LTD c/o Dynadot"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "US"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "PO Box 701",
+                            "San Mateo",
+                            "California",
+                            "94401",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "voice"
+                            ]
+                        },
+                        "uri",
+                        "tel:+1.6505854708"
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "https://www.dynadot.com/domain/contact-request?domain=revolutionsraceur.com"
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "5a86bbf0ba08004bc3200287c19b674d-Dyna",
+            "roles": [
+                "billing"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2026-03-18T13:08:39Z"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Dynadot Privacy Service"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "Super Privacy Service LTD c/o Dynadot"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "US"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "PO Box 701",
+                            "San Mateo",
+                            "California",
+                            "94401",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "voice"
+                            ]
+                        },
+                        "uri",
+                        "tel:+1.6505854708"
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "https://www.dynadot.com/domain/contact-request?domain=revolutionsraceur.com"
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "emma.ns.cloudflare.com"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "jacob.ns.cloudflare.com"
+        },
+        {
+            "rdapConformance": [
+                "rdap_level_0",
+                "icann_rdap_response_profile_1",
+                "icann_rdap_technical_implementation_guide_1",
+                "redacted"
+            ],
+            "notices": [
+                {
+                    "title": "Status Codes",
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ],
+                    "links": [
+                        {
+                            "rel": "glossary",
+                            "value": "https://rdap.dynadot.com/domain/REVOLUTIONSRACEUR.COM",
+                            "href": "https://icann.org/epp",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "RDDS Inaccuracy Complaint Form",
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ],
+                    "links": [
+                        {
+                            "rel": "help",
+                            "value": "https://rdap.dynadot.com/domain/REVOLUTIONSRACEUR.COM",
+                            "href": "https://icann.org/wicf",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "Terms of Service",
+                    "description": [
+                        "URL of the Dynadot terms of service: https://www.dynadot.com/registration_agreement.html"
+                    ],
+                    "links": [
+                        {
+                            "rel": "terms-of-service",
+                            "value": "https://rdap.dynadot.com/domain/REVOLUTIONSRACEUR.COM",
+                            "href": "https://www.dynadot.com/registration_agreement.html",
+                            "type": "text/html"
+                        }
+                    ]
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.dynadot.com/domain/REVOLUTIONSRACEUR.COM",
+                    "rel": "self",
+                    "href": "https://rdap.dynadot.com/domain/REVOLUTIONSRACEUR.COM",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "publicIds": [
+                {
+                    "type": "IANA Registrar ID",
+                    "identifier": "472"
+                }
+            ],
+            "objectClassName": "domain",
+            "handle": "3078215969_DOMAIN_COM-VRSN",
+            "ldhName": "revolutionsraceur.com",
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "emma.ns.cloudflare.com"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "jacob.ns.cloudflare.com"
+                }
+            ],
+            "secureDNS": {
+                "delegationSigned": false
+            },
+            "redacted": [
+                {
+                    "name": {
+                        "description": "Registrant Email"
+                    },
+                    "method": "replacementValue",
+                    "prePath": "$.entities[?(@.roles[*]=='registrant')].vcardArray[1][?(@[0]=='email')][3]",
+                    "replacementPath": "$.entities[?(@.roles[*]=='registrant')].vcardArray[1][?(@[0]=='contact-uri')][3]"
+                },
+                {
+                    "name": {
+                        "description": "Admin Email"
+                    },
+                    "method": "replacementValue",
+                    "prePath": "$.entities[?(@.roles[*]=='administrative')].vcardArray[1][?(@[0]=='email')][3]",
+                    "replacementPath": "$.entities[?(@.roles[*]=='administrative')].vcardArray[1][?(@[0]=='contact-uri')][3]"
+                },
+                {
+                    "name": {
+                        "description": "Tech Email"
+                    },
+                    "method": "replacementValue",
+                    "prePath": "$.entities[?(@.roles[*]=='technical')].vcardArray[1][?(@[0]=='email')][3]",
+                    "replacementPath": "$.entities[?(@.roles[*]=='technical')].vcardArray[1][?(@[0]=='contact-uri')][3]"
+                },
+                {
+                    "name": {
+                        "description": "Billing Email"
+                    },
+                    "method": "replacementValue",
+                    "prePath": "$.entities[?(@.roles[*]=='billing')].vcardArray[1][?(@[0]=='email')][3]",
+                    "replacementPath": "$.entities[?(@.roles[*]=='billing')].vcardArray[1][?(@[0]=='contact-uri')][3]"
+                }
+            ],
+            "port43": "whois.dynadot.com"
+        }
+    ],
+    "domain": "revolutionsraceur.com\r"
+}

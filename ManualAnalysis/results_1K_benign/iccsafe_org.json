@@ -1,0 +1,455 @@
+{
+    "name": "iccsafe.org",
+    "handle": "66e16ec3cc6d49ccab97740022e70fd4-LROR",
+    "registrationDate": "8/29/2002, 8:41:02 AM GMT+3",
+    "expirationDate": "8/29/2026, 8:41:16 AM GMT+3",
+    "lastChangedDate": "5/5/2026, 9:55:46 PM GMT+3",
+    "lastUpdateDate": "6/23/2026, 3:54:21 PM GMT+3",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "roles": [
+                "abuse"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+1.2024422253"
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": ""
+                        },
+                        "text",
+                        "trustandsafety@support.aws.com"
+                    ]
+                ]
+            ]
+        },
+        {
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "roles": [
+                        "abuse"
+                    ],
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                ""
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "voice"
+                                },
+                                "uri",
+                                "tel:+1.2024422253"
+                            ],
+                            [
+                                "email",
+                                {
+                                    "type": ""
+                                },
+                                "text",
+                                "trustandsafety@support.aws.com"
+                            ]
+                        ]
+                    ]
+                }
+            ],
+            "handle": "468",
+            "lang": "en-US",
+            "links": [
+                {
+                    "href": "",
+                    "rel": "about",
+                    "type": "application/rdap+json",
+                    "value": "https://rdap.registrar.amazon.com/rdap/"
+                }
+            ],
+            "objectClassName": "entity",
+            "publicIds": [
+                {
+                    "identifier": "468",
+                    "type": "IANA Registrar ID"
+                }
+            ],
+            "roles": [
+                "registrar"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Amazon Registrar, Inc."
+                    ]
+                ]
+            ]
+        },
+        {
+            "lang": "en-US",
+            "objectClassName": "entity",
+            "remarks": [
+                {
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ],
+                    "type": "object redacted due to authorization"
+                }
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "On behalf of iccsafe.org OWNER"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "c/o whoisproxy.com"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "US",
+                            "type": ""
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "604 Cameron Street",
+                            "Alexandria",
+                            "VA",
+                            "22314",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+64.48319528"
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": ""
+                        },
+                        "text",
+                        "55cc808343fe31bde1accdcdf51a9978f5ce215de2e3c27825059c936f1d0429@iccsafe.org.whoisproxy.org"
+                    ]
+                ]
+            ]
+        },
+        {
+            "lang": "en-US",
+            "objectClassName": "entity",
+            "remarks": [
+                {
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ],
+                    "type": "object redacted due to authorization"
+                }
+            ],
+            "roles": [
+                "technical"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "On behalf of iccsafe.org TECH"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "c/o whoisproxy.com"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "US",
+                            "type": ""
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "604 Cameron Street",
+                            "Alexandria",
+                            "VA",
+                            "22314",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+64.48319528"
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": ""
+                        },
+                        "text",
+                        "55cc808343fe31bde1accdcdf51a997832893c5231e6850c0b0c7c6e9cf354a6@iccsafe.org.whoisproxy.org"
+                    ]
+                ]
+            ]
+        },
+        {
+            "ipAddresses": {
+                "v4": [
+                    "205.251.197.208"
+                ]
+            },
+            "lang": "en-US",
+            "ldhName": "ns-1488.awsdns-58.org",
+            "objectClassName": "nameserver",
+            "status": [
+                "active"
+            ],
+            "unicodeName": "ns-1488.awsdns-58.org"
+        },
+        {
+            "ipAddresses": {
+                "v4": [
+                    "205.251.198.35"
+                ]
+            },
+            "lang": "en-US",
+            "ldhName": "ns-1571.awsdns-04.co.uk",
+            "objectClassName": "nameserver",
+            "status": [
+                "active"
+            ],
+            "unicodeName": "ns-1571.awsdns-04.co.uk"
+        },
+        {
+            "lang": "en-US",
+            "ldhName": "ns-454.awsdns-56.com",
+            "objectClassName": "nameserver",
+            "status": [
+                "active"
+            ],
+            "unicodeName": "ns-454.awsdns-56.com"
+        },
+        {
+            "lang": "en-US",
+            "ldhName": "ns-692.awsdns-22.net",
+            "objectClassName": "nameserver",
+            "status": [
+                "active"
+            ],
+            "unicodeName": "ns-692.awsdns-22.net"
+        },
+        {
+            "handle": "66e16ec3cc6d49ccab97740022e70fd4-LROR",
+            "ldhName": "iccsafe.org",
+            "nameservers": [
+                {
+                    "ipAddresses": {
+                        "v4": [
+                            "205.251.197.208"
+                        ]
+                    },
+                    "lang": "en-US",
+                    "ldhName": "ns-1488.awsdns-58.org",
+                    "objectClassName": "nameserver",
+                    "status": [
+                        "active"
+                    ],
+                    "unicodeName": "ns-1488.awsdns-58.org"
+                },
+                {
+                    "ipAddresses": {
+                        "v4": [
+                            "205.251.198.35"
+                        ]
+                    },
+                    "lang": "en-US",
+                    "ldhName": "ns-1571.awsdns-04.co.uk",
+                    "objectClassName": "nameserver",
+                    "status": [
+                        "active"
+                    ],
+                    "unicodeName": "ns-1571.awsdns-04.co.uk"
+                },
+                {
+                    "lang": "en-US",
+                    "ldhName": "ns-454.awsdns-56.com",
+                    "objectClassName": "nameserver",
+                    "status": [
+                        "active"
+                    ],
+                    "unicodeName": "ns-454.awsdns-56.com"
+                },
+                {
+                    "lang": "en-US",
+                    "ldhName": "ns-692.awsdns-22.net",
+                    "objectClassName": "nameserver",
+                    "status": [
+                        "active"
+                    ],
+                    "unicodeName": "ns-692.awsdns-22.net"
+                }
+            ],
+            "notices": [
+                {
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ],
+                    "links": [
+                        {
+                            "href": "https://icann.org/epp",
+                            "rel": "glossary",
+                            "title": "More information on domain status codes",
+                            "type": "application/rdap+json",
+                            "value": "https://rdap.registrar.amazon.com/rdap?domain=iccsafe.org"
+                        }
+                    ],
+                    "title": "Status Codes"
+                },
+                {
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ],
+                    "links": [
+                        {
+                            "href": "https://icann.org/wicf",
+                            "rel": "help",
+                            "type": "application/rdap+json",
+                            "value": "https://rdap.registrar.amazon.com/rdap?domain=iccsafe.org"
+                        }
+                    ],
+                    "title": "RDDS Inaccuracy Complaint Form"
+                },
+                {
+                    "description": [
+                        "The data in the RDAP database of Amazon Registrar, Inc. is provided by",
+                        "Amazon Registrar, Inc. for information purposes, and to assist persons in",
+                        "obtaining information about or related to domain name registration",
+                        "records. Amazon Registrar, Inc. does not guarantee its accuracy.",
+                        "By submitting a RDAP query, you agree that you will use this data",
+                        "only for lawful purposes and that, under no circumstances, you will",
+                        "use this data to",
+                        "1) allow, enable, or otherwise support the transmission of mass",
+                        "   unsolicited, commercial advertising or solicitations via E-mail",
+                        "   (spam); or",
+                        "2) enable high volume, automated, electronic processes that apply",
+                        "   to Amazon Registrar, Inc. or its systems.",
+                        "Amazon Registrar, Inc. reserves the right to modify these terms.",
+                        "By submitting this query, you agree to abide by this policy."
+                    ],
+                    "links": [
+                        {
+                            "href": "https://registrar.amazon.com",
+                            "rel": "terms-of-service",
+                            "title": "Terms & Conditions",
+                            "value": "https://rdap.registrar.amazon.com/rdap?domain=iccsafe.org"
+                        }
+                    ],
+                    "title": "Terms of Use"
+                }
+            ],
+            "objectClassName": "domain",
+            "rdapConformance": [
+                "rdap_level_0",
+                "icann_rdap_response_profile_1",
+                "icann_rdap_technical_implementation_guide_1",
+                "redacted"
+            ],
+            "redacted": [
+                {
+                    "method": "removal",
+                    "name": {
+                        "type": "Registry Registrant ID"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].handle"
+                },
+                {
+                    "method": "removal",
+                    "name": {
+                        "type": "Registry Tech ID"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='tech')].handle"
+                }
+            ],
+            "secureDNS": {
+                "delegationSigned": false
+            },
+            "unicodeName": "iccsafe.org"
+        }
+    ],
+    "domain": "iccsafe.org\r"
+}

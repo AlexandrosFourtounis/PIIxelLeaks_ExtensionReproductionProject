@@ -1,0 +1,318 @@
+{
+    "name": "NAMEBRIGHT.COM",
+    "handle": "149835961_DOMAIN_COM-VRSN",
+    "registrationDate": "4/8/2005, 2:54:15 AM GMT+3",
+    "expirationDate": "4/8/2032, 2:54:15 AM GMT+3",
+    "lastChangedDate": "2/1/2020, 9:28:49 PM GMT+2",
+    "lastUpdateDate": "6/23/2026, 5:34:34 PM GMT+3",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "roles": [
+                "abuse"
+            ],
+            "handle": "NB-ABUSE",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "TurnCommerce, Inc. DBA NameBright.com"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "abuse@NameBright.com"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "VOICE"
+                        },
+                        "uri",
+                        "tel:+1.7204960020"
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "roles": [
+                "registrar"
+            ],
+            "handle": "1441",
+            "lang": "en-US",
+            "publicIds": [
+                {
+                    "identifier": "1441",
+                    "type": "IANA Registrar ID"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "TurnCommerce, Inc. DBA NameBright.com"
+                    ]
+                ]
+            ],
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "roles": [
+                        "abuse"
+                    ],
+                    "handle": "NB-ABUSE",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "TurnCommerce, Inc. DBA NameBright.com"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "abuse@NameBright.com"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "VOICE"
+                                },
+                                "uri",
+                                "tel:+1.7204960020"
+                            ]
+                        ]
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "roles": [
+                "administrative",
+                "registrant",
+                "technical"
+            ],
+            "handle": "TC-197127",
+            "lang": "en-US",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Domain Admin"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "support@namebright.com"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "NameBright.com"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "pref": "1"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "2635 Walnut Street",
+                            "Denver",
+                            "CO",
+                            "80205",
+                            "US"
+                        ]
+                    ],
+                    [
+                        "n",
+                        {},
+                        "text",
+                        [
+                            "Admin",
+                            "Domain",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "VOICE"
+                        },
+                        "uri",
+                        "tel:+1.7204960020"
+                    ]
+                ]
+            ],
+            "events": [
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2005-04-07T23:54:15Z"
+                },
+                {
+                    "eventAction": "last update of RDAP database",
+                    "eventDate": "2026-06-23T14:34:34.7330657Z"
+                },
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2020-02-01T19:28:49Z"
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "chuck.ns.cloudflare.com"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "jasmine.ns.cloudflare.com"
+        },
+        {
+            "rdapConformance": [
+                "rdap_level_0",
+                "icann_rdap_response_profile_1",
+                "icann_rdap_technical_implementation_guide_1"
+            ],
+            "handle": "149835961_DOMAIN_COM-VRSN",
+            "ldhName": "NAMEBRIGHT.COM",
+            "lang": "en",
+            "objectClassName": "domain",
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "https://rdap.namebright.com/rdap/domain/NameBright.com",
+                    "type": "application/rdap+json",
+                    "value": "https://rdap.namebright.com/rdap/domain/NameBright.com"
+                }
+            ],
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "chuck.ns.cloudflare.com"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "jasmine.ns.cloudflare.com"
+                }
+            ],
+            "secureDNS": {
+                "delegationSigned": false,
+                "zoneSigned": false,
+                "dsData": []
+            },
+            "notices": [
+                {
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ],
+                    "links": [
+                        {
+                            "rel": "glossary",
+                            "href": "https://icann.org/epp",
+                            "type": "text/html",
+                            "value": "https://icann.org/epp"
+                        }
+                    ],
+                    "title": "Status Codes"
+                },
+                {
+                    "description": [
+                        "NAMEBRIGHT.COM RDAP TERMS",
+                        "The Registration Data Access Protocol (RDAP) is a pilot program implemented by ICANN. For additional information please refer to https://www.icann.org/rdap",
+                        "Queries made to NameBright via RDAP must expressly comply with these terms and are done with the acknowledgement that any information will be used in accordance with NameBright's Privacy Policy, located at https://www.namebright.com/Privacy",
+                        "All information is provided 'as is'. NameBright makes no guarantee to the accuracy of the RDAP data provided in any way, shape or form, and these terms in their entirety MUST be included in and accompany any subsequent use or storage of this response data or its representation.",
+                        "Requestors are not allowed to harass or solicit the registrant or misuse the data that comes from RDAP. This system is solely intended for individual interaction on query-based access. This RDAP service is being provided on an experimental basis only and should not be relied upon for truth or accuracy nor should it be used for any other purpose. In querying this database and data (through use of RDAP) you agree to such stipulations.",
+                        "Under no circumstances will any person or program that queries this RDAP information from NameBright allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations (in any form) to or from any records or fields that are retrieved from this system. Any attempt to do so violates the terms of use of this system is unsupported, and might be in violation of laws.",
+                        "Do not, under any circumstance, access this RDAP Domain Database using any high volume, automated, electronic processes that send queries or data to the systems of NameBright.com or any ICANN-accredited registrar.",
+                        "The use of the information contained in the RDAP Domain Database is intended for and will only be used for lawful purposes. Requesting parties will be solely responsible for any and all consequences should they do otherwise, and any abuse of this RDAP system will be dealt with appropriately and to the maximum extent of the law.",
+                        "Requesters are not allowed to repackage, collate, compile, disseminate, or otherwise use the data which is provided to you from RDAP in its entirety, or in any substantial portion, without prior written permission.",
+                        "Those querying RDAP from NameBright may not store results in memory, databases, on a hard disk or flash drive, nor re-transmit, sell, package, license or otherwise transfer such data in bulk to any other individual, organization or business entity.",
+                        "NameBright retains certain details about queries made to the RDAP database for the purposes of detecting and preventing high volume, automated queries and/or potential misuse of NameBright system(s). Any detection of misuse will be programmatically shut down.",
+                        "NameBright reserves the right to restrict or deny access to the RDAP data if it is suspected that there is any failure to comply with any of these terms. Any such termination will occur without warning or notification, and NameBright reserves the exclusive right and authority to terminate such use at any time for any reason.",
+                        "NameBright reserves the right to modify or discontinue participation in any voluntary aspects of the RDAP program and suspend or terminate related access to the RDAP protocol at any time and for any reason at NameBright's sole discretion.",
+                        "In using RDAP through NameBright and/or over the Internet or via any set of connected computers, requestors expressly agree to indemnify and hold harmless NameBright, its officers, directors, employees or any related business entity.",
+                        "NameBright reserves the right to modify this agreement without notice at any time.",
+                        "---",
+                        "Last Revised: February 11, 2025",
+                        "Copyright 2008-2026 NameBright.com. All Rights Reserved."
+                    ],
+                    "links": [
+                        {
+                            "rel": "terms-of-service",
+                            "href": "https://www.namebright.com/rdap-terms",
+                            "type": "text/html",
+                            "value": "https://www.namebright.com/rdap-terms"
+                        }
+                    ],
+                    "title": "RDAP Terms of Service"
+                },
+                {
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ],
+                    "links": [
+                        {
+                            "rel": "help",
+                            "href": "https://icann.org/wicf",
+                            "type": "text/html",
+                            "value": "https://icann.org/wicf"
+                        }
+                    ],
+                    "title": "RDDS Inaccuracy Complaint Form"
+                },
+                {
+                    "description": [
+                        "This response conforms to the RDAP Operational Profile for gTLD Registries and Registrars version 1.0"
+                    ]
+                }
+            ],
+            "port43": "whois.namebright.com"
+        }
+    ],
+    "domain": "namebright.com\r"
+}

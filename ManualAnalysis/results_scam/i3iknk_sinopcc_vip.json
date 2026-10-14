@@ -1,0 +1,75 @@
+{
+    "name": null,
+    "handle": null,
+    "registrationDate": null,
+    "expirationDate": null,
+    "lastChangedDate": null,
+    "lastUpdateDate": null,
+    "rawData": [
+        {
+            "rdapConformance": [
+                "rdap_level_0",
+                "icann_rdap_response_profile_1",
+                "icann_rdap_technical_implementation_guide_1"
+            ],
+            "notices": [
+                {
+                    "title": "RDAP Help",
+                    "description": [
+                        "domain/XXXX",
+                        "nameserver/XXXX",
+                        "entity/XXXX",
+                        "domains?name=XXXX",
+                        "domains?nsLdhName=XXXX",
+                        "domains?nsIp=XXXX",
+                        "nameservers?name=XXXX",
+                        "nameservers?ip=XXXX",
+                        "entities?fn=XXXX",
+                        "entities?handle=XXXX",
+                        "help/XXXX"
+                    ],
+                    "links": [
+                        {
+                            "rel": "alternate",
+                            "value": "https://rdap.nic.vip/domain/i3iknk.sinopcc.vip?jscard=1",
+                            "href": "https://www.registry.godaddy/rdap",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "RDAP Terms of Service",
+                    "description": [
+                        "The RDAP service (the Service) offered by Registry Services LLC, or our designated representatives (GoDaddy Registry), is provided for informational purposes only and is designed to assist a user (you) to look up certain information related to the registration records of existing domain names.",
+                        "The information provided by the Service is ‘as is’ and we make no guarantee of its accuracy. Registry Services LLC cannot, under any circumstances, be held liable in such instances where the stored information would prove to be wrong, incomplete, or not accurate in any sense.",
+                        "By submitting a query, you agree that you will not use this data",
+                        "(i)            to allow, enable or otherwise support in any way the transmission of unsolicited, commercial advertising or other solicitations whether via direct mail, email, telephone or otherwise;",
+                        "(ii)           to enable high volume, automated, electronic processes that apply to the Service or associated systems;",
+                        "(iii)          for targeted advertising in any possible way;",
+                        "(iv)         to cause nuisance in any possible way to individuals by sending (whether by automated, electronic processes capable of enabling high volumes or other possible means) messages to them;",
+                        "(v)          in a way that is inconsistent with any applicable laws rule, regulation or statute or any policy issued by Registry Services LLC; and/or",
+                        "(vi)         in contravention of any applicable data and privacy protection acts.",
+                        "Without prejudice to the above, the copying, compilation, repackaging, dissemination or other use of the information provided by the Service is explicitly forbidden without prior and explicit permission by Registry Services LLC.",
+                        "By your use of the Service you agree to abide by these Terms of Service and accept that Registry Services LLC can take measures to limit the use of the Service in order to protect the privacy of registrants or the integrity of the Service. Registry Services LLC may restrict, suspend or terminate your access to the Service at any time. Registry Services LLC reserve the right to make changes to the Service and these Terms of Service at any time without prior notice to you. It is your responsibility to review these Terms of Service each time you access or use the Service to keep apprised of any changes. If you do not agree to the changes implemented by Registry Services LLC, your sole and exclusive remedy is to terminate your use of the Service.",
+                        "By executing a query, in any manner whatsoever, you agree to abide by these Terms of Service."
+                    ],
+                    "links": [
+                        {
+                            "rel": "terms-of-service",
+                            "value": "https://rdap.nic.vip/domain/i3iknk.sinopcc.vip?jscard=1",
+                            "href": "https://www.registry.godaddy/rdap",
+                            "type": "text/html"
+                        }
+                    ]
+                }
+            ],
+            "lang": "en",
+            "errorCode": 404,
+            "title": "Not found",
+            "description": [
+                "No data found"
+            ]
+        }
+    ],
+    "domain": "i3iknk.sinopcc.vip\r"
+}

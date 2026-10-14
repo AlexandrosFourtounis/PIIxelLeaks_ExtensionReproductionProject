@@ -1,0 +1,455 @@
+{
+    "name": "frontify.com",
+    "handle": "1636043336_DOMAIN_COM-VRSN",
+    "registrationDate": "1/20/2011, 8:26:23 PM GMT+2",
+    "expirationDate": "1/20/2027, 8:26:23 PM GMT+2",
+    "lastChangedDate": "5/15/2026, 3:12:31 AM GMT+3",
+    "lastUpdateDate": "6/23/2026, 4:34:24 PM GMT+3",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "roles": [
+                "abuse"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+1.2024422253"
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": ""
+                        },
+                        "text",
+                        "trustandsafety@support.aws.com"
+                    ]
+                ]
+            ]
+        },
+        {
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "roles": [
+                        "abuse"
+                    ],
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                ""
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "voice"
+                                },
+                                "uri",
+                                "tel:+1.2024422253"
+                            ],
+                            [
+                                "email",
+                                {
+                                    "type": ""
+                                },
+                                "text",
+                                "trustandsafety@support.aws.com"
+                            ]
+                        ]
+                    ]
+                }
+            ],
+            "handle": "468",
+            "lang": "en-US",
+            "links": [
+                {
+                    "href": "",
+                    "rel": "about",
+                    "type": "application/rdap+json",
+                    "value": "https://rdap.registrar.amazon.com/rdap/"
+                }
+            ],
+            "objectClassName": "entity",
+            "publicIds": [
+                {
+                    "identifier": "468",
+                    "type": "IANA Registrar ID"
+                }
+            ],
+            "roles": [
+                "registrar"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Amazon Registrar, Inc."
+                    ]
+                ]
+            ]
+        },
+        {
+            "lang": "en-US",
+            "objectClassName": "entity",
+            "remarks": [
+                {
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ],
+                    "type": "object redacted due to authorization"
+                }
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "On behalf of frontify.com OWNER"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "c/o whoisproxy.com"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "US",
+                            "type": ""
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "604 Cameron Street",
+                            "Alexandria",
+                            "VA",
+                            "22314",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+64.48319528"
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": ""
+                        },
+                        "text",
+                        "56a72363dd6c5f49dcb5e49f353461794d009387247cbf91bc043a1a7bf6ae17@frontify.com.whoisproxy.org"
+                    ]
+                ]
+            ]
+        },
+        {
+            "lang": "en-US",
+            "objectClassName": "entity",
+            "remarks": [
+                {
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ],
+                    "type": "object redacted due to authorization"
+                }
+            ],
+            "roles": [
+                "technical"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "On behalf of frontify.com TECH"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "c/o whoisproxy.com"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "US",
+                            "type": ""
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "604 Cameron Street",
+                            "Alexandria",
+                            "VA",
+                            "22314",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+64.48319528"
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": ""
+                        },
+                        "text",
+                        "56a72363dd6c5f49dcb5e49f353461796b4875ad526656d4fcb9201c07195bb0@frontify.com.whoisproxy.org"
+                    ]
+                ]
+            ]
+        },
+        {
+            "ipAddresses": {
+                "v4": [
+                    "205.251.197.42"
+                ]
+            },
+            "lang": "en-US",
+            "ldhName": "ns-1322.awsdns-37.org",
+            "objectClassName": "nameserver",
+            "status": [
+                "active"
+            ],
+            "unicodeName": "ns-1322.awsdns-37.org"
+        },
+        {
+            "ipAddresses": {
+                "v4": [
+                    "205.251.198.55"
+                ]
+            },
+            "lang": "en-US",
+            "ldhName": "ns-1591.awsdns-06.co.uk",
+            "objectClassName": "nameserver",
+            "status": [
+                "active"
+            ],
+            "unicodeName": "ns-1591.awsdns-06.co.uk"
+        },
+        {
+            "lang": "en-US",
+            "ldhName": "ns-446.awsdns-55.com",
+            "objectClassName": "nameserver",
+            "status": [
+                "active"
+            ],
+            "unicodeName": "ns-446.awsdns-55.com"
+        },
+        {
+            "lang": "en-US",
+            "ldhName": "ns-748.awsdns-29.net",
+            "objectClassName": "nameserver",
+            "status": [
+                "active"
+            ],
+            "unicodeName": "ns-748.awsdns-29.net"
+        },
+        {
+            "handle": "1636043336_DOMAIN_COM-VRSN",
+            "ldhName": "frontify.com",
+            "nameservers": [
+                {
+                    "ipAddresses": {
+                        "v4": [
+                            "205.251.197.42"
+                        ]
+                    },
+                    "lang": "en-US",
+                    "ldhName": "ns-1322.awsdns-37.org",
+                    "objectClassName": "nameserver",
+                    "status": [
+                        "active"
+                    ],
+                    "unicodeName": "ns-1322.awsdns-37.org"
+                },
+                {
+                    "ipAddresses": {
+                        "v4": [
+                            "205.251.198.55"
+                        ]
+                    },
+                    "lang": "en-US",
+                    "ldhName": "ns-1591.awsdns-06.co.uk",
+                    "objectClassName": "nameserver",
+                    "status": [
+                        "active"
+                    ],
+                    "unicodeName": "ns-1591.awsdns-06.co.uk"
+                },
+                {
+                    "lang": "en-US",
+                    "ldhName": "ns-446.awsdns-55.com",
+                    "objectClassName": "nameserver",
+                    "status": [
+                        "active"
+                    ],
+                    "unicodeName": "ns-446.awsdns-55.com"
+                },
+                {
+                    "lang": "en-US",
+                    "ldhName": "ns-748.awsdns-29.net",
+                    "objectClassName": "nameserver",
+                    "status": [
+                        "active"
+                    ],
+                    "unicodeName": "ns-748.awsdns-29.net"
+                }
+            ],
+            "notices": [
+                {
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ],
+                    "links": [
+                        {
+                            "href": "https://icann.org/epp",
+                            "rel": "glossary",
+                            "title": "More information on domain status codes",
+                            "type": "application/rdap+json",
+                            "value": "https://rdap.registrar.amazon.com/rdap?domain=frontify.com"
+                        }
+                    ],
+                    "title": "Status Codes"
+                },
+                {
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ],
+                    "links": [
+                        {
+                            "href": "https://icann.org/wicf",
+                            "rel": "help",
+                            "type": "application/rdap+json",
+                            "value": "https://rdap.registrar.amazon.com/rdap?domain=frontify.com"
+                        }
+                    ],
+                    "title": "RDDS Inaccuracy Complaint Form"
+                },
+                {
+                    "description": [
+                        "The data in the RDAP database of Amazon Registrar, Inc. is provided by",
+                        "Amazon Registrar, Inc. for information purposes, and to assist persons in",
+                        "obtaining information about or related to domain name registration",
+                        "records. Amazon Registrar, Inc. does not guarantee its accuracy.",
+                        "By submitting a RDAP query, you agree that you will use this data",
+                        "only for lawful purposes and that, under no circumstances, you will",
+                        "use this data to",
+                        "1) allow, enable, or otherwise support the transmission of mass",
+                        "   unsolicited, commercial advertising or solicitations via E-mail",
+                        "   (spam); or",
+                        "2) enable high volume, automated, electronic processes that apply",
+                        "   to Amazon Registrar, Inc. or its systems.",
+                        "Amazon Registrar, Inc. reserves the right to modify these terms.",
+                        "By submitting this query, you agree to abide by this policy."
+                    ],
+                    "links": [
+                        {
+                            "href": "https://registrar.amazon.com",
+                            "rel": "terms-of-service",
+                            "title": "Terms & Conditions",
+                            "value": "https://rdap.registrar.amazon.com/rdap?domain=frontify.com"
+                        }
+                    ],
+                    "title": "Terms of Use"
+                }
+            ],
+            "objectClassName": "domain",
+            "rdapConformance": [
+                "rdap_level_0",
+                "icann_rdap_response_profile_1",
+                "icann_rdap_technical_implementation_guide_1",
+                "redacted"
+            ],
+            "redacted": [
+                {
+                    "method": "removal",
+                    "name": {
+                        "type": "Registry Registrant ID"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].handle"
+                },
+                {
+                    "method": "removal",
+                    "name": {
+                        "type": "Registry Tech ID"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='tech')].handle"
+                }
+            ],
+            "secureDNS": {
+                "delegationSigned": false
+            },
+            "unicodeName": "frontify.com"
+        }
+    ],
+    "domain": "frontify.com\r"
+}

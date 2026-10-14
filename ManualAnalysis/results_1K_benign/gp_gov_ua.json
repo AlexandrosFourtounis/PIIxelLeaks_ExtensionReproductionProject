@@ -1,0 +1,19 @@
+{
+    "name": null,
+    "handle": null,
+    "registrationDate": null,
+    "expirationDate": null,
+    "lastChangedDate": null,
+    "lastUpdateDate": null,
+    "rawData": [
+        {
+            "errorCode": 501,
+            "title": "Not Implemented",
+            "description": [
+                "Not Implemented"
+            ],
+            "lang": "en"
+        }
+    ],
+    "domain": "gp.gov.ua\r"
+}

@@ -1,0 +1,14 @@
+{
+    "essaypro.com": {
+        "state_type": "CAPI_OR_NETWORK"
+    },
+    "nahdionline.com": {
+        "state_type": "CAPI_OR_NETWORK"
+    },
+    "seranking.com": {
+        "state_type": "CAPI_OR_NETWORK"
+    },
+    "bswhealth.com": {
+        "state_type": "CAPI_OR_NETWORK"
+    }
+}

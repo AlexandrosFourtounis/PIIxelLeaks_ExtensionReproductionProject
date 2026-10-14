@@ -1,0 +1,50 @@
+{
+    "name": null,
+    "handle": null,
+    "registrationDate": null,
+    "expirationDate": null,
+    "lastChangedDate": null,
+    "lastUpdateDate": null,
+    "rawData": [
+        {
+            "errorCode": 422,
+            "title": "Error in processing request",
+            "description": [
+                "Unprocessable Entity",
+                "Requested parameter cannot be processed"
+            ],
+            "notices": [
+                {
+                    "title": "Terms of Service",
+                    "description": [
+                        "Please query the RDAP service of the Registrar of Record identified in this output for information on how to contact the Registrar, Registrant, Admin, or Tech contact of the queried domain name.",
+                        "",
+                        "This RDAP service is provided by GMO Registry and only contains information pertaining to Internet domain names we have registered for our customers.",
+                        "GMO Registry does not guarantee the accuracy of this data.",
+                        "",
+                        "By using this service you are agreeing;",
+                        "",
+                        "(1) only to use the data for lawful purposes.",
+                        "(2) not to use any information presented here for any purpose other than determining ownership of domain names.",
+                        "..."
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.gmoregistry.net/rdap/domain/yzmwg.shop",
+                            "rel": "terms-of-service",
+                            "href": "https://rdap.gmoregistry.net/tos",
+                            "type": "text/html"
+                        }
+                    ]
+                }
+            ],
+            "rdapConformance": [
+                "rdap_level_0",
+                "icann_rdap_response_profile_1",
+                "icann_rdap_technical_implementation_guide_1"
+            ],
+            "lang": "en"
+        }
+    ],
+    "domain": "yzmwg.shop\r"
+}

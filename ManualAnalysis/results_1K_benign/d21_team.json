@@ -1,0 +1,424 @@
+{
+    "name": "d21.team",
+    "handle": "b5813ba005f74d3c99358e8a95e23cb3-DONUTS",
+    "registrationDate": "9/29/2025, 4:39:09 AM GMT+3",
+    "expirationDate": "6/18/2027, 9:51:10 PM GMT+3",
+    "lastChangedDate": "11/29/2025, 2:05:10 AM GMT+2",
+    "lastUpdateDate": "6/23/2026, 2:53:58 PM GMT+3",
+    "rawData": [
+        {
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Domain Admin"
+                    ],
+                    [
+                        "org",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "Privacy Protect, LLC (PrivacyProtect.org)"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "US"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            [
+                                "Note - Visit PrivacyProtect.org",
+                                "Note - Visit PrivacyProtect.org",
+                                "10 Corporate Drive"
+                            ],
+                            "Burlington",
+                            "MA",
+                            "01803",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "contact@privacyprotect.org"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+1.8022274003"
+                    ]
+                ]
+            ],
+            "handle": "ppsp001",
+            "status": [
+                "active"
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "objectClassName": "entity",
+            "lang": "en"
+        },
+        {
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Domain Admin"
+                    ],
+                    [
+                        "org",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "Privacy Protect, LLC (PrivacyProtect.org)"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "US"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            [
+                                "Note - Visit PrivacyProtect.org",
+                                "Note - Visit PrivacyProtect.org",
+                                "10 Corporate Drive"
+                            ],
+                            "Burlington",
+                            "MA",
+                            "01803",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "contact@privacyprotect.org"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+1.8022274003"
+                    ]
+                ]
+            ],
+            "handle": "ppsp001",
+            "status": [
+                "active"
+            ],
+            "roles": [
+                "technical",
+                "administrative"
+            ],
+            "objectClassName": "entity",
+            "lang": "en"
+        },
+        {
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "PDR Ltd. d/b/a PublicDomainRegistry.com"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "tel:+1.2013775952"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "abuse-contact@publicdomainregistry.com"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "PDR Ltd. d/b/a PublicDomainRegistry.com"
+                    ]
+                ]
+            ],
+            "status": [
+                "active"
+            ],
+            "roles": [
+                "abuse"
+            ],
+            "objectClassName": "entity",
+            "lang": "en"
+        },
+        {
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "PDR Ltd. d/b/a PublicDomainRegistry.com"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "PDR Ltd. d/b/a PublicDomainRegistry.com"
+                    ]
+                ]
+            ],
+            "handle": "303",
+            "status": [
+                "active"
+            ],
+            "roles": [
+                "registrar"
+            ],
+            "entities": [
+                {
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "org",
+                                {},
+                                "text",
+                                "PDR Ltd. d/b/a PublicDomainRegistry.com"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "voice"
+                                },
+                                "text",
+                                "tel:+1.2013775952"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "abuse-contact@publicdomainregistry.com"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "PDR Ltd. d/b/a PublicDomainRegistry.com"
+                            ]
+                        ]
+                    ],
+                    "status": [
+                        "active"
+                    ],
+                    "roles": [
+                        "abuse"
+                    ],
+                    "objectClassName": "entity",
+                    "lang": "en"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdapserver.net/",
+                    "type": "application/rdap+json",
+                    "rel": "about",
+                    "href": "https://www.publicdomainregistry.com"
+                }
+            ],
+            "publicIds": [
+                {
+                    "type": "IANA Registrar ID",
+                    "identifier": "303"
+                }
+            ],
+            "objectClassName": "entity",
+            "lang": "en"
+        },
+        {
+            "ldhName": "tia.ns.cloudflare.com",
+            "unicodeName": "tia.ns.cloudflare.com",
+            "status": [
+                "active"
+            ],
+            "objectClassName": "nameserver",
+            "lang": "en"
+        },
+        {
+            "ldhName": "woz.ns.cloudflare.com",
+            "unicodeName": "woz.ns.cloudflare.com",
+            "status": [
+                "active"
+            ],
+            "objectClassName": "nameserver",
+            "lang": "en"
+        },
+        {
+            "handle": "b5813ba005f74d3c99358e8a95e23cb3-DONUTS",
+            "ldhName": "d21.team",
+            "secureDNS": {
+                "delegationSigned": false
+            },
+            "notices": [
+                {
+                    "title": "Data Policy",
+                    "type": "object truncated due to authorization",
+                    "description": [
+                        "The contact information for one or more entities associated with this domain has been redacted in accordance with the entity's disclosure preferences."
+                    ]
+                },
+                {
+                    "title": "Terms of Use",
+                    "links": [
+                        {
+                            "value": "https://rdapserver.net/domain/d21.team",
+                            "type": "application/rdap+json",
+                            "rel": "terms-of-service",
+                            "href": "https://rdapserver.net/terms-of-use/"
+                        }
+                    ],
+                    "description": [
+                        "URL for Terms of Use https://rdapserver.net/terms-of-use/"
+                    ]
+                },
+                {
+                    "title": "Status Codes",
+                    "links": [
+                        {
+                            "value": "https://rdapserver.net/domain/d21.team",
+                            "type": "application/rdap+json",
+                            "rel": "glossary",
+                            "href": "https://icann.org/epp"
+                        }
+                    ],
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ]
+                },
+                {
+                    "title": "RDDS Inaccuracy Complaint Form",
+                    "links": [
+                        {
+                            "value": "https://rdapserver.net/domain/d21.team",
+                            "type": "application/rdap+json",
+                            "rel": "help",
+                            "href": "https://icann.org/wicf"
+                        }
+                    ],
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ]
+                }
+            ],
+            "rdapConformance": [
+                "icann_rdap_response_profile_1",
+                "icann_rdap_technical_implementation_guide_1",
+                "rdap_level_0",
+                "redacted"
+            ],
+            "objectClassName": "domain",
+            "lang": "en",
+            "nameservers": [
+                {
+                    "ldhName": "tia.ns.cloudflare.com",
+                    "unicodeName": "tia.ns.cloudflare.com",
+                    "status": [
+                        "active"
+                    ],
+                    "objectClassName": "nameserver",
+                    "lang": "en"
+                },
+                {
+                    "ldhName": "woz.ns.cloudflare.com",
+                    "unicodeName": "woz.ns.cloudflare.com",
+                    "status": [
+                        "active"
+                    ],
+                    "objectClassName": "nameserver",
+                    "lang": "en"
+                }
+            ],
+            "redacted": [
+                {
+                    "name": {
+                        "type": "Registrant Email"
+                    },
+                    "reason": {
+                        "description": "Data redacted due to Privacy."
+                    },
+                    "method": "replacementValue",
+                    "pathLang": "jsonpath",
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='email')][3]"
+                },
+                {
+                    "name": {
+                        "type": "Tech Email"
+                    },
+                    "reason": {
+                        "description": "Data redacted due to Privacy."
+                    },
+                    "method": "replacementValue",
+                    "pathLang": "jsonpath",
+                    "postPath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='email')][3]"
+                }
+            ]
+        }
+    ],
+    "domain": "d21.team\r"
+}

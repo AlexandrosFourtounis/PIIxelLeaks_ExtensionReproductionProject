@@ -1,0 +1,441 @@
+{
+    "name": "manjaro.org",
+    "handle": "8400761c0693418d8d979f674dfefded-LROR",
+    "registrationDate": "12/15/2011, 5:54:40 PM GMT+2",
+    "expirationDate": "12/15/2026, 5:54:40 PM GMT+2",
+    "lastChangedDate": "6/2/2026, 7:47:01 PM GMT+3",
+    "lastUpdateDate": "6/23/2026, 4:13:45 PM GMT+3",
+    "rawData": [
+        {
+            "roles": [
+                "abuse"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "united-domains GmbH"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+49.8151.3686725"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "abuse@united-domains.de"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity"
+        },
+        {
+            "links": [
+                {
+                    "value": "https://rdap.udag.net/",
+                    "href": "https://rdap.udag.net/",
+                    "type": "application/rdap+json",
+                    "rel": "about"
+                }
+            ],
+            "entities": [
+                {
+                    "roles": [
+                        "abuse"
+                    ],
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "united-domains GmbH"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "voice"
+                                },
+                                "uri",
+                                "tel:+49.8151.3686725"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "abuse@united-domains.de"
+                            ]
+                        ]
+                    ],
+                    "objectClassName": "entity"
+                }
+            ],
+            "objectClassName": "entity",
+            "handle": "1408",
+            "roles": [
+                "registrar"
+            ],
+            "publicIds": [
+                {
+                    "identifier": "1408",
+                    "type": "IANA Registrar ID"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "united-domains GmbH"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "type": "work",
+                            "cc": "DE"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "Gautingerstraße 10",
+                            "Starnberg",
+                            "",
+                            "82319",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "abuse@united-domains.de"
+                    ]
+                ]
+            ]
+        },
+        {
+            "remarks": [
+                {
+                    "type": "object truncated due to authorization",
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ],
+                    "title": "REDACTED FOR PRIVACY"
+                }
+            ],
+            "handle": "",
+            "objectClassName": "entity",
+            "roles": [
+                "registrant"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        null
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "DE"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            null,
+                            null,
+                            "",
+                            null,
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        null
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "https://www.united-domains.de/domain-inhaber-kontaktieren"
+                    ]
+                ]
+            ]
+        },
+        {
+            "handle": "",
+            "remarks": [
+                {
+                    "type": "object truncated due to authorization",
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ],
+                    "title": "REDACTED FOR PRIVACY"
+                }
+            ],
+            "objectClassName": "entity",
+            "roles": [
+                "administrative"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        null
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "DE"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            null,
+                            null,
+                            "",
+                            null,
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        null
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "https://www.united-domains.de/domain-inhaber-kontaktieren"
+                    ]
+                ]
+            ]
+        },
+        {
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Host Master"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "DE"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "Gautinger Str. 10",
+                            "Starnberg",
+                            "",
+                            "82319",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "hostmaster@united-domains.de"
+                    ]
+                ]
+            ],
+            "roles": [
+                "technical"
+            ],
+            "handle": "",
+            "objectClassName": "entity"
+        },
+        {
+            "objectClassName": "nameserver",
+            "status": [
+                "associated"
+            ],
+            "ldhName": "ns.udag.net"
+        },
+        {
+            "ldhName": "ns.udag.de",
+            "status": [
+                "associated"
+            ],
+            "objectClassName": "nameserver"
+        },
+        {
+            "status": [
+                "associated"
+            ],
+            "ldhName": "ns.udag.org",
+            "objectClassName": "nameserver"
+        },
+        {
+            "ldhName": "manjaro.org",
+            "links": [
+                {
+                    "type": "application/rdap+json",
+                    "rel": "about",
+                    "href": "https://rdap.udag.net/domain/manjaro.org",
+                    "value": "https://rdap.udag.net/domain/manjaro.org"
+                }
+            ],
+            "secureDNS": {
+                "delegationSigned": false
+            },
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "status": [
+                        "associated"
+                    ],
+                    "ldhName": "ns.udag.net"
+                },
+                {
+                    "ldhName": "ns.udag.de",
+                    "status": [
+                        "associated"
+                    ],
+                    "objectClassName": "nameserver"
+                },
+                {
+                    "status": [
+                        "associated"
+                    ],
+                    "ldhName": "ns.udag.org",
+                    "objectClassName": "nameserver"
+                }
+            ],
+            "notices": [
+                {
+                    "description": [
+                        "This data is provided by united-domains AG",
+                        "for information purposes, and to assist persons obtaining information",
+                        "about or related to domain name registration records.",
+                        "united-domains AG does not guarantee its accuracy.",
+                        "By submitting a RDAP query, you agree that you will use this data",
+                        "only for lawful purposes and that, under no circumstances, you will",
+                        "use this data to",
+                        "1) allow, enable, or otherwise support the transmission of mass",
+                        "   unsolicited, commercial advertising or solicitations via e-mail",
+                        "   (spam); or",
+                        "2) enable high volume, automated, electronic processes that apply",
+                        "   to this RDAP server.",
+                        "These terms may be changed without prior notice.",
+                        "By submitting this query, you agree to abide by this policy."
+                    ],
+                    "title": "Terms of Use",
+                    "links": [
+                        {
+                            "type": "text/html",
+                            "rel": "self",
+                            "href": "https://www.united-domains.de/whois-suche/",
+                            "value": "https://www.united-domains.de/whois-suche/"
+                        }
+                    ]
+                },
+                {
+                    "title": "Status Codes",
+                    "links": [
+                        {
+                            "href": "https://icann.org/epp",
+                            "value": "https://icann.org/epp",
+                            "rel": "glossary",
+                            "type": "text/html"
+                        }
+                    ],
+                    "description": [
+                        "For more information on domain status codes, please visit https://www.icann.org/epp"
+                    ]
+                },
+                {
+                    "title": "RDDS Inaccuracy Complaint Form",
+                    "links": [
+                        {
+                            "href": "https://icann.org/wicf",
+                            "value": "https://icann.org/wicf",
+                            "rel": "help",
+                            "type": "text/html"
+                        }
+                    ],
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://www.icann.org/wicf"
+                    ]
+                }
+            ],
+            "port43": "whois.udag.net",
+            "rdapConformance": [
+                "rdap_level_0",
+                "icann_rdap_response_profile_1",
+                "icann_rdap_technical_implementation_guide_1"
+            ],
+            "handle": "8400761c0693418d8d979f674dfefded-LROR",
+            "objectClassName": "domain"
+        }
+    ],
+    "domain": "manjaro.org\r"
+}

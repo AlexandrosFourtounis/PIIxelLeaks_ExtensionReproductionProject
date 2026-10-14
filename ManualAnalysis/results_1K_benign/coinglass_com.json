@@ -1,0 +1,455 @@
+{
+    "name": "coinglass.com",
+    "handle": "2124789399_DOMAIN_COM-VRSN",
+    "registrationDate": "5/16/2017, 7:46:39 AM GMT+3",
+    "expirationDate": "5/16/2035, 7:46:39 AM GMT+3",
+    "lastChangedDate": "5/16/2026, 7:52:46 PM GMT+3",
+    "lastUpdateDate": "6/23/2026, 2:47:16 PM GMT+3",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "roles": [
+                "abuse"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+1.2024422253"
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": ""
+                        },
+                        "text",
+                        "trustandsafety@support.aws.com"
+                    ]
+                ]
+            ]
+        },
+        {
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "roles": [
+                        "abuse"
+                    ],
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                ""
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "voice"
+                                },
+                                "uri",
+                                "tel:+1.2024422253"
+                            ],
+                            [
+                                "email",
+                                {
+                                    "type": ""
+                                },
+                                "text",
+                                "trustandsafety@support.aws.com"
+                            ]
+                        ]
+                    ]
+                }
+            ],
+            "handle": "468",
+            "lang": "en-US",
+            "links": [
+                {
+                    "href": "",
+                    "rel": "about",
+                    "type": "application/rdap+json",
+                    "value": "https://rdap.registrar.amazon.com/rdap/"
+                }
+            ],
+            "objectClassName": "entity",
+            "publicIds": [
+                {
+                    "identifier": "468",
+                    "type": "IANA Registrar ID"
+                }
+            ],
+            "roles": [
+                "registrar"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Amazon Registrar, Inc."
+                    ]
+                ]
+            ]
+        },
+        {
+            "lang": "en-US",
+            "objectClassName": "entity",
+            "remarks": [
+                {
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ],
+                    "type": "object redacted due to authorization"
+                }
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "On behalf of coinglass.com OWNER"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "c/o whoisproxy.com"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "US",
+                            "type": ""
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "604 Cameron Street",
+                            "Alexandria",
+                            "VA",
+                            "22314",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+64.48319528"
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": ""
+                        },
+                        "text",
+                        "57f798dd84231f72e2c800cf6aad32d279aa90b8ed613fa3ddc6558c1ecec1ed@coinglass.com.whoisproxy.org"
+                    ]
+                ]
+            ]
+        },
+        {
+            "lang": "en-US",
+            "objectClassName": "entity",
+            "remarks": [
+                {
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ],
+                    "type": "object redacted due to authorization"
+                }
+            ],
+            "roles": [
+                "technical"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "On behalf of coinglass.com TECH"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "c/o whoisproxy.com"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "US",
+                            "type": ""
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "604 Cameron Street",
+                            "Alexandria",
+                            "VA",
+                            "22314",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+64.48319528"
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": ""
+                        },
+                        "text",
+                        "57f798dd84231f72e2c800cf6aad32d2d52b462ba223e02399b71f86280ec4c6@coinglass.com.whoisproxy.org"
+                    ]
+                ]
+            ]
+        },
+        {
+            "ipAddresses": {
+                "v4": [
+                    "205.251.197.38"
+                ]
+            },
+            "lang": "en-US",
+            "ldhName": "ns-1318.awsdns-36.org",
+            "objectClassName": "nameserver",
+            "status": [
+                "active"
+            ],
+            "unicodeName": "ns-1318.awsdns-36.org"
+        },
+        {
+            "ipAddresses": {
+                "v4": [
+                    "205.251.199.242"
+                ]
+            },
+            "lang": "en-US",
+            "ldhName": "ns-2034.awsdns-62.co.uk",
+            "objectClassName": "nameserver",
+            "status": [
+                "active"
+            ],
+            "unicodeName": "ns-2034.awsdns-62.co.uk"
+        },
+        {
+            "lang": "en-US",
+            "ldhName": "ns-315.awsdns-39.com",
+            "objectClassName": "nameserver",
+            "status": [
+                "active"
+            ],
+            "unicodeName": "ns-315.awsdns-39.com"
+        },
+        {
+            "lang": "en-US",
+            "ldhName": "ns-954.awsdns-55.net",
+            "objectClassName": "nameserver",
+            "status": [
+                "active"
+            ],
+            "unicodeName": "ns-954.awsdns-55.net"
+        },
+        {
+            "handle": "2124789399_DOMAIN_COM-VRSN",
+            "ldhName": "coinglass.com",
+            "nameservers": [
+                {
+                    "ipAddresses": {
+                        "v4": [
+                            "205.251.197.38"
+                        ]
+                    },
+                    "lang": "en-US",
+                    "ldhName": "ns-1318.awsdns-36.org",
+                    "objectClassName": "nameserver",
+                    "status": [
+                        "active"
+                    ],
+                    "unicodeName": "ns-1318.awsdns-36.org"
+                },
+                {
+                    "ipAddresses": {
+                        "v4": [
+                            "205.251.199.242"
+                        ]
+                    },
+                    "lang": "en-US",
+                    "ldhName": "ns-2034.awsdns-62.co.uk",
+                    "objectClassName": "nameserver",
+                    "status": [
+                        "active"
+                    ],
+                    "unicodeName": "ns-2034.awsdns-62.co.uk"
+                },
+                {
+                    "lang": "en-US",
+                    "ldhName": "ns-315.awsdns-39.com",
+                    "objectClassName": "nameserver",
+                    "status": [
+                        "active"
+                    ],
+                    "unicodeName": "ns-315.awsdns-39.com"
+                },
+                {
+                    "lang": "en-US",
+                    "ldhName": "ns-954.awsdns-55.net",
+                    "objectClassName": "nameserver",
+                    "status": [
+                        "active"
+                    ],
+                    "unicodeName": "ns-954.awsdns-55.net"
+                }
+            ],
+            "notices": [
+                {
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ],
+                    "links": [
+                        {
+                            "href": "https://icann.org/epp",
+                            "rel": "glossary",
+                            "title": "More information on domain status codes",
+                            "type": "application/rdap+json",
+                            "value": "https://rdap.registrar.amazon.com/rdap?domain=coinglass.com"
+                        }
+                    ],
+                    "title": "Status Codes"
+                },
+                {
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ],
+                    "links": [
+                        {
+                            "href": "https://icann.org/wicf",
+                            "rel": "help",
+                            "type": "application/rdap+json",
+                            "value": "https://rdap.registrar.amazon.com/rdap?domain=coinglass.com"
+                        }
+                    ],
+                    "title": "RDDS Inaccuracy Complaint Form"
+                },
+                {
+                    "description": [
+                        "The data in the RDAP database of Amazon Registrar, Inc. is provided by",
+                        "Amazon Registrar, Inc. for information purposes, and to assist persons in",
+                        "obtaining information about or related to domain name registration",
+                        "records. Amazon Registrar, Inc. does not guarantee its accuracy.",
+                        "By submitting a RDAP query, you agree that you will use this data",
+                        "only for lawful purposes and that, under no circumstances, you will",
+                        "use this data to",
+                        "1) allow, enable, or otherwise support the transmission of mass",
+                        "   unsolicited, commercial advertising or solicitations via E-mail",
+                        "   (spam); or",
+                        "2) enable high volume, automated, electronic processes that apply",
+                        "   to Amazon Registrar, Inc. or its systems.",
+                        "Amazon Registrar, Inc. reserves the right to modify these terms.",
+                        "By submitting this query, you agree to abide by this policy."
+                    ],
+                    "links": [
+                        {
+                            "href": "https://registrar.amazon.com",
+                            "rel": "terms-of-service",
+                            "title": "Terms & Conditions",
+                            "value": "https://rdap.registrar.amazon.com/rdap?domain=coinglass.com"
+                        }
+                    ],
+                    "title": "Terms of Use"
+                }
+            ],
+            "objectClassName": "domain",
+            "rdapConformance": [
+                "rdap_level_0",
+                "icann_rdap_response_profile_1",
+                "icann_rdap_technical_implementation_guide_1",
+                "redacted"
+            ],
+            "redacted": [
+                {
+                    "method": "removal",
+                    "name": {
+                        "type": "Registry Registrant ID"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].handle"
+                },
+                {
+                    "method": "removal",
+                    "name": {
+                        "type": "Registry Tech ID"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='tech')].handle"
+                }
+            ],
+            "secureDNS": {
+                "delegationSigned": false
+            },
+            "unicodeName": "coinglass.com"
+        }
+    ],
+    "domain": "coinglass.com\r"
+}

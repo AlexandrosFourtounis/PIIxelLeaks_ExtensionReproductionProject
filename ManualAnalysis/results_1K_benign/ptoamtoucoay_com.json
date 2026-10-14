@@ -1,0 +1,303 @@
+{
+    "name": "PTOAMTOUCOAY.COM",
+    "handle": "3045076325_DOMAIN_COM-VRSN",
+    "registrationDate": "12/5/2025, 4:09:11 PM GMT+2",
+    "expirationDate": "12/5/2026, 4:09:11 PM GMT+2",
+    "lastChangedDate": "12/5/2025, 4:09:13 PM GMT+2",
+    "lastUpdateDate": "6/23/2026, 6:50:25 PM GMT+3",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "REDACTED"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "org",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "REDACTED"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        [
+                            "REDACTED",
+                            "REDACTED",
+                            "NA",
+                            "REDACTED",
+                            "PA"
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "REDACTED"
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "ptoamtoucoay.com.6a3aab4137d0b@domains-anonymizer.com"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrant"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "REDACTED"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "REDACTED"
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "tech.ptoamtoucoay.com.6a3aab4137d0b@domains-anonymizer.com"
+                    ]
+                ]
+            ],
+            "roles": [
+                "technical"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "1449",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "URL Solutions, Inc."
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrar"
+            ],
+            "publicIds": [
+                {
+                    "type": "IANA Registrar ID",
+                    "identifier": "1449"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.pananames.com/",
+                    "rel": "about",
+                    "href": "https://pananames.com/",
+                    "type": "application/rdap+json"
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Registrar Abuse Contact"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "+1.4692250522"
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "abuse@pananames.com"
+                    ]
+                ]
+            ],
+            "roles": [
+                "abuse"
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns01.ptoamtoucoay.com"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns11.ptoamtoucoay.com"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns21.ptoamtoucoay.com"
+        },
+        {
+            "rdapConformance": [
+                "rdap_level_0",
+                "icann_rdap_response_profile_1",
+                "icann_rdap_technical_implementation_guide_1"
+            ],
+            "objectClassName": "domain",
+            "handle": "3045076325_DOMAIN_COM-VRSN",
+            "ldhName": "PTOAMTOUCOAY.COM",
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns01.ptoamtoucoay.com"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns11.ptoamtoucoay.com"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns21.ptoamtoucoay.com"
+                }
+            ],
+            "secureDNS": {
+                "delegationSigned": false
+            },
+            "links": [
+                {
+                    "value": "https://rdap.pananames.com/domain/PTOAMTOUCOAY.COM",
+                    "rel": "self",
+                    "href": "https://rdap.pananames.com/domain/PTOAMTOUCOAY.COM",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "notices": [
+                {
+                    "title": "Terms of Use",
+                    "description": [
+                        "Service subject to Terms of Use."
+                    ],
+                    "links": [
+                        {
+                            "value": "https://pananames.com/index/rdap",
+                            "rel": "terms-of-service",
+                            "href": "https://pananames.com/index/rdap",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "Status Codes",
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://icann.org/epp",
+                            "rel": "glossary",
+                            "href": "https://icann.org/epp",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "RDDS Inaccuracy Complaint Form",
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://icann.org/wicf",
+                            "rel": "external",
+                            "href": "https://icann.org/wicf",
+                            "type": "text/html"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "domain": "ptoamtoucoay.com\r"
+}

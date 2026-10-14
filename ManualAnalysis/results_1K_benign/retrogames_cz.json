@@ -1,0 +1,170 @@
+{
+    "name": "retrogames.cz",
+    "handle": "retrogames.cz",
+    "registrationDate": "9/20/2010, 9:24:29 AM GMT+3",
+    "expirationDate": "9/20/2026, 1:00:00 AM GMT+3",
+    "lastChangedDate": "9/16/2025, 1:45:45 PM GMT+3",
+    "lastUpdateDate": null,
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "handle": "CID:JIOLEJNEK19391",
+            "roles": [
+                "registrant"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.nic.cz/entity/CID:JIOLEJNEK19391",
+                    "rel": "self",
+                    "href": "https://rdap.nic.cz/entity/CID:JIOLEJNEK19391",
+                    "type": "application/rdap+json"
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "REG-WEBSUPPORT",
+            "roles": [
+                "registrar"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "CID:JIOLEJNEK19391",
+            "roles": [
+                "administrative"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.nic.cz/entity/CID:JIOLEJNEK19391",
+                    "rel": "self",
+                    "href": "https://rdap.nic.cz/entity/CID:JIOLEJNEK19391",
+                    "type": "application/rdap+json"
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "handle": "lucy.ns.cloudflare.com",
+            "ldhName": "lucy.ns.cloudflare.com",
+            "links": [
+                {
+                    "value": "https://rdap.nic.cz/nameserver/lucy.ns.cloudflare.com",
+                    "rel": "self",
+                    "href": "https://rdap.nic.cz/nameserver/lucy.ns.cloudflare.com",
+                    "type": "application/rdap+json"
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "handle": "nero.ns.cloudflare.com",
+            "ldhName": "nero.ns.cloudflare.com",
+            "links": [
+                {
+                    "value": "https://rdap.nic.cz/nameserver/nero.ns.cloudflare.com",
+                    "rel": "self",
+                    "href": "https://rdap.nic.cz/nameserver/nero.ns.cloudflare.com",
+                    "type": "application/rdap+json"
+                }
+            ]
+        },
+        {
+            "objectClassName": "domain",
+            "rdapConformance": [
+                "rdap_level_0",
+                "fred_version_0"
+            ],
+            "handle": "retrogames.cz",
+            "ldhName": "retrogames.cz",
+            "links": [
+                {
+                    "value": "https://rdap.nic.cz/domain/retrogames.cz",
+                    "rel": "self",
+                    "href": "https://rdap.nic.cz/domain/retrogames.cz",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "port43": "whois.nic.cz",
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "handle": "lucy.ns.cloudflare.com",
+                    "ldhName": "lucy.ns.cloudflare.com",
+                    "links": [
+                        {
+                            "value": "https://rdap.nic.cz/nameserver/lucy.ns.cloudflare.com",
+                            "rel": "self",
+                            "href": "https://rdap.nic.cz/nameserver/lucy.ns.cloudflare.com",
+                            "type": "application/rdap+json"
+                        }
+                    ]
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "handle": "nero.ns.cloudflare.com",
+                    "ldhName": "nero.ns.cloudflare.com",
+                    "links": [
+                        {
+                            "value": "https://rdap.nic.cz/nameserver/nero.ns.cloudflare.com",
+                            "rel": "self",
+                            "href": "https://rdap.nic.cz/nameserver/nero.ns.cloudflare.com",
+                            "type": "application/rdap+json"
+                        }
+                    ]
+                }
+            ],
+            "fred_nsset": {
+                "objectClassName": "fred_nsset",
+                "handle": "NSS-5EA048F5-E3BF-42A8-AB16-15",
+                "links": [
+                    {
+                        "value": "https://rdap.nic.cz/fred_nsset/NSS-5EA048F5-E3BF-42A8-AB16-15",
+                        "rel": "self",
+                        "href": "https://rdap.nic.cz/fred_nsset/NSS-5EA048F5-E3BF-42A8-AB16-15",
+                        "type": "application/rdap+json"
+                    }
+                ],
+                "nameservers": [
+                    {
+                        "objectClassName": "nameserver",
+                        "handle": "lucy.ns.cloudflare.com",
+                        "ldhName": "lucy.ns.cloudflare.com",
+                        "links": [
+                            {
+                                "value": "https://rdap.nic.cz/nameserver/lucy.ns.cloudflare.com",
+                                "rel": "self",
+                                "href": "https://rdap.nic.cz/nameserver/lucy.ns.cloudflare.com",
+                                "type": "application/rdap+json"
+                            }
+                        ]
+                    },
+                    {
+                        "objectClassName": "nameserver",
+                        "handle": "nero.ns.cloudflare.com",
+                        "ldhName": "nero.ns.cloudflare.com",
+                        "links": [
+                            {
+                                "value": "https://rdap.nic.cz/nameserver/nero.ns.cloudflare.com",
+                                "rel": "self",
+                                "href": "https://rdap.nic.cz/nameserver/nero.ns.cloudflare.com",
+                                "type": "application/rdap+json"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "notices": [
+                {
+                    "title": "Disclaimer",
+                    "description": [
+                        "(c) 2023 CZ.NIC, z.s.p.o.",
+                        "Intended use of supplied data and information",
+                        "Data contained in the domain name register, as well as information supplied through public information services of CZ.NIC association, are appointed only for purposes connected with Internet network administration and operation, or for the purpose of legal or other similar proceedings, in process as regards a matter connected particularly with holding and using a concrete domain name."
+                    ]
+                }
+            ]
+        }
+    ],
+    "domain": "retrogames.cz\r"
+}

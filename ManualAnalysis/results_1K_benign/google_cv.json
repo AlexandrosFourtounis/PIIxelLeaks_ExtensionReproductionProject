@@ -1,0 +1,312 @@
+{
+    "name": "google.cv",
+    "handle": "52252-niccv",
+    "registrationDate": "6/13/2024, 11:18:02 PM GMT+3",
+    "expirationDate": "6/14/2027, 3:00:00 AM GMT+3",
+    "lastChangedDate": "5/13/2026, 10:34:30 PM GMT+3",
+    "lastUpdateDate": "6/23/2026, 5:32:36 PM GMT+3",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "handle": "62991-niccv",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Mark Monitor"
+                    ]
+                ]
+            ],
+            "roles": [
+                "abuse"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "links": [
+                {
+                    "value": "https://rdap.nic.cv/domain/google.cv",
+                    "rel": "about",
+                    "href": "https://rdap.nic.cv/entity/62991-niccv",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "handle": "62991-niccv",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Mark Monitor"
+                    ],
+                    [
+                        "adr",
+                        {},
+                        "text",
+                        [
+                            "",
+                            "",
+                            "1120 S. Rackham Way, Suite 300\r\nMeridian, ID 83642",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "ccops@markmonitor.com"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrar"
+            ],
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "handle": "62991-niccv",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Mark Monitor"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "abuse"
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "links": [
+                {
+                    "value": "https://rdap.nic.cv/domain/google.cv",
+                    "rel": "related",
+                    "href": "https://rdap.nic.cv/nameserver/ns1.google.com",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "status": [
+                "associated"
+            ],
+            "ldhName": "ns1.google.com",
+            "unicodeName": "ns1.google.com"
+        },
+        {
+            "objectClassName": "nameserver",
+            "links": [
+                {
+                    "value": "https://rdap.nic.cv/domain/google.cv",
+                    "rel": "related",
+                    "href": "https://rdap.nic.cv/nameserver/ns2.google.com",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "status": [
+                "associated"
+            ],
+            "ldhName": "ns2.google.com",
+            "unicodeName": "ns2.google.com"
+        },
+        {
+            "objectClassName": "nameserver",
+            "links": [
+                {
+                    "value": "https://rdap.nic.cv/domain/google.cv",
+                    "rel": "related",
+                    "href": "https://rdap.nic.cv/nameserver/ns3.google.com",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "status": [
+                "associated"
+            ],
+            "ldhName": "ns3.google.com",
+            "unicodeName": "ns3.google.com"
+        },
+        {
+            "objectClassName": "nameserver",
+            "links": [
+                {
+                    "value": "https://rdap.nic.cv/domain/google.cv",
+                    "rel": "related",
+                    "href": "https://rdap.nic.cv/nameserver/ns4.google.com",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "status": [
+                "associated"
+            ],
+            "ldhName": "ns4.google.com",
+            "unicodeName": "ns4.google.com"
+        },
+        {
+            "rdapConformance": [
+                "rdap_level_0",
+                "icann_rdap_technical_implementation_guide_1",
+                "icann_rdap_response_profile_1"
+            ],
+            "objectClassName": "domain",
+            "links": [
+                {
+                    "value": "https://rdap.nic.cv/domain/google.cv",
+                    "rel": "related",
+                    "href": "https://rdap.nic.cv/domain/google.cv",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "notices": [
+                {
+                    "title": "Terms of Service",
+                    "description": [
+                        "Access to RDAP information is provided to assist persons interested in domains, nameservers, or associated entities."
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.nic.cv/domain/google.cv",
+                            "rel": "terms-of-service",
+                            "href": "https://rdap.nic.cv",
+                            "title": "Terms of Use",
+                            "type": "application/json"
+                        }
+                    ]
+                },
+                {
+                    "title": "Status Codes",
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.nic.cv/domain/google.cv",
+                            "rel": "glossary",
+                            "href": "https://icann.org/epp",
+                            "title": "More information on domain status codes",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "RDDS Inaccuracy Complaint Form",
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.nic.cv/domain/google.cv",
+                            "rel": "help",
+                            "href": "https://icann.org/wicf",
+                            "title": "ICANN RDDS Inaccuracy Complaint Form",
+                            "type": "text/html"
+                        }
+                    ]
+                }
+            ],
+            "handle": "52252-niccv",
+            "ldhName": "google.cv",
+            "unicodeName": "google.cv",
+            "secureDNS": {
+                "delegationSigned": false
+            },
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "links": [
+                        {
+                            "value": "https://rdap.nic.cv/domain/google.cv",
+                            "rel": "related",
+                            "href": "https://rdap.nic.cv/nameserver/ns1.google.com",
+                            "type": "application/rdap+json"
+                        }
+                    ],
+                    "status": [
+                        "associated"
+                    ],
+                    "ldhName": "ns1.google.com",
+                    "unicodeName": "ns1.google.com"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "links": [
+                        {
+                            "value": "https://rdap.nic.cv/domain/google.cv",
+                            "rel": "related",
+                            "href": "https://rdap.nic.cv/nameserver/ns2.google.com",
+                            "type": "application/rdap+json"
+                        }
+                    ],
+                    "status": [
+                        "associated"
+                    ],
+                    "ldhName": "ns2.google.com",
+                    "unicodeName": "ns2.google.com"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "links": [
+                        {
+                            "value": "https://rdap.nic.cv/domain/google.cv",
+                            "rel": "related",
+                            "href": "https://rdap.nic.cv/nameserver/ns3.google.com",
+                            "type": "application/rdap+json"
+                        }
+                    ],
+                    "status": [
+                        "associated"
+                    ],
+                    "ldhName": "ns3.google.com",
+                    "unicodeName": "ns3.google.com"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "links": [
+                        {
+                            "value": "https://rdap.nic.cv/domain/google.cv",
+                            "rel": "related",
+                            "href": "https://rdap.nic.cv/nameserver/ns4.google.com",
+                            "type": "application/rdap+json"
+                        }
+                    ],
+                    "status": [
+                        "associated"
+                    ],
+                    "ldhName": "ns4.google.com",
+                    "unicodeName": "ns4.google.com"
+                }
+            ]
+        }
+    ],
+    "domain": "google.cv\r"
+}

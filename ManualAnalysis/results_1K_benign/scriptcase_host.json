@@ -1,0 +1,392 @@
+{
+    "name": "scriptcase.host",
+    "handle": "D53121108-CNIC",
+    "registrationDate": "9/28/2017, 3:56:15 PM GMT+3",
+    "expirationDate": "9/29/2027, 2:59:59 AM GMT+3",
+    "lastChangedDate": "5/3/2026, 6:40:05 AM GMT+3",
+    "lastUpdateDate": "6/23/2026, 5:14:07 PM GMT+3",
+    "rawData": [
+        {
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Vinicius Muniz Macedo"
+                    ],
+                    [
+                        "org",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "Scriptcase"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "BR"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            [
+                                "",
+                                "",
+                                "Av. Presidente Kennedy, 1001, Peixinhos"
+                            ],
+                            "Olinda",
+                            "Pernambuco",
+                            "53230630",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "servers@netmake.com.br"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+55.8140629300"
+                    ]
+                ]
+            ],
+            "handle": "72067532",
+            "status": [
+                "active"
+            ],
+            "roles": [
+                "administrative",
+                "technical"
+            ],
+            "objectClassName": "entity",
+            "lang": "en"
+        },
+        {
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Vinicius Muniz Macedo"
+                    ],
+                    [
+                        "org",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "Scriptcase"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "BR"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            [
+                                "",
+                                "",
+                                "Av. Presidente Kennedy, 1001, Peixinhos"
+                            ],
+                            "Olinda",
+                            "Pernambuco",
+                            "53230630",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "servers@netmake.com.br"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+55.8140629300"
+                    ]
+                ]
+            ],
+            "handle": "72067532",
+            "status": [
+                "active"
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "objectClassName": "entity",
+            "lang": "en"
+        },
+        {
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "Dot Store Inc"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Dot Store Inc"
+                    ]
+                ]
+            ],
+            "status": [
+                "active"
+            ],
+            "roles": [
+                "abuse"
+            ],
+            "objectClassName": "entity",
+            "lang": "en"
+        },
+        {
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "Dot Store Inc"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Dot Store Inc"
+                    ]
+                ]
+            ],
+            "status": [
+                "active"
+            ],
+            "roles": [
+                "registrar"
+            ],
+            "entities": [
+                {
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "org",
+                                {},
+                                "text",
+                                "Dot Store Inc"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Dot Store Inc"
+                            ]
+                        ]
+                    ],
+                    "status": [
+                        "active"
+                    ],
+                    "roles": [
+                        "abuse"
+                    ],
+                    "objectClassName": "entity",
+                    "lang": "en"
+                }
+            ],
+            "publicIds": [
+                {
+                    "type": "IANA Registrar ID",
+                    "identifier": null
+                }
+            ],
+            "objectClassName": "entity",
+            "lang": "en"
+        },
+        {
+            "ldhName": "ns1.scriptcase.host",
+            "unicodeName": "ns1.scriptcase.host",
+            "status": [
+                "active"
+            ],
+            "objectClassName": "nameserver",
+            "lang": "en"
+        },
+        {
+            "ldhName": "ns2.scriptcase.host",
+            "unicodeName": "ns2.scriptcase.host",
+            "status": [
+                "active"
+            ],
+            "objectClassName": "nameserver",
+            "lang": "en"
+        },
+        {
+            "ldhName": "ns3.scriptcase.host",
+            "unicodeName": "ns3.scriptcase.host",
+            "status": [
+                "active"
+            ],
+            "objectClassName": "nameserver",
+            "lang": "en"
+        },
+        {
+            "handle": "D53121108-CNIC",
+            "ldhName": "scriptcase.host",
+            "secureDNS": {
+                "delegationSigned": false
+            },
+            "notices": [
+                {
+                    "title": "Data Policy",
+                    "type": "object truncated due to authorization",
+                    "description": [
+                        "The contact information for one or more entities associated with this domain has been redacted in accordance with the entity's disclosure preferences."
+                    ]
+                },
+                {
+                    "title": "Terms of Use",
+                    "links": [
+                        {
+                            "value": "https://rdapserver.net/domain/scriptcase.host",
+                            "type": "application/rdap+json",
+                            "rel": "terms-of-service",
+                            "href": "https://rdapserver.net/terms-of-use/"
+                        }
+                    ],
+                    "description": [
+                        "URL for Terms of Use https://rdapserver.net/terms-of-use/"
+                    ]
+                },
+                {
+                    "title": "Status Codes",
+                    "links": [
+                        {
+                            "value": "https://rdapserver.net/domain/scriptcase.host",
+                            "type": "application/rdap+json",
+                            "rel": "glossary",
+                            "href": "https://icann.org/epp"
+                        }
+                    ],
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ]
+                },
+                {
+                    "title": "RDDS Inaccuracy Complaint Form",
+                    "links": [
+                        {
+                            "value": "https://rdapserver.net/domain/scriptcase.host",
+                            "type": "application/rdap+json",
+                            "rel": "help",
+                            "href": "https://icann.org/wicf"
+                        }
+                    ],
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ]
+                }
+            ],
+            "rdapConformance": [
+                "icann_rdap_response_profile_1",
+                "icann_rdap_technical_implementation_guide_1",
+                "rdap_level_0"
+            ],
+            "objectClassName": "domain",
+            "lang": "en",
+            "nameservers": [
+                {
+                    "ldhName": "ns1.scriptcase.host",
+                    "unicodeName": "ns1.scriptcase.host",
+                    "status": [
+                        "active"
+                    ],
+                    "objectClassName": "nameserver",
+                    "lang": "en"
+                },
+                {
+                    "ldhName": "ns2.scriptcase.host",
+                    "unicodeName": "ns2.scriptcase.host",
+                    "status": [
+                        "active"
+                    ],
+                    "objectClassName": "nameserver",
+                    "lang": "en"
+                },
+                {
+                    "ldhName": "ns3.scriptcase.host",
+                    "unicodeName": "ns3.scriptcase.host",
+                    "status": [
+                        "active"
+                    ],
+                    "objectClassName": "nameserver",
+                    "lang": "en"
+                }
+            ]
+        }
+    ],
+    "domain": "scriptcase.host\r"
+}

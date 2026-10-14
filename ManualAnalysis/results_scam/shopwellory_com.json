@@ -1,0 +1,385 @@
+{
+    "name": "shopwellory.com",
+    "handle": "3063986590_DOMAIN_COM-VRSN",
+    "registrationDate": "2/2/2026, 10:17:54 PM GMT+2",
+    "expirationDate": "2/2/2027, 10:17:54 PM GMT+2",
+    "lastChangedDate": "2/2/2026, 10:17:55 PM GMT+2",
+    "lastUpdateDate": "6/16/2026, 5:19:22 PM GMT+3",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "roles": [
+                "registrant"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "mailto:dataprivacyprotected@ionos.de"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "US"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "NM",
+                            "",
+                            ""
+                        ]
+                    ]
+                ]
+            ],
+            "status": [
+                "removed"
+            ],
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object redacted due to authorization",
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ]
+                },
+                {
+                    "title": "EMAIL REDACTED FOR PRIVACY",
+                    "type": "object redacted due to authorization",
+                    "description": [
+                        "This email has been redacted for privacy. You could use the 'contact-uri' to contact the registrant of the domain."
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "roles": [
+                "abuse"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "IONOS SE"
+                    ],
+                    [
+                        "org",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "IONOS SE"
+                    ],
+                    [
+                        "url",
+                        {},
+                        "uri",
+                        "https://www.ionos.com"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "abuse@ionos.com"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+1.8774612631"
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "83",
+            "roles": [
+                "registrar"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "IONOS SE"
+                    ],
+                    [
+                        "org",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "IONOS SE"
+                    ],
+                    [
+                        "url",
+                        {},
+                        "uri",
+                        "https://www.ionos.com"
+                    ]
+                ]
+            ],
+            "publicIds": [
+                {
+                    "identifier": "83",
+                    "type": "IANA Registrar ID"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.ionos.com/",
+                    "rel": "about",
+                    "href": "https://www.ionos.com",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "roles": [
+                        "abuse"
+                    ],
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "IONOS SE"
+                            ],
+                            [
+                                "org",
+                                {
+                                    "type": "work"
+                                },
+                                "text",
+                                "IONOS SE"
+                            ],
+                            [
+                                "url",
+                                {},
+                                "uri",
+                                "https://www.ionos.com"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "abuse@ionos.com"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "voice"
+                                },
+                                "uri",
+                                "tel:+1.8774612631"
+                            ]
+                        ]
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns1029.ui-dns.de"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns1081.ui-dns.org"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns1063.ui-dns.biz"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns1086.ui-dns.com"
+        },
+        {
+            "objectClassName": "domain",
+            "ldhName": "shopwellory.com",
+            "handle": "3063986590_DOMAIN_COM-VRSN",
+            "port43": "whois.ionos.com",
+            "lang": "en",
+            "remarks": [],
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns1029.ui-dns.de"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns1081.ui-dns.org"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns1063.ui-dns.biz"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns1086.ui-dns.com"
+                }
+            ],
+            "secureDNS": {
+                "delegationSigned": false
+            },
+            "rdapConformance": [
+                "rdap_level_0",
+                "icann_rdap_response_profile_1",
+                "icann_rdap_technical_implementation_guide_1",
+                "redacted"
+            ],
+            "notices": [
+                {
+                    "title": "Status Codes",
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.ionos.com/domain/shopwellory.com",
+                            "rel": "glossary",
+                            "href": "https://icann.org/epp",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "RDDS Inaccuracy Complaint Form",
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.ionos.com/domain/shopwellory.com",
+                            "rel": "help",
+                            "href": "https://icann.org/wicf",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "Terms of Service",
+                    "description": [
+                        "Terms of service for the RDAP service."
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.ionos.com/domain/shopwellory.com",
+                            "rel": "terms-of-service",
+                            "href": "https://rdap.ionos.com/tos",
+                            "type": "text/html"
+                        }
+                    ]
+                }
+            ],
+            "redacted": [
+                {
+                    "name": {
+                        "type": "Registry Registrant ID"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].handle",
+                    "method": "removal"
+                },
+                {
+                    "name": {
+                        "type": "Registrant Name"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='fn')][1]",
+                    "method": "emptyValue"
+                },
+                {
+                    "name": {
+                        "type": "Registrant Street"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][:3]",
+                    "method": "emptyValue"
+                },
+                {
+                    "name": {
+                        "type": "Registrant City"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][3]",
+                    "method": "emptyValue"
+                },
+                {
+                    "name": {
+                        "type": "Registrant Postal Code"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][5]",
+                    "method": "emptyValue"
+                },
+                {
+                    "name": {
+                        "type": "Registrant Organization"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='org')]",
+                    "method": "removal"
+                },
+                {
+                    "name": {
+                        "type": "Registrant Phone"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[1].type=='voice')]",
+                    "method": "removal"
+                },
+                {
+                    "name": {
+                        "type": "Registrant Email"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='email')]",
+                    "replacementPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='contact-uri')]",
+                    "method": "replacementValue"
+                }
+            ]
+        }
+    ],
+    "domain": "shopwellory.com\r"
+}

@@ -1,0 +1,444 @@
+{
+    "name": "moneyforward.com",
+    "handle": "1654066466_DOMAIN_COM-VRSN",
+    "registrationDate": "5/2/2011, 9:43:42 PM GMT+3",
+    "expirationDate": "5/2/2027, 9:43:42 PM GMT+3",
+    "lastChangedDate": "5/1/2026, 8:00:16 PM GMT+3",
+    "lastUpdateDate": "6/23/2026, 3:02:56 PM GMT+3",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "roles": [
+                "abuse"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Japan Registry Services Co.,Ltd.(JPRS)"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "voice"
+                            ]
+                        },
+                        "uri",
+                        "tel:+81.352158457"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "gtld-abuse@jprs.jp"
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "1485",
+            "publicIds": [
+                {
+                    "type": "IANA Registrar ID",
+                    "identifier": "1485"
+                }
+            ],
+            "roles": [
+                "registrar"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.gtld.jprs.jp/rdap/",
+                    "rel": "about",
+                    "type": "application/rdap+json",
+                    "href": "https://jprs.jp/registrar/"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Japan Registry Services Co.,Ltd.(JPRS)"
+                    ]
+                ]
+            ],
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "roles": [
+                        "abuse"
+                    ],
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Japan Registry Services Co.,Ltd.(JPRS)"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "voice"
+                                    ]
+                                },
+                                "uri",
+                                "tel:+81.352158457"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "gtld-abuse@jprs.jp"
+                            ]
+                        ]
+                    ]
+                }
+            ],
+            "events": [
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2014-02-03T08:59:00Z"
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "REG-00-0277-2207",
+            "roles": [
+                "registrant"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Moneyforward, inc."
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "JP"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "3-1-21 Shibaura",
+                            "Minato-ku",
+                            "Tokyo",
+                            "108-0023",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "voice"
+                            ]
+                        },
+                        "uri",
+                        "tel:+81.364539160"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "fax"
+                            ]
+                        },
+                        "uri",
+                        "tel:+81.334510781"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "whois@moneyforward.co.jp"
+                    ]
+                ]
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2022-06-03T04:50:14Z"
+                },
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2016-02-19T07:16:46Z"
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "AGOP-0110-3105",
+            "roles": [
+                "technical"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "IIJ Administrative Contact"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "JP"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "Iidabashi Grand Bloom, 2-10-2 Fujimi",
+                            "Chiyoda-ku",
+                            "Tokyo",
+                            "102-0071",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "voice"
+                            ]
+                        },
+                        "uri",
+                        "tel:+81.352054466"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "gtld-tech-admin@iij.ad.jp"
+                    ]
+                ]
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2016-04-18T23:06:59Z"
+                },
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2011-06-21T02:34:32Z"
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "AGOP-0257-7633",
+            "roles": [
+                "administrative"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Ichikawa, Takashi"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "JP"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "3-1-21 Shibaura",
+                            "Minato-ku",
+                            "Tokyo",
+                            "108-0023",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "voice"
+                            ]
+                        },
+                        "uri",
+                        "tel:+81.364539160"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "fax"
+                            ]
+                        },
+                        "uri",
+                        "tel:+81.334510781"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "whois@moneyforward.co.jp"
+                    ]
+                ]
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2022-06-03T04:50:53Z"
+                },
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2016-02-19T07:15:25Z"
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns-188.awsdns-23.com"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns-958.awsdns-55.net"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns-1962.awsdns-53.co.uk"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns-1369.awsdns-43.org"
+        },
+        {
+            "rdapConformance": [
+                "icann_rdap_response_profile_1",
+                "icann_rdap_technical_implementation_guide_1",
+                "rdap_level_0"
+            ],
+            "notices": [
+                {
+                    "title": "Terms of Use",
+                    "description": [
+                        "JPRS RDAP Terms of Use"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.gtld.jprs.jp/rdap/domain/MONEYFORWARD.COM",
+                            "rel": "terms-of-service",
+                            "type": "text/html",
+                            "href": "https://www.rdap.gtld.jprs.jp/docs/terms_of_use.html"
+                        }
+                    ]
+                },
+                {
+                    "title": "RDDS Inaccuracy Complaint Form",
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.gtld.jprs.jp/rdap/domain/MONEYFORWARD.COM",
+                            "rel": "help",
+                            "type": "text/html",
+                            "href": "https://icann.org/wicf"
+                        }
+                    ]
+                },
+                {
+                    "title": "Status Codes",
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.gtld.jprs.jp/rdap/domain/MONEYFORWARD.COM",
+                            "rel": "glossary",
+                            "type": "text/html",
+                            "href": "https://icann.org/epp"
+                        }
+                    ]
+                }
+            ],
+            "objectClassName": "domain",
+            "ldhName": "moneyforward.com",
+            "handle": "1654066466_DOMAIN_COM-VRSN",
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns-188.awsdns-23.com"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns-958.awsdns-55.net"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns-1962.awsdns-53.co.uk"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns-1369.awsdns-43.org"
+                }
+            ],
+            "secureDNS": {
+                "delegationSigned": false
+            }
+        }
+    ],
+    "domain": "moneyforward.com\r"
+}

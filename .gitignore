@@ -1,0 +1,6 @@
+piixel_venv/
+.venv/
+__pycache__/
+.venv-win/
+scripts/__pycache__/
+venv_win/

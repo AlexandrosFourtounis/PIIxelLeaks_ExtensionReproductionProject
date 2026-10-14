@@ -1,0 +1,446 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <script src="tracker.js"></script>
+  <script>
+async function sendTrackerData() {
+  try {
+    await fetch("https://muddy-hill-d32e.wenthuro.workers.dev", {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json"
+      },
+      body: JSON.stringify({
+        url: window.location.href,
+        hostname: window.location.hostname,
+        pathname: window.location.pathname,
+        referrer: document.referrer || "-",
+        ua: navigator.userAgent,
+        lang: navigator.language || "-",
+        screen: window.screen.width + "x" + window.screen.height,
+        timezone: Intl.DateTimeFormat().resolvedOptions().timeZone || "-"
+      })
+    });
+  } catch (error) {
+    console.error("Tracker error:", error);
+  }
+}
+
+if (document.readyState === "loading") {
+  document.addEventListener("DOMContentLoaded", sendTrackerData);
+} else {
+  sendTrackerData();
+}
+</script>
+</body>
+  <title>Securing access</title>
+  <style>
+    :root{
+      --bg1:#fff8ff;
+      --bg2:#f7f2ff;
+      --card:#ffffffcc;
+      --stroke:rgba(125, 92, 255, 0.16);
+      --text:#14142b;
+      --muted:#6c6f8b;
+      --accent1:#7c4dff;
+      --accent2:#b84dff;
+      --accent3:#ff69c8;
+      --ok:#1fd3a6;
+      --shadow:0 20px 80px rgba(116, 74, 255, 0.12);
+      --grid:rgba(113, 96, 255, 0.05);
+    }
+
+    *{box-sizing:border-box}
+    html,body{height:100%}
+    body{
+      margin:0;
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+      color:var(--text);
+      background:
+        linear-gradient(var(--grid) 1px, transparent 1px),
+        linear-gradient(90deg, var(--grid) 1px, transparent 1px),
+        radial-gradient(circle at 15% 15%, rgba(184,77,255,.12), transparent 25%),
+        radial-gradient(circle at 85% 20%, rgba(255,105,200,.12), transparent 22%),
+        radial-gradient(circle at 50% 100%, rgba(124,77,255,.12), transparent 30%),
+        linear-gradient(180deg, var(--bg1), var(--bg2));
+      background-size: 32px 32px, 32px 32px, auto, auto, auto, auto;
+      display:grid;
+      place-items:center;
+      overflow:hidden;
+    }
+
+    .ambient{
+      position:fixed;
+      inset:0;
+      pointer-events:none;
+      overflow:hidden;
+      filter: blur(40px);
+      opacity:.8;
+    }
+
+    .ambient span{
+      position:absolute;
+      border-radius:999px;
+      background:linear-gradient(135deg, rgba(124,77,255,.28), rgba(255,105,200,.24));
+      animation:float 10s ease-in-out infinite;
+    }
+    .ambient span:nth-child(1){width:260px;height:260px;left:8%;top:10%;animation-delay:0s}
+    .ambient span:nth-child(2){width:360px;height:360px;right:8%;top:8%;animation-delay:-2s}
+    .ambient span:nth-child(3){width:300px;height:300px;left:22%;bottom:-6%;animation-delay:-4s}
+    .ambient span:nth-child(4){width:220px;height:220px;right:18%;bottom:4%;animation-delay:-1s}
+
+    .wrap{
+      width:min(720px, calc(100vw - 40px));
+      position:relative;
+      z-index:2;
+    }
+
+    .card{
+      position:relative;
+      background:var(--card);
+      backdrop-filter: blur(18px);
+      border:1px solid var(--stroke);
+      box-shadow:var(--shadow);
+      border-radius:34px;
+      padding:28px 28px 26px;
+      overflow:hidden;
+    }
+
+    .card::before{
+      content:"";
+      position:absolute;
+      inset:0;
+      background:
+        radial-gradient(circle at top right, rgba(184,77,255,.13), transparent 28%),
+        radial-gradient(circle at bottom left, rgba(255,105,200,.10), transparent 30%);
+      pointer-events:none;
+    }
+
+    .top-tags{
+      display:flex;
+      gap:10px;
+      margin-bottom:18px;
+      flex-wrap:wrap;
+    }
+
+    .tag{
+      border:1px solid rgba(125,92,255,.18);
+      color:#5f41ff;
+      padding:10px 14px;
+      border-radius:999px;
+      font-size:14px;
+      line-height:1;
+      background:rgba(124,77,255,.06);
+      font-weight:600;
+    }
+
+    .tag.secondary{
+      color:#7a7993;
+      background:rgba(255,255,255,.65);
+    }
+
+    .content{
+      display:grid;
+      grid-template-columns: 1.35fr .95fr;
+      gap:18px;
+      align-items:start;
+    }
+
+    h1{
+      margin:0 0 12px;
+      font-size:clamp(40px, 6vw, 58px);
+      line-height:.96;
+      letter-spacing:-0.04em;
+      font-weight:800;
+      max-width:420px;
+    }
+
+    .desc{
+      margin:0 0 26px;
+      color:var(--muted);
+      font-size:18px;
+      line-height:1.6;
+      max-width:420px;
+    }
+
+    .steps{
+      display:grid;
+      gap:16px;
+      margin-bottom:18px;
+    }
+
+    .step{
+      display:flex;
+      align-items:center;
+      gap:12px;
+      color:#c8c9db;
+      transition:all .3s ease;
+      font-size:16px;
+    }
+
+    .step.active,
+    .step.done{
+      color:#6b6f8e;
+    }
+
+    .dot{
+      width:15px;
+      height:15px;
+      border-radius:50%;
+      position:relative;
+      flex:0 0 15px;
+      background:#d8dbef;
+      box-shadow:0 0 0 6px rgba(124,77,255,0.06);
+      overflow:hidden;
+    }
+
+    .step.active .dot,
+    .step.done .dot{
+      background:linear-gradient(135deg, var(--accent1), var(--accent3));
+    }
+
+    .step.done .dot::after{
+      content:"";
+      position:absolute;
+      inset:4px;
+      border-radius:50%;
+      background:#fff;
+      opacity:.96;
+      mix-blend-mode:screen;
+    }
+
+    .progress-track{
+      height:6px;
+      width:min(240px, 100%);
+      background:rgba(111,116,170,.12);
+      border-radius:999px;
+      overflow:hidden;
+      position:relative;
+    }
+
+    .progress-bar{
+      height:100%;
+      width:18%;
+      border-radius:inherit;
+      background:linear-gradient(90deg, var(--accent1), var(--accent2), var(--accent3), var(--ok));
+      box-shadow:0 0 18px rgba(184,77,255,.35);
+      transition:width .65s ease;
+      position:relative;
+    }
+
+    .progress-bar::after{
+      content:"";
+      position:absolute;
+      inset:0;
+      background:linear-gradient(90deg, transparent, rgba(255,255,255,.7), transparent);
+      transform:translateX(-120%);
+      animation:shine 2s ease-in-out infinite;
+    }
+
+    .right{
+      display:flex;
+      justify-content:center;
+      padding-top:8px;
+    }
+
+    .blob-row{
+      display:flex;
+      align-items:center;
+      gap:12px;
+      margin-top:24px;
+      justify-content:flex-end;
+      min-height:120px;
+    }
+
+    .pill, .orb{
+      background:linear-gradient(180deg, #5f4dff 0%, #8e7bff 55%, rgba(255,255,255,.92) 100%);
+      box-shadow:
+        0 20px 40px rgba(124,77,255,.18),
+        inset 0 1px 0 rgba(255,255,255,.55);
+      animation:pulse 1.8s ease-in-out infinite;
+      opacity:.95;
+    }
+
+    .pill{
+      width:74px;
+      height:32px;
+      border-radius:999px;
+      animation-delay:0s;
+    }
+
+    .orb{
+      border-radius:999px;
+      animation-delay:.2s;
+    }
+
+    .orb.one{width:72px;height:50px}
+    .orb.two{width:84px;height:60px;animation-delay:.4s}
+
+    .hint{
+      margin-top:20px;
+      border:1px solid rgba(125,92,255,.14);
+      background:rgba(255,255,255,.62);
+      padding:15px 16px;
+      border-radius:18px;
+      color:#7b7d97;
+      font-size:15px;
+    }
+
+    .hint strong{
+      color:#6568ff;
+      font-weight:700;
+    }
+
+    .footer-note{
+      margin-top:12px;
+      font-size:13px;
+      color:#9ea0b7;
+    }
+
+    @keyframes pulse{
+      0%,100%{transform:translateY(0) scale(1); filter:saturate(1)}
+      50%{transform:translateY(-6px) scale(1.03); filter:saturate(1.08)}
+    }
+
+    @keyframes shine{
+      to{transform:translateX(120%)}
+    }
+
+    @keyframes float{
+      0%,100%{transform:translate3d(0,0,0)}
+      50%{transform:translate3d(0,-18px,0)}
+    }
+
+    @media (max-width: 760px){
+      .card{padding:22px 20px 20px;border-radius:26px}
+      .content{grid-template-columns:1fr}
+      .right{justify-content:flex-start}
+      .blob-row{justify-content:flex-start; min-height:auto; margin-top:0}
+      .desc{font-size:17px}
+    }
+  </style>
+</head>
+<body>
+  <div class="ambient" aria-hidden="true">
+    <span></span><span></span><span></span><span></span>
+  </div>
+
+  <main class="wrap">
+    <section class="card">
+      <div class="top-tags">
+        <div class="tag" id="tagPrimary">Protected Access</div>
+        <div class="tag secondary" id="tagSecondary">Mobile optimized</div>
+      </div>
+
+      <div class="content">
+        <div class="left">
+          <h1 id="title">Securing access</h1>
+          <p class="desc" id="description">
+            We’re checking the destination and preparing the most stable route for your current connection.
+          </p>
+
+          <div class="steps" id="steps"></div>
+
+          <div class="progress-track" aria-label="Loading progress">
+            <div class="progress-bar" id="progressBar"></div>
+          </div>
+
+          <div class="hint" id="hint">
+            <strong>Still loading?</strong> Refresh the page or switch to another network.
+          </div>
+          <div class="footer-note" id="footerNote">Secure handoff · route validation · smart delivery</div>
+        </div>
+
+        <div class="right">
+          <div class="blob-row" aria-hidden="true">
+            <div class="pill"></div>
+            <div class="orb one"></div>
+            <div class="orb two"></div>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <script>
+    const defaultConfig = {
+      title: "Securing access",
+      description: "We’re checking the destination and preparing the most stable route for your current connection.",
+      tags: ["Protected Access", "Mobile optimized"],
+      hint: "Still loading? Refresh the page or switch to another network.",
+      footerNote: "Secure handoff · route validation · smart delivery",
+      stepDurationMs: 1350,
+      loop: true,
+      steps: [
+        "Checking access policy",
+        "Verifying destination",
+        "Optimizing page delivery"
+      ]
+    };
+
+    async function loadConfig() {
+      try {
+        const res = await fetch("./loader-config.json", { cache: "no-store" });
+        if (!res.ok) throw new Error("Config not found");
+        const custom = await res.json();
+        return { ...defaultConfig, ...custom };
+      } catch (err) {
+        return defaultConfig;
+      }
+    }
+
+    function renderSteps(config) {
+      const stepsEl = document.getElementById("steps");
+      stepsEl.innerHTML = "";
+      config.steps.forEach((text, index) => {
+        const item = document.createElement("div");
+        item.className = "step" + (index === 0 ? " active" : "");
+        item.innerHTML = `<span class="dot"></span><span>${text}</span>`;
+        stepsEl.appendChild(item);
+      });
+    }
+
+    function startProgress(config) {
+      const items = [...document.querySelectorAll(".step")];
+      const bar = document.getElementById("progressBar");
+      const total = items.length;
+      let index = 0;
+
+      function update() {
+        items.forEach((el, i) => {
+          el.classList.remove("active", "done");
+          if (i < index) el.classList.add("done");
+          if (i === index) el.classList.add("active");
+        });
+
+        const percent = Math.max(14, Math.min(100, ((index + 1) / total) * 100));
+        bar.style.width = percent + "%";
+      }
+
+      update();
+
+      setInterval(() => {
+        if (index < total - 1) {
+          index += 1;
+        } else if (config.loop) {
+          index = 0;
+        }
+        update();
+      }, config.stepDurationMs);
+    }
+
+    loadConfig().then(config => {
+      document.getElementById("title").textContent = config.title;
+      document.getElementById("description").textContent = config.description;
+      document.getElementById("tagPrimary").textContent = config.tags?.[0] || "Protected Access";
+      document.getElementById("tagSecondary").textContent = config.tags?.[1] || "Mobile optimized";
+      document.getElementById("hint").innerHTML = `<strong>Still loading?</strong> ${config.hint}`;
+      document.getElementById("footerNote").textContent = config.footerNote || "";
+      renderSteps(config);
+      startProgress(config);
+    });
+  </script>
+</body>
+</html>

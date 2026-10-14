@@ -1,0 +1,458 @@
+{
+    "name": "hot-news-tt1.today",
+    "handle": "d424591ba37f417498315f8448d8186e-DONUTS",
+    "registrationDate": "4/2/2026, 8:39:42 PM GMT+3",
+    "expirationDate": "4/2/2027, 8:39:42 PM GMT+3",
+    "lastChangedDate": null,
+    "lastUpdateDate": "6/16/2026, 4:02:55 PM GMT+3",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "roles": [
+                "abuse"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+31.104482297"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "abuse@registrar.eu"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        ""
+                    ]
+                ]
+            ]
+        },
+        {
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "roles": [
+                        "abuse"
+                    ],
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "voice"
+                                },
+                                "uri",
+                                "tel:+31.104482297"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "abuse@registrar.eu"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                ""
+                            ]
+                        ]
+                    ]
+                }
+            ],
+            "handle": "1647",
+            "links": [
+                {
+                    "href": "https://www.openprovider.com/",
+                    "rel": "about",
+                    "value": "https://rdap.registrar.eu/v1/"
+                }
+            ],
+            "objectClassName": "entity",
+            "publicIds": [
+                {
+                    "identifier": "1647",
+                    "type": "IANA Registrar ID"
+                }
+            ],
+            "roles": [
+                "registrar"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Hosting Concepts B.V. d/b/a Registrar.eu"
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "remarks": [
+                {
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ],
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object redacted due to authorization"
+                },
+                {
+                    "description": [
+                        "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant of the queried domain name."
+                    ],
+                    "title": "EMAIL REDACTED FOR PRIVACY",
+                    "type": "object redacted due to authorization"
+                },
+                {
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ],
+                    "title": "REGISTRY REGISTRANT ID REDACTED FOR PRIVACY",
+                    "type": "object redacted due to authorization"
+                },
+                {
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ],
+                    "title": "REGISTRANT ORGANIZATION REDACTED FOR PRIVACY",
+                    "type": "object redacted due to authorization"
+                },
+                {
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ],
+                    "title": "REGISTRY DOMAIN ID REDACTED FOR PRIVACY",
+                    "type": "object redacted due to authorization"
+                }
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "https://contact-form.registrar.eu/?domainName=hot-news-tt1.today&purpose=owner"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "REDACTED FOR PRIVACY"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "REDACTED FOR PRIVACY"
+                    ]
+                ]
+            ]
+        },
+        {
+            "ipAddresses": {
+                "v4": [
+                    "52.56.134.244"
+                ],
+                "v6": [
+                    "2a05:d01c:433:e000:e62c:faa3:9834:41e7"
+                ]
+            },
+            "ldhName": "ns3.openprovider.eu",
+            "objectClassName": "nameserver"
+        },
+        {
+            "ipAddresses": {
+                "v4": [
+                    "52.57.114.204"
+                ],
+                "v6": [
+                    "2a05:d014:f80:6e00:bde7:af96:9434:75d5"
+                ]
+            },
+            "ldhName": "ns1.openprovider.nl",
+            "objectClassName": "nameserver"
+        },
+        {
+            "ipAddresses": {
+                "v4": [
+                    "52.214.115.96"
+                ],
+                "v6": [
+                    "2a05:d018:61d:bd00:21bc:c938:d548:dab1"
+                ]
+            },
+            "ldhName": "ns2.openprovider.be",
+            "objectClassName": "nameserver"
+        },
+        {
+            "handle": "d424591ba37f417498315f8448d8186e-DONUTS",
+            "ldhName": "hot-news-tt1.today",
+            "links": [
+                {
+                    "href": "https://rdap.registrar.eu/v1/domain/hot-news-tt1.today",
+                    "rel": "self",
+                    "type": "application/rdap+json",
+                    "value": "https://rdap.registrar.eu/v1/domain/hot-news-tt1.today"
+                }
+            ],
+            "nameservers": [
+                {
+                    "ipAddresses": {
+                        "v4": [
+                            "52.56.134.244"
+                        ],
+                        "v6": [
+                            "2a05:d01c:433:e000:e62c:faa3:9834:41e7"
+                        ]
+                    },
+                    "ldhName": "ns3.openprovider.eu",
+                    "objectClassName": "nameserver"
+                },
+                {
+                    "ipAddresses": {
+                        "v4": [
+                            "52.57.114.204"
+                        ],
+                        "v6": [
+                            "2a05:d014:f80:6e00:bde7:af96:9434:75d5"
+                        ]
+                    },
+                    "ldhName": "ns1.openprovider.nl",
+                    "objectClassName": "nameserver"
+                },
+                {
+                    "ipAddresses": {
+                        "v4": [
+                            "52.214.115.96"
+                        ],
+                        "v6": [
+                            "2a05:d018:61d:bd00:21bc:c938:d548:dab1"
+                        ]
+                    },
+                    "ldhName": "ns2.openprovider.be",
+                    "objectClassName": "nameserver"
+                }
+            ],
+            "notices": [
+                {
+                    "description": [
+                        "Service subject to Terms of Use."
+                    ],
+                    "links": [
+                        {
+                            "href": "https://www.openprovider.com/en/services/rdap/terms-use-rdap-service",
+                            "rel": "terms-of-service",
+                            "type": "text/html",
+                            "value": "https://rdap.registrar.eu/v1/domain/hot-news-tt1.today"
+                        }
+                    ],
+                    "title": "Terms of Use"
+                },
+                {
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ],
+                    "links": [
+                        {
+                            "href": "https://icann.org/epp",
+                            "rel": "glossary",
+                            "type": "text/html",
+                            "value": "https://rdap.registrar.eu/v1/domain/hot-news-tt1.today"
+                        }
+                    ],
+                    "title": "Status Codes"
+                },
+                {
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ],
+                    "links": [
+                        {
+                            "href": "https://icann.org/wicf",
+                            "rel": "help",
+                            "type": "text/html",
+                            "value": "https://rdap.registrar.eu/v1/domain/hot-news-tt1.today"
+                        }
+                    ],
+                    "title": "RDDS Inaccuracy Complaint Form"
+                }
+            ],
+            "objectClassName": "domain",
+            "rdapConformance": [
+                "rdap_level_0",
+                "icann_rdap_response_profile_1",
+                "icann_rdap_technical_implementation_guide_1",
+                "redacted"
+            ],
+            "redacted": [
+                {
+                    "method": "removal",
+                    "name": {
+                        "type": "Registry Domain ID"
+                    },
+                    "pathLang": "jsonpath",
+                    "prePath": "$.handle"
+                },
+                {
+                    "method": "removal",
+                    "name": {
+                        "type": "Registry Registrant ID"
+                    },
+                    "pathLang": "jsonpath",
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].handle",
+                    "reason": {
+                        "description": "Server policy requires removal due to lack of consent",
+                        "type": "server policy"
+                    }
+                },
+                {
+                    "method": "emptyValue",
+                    "name": {
+                        "type": "Registrant Name"
+                    },
+                    "pathLang": "jsonpath",
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='fn')][3]",
+                    "reason": {
+                        "description": "Server policy requires redaction due to lack of consent",
+                        "type": "server policy"
+                    }
+                },
+                {
+                    "method": "emptyValue",
+                    "name": {
+                        "type": "Registrant Street"
+                    },
+                    "pathLang": "jsonpath",
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][:3]",
+                    "reason": {
+                        "description": "Server policy requires redaction due to lack of consent",
+                        "type": "server policy"
+                    }
+                },
+                {
+                    "method": "emptyValue",
+                    "name": {
+                        "type": "Registrant City"
+                    },
+                    "pathLang": "jsonpath",
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][3]",
+                    "reason": {
+                        "description": "Server policy requires redaction due to lack of consent",
+                        "type": "server policy"
+                    }
+                },
+                {
+                    "method": "emptyValue",
+                    "name": {
+                        "type": "Registrant Postal Code"
+                    },
+                    "pathLang": "jsonpath",
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][5]",
+                    "reason": {
+                        "description": "Server policy requires redaction due to lack of consent",
+                        "type": "server policy"
+                    }
+                },
+                {
+                    "method": "removal",
+                    "name": {
+                        "type": "Registrant Phone"
+                    },
+                    "pathLang": "jsonpath",
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[1].type=='voice')]",
+                    "reason": {
+                        "description": "Server policy requires removal due to lack of consent",
+                        "type": "server policy"
+                    }
+                },
+                {
+                    "method": "removal",
+                    "name": {
+                        "type": "Registrant Email"
+                    },
+                    "pathLang": "jsonpath",
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='email')]",
+                    "reason": {
+                        "description": "Server policy requires removal due to lack of consent",
+                        "type": "server policy"
+                    }
+                },
+                {
+                    "method": "removal",
+                    "name": {
+                        "description": "Administrative Contact"
+                    },
+                    "reason": {
+                        "description": "Server policy requires removal due to lack of consent",
+                        "type": "server policy"
+                    }
+                },
+                {
+                    "method": "removal",
+                    "name": {
+                        "description": "Technical Contact"
+                    },
+                    "reason": {
+                        "description": "Server policy requires removal due to lack of consent",
+                        "type": "server policy"
+                    }
+                }
+            ],
+            "secureDNS": {
+                "delegationSigned": true,
+                "keyData": [
+                    {
+                        "algorithm": 8,
+                        "flags": 257,
+                        "protocol": 3,
+                        "publicKey": "AwEAAZmfSMJdDf8elRz7H5dFu03v3WaQ+dKids8ZJcUwXeX3XZd5pGVmj9gpR9yTRzwfvmszlGAvC9FmYUai0/AdZseXu+jrp8/E1cvBX2kgvo8RniK/Inhc03T1fhs7TakSb1UqYn/tMqNuWksG0Ry9kEuHSpDvUXyOguF9a3BQJ4+VDI9Q+xm5CsSDidPlHcOUK0p8eRCxt0NLYQvcXNP+0WHhfyNNJ2fj2SM8SJ3KZTEr90KRGMQwvuVZ03whmxEVbBwuHnaOcXg2siLlrehS9WpCNuj95X1IDhwcpFFyhejWY1d0hC/QiPiepwMvwlAfbGxM9m0/7AKhsVIoV4QCH6c="
+                    }
+                ]
+            }
+        }
+    ],
+    "domain": "hot-news-tt1.today\r"
+}

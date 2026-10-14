@@ -1,0 +1,497 @@
+{
+    "name": "bridgestone.com",
+    "handle": "1807188_DOMAIN_COM-VRSN",
+    "registrationDate": "6/11/1996, 7:00:00 AM GMT+3",
+    "expirationDate": "6/10/2027, 7:00:00 AM GMT+3",
+    "lastChangedDate": "5/7/2026, 4:15:29 PM GMT+3",
+    "lastUpdateDate": "6/23/2026, 5:37:29 PM GMT+3",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "roles": [
+                "abuse"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+49.68949396850"
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": ""
+                        },
+                        "text",
+                        "abuse@1api.net"
+                    ]
+                ]
+            ]
+        },
+        {
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "roles": [
+                        "abuse"
+                    ],
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                ""
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "voice"
+                                },
+                                "uri",
+                                "tel:+49.68949396850"
+                            ],
+                            [
+                                "email",
+                                {
+                                    "type": ""
+                                },
+                                "text",
+                                "abuse@1api.net"
+                            ]
+                        ]
+                    ]
+                }
+            ],
+            "handle": "1387",
+            "lang": "en-US",
+            "links": [
+                {
+                    "href": "http://www.brights.jp",
+                    "rel": "about",
+                    "type": "application/rdap+json",
+                    "value": "https://rdap.1api.net/"
+                }
+            ],
+            "objectClassName": "entity",
+            "publicIds": [
+                {
+                    "identifier": "1387",
+                    "type": "IANA Registrar ID"
+                }
+            ],
+            "roles": [
+                "registrar"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "1API GmbH"
+                    ]
+                ]
+            ]
+        },
+        {
+            "lang": "en-US",
+            "objectClassName": "entity",
+            "remarks": [
+                {
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ],
+                    "type": "object redacted due to authorization"
+                }
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "JP",
+                            "type": ""
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "Tokyo",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": ""
+                        },
+                        "text",
+                        "info@domain-contact.org"
+                    ]
+                ]
+            ]
+        },
+        {
+            "lang": "en-US",
+            "objectClassName": "entity",
+            "remarks": [
+                {
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ],
+                    "type": "object redacted due to authorization"
+                }
+            ],
+            "roles": [
+                "technical"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Domain Master"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "GMO BRAND SECURITY Inc."
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "JP",
+                            "type": ""
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "Cerulean Tower, 26-1 Sakuragaoka-cho",
+                            "Shibuya-ku",
+                            "Tokyo",
+                            "150-8512",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+81.357841069"
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": ""
+                        },
+                        "text",
+                        "domain.master@brights.jp"
+                    ]
+                ]
+            ]
+        },
+        {
+            "ipAddresses": {
+                "v4": [
+                    "205.251.197.146"
+                ]
+            },
+            "lang": "en-US",
+            "ldhName": "ns-1426.awsdns-50.org",
+            "objectClassName": "nameserver",
+            "status": [
+                "active"
+            ],
+            "unicodeName": "ns-1426.awsdns-50.org"
+        },
+        {
+            "ipAddresses": {
+                "v4": [
+                    "205.251.198.6"
+                ]
+            },
+            "lang": "en-US",
+            "ldhName": "ns-1542.awsdns-00.co.uk",
+            "objectClassName": "nameserver",
+            "status": [
+                "active"
+            ],
+            "unicodeName": "ns-1542.awsdns-00.co.uk"
+        },
+        {
+            "lang": "en-US",
+            "ldhName": "ns-369.awsdns-46.com",
+            "objectClassName": "nameserver",
+            "status": [
+                "active"
+            ],
+            "unicodeName": "ns-369.awsdns-46.com"
+        },
+        {
+            "lang": "en-US",
+            "ldhName": "ns-810.awsdns-37.net",
+            "objectClassName": "nameserver",
+            "status": [
+                "active"
+            ],
+            "unicodeName": "ns-810.awsdns-37.net"
+        },
+        {
+            "handle": "1807188_DOMAIN_COM-VRSN",
+            "ldhName": "bridgestone.com",
+            "nameservers": [
+                {
+                    "ipAddresses": {
+                        "v4": [
+                            "205.251.197.146"
+                        ]
+                    },
+                    "lang": "en-US",
+                    "ldhName": "ns-1426.awsdns-50.org",
+                    "objectClassName": "nameserver",
+                    "status": [
+                        "active"
+                    ],
+                    "unicodeName": "ns-1426.awsdns-50.org"
+                },
+                {
+                    "ipAddresses": {
+                        "v4": [
+                            "205.251.198.6"
+                        ]
+                    },
+                    "lang": "en-US",
+                    "ldhName": "ns-1542.awsdns-00.co.uk",
+                    "objectClassName": "nameserver",
+                    "status": [
+                        "active"
+                    ],
+                    "unicodeName": "ns-1542.awsdns-00.co.uk"
+                },
+                {
+                    "lang": "en-US",
+                    "ldhName": "ns-369.awsdns-46.com",
+                    "objectClassName": "nameserver",
+                    "status": [
+                        "active"
+                    ],
+                    "unicodeName": "ns-369.awsdns-46.com"
+                },
+                {
+                    "lang": "en-US",
+                    "ldhName": "ns-810.awsdns-37.net",
+                    "objectClassName": "nameserver",
+                    "status": [
+                        "active"
+                    ],
+                    "unicodeName": "ns-810.awsdns-37.net"
+                }
+            ],
+            "notices": [
+                {
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ],
+                    "links": [
+                        {
+                            "href": "https://icann.org/epp",
+                            "rel": "glossary",
+                            "title": "More information on domain status codes",
+                            "type": "application/rdap+json",
+                            "value": "https://rdap.1api.net/domain/bridgestone.com"
+                        }
+                    ],
+                    "title": "Status Codes"
+                },
+                {
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ],
+                    "links": [
+                        {
+                            "href": "https://icann.org/wicf",
+                            "rel": "help",
+                            "type": "application/rdap+json",
+                            "value": "https://rdap.1api.net/domain/bridgestone.com"
+                        }
+                    ],
+                    "title": "RDDS Inaccuracy Complaint Form"
+                },
+                {
+                    "description": [
+                        "This data is provided by GMO BRAND SECURITY Inc.",
+                        "for information purposes, and to assist persons obtaining information",
+                        "about or related to domain name registration records.",
+                        "GMO BRAND SECURITY Inc. does not guarantee its accuracy.",
+                        "By submitting a RDAP query, you agree that you will use this data",
+                        "only for lawful purposes and that, under no circumstances, you will",
+                        "use this data to",
+                        "1) allow, enable, or otherwise support the transmission of mass",
+                        "   unsolicited, commercial advertising or solicitations via E-mail",
+                        "   (spam) or",
+                        "2) enable high volume, automated, electronic processes that apply",
+                        "   to this RDAP server.",
+                        "These terms may be changed without prior notice.",
+                        "By submitting this query, you agree to abide by this policy."
+                    ],
+                    "links": [
+                        {
+                            "href": "https://1api.net/legal/terms-of-service",
+                            "rel": "terms-of-service",
+                            "title": "Terms & Conditions",
+                            "value": "https://rdap.1api.net/domain/bridgestone.com"
+                        }
+                    ],
+                    "title": "Terms of Use"
+                }
+            ],
+            "objectClassName": "domain",
+            "rdapConformance": [
+                "rdap_level_0",
+                "icann_rdap_response_profile_1",
+                "icann_rdap_technical_implementation_guide_1",
+                "redacted"
+            ],
+            "redacted": [
+                {
+                    "method": "emptyValue",
+                    "name": {
+                        "type": "Registrant City"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][3]"
+                },
+                {
+                    "method": "replacementValue",
+                    "name": {
+                        "type": "Registrant Email"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='email')]"
+                },
+                {
+                    "method": "emptyValue",
+                    "name": {
+                        "type": "Registrant Name"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='fn')][3]"
+                },
+                {
+                    "method": "removal",
+                    "name": {
+                        "type": "Registrant Organization"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='org')]"
+                },
+                {
+                    "method": "removal",
+                    "name": {
+                        "type": "Registrant Phone"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[1].type=='voice')]"
+                },
+                {
+                    "method": "emptyValue",
+                    "name": {
+                        "type": "Registrant Street"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][:3]"
+                },
+                {
+                    "method": "emptyValue",
+                    "name": {
+                        "type": "Registrant Postal Code"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][5]"
+                },
+                {
+                    "method": "removal",
+                    "name": {
+                        "type": "Tech Fax"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[1].type=='fax')]"
+                },
+                {
+                    "method": "removal",
+                    "name": {
+                        "type": "Registry Registrant ID"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].handle"
+                },
+                {
+                    "method": "removal",
+                    "name": {
+                        "type": "Registry Tech ID"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='tech')].handle"
+                }
+            ],
+            "secureDNS": {
+                "delegationSigned": false
+            },
+            "unicodeName": "bridgestone.com"
+        }
+    ],
+    "domain": "bridgestone.com\r"
+}

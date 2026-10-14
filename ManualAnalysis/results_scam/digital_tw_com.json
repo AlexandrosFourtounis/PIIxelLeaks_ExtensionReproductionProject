@@ -1,0 +1,587 @@
+{
+    "name": "digital-tw.com",
+    "handle": "3069937559_DOMAIN_COM-VRSN",
+    "registrationDate": "2/21/2026, 3:49:23 PM GMT+2",
+    "expirationDate": "2/21/2027, 3:49:23 PM GMT+2",
+    "lastChangedDate": "2/21/2026, 4:44:48 PM GMT+2",
+    "lastUpdateDate": "6/16/2026, 11:35:32 AM GMT+3",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "roles": [
+                "abuse"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "voice"
+                            ]
+                        },
+                        "uri",
+                        "tel:+1.8055000484"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "abuse@globaldomaingroup.com"
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "3956",
+            "roles": [
+                "registrar"
+            ],
+            "publicIds": [
+                {
+                    "type": "IANA Registrar ID",
+                    "identifier": "3956"
+                }
+            ],
+            "links": [
+                {
+                    "rel": "about",
+                    "value": "https://rdap.globaldomaingroup.com/",
+                    "href": "https://globaldomaingroup.com/"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Global Domain Group LLC"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "US"
+                        },
+                        "text",
+                        [
+                            "",
+                            "411 W. Esplanade Drive #1001",
+                            "",
+                            "Oxnard",
+                            "California",
+                            "93036",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "voice"
+                            ]
+                        },
+                        "uri",
+                        "tel:+1.8055000484"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "abuse@globaldomaingroup.com"
+                    ]
+                ]
+            ],
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "roles": [
+                        "abuse"
+                    ],
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                ""
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "voice"
+                                    ]
+                                },
+                                "uri",
+                                "tel:+1.8055000484"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "abuse@globaldomaingroup.com"
+                            ]
+                        ]
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "82f5441a9e0b97cb11c7837ea3dafc1a-Dyna",
+            "roles": [
+                "registrant"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2025-12-05T13:07:14Z"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Super Privacy Service LTD c/o Global Domain Group"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "Global Domain Group Privacy Service"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "US"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "411 W. Esplanade Drive #1001",
+                            "Oxnard",
+                            "California",
+                            "93036",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "voice"
+                            ]
+                        },
+                        "uri",
+                        "tel:+1.8055000484"
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "https://www.globaldomaingroup.com/contact-request.html?domain=digital-tw.com"
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "82f5441a9e0b97cb11c7837ea3dafc1a-Dyna",
+            "roles": [
+                "administrative"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2025-12-05T13:07:14Z"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Super Privacy Service LTD c/o Global Domain Group"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "Global Domain Group Privacy Service"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "US"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "411 W. Esplanade Drive #1001",
+                            "Oxnard",
+                            "California",
+                            "93036",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "voice"
+                            ]
+                        },
+                        "uri",
+                        "tel:+1.8055000484"
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "https://www.globaldomaingroup.com/contact-request.html?domain=digital-tw.com"
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "82f5441a9e0b97cb11c7837ea3dafc1a-Dyna",
+            "roles": [
+                "technical"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2025-12-05T13:07:14Z"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Super Privacy Service LTD c/o Global Domain Group"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "Global Domain Group Privacy Service"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "US"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "411 W. Esplanade Drive #1001",
+                            "Oxnard",
+                            "California",
+                            "93036",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "voice"
+                            ]
+                        },
+                        "uri",
+                        "tel:+1.8055000484"
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "https://www.globaldomaingroup.com/contact-request.html?domain=digital-tw.com"
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "82f5441a9e0b97cb11c7837ea3dafc1a-Dyna",
+            "roles": [
+                "billing"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2025-12-05T13:07:14Z"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Super Privacy Service LTD c/o Global Domain Group"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "Global Domain Group Privacy Service"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "US"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "411 W. Esplanade Drive #1001",
+                            "Oxnard",
+                            "California",
+                            "93036",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "voice"
+                            ]
+                        },
+                        "uri",
+                        "tel:+1.8055000484"
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "https://www.globaldomaingroup.com/contact-request.html?domain=digital-tw.com"
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "nora.ns.cloudflare.com"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "rudy.ns.cloudflare.com"
+        },
+        {
+            "rdapConformance": [
+                "rdap_level_0",
+                "icann_rdap_response_profile_1",
+                "icann_rdap_technical_implementation_guide_1",
+                "redacted"
+            ],
+            "notices": [
+                {
+                    "title": "Status Codes",
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ],
+                    "links": [
+                        {
+                            "rel": "glossary",
+                            "value": "https://rdap.globaldomaingroup.com/domain/DIGITAL-TW.COM",
+                            "href": "https://icann.org/epp",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "RDDS Inaccuracy Complaint Form",
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ],
+                    "links": [
+                        {
+                            "rel": "help",
+                            "value": "https://rdap.globaldomaingroup.com/domain/DIGITAL-TW.COM",
+                            "href": "https://icann.org/wicf",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "Terms of Service",
+                    "description": [
+                        "URL of the Global Domain Group terms of service: https://globaldomaingroup.com/terms-of-service.html"
+                    ],
+                    "links": [
+                        {
+                            "rel": "terms-of-service",
+                            "value": "https://rdap.globaldomaingroup.com/domain/DIGITAL-TW.COM",
+                            "href": "https://globaldomaingroup.com/terms-of-service.html",
+                            "type": "text/html"
+                        }
+                    ]
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.globaldomaingroup.com/domain/DIGITAL-TW.COM",
+                    "rel": "self",
+                    "href": "https://rdap.globaldomaingroup.com/domain/DIGITAL-TW.COM",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "publicIds": [
+                {
+                    "type": "IANA Registrar ID",
+                    "identifier": "3956"
+                }
+            ],
+            "objectClassName": "domain",
+            "handle": "3069937559_DOMAIN_COM-VRSN",
+            "ldhName": "digital-tw.com",
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "nora.ns.cloudflare.com"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "rudy.ns.cloudflare.com"
+                }
+            ],
+            "secureDNS": {
+                "delegationSigned": false
+            },
+            "redacted": [
+                {
+                    "name": {
+                        "description": "Registrant Email"
+                    },
+                    "method": "replacementValue",
+                    "prePath": "$.entities[?(@.roles[*]=='registrant')].vcardArray[1][?(@[0]=='email')][3]",
+                    "replacementPath": "$.entities[?(@.roles[*]=='registrant')].vcardArray[1][?(@[0]=='contact-uri')][3]"
+                },
+                {
+                    "name": {
+                        "description": "Admin Email"
+                    },
+                    "method": "replacementValue",
+                    "prePath": "$.entities[?(@.roles[*]=='administrative')].vcardArray[1][?(@[0]=='email')][3]",
+                    "replacementPath": "$.entities[?(@.roles[*]=='administrative')].vcardArray[1][?(@[0]=='contact-uri')][3]"
+                },
+                {
+                    "name": {
+                        "description": "Tech Email"
+                    },
+                    "method": "replacementValue",
+                    "prePath": "$.entities[?(@.roles[*]=='technical')].vcardArray[1][?(@[0]=='email')][3]",
+                    "replacementPath": "$.entities[?(@.roles[*]=='technical')].vcardArray[1][?(@[0]=='contact-uri')][3]"
+                },
+                {
+                    "name": {
+                        "description": "Billing Email"
+                    },
+                    "method": "replacementValue",
+                    "prePath": "$.entities[?(@.roles[*]=='billing')].vcardArray[1][?(@[0]=='email')][3]",
+                    "replacementPath": "$.entities[?(@.roles[*]=='billing')].vcardArray[1][?(@[0]=='contact-uri')][3]"
+                }
+            ],
+            "port43": "whois.globaldomaingroup.com"
+        }
+    ],
+    "domain": "digital-tw.com\r"
+}

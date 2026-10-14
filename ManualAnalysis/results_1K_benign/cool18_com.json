@@ -1,0 +1,637 @@
+{
+    "name": "cool18.com",
+    "handle": "95773307_DOMAIN_COM-VRSN",
+    "registrationDate": "3/13/2003, 5:45:42 PM GMT+2",
+    "expirationDate": "3/13/2027, 4:45:42 PM GMT+2",
+    "lastChangedDate": "1/27/2026, 3:06:01 AM GMT+2",
+    "lastUpdateDate": "6/21/2026, 10:00:00 PM GMT+3",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Jewella Privacy"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "Jewella Privacy LLC Privacy ID# 10621607"
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "cool18.com@dnic.JewellaPrivacy.com"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "US"
+                        },
+                        "text",
+                        [
+                            "5860 Citrus Blvd, Suite D, #172",
+                            "",
+                            "",
+                            "Harahan",
+                            "LA",
+                            "70123",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+1.5043550545"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object redacted due to authorization",
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ]
+                },
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object redacted due to authorization",
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ]
+                }
+            ],
+            "status": [
+                "removed"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Jewella Privacy"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "Jewella Privacy LLC Privacy ID# 10621607"
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "cool18.com@dnic.JewellaPrivacy.com"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "US"
+                        },
+                        "text",
+                        [
+                            "5860 Citrus Blvd, Suite D, #172",
+                            "",
+                            "",
+                            "Harahan",
+                            "LA",
+                            "70123",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+1.5043550545"
+                    ]
+                ]
+            ],
+            "roles": [
+                "administrative"
+            ],
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object redacted due to authorization",
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ]
+                },
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object redacted due to authorization",
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ]
+                }
+            ],
+            "status": [
+                "removed"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Jewella Privacy"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "Jewella Privacy LLC Privacy ID# 10621607"
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "cool18.com@dnic.JewellaPrivacy.com"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "US"
+                        },
+                        "text",
+                        [
+                            "5860 Citrus Blvd, Suite D, #172",
+                            "",
+                            "",
+                            "Harahan",
+                            "LA",
+                            "70123",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+1.5043550545"
+                    ]
+                ]
+            ],
+            "roles": [
+                "billing"
+            ],
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object redacted due to authorization",
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ]
+                },
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object redacted due to authorization",
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ]
+                }
+            ],
+            "status": [
+                "removed"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Jewella Privacy"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "Jewella Privacy LLC Privacy ID# 10621607"
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "cool18.com@dnic.JewellaPrivacy.com"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "US"
+                        },
+                        "text",
+                        [
+                            "5860 Citrus Blvd, Suite D, #172",
+                            "",
+                            "",
+                            "Harahan",
+                            "LA",
+                            "70123",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+1.5043550545"
+                    ]
+                ]
+            ],
+            "roles": [
+                "technical"
+            ],
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object redacted due to authorization",
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ]
+                },
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object redacted due to authorization",
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ]
+                }
+            ],
+            "status": [
+                "removed"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "roles": [
+                "abuse"
+            ],
+            "handle": "291",
+            "publicIds": [
+                {
+                    "identifier": "291",
+                    "type": "IANA Registrar ID"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "DNC Holdings, Inc"
+                    ],
+                    [
+                        "adr",
+                        {},
+                        "text",
+                        [
+                            "9029 Jefferson Hwy",
+                            "",
+                            "",
+                            "River Ridge",
+                            "LA",
+                            "70123",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "abuse@directnic.com"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "tel:+15043550081"
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "roles": [
+                "registrar"
+            ],
+            "handle": "291",
+            "publicIds": [
+                {
+                    "identifier": "291",
+                    "type": "IANA Registrar ID"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "DNC Holdings, Inc"
+                    ],
+                    [
+                        "adr",
+                        {},
+                        "text",
+                        [
+                            "9029 Jefferson Hwy",
+                            "",
+                            "",
+                            "River Ridge",
+                            "LA",
+                            "70123",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "registrar@directnic.com"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "tel:+15043550081"
+                    ]
+                ]
+            ],
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "roles": [
+                        "abuse"
+                    ],
+                    "handle": "291",
+                    "publicIds": [
+                        {
+                            "identifier": "291",
+                            "type": "IANA Registrar ID"
+                        }
+                    ],
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "DNC Holdings, Inc"
+                            ],
+                            [
+                                "adr",
+                                {},
+                                "text",
+                                [
+                                    "9029 Jefferson Hwy",
+                                    "",
+                                    "",
+                                    "River Ridge",
+                                    "LA",
+                                    "70123",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "email",
+                                {
+                                    "type": "work"
+                                },
+                                "text",
+                                "abuse@directnic.com"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "voice"
+                                },
+                                "text",
+                                "tel:+15043550081"
+                            ]
+                        ]
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns2.zoneedit.com",
+            "status": [
+                "active"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2026-01-27T01:06:01Z"
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns13.zoneedit.com",
+            "status": [
+                "active"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2026-01-27T01:06:01Z"
+                }
+            ]
+        },
+        {
+            "rdapConformance": [
+                "rdap_level_0",
+                "icann_rdap_response_profile_0",
+                "icann_rdap_technical_implementation_guide_0"
+            ],
+            "handle": "95773307_DOMAIN_COM-VRSN",
+            "port43": "whois.directnic.com",
+            "notices": [
+                {
+                    "description": [
+                        "Service subject to Terms of Use"
+                    ],
+                    "links": [
+                        {
+                            "rel": "related",
+                            "href": "https://rdap.directnic.com/rdap/terms",
+                            "value": "https://rdap.directnic.com/rdap/terms"
+                        }
+                    ],
+                    "title": "Terms of Use"
+                },
+                {
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ],
+                    "links": [
+                        {
+                            "rel": "related",
+                            "href": "https://icann.org/epp",
+                            "value": "https://icann.org/epp"
+                        }
+                    ],
+                    "title": "Status Codes"
+                },
+                {
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ],
+                    "links": [
+                        {
+                            "rel": "related",
+                            "href": "https://icann.org/wicf",
+                            "value": "http://rdap.directnic.com/rdap/domain/COOL18.COM"
+                        }
+                    ],
+                    "title": "RDDS Inaccuracy Complaint Form"
+                }
+            ],
+            "objectClassName": "domain",
+            "ldhName": "cool18.com",
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "https://rdap.directnic.com/rdap/cool18.com",
+                    "value": "https://rdap.directnic.com/rdap/cool18.com"
+                }
+            ],
+            "unicodeName": "cool18.com",
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns2.zoneedit.com",
+                    "status": [
+                        "active"
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2026-01-27T01:06:01Z"
+                        }
+                    ]
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns13.zoneedit.com",
+                    "status": [
+                        "active"
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2026-01-27T01:06:01Z"
+                        }
+                    ]
+                }
+            ],
+            "secureDNS": {
+                "delegationSigned": false,
+                "dsData": []
+            },
+            "publicIds": [
+                {
+                    "identifier": "291",
+                    "type": "IANA Registrar ID"
+                }
+            ]
+        }
+    ],
+    "domain": "cool18.com\r"
+}

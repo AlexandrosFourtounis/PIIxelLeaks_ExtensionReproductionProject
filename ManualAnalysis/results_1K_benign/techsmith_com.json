@@ -1,0 +1,577 @@
+{
+    "name": "techsmith.com",
+    "handle": "130960_DOMAIN_COM-VRSN",
+    "registrationDate": "3/8/1995, 7:00:00 AM GMT+2",
+    "expirationDate": "3/9/2027, 7:00:00 AM GMT+2",
+    "lastChangedDate": "2/4/2026, 5:38:50 PM GMT+2",
+    "lastUpdateDate": "6/23/2026, 10:35:05 AM GMT+3",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "roles": [
+                "abuse"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "voice"
+                            ]
+                        },
+                        "uri",
+                        "tel:+1.6505854708"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "abuse@dynadot.com"
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "472",
+            "roles": [
+                "registrar"
+            ],
+            "publicIds": [
+                {
+                    "type": "IANA Registrar ID",
+                    "identifier": "472"
+                }
+            ],
+            "links": [
+                {
+                    "rel": "about",
+                    "value": "https://rdap.dynadot.com/",
+                    "href": "https://dynadot.com/"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "DYNADOT LLC"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "US"
+                        },
+                        "text",
+                        [
+                            "",
+                            "PO Box 701",
+                            "",
+                            "San Mateo",
+                            "California",
+                            "94401",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "voice"
+                            ]
+                        },
+                        "uri",
+                        "tel:+1.6505854708"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "abuse@dynadot.com"
+                    ]
+                ]
+            ],
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "roles": [
+                        "abuse"
+                    ],
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                ""
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "voice"
+                                    ]
+                                },
+                                "uri",
+                                "tel:+1.6505854708"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "abuse@dynadot.com"
+                            ]
+                        ]
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "e71924746bd2f9f6a8025f86a7fa76df-Dyna",
+            "roles": [
+                "registrant"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2015-06-03T21:48:44Z"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Domain Administrator"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "TechSmith Corporation"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "US"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "2405 Woodlake Drive",
+                            "Okemos",
+                            "MI",
+                            "48864",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "voice"
+                            ]
+                        },
+                        "uri",
+                        "tel:+1.5173812300"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "hostmaster@techsmith.com"
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "e71924746bd2f9f6a8025f86a7fa76df-Dyna",
+            "roles": [
+                "administrative"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2015-06-03T21:48:44Z"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Domain Administrator"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "TechSmith Corporation"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "US"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "2405 Woodlake Drive",
+                            "Okemos",
+                            "MI",
+                            "48864",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "voice"
+                            ]
+                        },
+                        "uri",
+                        "tel:+1.5173812300"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "hostmaster@techsmith.com"
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "e71924746bd2f9f6a8025f86a7fa76df-Dyna",
+            "roles": [
+                "technical"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2015-06-03T21:48:44Z"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Domain Administrator"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "TechSmith Corporation"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "US"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "2405 Woodlake Drive",
+                            "Okemos",
+                            "MI",
+                            "48864",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "voice"
+                            ]
+                        },
+                        "uri",
+                        "tel:+1.5173812300"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "hostmaster@techsmith.com"
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "e71924746bd2f9f6a8025f86a7fa76df-Dyna",
+            "roles": [
+                "billing"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2015-06-03T21:48:44Z"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Domain Administrator"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "TechSmith Corporation"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "US"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "2405 Woodlake Drive",
+                            "Okemos",
+                            "MI",
+                            "48864",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "voice"
+                            ]
+                        },
+                        "uri",
+                        "tel:+1.5173812300"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "hostmaster@techsmith.com"
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns0.techsmith.com"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns1.techsmith.com"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns2.techsmith.com"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns3.techsmith.com"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns4.techsmith.com"
+        },
+        {
+            "rdapConformance": [
+                "rdap_level_0",
+                "icann_rdap_response_profile_1",
+                "icann_rdap_technical_implementation_guide_1",
+                "redacted"
+            ],
+            "notices": [
+                {
+                    "title": "Status Codes",
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ],
+                    "links": [
+                        {
+                            "rel": "glossary",
+                            "value": "https://rdap.dynadot.com/domain/TECHSMITH.COM",
+                            "href": "https://icann.org/epp",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "RDDS Inaccuracy Complaint Form",
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ],
+                    "links": [
+                        {
+                            "rel": "help",
+                            "value": "https://rdap.dynadot.com/domain/TECHSMITH.COM",
+                            "href": "https://icann.org/wicf",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "Terms of Service",
+                    "description": [
+                        "URL of the Dynadot terms of service: https://www.dynadot.com/registration_agreement.html"
+                    ],
+                    "links": [
+                        {
+                            "rel": "terms-of-service",
+                            "value": "https://rdap.dynadot.com/domain/TECHSMITH.COM",
+                            "href": "https://www.dynadot.com/registration_agreement.html",
+                            "type": "text/html"
+                        }
+                    ]
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.dynadot.com/domain/TECHSMITH.COM",
+                    "rel": "self",
+                    "href": "https://rdap.dynadot.com/domain/TECHSMITH.COM",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "publicIds": [
+                {
+                    "type": "IANA Registrar ID",
+                    "identifier": "472"
+                }
+            ],
+            "objectClassName": "domain",
+            "handle": "130960_DOMAIN_COM-VRSN",
+            "ldhName": "techsmith.com",
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns0.techsmith.com"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns1.techsmith.com"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns2.techsmith.com"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns3.techsmith.com"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns4.techsmith.com"
+                }
+            ],
+            "secureDNS": {
+                "delegationSigned": false
+            },
+            "port43": "whois.dynadot.com"
+        }
+    ],
+    "domain": "techsmith.com\r"
+}

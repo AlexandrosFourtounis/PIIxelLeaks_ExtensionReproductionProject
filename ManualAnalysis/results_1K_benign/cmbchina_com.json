@@ -1,0 +1,469 @@
+{
+    "name": "cmbchina.com",
+    "handle": "229828_DOMAIN_COM-VRSN",
+    "registrationDate": "4/28/1997, 7:00:00 AM GMT+3 (by NSI)",
+    "expirationDate": "4/29/2030, 7:00:00 AM GMT+3 (by zdns)",
+    "lastChangedDate": "10/18/2024, 9:29:04 AM GMT+3 (by axia)",
+    "lastUpdateDate": "6/23/2026, 7:14:33 PM GMT+3",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "handle": "",
+            "roles": [
+                "abuse"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "tech-support@zdns.cn"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "86.01058813521"
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "1723",
+            "links": [
+                {
+                    "value": "https://registrar.zdnsgtld.com",
+                    "rel": "about",
+                    "href": "https://www.zdns.cn",
+                    "type": "text/html"
+                }
+            ],
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "handle": "",
+                    "roles": [
+                        "abuse"
+                    ],
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                ""
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "tech-support@zdns.cn"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "voice"
+                                },
+                                "text",
+                                "86.01058813521"
+                            ]
+                        ]
+                    ]
+                }
+            ],
+            "roles": [
+                "registrar"
+            ],
+            "publicIds": [
+                {
+                    "type": "IANA Registrar ID",
+                    "identifier": "1723"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Internet Domain Name System Beijing Engineering Research Center LLC (ZDNS)"
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "",
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ],
+                    "type": "object redacted due to authorization"
+                }
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "https://mailforward.yun.zdns.cn/"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "CN"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "ShenZhen",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "",
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ],
+                    "type": "object redacted due to authorization"
+                }
+            ],
+            "roles": [
+                "administrative"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "https://mailforward.yun.zdns.cn/"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "CN"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "ShenZhen",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "",
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ],
+                    "type": "object redacted due to authorization"
+                }
+            ],
+            "roles": [
+                "technical"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "https://mailforward.yun.zdns.cn/"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "CN"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "ShenZhen",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "",
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ],
+                    "type": "object redacted due to authorization"
+                }
+            ],
+            "roles": [
+                "billing"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "https://mailforward.yun.zdns.cn/"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "CN"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "ShenZhen",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns1.cmbchina.com"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns4.cmbchina.com"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns3.cmbchina.com"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns2.cmbchina.com"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns114.cmbchina.com"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns114.cmbchina.com"
+        },
+        {
+            "rdapConformance": [
+                "rdap_level_0",
+                "icann_rdap_response_profile_0",
+                "icann_rdap_response_profile_1",
+                "icann_rdap_technical_implementation_guide_0",
+                "icann_rdap_technical_implementation_guide_1"
+            ],
+            "notices": [
+                {
+                    "title": "Status Codes",
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://icann.org/epp",
+                            "rel": "glossary",
+                            "href": "https://icann.org/epp",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "Terms of Use",
+                    "description": [
+                        "By submitting an RDAP query, you agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to:",
+                        "(1) allow, enable, or otherwise support the transmission by email, telephone, or facsimile of mass, unsolicited, commercial advertising, or spam;  or",
+                        "(2) enable high volume, automated, or electronic processes that send queries data, or email to ZDNS (or its systems) or the domain name contacts (or its systems).",
+                        "ZDNS reserves the right to modify these terms at any time.",
+                        "By submitting this query, you agree to abide by this policy."
+                    ],
+                    "links": [
+                        {
+                            "value": "https://registrar.zdnsgtld.com/domain/cmbchina.com",
+                            "rel": "alternate",
+                            "href": "https://www.zdns.cn",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "RDDS Inaccuracy Complaint Form",
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://icann.org/wicf",
+                            "rel": "help",
+                            "href": "https://icann.org/wicf",
+                            "type": "text/html"
+                        }
+                    ]
+                }
+            ],
+            "objectClassName": "domain",
+            "handle": "229828_DOMAIN_COM-VRSN",
+            "links": [
+                {
+                    "value": "https://registrar.zdnsgtld.com/domain/cmbchina.com",
+                    "rel": "self",
+                    "href": "https://registrar.zdnsgtld.com/domain/cmbchina.com",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "lang": "en",
+            "ldhName": "cmbchina.com",
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns1.cmbchina.com"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns4.cmbchina.com"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns3.cmbchina.com"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns2.cmbchina.com"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns114.cmbchina.com"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns114.cmbchina.com"
+                }
+            ],
+            "secureDNS": {
+                "delegationSigned": false
+            }
+        }
+    ],
+    "domain": "cmbchina.com"
+}

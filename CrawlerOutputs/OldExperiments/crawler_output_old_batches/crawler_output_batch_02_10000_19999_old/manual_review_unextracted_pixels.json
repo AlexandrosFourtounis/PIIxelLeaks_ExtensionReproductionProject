@@ -1,0 +1,20 @@
+{
+    "dot-st.com": {
+        "state_type": "CAPI_OR_NETWORK"
+    },
+    "signnow.com": {
+        "state_type": "CAPI_OR_NETWORK"
+    },
+    "sli.do": {
+        "state_type": "CAPI_OR_NETWORK"
+    },
+    "broadwayworld.com": {
+        "state_type": "CAPI_OR_NETWORK"
+    },
+    "pg.com": {
+        "state_type": "CAPI_OR_NETWORK"
+    },
+    "mango.com": {
+        "state_type": "CAPI_OR_NETWORK"
+    }
+}

@@ -1,0 +1,505 @@
+{
+    "name": "mbusa.com",
+    "handle": "505355_DOMAIN_COM-VRSN",
+    "registrationDate": "12/20/1996, 7:00:00 AM GMT+2",
+    "expirationDate": "12/19/2034, 7:00:00 AM GMT+2",
+    "lastChangedDate": "1/30/2025, 1:34:52 PM GMT+2",
+    "lastUpdateDate": "6/23/2026, 4:44:30 PM GMT+3",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "roles": [
+                "abuse"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+49.68949396850"
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": ""
+                        },
+                        "text",
+                        "abusereport@key-systems.net"
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "http://www.report-abuse.online"
+                    ]
+                ]
+            ]
+        },
+        {
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "roles": [
+                        "abuse"
+                    ],
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                ""
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "voice"
+                                },
+                                "uri",
+                                "tel:+49.68949396850"
+                            ],
+                            [
+                                "email",
+                                {
+                                    "type": ""
+                                },
+                                "text",
+                                "abusereport@key-systems.net"
+                            ],
+                            [
+                                "contact-uri",
+                                {},
+                                "uri",
+                                "http://www.report-abuse.online"
+                            ]
+                        ]
+                    ]
+                }
+            ],
+            "handle": "269",
+            "lang": "en-US",
+            "links": [
+                {
+                    "href": "",
+                    "rel": "about",
+                    "type": "application/rdap+json",
+                    "value": "https://rdap.rrpproxy.net/"
+                }
+            ],
+            "objectClassName": "entity",
+            "publicIds": [
+                {
+                    "identifier": "269",
+                    "type": "IANA Registrar ID"
+                }
+            ],
+            "roles": [
+                "registrar"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Key-Systems GmbH"
+                    ]
+                ]
+            ]
+        },
+        {
+            "lang": "en-US",
+            "objectClassName": "entity",
+            "remarks": [
+                {
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ],
+                    "type": "object redacted due to authorization"
+                }
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "mr Domain Manager"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "Mercedes-Benz Group AG"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "DE",
+                            "type": ""
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "Mercedesstrasse 120",
+                            "Stuttgart",
+                            "BW",
+                            "70372",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+49.1608623132"
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": ""
+                        },
+                        "text",
+                        "domains.admin@mercedes-benz.com"
+                    ]
+                ]
+            ]
+        },
+        {
+            "lang": "en-US",
+            "objectClassName": "entity",
+            "remarks": [
+                {
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ],
+                    "type": "object redacted due to authorization"
+                }
+            ],
+            "roles": [
+                "technical"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "mr Domain Manager"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "Mercedes-Benz Group AG"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "DE",
+                            "type": ""
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "Mercedesstrasse 120",
+                            "Stuttgart",
+                            "BW",
+                            "70372",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+49.1608623132"
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": ""
+                        },
+                        "text",
+                        "domains.admin@mercedes-benz.com"
+                    ]
+                ]
+            ]
+        },
+        {
+            "ipAddresses": {
+                "v4": [
+                    "141.113.0.53"
+                ],
+                "v6": [
+                    "2a03:9e42:e000:1:0:0:0:53"
+                ]
+            },
+            "lang": "en-US",
+            "ldhName": "ns1.corpinter.net",
+            "objectClassName": "nameserver",
+            "status": [
+                "active"
+            ],
+            "unicodeName": "ns1.corpinter.net"
+        },
+        {
+            "ipAddresses": {
+                "v4": [
+                    "141.113.8.53"
+                ],
+                "v6": [
+                    "2a03:9e42:e010:1:0:0:0:53"
+                ]
+            },
+            "lang": "en-US",
+            "ldhName": "ns2.corpinter.de",
+            "objectClassName": "nameserver",
+            "status": [
+                "active"
+            ],
+            "unicodeName": "ns2.corpinter.de"
+        },
+        {
+            "ipAddresses": {
+                "v4": [
+                    "141.113.136.53"
+                ]
+            },
+            "lang": "en-US",
+            "ldhName": "ns3.corpinter.net",
+            "objectClassName": "nameserver",
+            "status": [
+                "active"
+            ],
+            "unicodeName": "ns3.corpinter.net"
+        },
+        {
+            "ipAddresses": {
+                "v4": [
+                    "141.113.168.53"
+                ],
+                "v6": [
+                    "2a03:9e41:e101:1001:0:0:0:53"
+                ]
+            },
+            "lang": "en-US",
+            "ldhName": "ns4.corpinter.de",
+            "objectClassName": "nameserver",
+            "status": [
+                "active"
+            ],
+            "unicodeName": "ns4.corpinter.de"
+        },
+        {
+            "handle": "505355_DOMAIN_COM-VRSN",
+            "ldhName": "mbusa.com",
+            "nameservers": [
+                {
+                    "ipAddresses": {
+                        "v4": [
+                            "141.113.0.53"
+                        ],
+                        "v6": [
+                            "2a03:9e42:e000:1:0:0:0:53"
+                        ]
+                    },
+                    "lang": "en-US",
+                    "ldhName": "ns1.corpinter.net",
+                    "objectClassName": "nameserver",
+                    "status": [
+                        "active"
+                    ],
+                    "unicodeName": "ns1.corpinter.net"
+                },
+                {
+                    "ipAddresses": {
+                        "v4": [
+                            "141.113.8.53"
+                        ],
+                        "v6": [
+                            "2a03:9e42:e010:1:0:0:0:53"
+                        ]
+                    },
+                    "lang": "en-US",
+                    "ldhName": "ns2.corpinter.de",
+                    "objectClassName": "nameserver",
+                    "status": [
+                        "active"
+                    ],
+                    "unicodeName": "ns2.corpinter.de"
+                },
+                {
+                    "ipAddresses": {
+                        "v4": [
+                            "141.113.136.53"
+                        ]
+                    },
+                    "lang": "en-US",
+                    "ldhName": "ns3.corpinter.net",
+                    "objectClassName": "nameserver",
+                    "status": [
+                        "active"
+                    ],
+                    "unicodeName": "ns3.corpinter.net"
+                },
+                {
+                    "ipAddresses": {
+                        "v4": [
+                            "141.113.168.53"
+                        ],
+                        "v6": [
+                            "2a03:9e41:e101:1001:0:0:0:53"
+                        ]
+                    },
+                    "lang": "en-US",
+                    "ldhName": "ns4.corpinter.de",
+                    "objectClassName": "nameserver",
+                    "status": [
+                        "active"
+                    ],
+                    "unicodeName": "ns4.corpinter.de"
+                }
+            ],
+            "notices": [
+                {
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ],
+                    "links": [
+                        {
+                            "href": "https://icann.org/epp",
+                            "rel": "glossary",
+                            "title": "More information on domain status codes",
+                            "type": "application/rdap+json",
+                            "value": "https://rdap.rrpproxy.net/domain/mbusa.com"
+                        }
+                    ],
+                    "title": "Status Codes"
+                },
+                {
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ],
+                    "links": [
+                        {
+                            "href": "https://icann.org/wicf",
+                            "rel": "help",
+                            "type": "application/rdap+json",
+                            "value": "https://rdap.rrpproxy.net/domain/mbusa.com"
+                        }
+                    ],
+                    "title": "RDDS Inaccuracy Complaint Form"
+                },
+                {
+                    "description": [
+                        "The data in the RDAP database of Key-Systems GmbH is provided by",
+                        "Key-Systems GmbH for information purposes, and to assist persons in",
+                        "obtaining information about or related to domain name registration",
+                        "records. Key-Systems GmbH does not guarantee its accuracy.",
+                        "By submitting a RDAP query, you agree that you will use this data",
+                        "only for lawful purposes and that, under no circumstances, you will",
+                        "use this data to",
+                        "1) allow, enable, or otherwise support the transmission of mass",
+                        "   unsolicited, commercial advertising or solicitations via E-mail",
+                        "   (spam); or",
+                        "2) enable high volume, automated, electronic processes that apply",
+                        "   to Key-Systems GmbH or its systems.",
+                        "Key-Systems GmbH reserves the right to modify these terms.",
+                        "By submitting this query, you agree to abide by this policy."
+                    ],
+                    "links": [
+                        {
+                            "href": "https://www.key-systems.net/en/legal/terms-conditions",
+                            "rel": "terms-of-service",
+                            "title": "Terms & Conditions",
+                            "value": "https://rdap.rrpproxy.net/domain/mbusa.com"
+                        }
+                    ],
+                    "title": "Terms of Use"
+                }
+            ],
+            "objectClassName": "domain",
+            "rdapConformance": [
+                "rdap_level_0",
+                "icann_rdap_response_profile_1",
+                "icann_rdap_technical_implementation_guide_1",
+                "redacted"
+            ],
+            "redacted": [
+                {
+                    "method": "removal",
+                    "name": {
+                        "type": "Registry Registrant ID"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].handle"
+                },
+                {
+                    "method": "removal",
+                    "name": {
+                        "type": "Registry Tech ID"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='tech')].handle"
+                }
+            ],
+            "secureDNS": {
+                "delegationSigned": false
+            },
+            "unicodeName": "mbusa.com"
+        }
+    ],
+    "domain": "mbusa.com\r"
+}

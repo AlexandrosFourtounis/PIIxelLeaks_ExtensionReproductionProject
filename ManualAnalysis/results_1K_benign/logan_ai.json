@@ -1,0 +1,83 @@
+{
+    "name": null,
+    "handle": null,
+    "registrationDate": null,
+    "expirationDate": null,
+    "lastChangedDate": null,
+    "lastUpdateDate": null,
+    "rawData": [
+        {
+            "notices": [
+                {
+                    "links": [
+                        {
+                            "href": "https://icann.org/epp",
+                            "type": "application/rdap+json",
+                            "rel": "glossary",
+                            "title": "More information on domain status codes",
+                            "value": "https://rdap.rrpproxy.net/domain/"
+                        }
+                    ],
+                    "title": "Status Codes",
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ]
+                },
+                {
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ],
+                    "title": "RDDS Inaccuracy Complaint Form",
+                    "links": [
+                        {
+                            "rel": "help",
+                            "href": "https://icann.org/wicf",
+                            "type": "application/rdap+json",
+                            "value": "https://rdap.rrpproxy.net/domain/"
+                        }
+                    ]
+                },
+                {
+                    "description": [
+                        "The data in the RDAP database of Key-Systems GmbH is provided by",
+                        "Key-Systems GmbH for information purposes, and to assist persons in",
+                        "obtaining information about or related to domain name registration",
+                        "records. Key-Systems GmbH does not guarantee its accuracy.",
+                        "By submitting a RDAP query, you agree that you will use this data",
+                        "only for lawful purposes and that, under no circumstances, you will",
+                        "use this data to",
+                        "1) allow, enable, or otherwise support the transmission of mass",
+                        "   unsolicited, commercial advertising or solicitations via E-mail",
+                        "   (spam); or",
+                        "2) enable high volume, automated, electronic processes that apply",
+                        "   to Key-Systems GmbH or its systems.",
+                        "Key-Systems GmbH reserves the right to modify these terms.",
+                        "By submitting this query, you agree to abide by this policy."
+                    ],
+                    "title": "Terms of Use",
+                    "links": [
+                        {
+                            "rel": "terms-of-service",
+                            "href": null,
+                            "title": "Terms & Conditions",
+                            "value": "https://rdap.rrpproxy.net/domain/"
+                        }
+                    ]
+                }
+            ],
+            "title": "Error in processing the request.",
+            "errorCode": 404,
+            "lang": "en-US",
+            "description": [
+                "Domain not found"
+            ],
+            "rdapConformance": [
+                "rdap_level_0",
+                "icann_rdap_response_profile_1",
+                "icann_rdap_technical_implementation_guide_1",
+                "redacted"
+            ]
+        }
+    ],
+    "domain": "logan.ai\r"
+}

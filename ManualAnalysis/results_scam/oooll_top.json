@@ -1,0 +1,361 @@
+{
+    "name": "oooll.top",
+    "handle": "3972",
+    "registrationDate": "2/24/2026, 8:11:06 AM GMT+2",
+    "expirationDate": "2/24/2027, 8:11:06 AM GMT+2",
+    "lastChangedDate": "1/1/1, 1:34:52 AM GMT+1:34:52",
+    "lastUpdateDate": "2/24/2026, 8:30:05 AM GMT+2",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "roles": [
+                "abuse"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "voice"
+                            ]
+                        },
+                        "uri",
+                        "tel:+852.55737874"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "abuse@kouming.com"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Hongkong Kouming International Limited"
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "roles": [
+                "registrar"
+            ],
+            "handle": "3972",
+            "publicIds": [
+                {
+                    "identifier": "3972",
+                    "type": "IANA Registrar ID"
+                }
+            ],
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "roles": [
+                        "abuse"
+                    ],
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "voice"
+                                    ]
+                                },
+                                "uri",
+                                "tel:+852.55737874"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "abuse@kouming.com"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Hongkong Kouming International Limited"
+                            ]
+                        ]
+                    ]
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Hongkong Kouming International Limited"
+                    ]
+                ]
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.kouming.com/",
+                    "rel": "about",
+                    "href": "https://www.kouming.com"
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "roles": [
+                "registrant"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "https://www.kouming.com/domain/disclosure"
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "roles": [
+                "technical"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "https://www.kouming.com/domain/disclosure"
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns1.kouming.net"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns2.kouming.net"
+        },
+        {
+            "objectClassName": "domain",
+            "ldhName": "oooll.top",
+            "secureDNS": {
+                "delegationSigned": false
+            },
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns1.kouming.net"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns2.kouming.net"
+                }
+            ],
+            "lang": "en",
+            "rdapConformance": [
+                "redacted",
+                "rdap_level_0",
+                "icann_rdap_technical_implementation_guide_1",
+                "icann_rdap_response_profile_1"
+            ],
+            "port43": "grs-whois.kouming.com",
+            "notices": [
+                {
+                    "title": "RDAP Terms of Service",
+                    "description": [
+                        "By querying this RDAP service, you agree to comply with the RDAP Terms of Service."
+                    ],
+                    "links": [
+                        {
+                            "href": "https://www.kouming.com/",
+                            "rel": "terms-of-service",
+                            "type": "text/html",
+                            "value": "https://rdap.kouming.com/domain/oooll.top"
+                        }
+                    ]
+                },
+                {
+                    "title": "Status Codes",
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ],
+                    "links": [
+                        {
+                            "href": "https://icann.org/epp",
+                            "rel": "glossary",
+                            "type": "text/html",
+                            "value": "https://rdap.kouming.com/domain/oooll.top"
+                        }
+                    ]
+                },
+                {
+                    "title": "RDDS Inaccuracy Complaint Form",
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ],
+                    "links": [
+                        {
+                            "href": "https://icann.org/wicf",
+                            "rel": "help",
+                            "type": "text/html",
+                            "value": "https://rdap.kouming.com/domain/oooll.top"
+                        }
+                    ]
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.kouming.com/domain/oooll.top",
+                    "rel": "self",
+                    "href": "https://rdap.kouming.com/domain/oooll.top",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "redacted": [
+                {
+                    "name": {
+                        "type": "Registry Domain ID"
+                    },
+                    "method": "removal",
+                    "reason": {
+                        "description": ""
+                    }
+                },
+                {
+                    "name": {
+                        "type": "Registry Registrant ID"
+                    },
+                    "method": "removal",
+                    "reason": {
+                        "description": ""
+                    }
+                },
+                {
+                    "name": {
+                        "type": "Registrant Name"
+                    },
+                    "method": "emptyValue",
+                    "reason": {
+                        "description": ""
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='fn')][3]"
+                },
+                {
+                    "name": {
+                        "type": "Registrant Email"
+                    },
+                    "method": "replacementValue",
+                    "reason": {
+                        "description": ""
+                    },
+                    "replacementPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='contact-uri')]"
+                },
+                {
+                    "name": {
+                        "type": "Registrant Phone"
+                    },
+                    "method": "removal",
+                    "reason": {
+                        "description": ""
+                    }
+                },
+                {
+                    "name": {
+                        "type": "Tech Name"
+                    },
+                    "method": "emptyValue",
+                    "reason": {
+                        "description": ""
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='fn')][3]"
+                },
+                {
+                    "name": {
+                        "type": "Tech Email"
+                    },
+                    "method": "replacementValue",
+                    "reason": {
+                        "description": ""
+                    },
+                    "replacementPath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='contact-uri')]"
+                },
+                {
+                    "name": {
+                        "type": "Tech Phone"
+                    },
+                    "method": "removal",
+                    "reason": {
+                        "description": ""
+                    }
+                }
+            ]
+        }
+    ],
+    "domain": "oooll.top\r"
+}

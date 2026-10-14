@@ -1,0 +1,729 @@
+{
+    "name": "politie.nl",
+    "handle": "REDACTED-BY-SIDN",
+    "registrationDate": "12/27/1996, 1:00:00 AM GMT+2",
+    "expirationDate": null,
+    "lastChangedDate": "12/9/2025, 1:50:59 PM GMT+2",
+    "lastUpdateDate": "6/23/2026, 6:12:28 PM GMT+3",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "handle": "PET070286-KPN00",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "REDACTED FOR PRIVACY"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "network-security@politie.nl"
+                    ]
+                ]
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.sidn.nl/entity/PET070286-KPN00",
+                    "rel": "about",
+                    "href": "https://rdap.sidn.nl/entity/PET070286-KPN00",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "roles": [
+                "administrative"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "TEC019162-KPN00",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "REDACTED FOR PRIVACY"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "domain@kpn.com"
+                    ]
+                ]
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.sidn.nl/entity/TEC019162-KPN00",
+                    "rel": "about",
+                    "href": "https://rdap.sidn.nl/entity/TEC019162-KPN00",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "roles": [
+                "technical"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "TEC021149-KPN00",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "REDACTED FOR PRIVACY"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "network-security@politie.nl"
+                    ]
+                ]
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.sidn.nl/entity/TEC021149-KPN00",
+                    "rel": "about",
+                    "href": "https://rdap.sidn.nl/entity/TEC021149-KPN00",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "roles": [
+                "technical"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "POL019128-KPN00",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Politie"
+                    ]
+                ]
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.sidn.nl/entity/POL019128-KPN00",
+                    "rel": "about",
+                    "href": "https://rdap.sidn.nl/entity/POL019128-KPN00",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "roles": [
+                "registrant"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "ABUSE-SIDN",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "abuse@kpn.com"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "abuse@kpn.com"
+                    ]
+                ]
+            ],
+            "roles": [
+                "abuse"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "0000",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "KPN B.V."
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "NL"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "Wilhelminakade 123",
+                            "Rotterdam",
+                            "",
+                            "3072AP",
+                            ""
+                        ]
+                    ]
+                ]
+            ],
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "handle": "ABUSE-SIDN",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "abuse@kpn.com"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "abuse@kpn.com"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "abuse"
+                    ]
+                }
+            ],
+            "publicIds": [
+                {
+                    "identifier": "0000",
+                    "type": "IANA Registrar ID"
+                }
+            ],
+            "roles": [
+                "registrar"
+            ]
+        },
+        {
+            "ldhName": "ns4.kpn.net",
+            "unicodeName": "ns4.kpn.net",
+            "objectClassName": "nameserver",
+            "links": [
+                {
+                    "value": "https://rdap.sidn.nl/nameserver/ns4.kpn.net",
+                    "rel": "about",
+                    "href": "https://rdap.sidn.nl/nameserver/ns4.kpn.net",
+                    "type": "application/rdap+json"
+                }
+            ]
+        },
+        {
+            "ldhName": "ns2.kpn.net",
+            "unicodeName": "ns2.kpn.net",
+            "objectClassName": "nameserver",
+            "links": [
+                {
+                    "value": "https://rdap.sidn.nl/nameserver/ns2.kpn.net",
+                    "rel": "about",
+                    "href": "https://rdap.sidn.nl/nameserver/ns2.kpn.net",
+                    "type": "application/rdap+json"
+                }
+            ]
+        },
+        {
+            "ldhName": "a1-90.akam.net",
+            "unicodeName": "a1-90.akam.net",
+            "objectClassName": "nameserver",
+            "links": [
+                {
+                    "value": "https://rdap.sidn.nl/nameserver/a1-90.akam.net",
+                    "rel": "about",
+                    "href": "https://rdap.sidn.nl/nameserver/a1-90.akam.net",
+                    "type": "application/rdap+json"
+                }
+            ]
+        },
+        {
+            "ldhName": "a10-67.akam.net",
+            "unicodeName": "a10-67.akam.net",
+            "objectClassName": "nameserver",
+            "links": [
+                {
+                    "value": "https://rdap.sidn.nl/nameserver/a10-67.akam.net",
+                    "rel": "about",
+                    "href": "https://rdap.sidn.nl/nameserver/a10-67.akam.net",
+                    "type": "application/rdap+json"
+                }
+            ]
+        },
+        {
+            "ldhName": "a28-67.akam.net",
+            "unicodeName": "a28-67.akam.net",
+            "objectClassName": "nameserver",
+            "links": [
+                {
+                    "value": "https://rdap.sidn.nl/nameserver/a28-67.akam.net",
+                    "rel": "about",
+                    "href": "https://rdap.sidn.nl/nameserver/a28-67.akam.net",
+                    "type": "application/rdap+json"
+                }
+            ]
+        },
+        {
+            "ldhName": "a5-67.akam.net",
+            "unicodeName": "a5-67.akam.net",
+            "objectClassName": "nameserver",
+            "links": [
+                {
+                    "value": "https://rdap.sidn.nl/nameserver/a5-67.akam.net",
+                    "rel": "about",
+                    "href": "https://rdap.sidn.nl/nameserver/a5-67.akam.net",
+                    "type": "application/rdap+json"
+                }
+            ]
+        },
+        {
+            "ldhName": "a6-67.akam.net",
+            "unicodeName": "a6-67.akam.net",
+            "objectClassName": "nameserver",
+            "links": [
+                {
+                    "value": "https://rdap.sidn.nl/nameserver/a6-67.akam.net",
+                    "rel": "about",
+                    "href": "https://rdap.sidn.nl/nameserver/a6-67.akam.net",
+                    "type": "application/rdap+json"
+                }
+            ]
+        },
+        {
+            "ldhName": "a9-66.akam.net",
+            "unicodeName": "a9-66.akam.net",
+            "objectClassName": "nameserver",
+            "links": [
+                {
+                    "value": "https://rdap.sidn.nl/nameserver/a9-66.akam.net",
+                    "rel": "about",
+                    "href": "https://rdap.sidn.nl/nameserver/a9-66.akam.net",
+                    "type": "application/rdap+json"
+                }
+            ]
+        },
+        {
+            "rdapConformance": [
+                "rdap_level_0",
+                "icann_rdap_response_profile_1",
+                "icann_rdap_technical_implementation_guide_1",
+                "redacted"
+            ],
+            "objectClassName": "domain",
+            "notices": [
+                {
+                    "title": "Status Codes",
+                    "description": [
+                        "Meer informatie over domeinstatuscodes vind je op https://icann.org/epp",
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.sidn.nl/domain/politie.nl",
+                            "rel": "glossary",
+                            "href": "https://icann.org/epp",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "Privacy notice",
+                    "description": [
+                        "De houdergegevens kunnen afgeschermd zijn. Meer informatie hierover vind je op: https://www.sidn.nl/nl-domeinnaam/sidn-en-privacy",
+                        "The registrant's details can be withheld from public view. For more information, see https://www.sidn.nl/en/nl-domain-name/sidn-and-privacy"
+                    ]
+                },
+                {
+                    "title": "Maintainer",
+                    "description": [
+                        "Administratie door: SIDN BV",
+                        "Record maintained by: SIDN BV"
+                    ]
+                },
+                {
+                    "title": "RDDS Inaccuracy Complaint Form",
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://www.icann.org/wicf"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.sidn.nl/domain/politie.nl",
+                            "rel": "help",
+                            "href": "https://icann.org/wicf",
+                            "type": "text/html"
+                        }
+                    ]
+                }
+            ],
+            "lang": "nl-NL",
+            "handle": "REDACTED-BY-SIDN",
+            "ldhName": "politie.nl",
+            "secureDNS": {
+                "delegationSigned": true,
+                "dsData": [
+                    {
+                        "keyTag": 15565,
+                        "algorithm": 13,
+                        "digestType": 2,
+                        "digest": "E9FD74926C6088E5B241D26A60F664ABDBCCD59EF6D85F3A77E73A43FB4B685F"
+                    }
+                ]
+            },
+            "nameservers": [
+                {
+                    "ldhName": "ns4.kpn.net",
+                    "unicodeName": "ns4.kpn.net",
+                    "objectClassName": "nameserver",
+                    "links": [
+                        {
+                            "value": "https://rdap.sidn.nl/nameserver/ns4.kpn.net",
+                            "rel": "about",
+                            "href": "https://rdap.sidn.nl/nameserver/ns4.kpn.net",
+                            "type": "application/rdap+json"
+                        }
+                    ]
+                },
+                {
+                    "ldhName": "ns2.kpn.net",
+                    "unicodeName": "ns2.kpn.net",
+                    "objectClassName": "nameserver",
+                    "links": [
+                        {
+                            "value": "https://rdap.sidn.nl/nameserver/ns2.kpn.net",
+                            "rel": "about",
+                            "href": "https://rdap.sidn.nl/nameserver/ns2.kpn.net",
+                            "type": "application/rdap+json"
+                        }
+                    ]
+                },
+                {
+                    "ldhName": "a1-90.akam.net",
+                    "unicodeName": "a1-90.akam.net",
+                    "objectClassName": "nameserver",
+                    "links": [
+                        {
+                            "value": "https://rdap.sidn.nl/nameserver/a1-90.akam.net",
+                            "rel": "about",
+                            "href": "https://rdap.sidn.nl/nameserver/a1-90.akam.net",
+                            "type": "application/rdap+json"
+                        }
+                    ]
+                },
+                {
+                    "ldhName": "a10-67.akam.net",
+                    "unicodeName": "a10-67.akam.net",
+                    "objectClassName": "nameserver",
+                    "links": [
+                        {
+                            "value": "https://rdap.sidn.nl/nameserver/a10-67.akam.net",
+                            "rel": "about",
+                            "href": "https://rdap.sidn.nl/nameserver/a10-67.akam.net",
+                            "type": "application/rdap+json"
+                        }
+                    ]
+                },
+                {
+                    "ldhName": "a28-67.akam.net",
+                    "unicodeName": "a28-67.akam.net",
+                    "objectClassName": "nameserver",
+                    "links": [
+                        {
+                            "value": "https://rdap.sidn.nl/nameserver/a28-67.akam.net",
+                            "rel": "about",
+                            "href": "https://rdap.sidn.nl/nameserver/a28-67.akam.net",
+                            "type": "application/rdap+json"
+                        }
+                    ]
+                },
+                {
+                    "ldhName": "a5-67.akam.net",
+                    "unicodeName": "a5-67.akam.net",
+                    "objectClassName": "nameserver",
+                    "links": [
+                        {
+                            "value": "https://rdap.sidn.nl/nameserver/a5-67.akam.net",
+                            "rel": "about",
+                            "href": "https://rdap.sidn.nl/nameserver/a5-67.akam.net",
+                            "type": "application/rdap+json"
+                        }
+                    ]
+                },
+                {
+                    "ldhName": "a6-67.akam.net",
+                    "unicodeName": "a6-67.akam.net",
+                    "objectClassName": "nameserver",
+                    "links": [
+                        {
+                            "value": "https://rdap.sidn.nl/nameserver/a6-67.akam.net",
+                            "rel": "about",
+                            "href": "https://rdap.sidn.nl/nameserver/a6-67.akam.net",
+                            "type": "application/rdap+json"
+                        }
+                    ]
+                },
+                {
+                    "ldhName": "a9-66.akam.net",
+                    "unicodeName": "a9-66.akam.net",
+                    "objectClassName": "nameserver",
+                    "links": [
+                        {
+                            "value": "https://rdap.sidn.nl/nameserver/a9-66.akam.net",
+                            "rel": "about",
+                            "href": "https://rdap.sidn.nl/nameserver/a9-66.akam.net",
+                            "type": "application/rdap+json"
+                        }
+                    ]
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.sidn.nl/domain/politie.nl",
+                    "rel": "self",
+                    "href": "https://rdap.sidn.nl/domain/politie.nl",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "redacted": [
+                {
+                    "name": {
+                        "description": "Domain handle"
+                    },
+                    "postPath": "$.handle",
+                    "pathLang": "jsonpath",
+                    "method": "replacementValue",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "description": "Registrant organisation"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='org')]",
+                    "pathLang": "jsonpath",
+                    "method": "removal",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "description": "Registrant phone number"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='tel')]",
+                    "pathLang": "jsonpath",
+                    "method": "removal",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "description": "Registrant email"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='email')]",
+                    "pathLang": "jsonpath",
+                    "method": "removal",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "description": "Registrant address"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')]",
+                    "pathLang": "jsonpath",
+                    "method": "removal",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "description": "Administrative name"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='administrative')].vcardArray[1][?(@[0]=='fn')][3]",
+                    "pathLang": "jsonpath",
+                    "method": "replacementValue",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "description": "Administrative address"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='administrative')].vcardArray[1][?(@[0]=='adr')]",
+                    "pathLang": "jsonpath",
+                    "method": "removal",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "description": "Administrative phone number"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='administrative')].vcardArray[1][?(@[0]=='tel')]",
+                    "pathLang": "jsonpath",
+                    "method": "removal",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "description": "Registrar handle"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrar')].handle",
+                    "pathLang": "jsonpath",
+                    "method": "replacementValue",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "description": "Public id"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrar')].publicIds[@LAST].identifier",
+                    "pathLang": "jsonpath",
+                    "method": "replacementValue",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "description": "Registrar email"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrar')].vcardArray[1][?(@[0]=='email')]",
+                    "pathLang": "jsonpath",
+                    "method": "removal",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "description": "Registrar phone number"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrar')].vcardArray[1][?(@[0]=='tel')]",
+                    "pathLang": "jsonpath",
+                    "method": "removal",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "description": "Technical name"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='fn')][3]",
+                    "pathLang": "jsonpath",
+                    "method": "replacementValue",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "description": "Technical address"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='adr')]",
+                    "pathLang": "jsonpath",
+                    "method": "removal",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "description": "Technical phone number"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='tel')]",
+                    "pathLang": "jsonpath",
+                    "method": "removal",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "description": "Technical organisation"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='org')]",
+                    "pathLang": "jsonpath",
+                    "method": "removal",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                }
+            ]
+        }
+    ],
+    "domain": "politie.nl\r"
+}

@@ -1,0 +1,826 @@
+{
+    "name": "nav.no",
+    "handle": "NAV658D-NORID",
+    "registrationDate": "11/15/1999, 1:00:00 AM GMT+2",
+    "expirationDate": null,
+    "lastChangedDate": "11/15/2025, 4:17:44 AM GMT+2",
+    "lastUpdateDate": null,
+    "rawData": [
+        {
+            "events": [
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2010-10-01T16:26:22Z"
+                },
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2018-05-04T20:47:31Z"
+                }
+            ],
+            "handle": "TH61R-NORID",
+            "links": [
+                {
+                    "href": "https://rdap.norid.no/entity/TH61R-NORID",
+                    "rel": "self",
+                    "type": "application/rdap+json",
+                    "value": "https://rdap.norid.no/entity/TH61R-NORID"
+                }
+            ],
+            "objectClassName": "entity",
+            "roles": [
+                "technical"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Telenor Hostmaster"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {},
+                        "text",
+                        [
+                            "",
+                            "",
+                            [],
+                            "",
+                            "",
+                            "",
+                            "NORWAY"
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "voice"
+                            ]
+                        },
+                        "uri",
+                        "tel:+47.05000"
+                    ],
+                    [
+                        "email",
+                        {
+                            "pref": "1"
+                        },
+                        "text",
+                        "hostmaster@telenor.net"
+                    ]
+                ]
+            ]
+        },
+        {
+            "events": [
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2010-10-01T12:07:21Z"
+                },
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2026-06-23T08:32:45Z"
+                }
+            ],
+            "handle": "reg766-NORID",
+            "links": [
+                {
+                    "href": "https://rdap.norid.no/entity/reg766-NORID",
+                    "rel": "self",
+                    "type": "application/rdap+json",
+                    "value": "https://rdap.norid.no/entity/reg766-NORID"
+                }
+            ],
+            "objectClassName": "entity",
+            "publicIds": [
+                {
+                    "identifier": "976967631",
+                    "type": "Norwegian organization number"
+                },
+                {
+                    "identifier": "reg766",
+                    "type": "Norid registrar ID"
+                }
+            ],
+            "roles": [
+                "registrar"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Telenor Norge AS"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ],
+                    [
+                        "adr",
+                        {},
+                        "text",
+                        [
+                            "",
+                            "",
+                            [
+                                "Snarøyveien 30"
+                            ],
+                            "Fornebu",
+                            "",
+                            "NO-1331",
+                            "NORWAY"
+                        ]
+                    ],
+                    [
+                        "url",
+                        {},
+                        "uri",
+                        "https://www.telenor.no/bedrift/web/domene/"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "voice"
+                            ]
+                        },
+                        "uri",
+                        "tel:+47.91509000"
+                    ],
+                    [
+                        "email",
+                        {
+                            "pref": "1"
+                        },
+                        "text",
+                        "cloudsupport@telenor.no"
+                    ]
+                ]
+            ]
+        },
+        {
+            "events": [
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2010-10-01T16:26:22Z"
+                },
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2018-05-04T20:47:31Z"
+                }
+            ],
+            "handle": "TH61R-NORID",
+            "links": [
+                {
+                    "href": "https://rdap.norid.no/entity/TH61R-NORID",
+                    "rel": "self",
+                    "type": "application/rdap+json",
+                    "value": "https://rdap.norid.no/entity/TH61R-NORID"
+                }
+            ],
+            "objectClassName": "entity",
+            "roles": [
+                "technical"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Telenor Hostmaster"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {},
+                        "text",
+                        [
+                            "",
+                            "",
+                            [],
+                            "",
+                            "",
+                            "",
+                            "NORWAY"
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "voice"
+                            ]
+                        },
+                        "uri",
+                        "tel:+47.05000"
+                    ],
+                    [
+                        "email",
+                        {
+                            "pref": "1"
+                        },
+                        "text",
+                        "hostmaster@telenor.net"
+                    ]
+                ]
+            ]
+        },
+        {
+            "entities": [
+                {
+                    "events": [
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "2010-10-01T16:26:22Z"
+                        },
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2018-05-04T20:47:31Z"
+                        }
+                    ],
+                    "handle": "TH61R-NORID",
+                    "links": [
+                        {
+                            "href": "https://rdap.norid.no/entity/TH61R-NORID",
+                            "rel": "self",
+                            "type": "application/rdap+json",
+                            "value": "https://rdap.norid.no/entity/TH61R-NORID"
+                        }
+                    ],
+                    "objectClassName": "entity",
+                    "roles": [
+                        "technical"
+                    ],
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Telenor Hostmaster"
+                            ],
+                            [
+                                "kind",
+                                {},
+                                "text",
+                                "group"
+                            ],
+                            [
+                                "adr",
+                                {},
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    [],
+                                    "",
+                                    "",
+                                    "",
+                                    "NORWAY"
+                                ]
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "voice"
+                                    ]
+                                },
+                                "uri",
+                                "tel:+47.05000"
+                            ],
+                            [
+                                "email",
+                                {
+                                    "pref": "1"
+                                },
+                                "text",
+                                "hostmaster@telenor.net"
+                            ]
+                        ]
+                    ]
+                }
+            ],
+            "events": [
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2015-10-28T14:58:02Z"
+                },
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2015-11-30T09:08:35Z"
+                }
+            ],
+            "handle": "DOMA16H-NORID",
+            "ldhName": "domain1.telenor.net",
+            "links": [
+                {
+                    "href": "https://rdap.norid.no/nameserver_handle/DOMA16H-NORID",
+                    "rel": "self",
+                    "type": "application/rdap+json",
+                    "value": "https://rdap.norid.no/nameserver_handle/DOMA16H-NORID"
+                }
+            ],
+            "objectClassName": "nameserver"
+        },
+        {
+            "events": [
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2010-10-01T16:26:22Z"
+                },
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2018-05-04T20:47:31Z"
+                }
+            ],
+            "handle": "TH61R-NORID",
+            "links": [
+                {
+                    "href": "https://rdap.norid.no/entity/TH61R-NORID",
+                    "rel": "self",
+                    "type": "application/rdap+json",
+                    "value": "https://rdap.norid.no/entity/TH61R-NORID"
+                }
+            ],
+            "objectClassName": "entity",
+            "roles": [
+                "technical"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Telenor Hostmaster"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {},
+                        "text",
+                        [
+                            "",
+                            "",
+                            [],
+                            "",
+                            "",
+                            "",
+                            "NORWAY"
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "voice"
+                            ]
+                        },
+                        "uri",
+                        "tel:+47.05000"
+                    ],
+                    [
+                        "email",
+                        {
+                            "pref": "1"
+                        },
+                        "text",
+                        "hostmaster@telenor.net"
+                    ]
+                ]
+            ]
+        },
+        {
+            "entities": [
+                {
+                    "events": [
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "2010-10-01T16:26:22Z"
+                        },
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2018-05-04T20:47:31Z"
+                        }
+                    ],
+                    "handle": "TH61R-NORID",
+                    "links": [
+                        {
+                            "href": "https://rdap.norid.no/entity/TH61R-NORID",
+                            "rel": "self",
+                            "type": "application/rdap+json",
+                            "value": "https://rdap.norid.no/entity/TH61R-NORID"
+                        }
+                    ],
+                    "objectClassName": "entity",
+                    "roles": [
+                        "technical"
+                    ],
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Telenor Hostmaster"
+                            ],
+                            [
+                                "kind",
+                                {},
+                                "text",
+                                "group"
+                            ],
+                            [
+                                "adr",
+                                {},
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    [],
+                                    "",
+                                    "",
+                                    "",
+                                    "NORWAY"
+                                ]
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "voice"
+                                    ]
+                                },
+                                "uri",
+                                "tel:+47.05000"
+                            ],
+                            [
+                                "email",
+                                {
+                                    "pref": "1"
+                                },
+                                "text",
+                                "hostmaster@telenor.net"
+                            ]
+                        ]
+                    ]
+                }
+            ],
+            "events": [
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2015-10-28T14:58:03Z"
+                },
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2015-11-30T09:09:29Z"
+                }
+            ],
+            "handle": "DOMA17H-NORID",
+            "ldhName": "domain2.telenor.net",
+            "links": [
+                {
+                    "href": "https://rdap.norid.no/nameserver_handle/DOMA17H-NORID",
+                    "rel": "self",
+                    "type": "application/rdap+json",
+                    "value": "https://rdap.norid.no/nameserver_handle/DOMA17H-NORID"
+                }
+            ],
+            "objectClassName": "nameserver"
+        },
+        {
+            "handle": "NAV658D-NORID",
+            "ldhName": "nav.no",
+            "links": [
+                {
+                    "href": "https://rdap.norid.no/domain/nav.no",
+                    "rel": "self",
+                    "type": "application/rdap+json",
+                    "value": "https://rdap.norid.no/domain/nav.no"
+                }
+            ],
+            "nameservers": [
+                {
+                    "entities": [
+                        {
+                            "events": [
+                                {
+                                    "eventAction": "registration",
+                                    "eventDate": "2010-10-01T16:26:22Z"
+                                },
+                                {
+                                    "eventAction": "last changed",
+                                    "eventDate": "2018-05-04T20:47:31Z"
+                                }
+                            ],
+                            "handle": "TH61R-NORID",
+                            "links": [
+                                {
+                                    "href": "https://rdap.norid.no/entity/TH61R-NORID",
+                                    "rel": "self",
+                                    "type": "application/rdap+json",
+                                    "value": "https://rdap.norid.no/entity/TH61R-NORID"
+                                }
+                            ],
+                            "objectClassName": "entity",
+                            "roles": [
+                                "technical"
+                            ],
+                            "vcardArray": [
+                                "vcard",
+                                [
+                                    [
+                                        "version",
+                                        {},
+                                        "text",
+                                        "4.0"
+                                    ],
+                                    [
+                                        "fn",
+                                        {},
+                                        "text",
+                                        "Telenor Hostmaster"
+                                    ],
+                                    [
+                                        "kind",
+                                        {},
+                                        "text",
+                                        "group"
+                                    ],
+                                    [
+                                        "adr",
+                                        {},
+                                        "text",
+                                        [
+                                            "",
+                                            "",
+                                            [],
+                                            "",
+                                            "",
+                                            "",
+                                            "NORWAY"
+                                        ]
+                                    ],
+                                    [
+                                        "tel",
+                                        {
+                                            "type": [
+                                                "voice"
+                                            ]
+                                        },
+                                        "uri",
+                                        "tel:+47.05000"
+                                    ],
+                                    [
+                                        "email",
+                                        {
+                                            "pref": "1"
+                                        },
+                                        "text",
+                                        "hostmaster@telenor.net"
+                                    ]
+                                ]
+                            ]
+                        }
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "2015-10-28T14:58:02Z"
+                        },
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2015-11-30T09:08:35Z"
+                        }
+                    ],
+                    "handle": "DOMA16H-NORID",
+                    "ldhName": "domain1.telenor.net",
+                    "links": [
+                        {
+                            "href": "https://rdap.norid.no/nameserver_handle/DOMA16H-NORID",
+                            "rel": "self",
+                            "type": "application/rdap+json",
+                            "value": "https://rdap.norid.no/nameserver_handle/DOMA16H-NORID"
+                        }
+                    ],
+                    "objectClassName": "nameserver"
+                },
+                {
+                    "entities": [
+                        {
+                            "events": [
+                                {
+                                    "eventAction": "registration",
+                                    "eventDate": "2010-10-01T16:26:22Z"
+                                },
+                                {
+                                    "eventAction": "last changed",
+                                    "eventDate": "2018-05-04T20:47:31Z"
+                                }
+                            ],
+                            "handle": "TH61R-NORID",
+                            "links": [
+                                {
+                                    "href": "https://rdap.norid.no/entity/TH61R-NORID",
+                                    "rel": "self",
+                                    "type": "application/rdap+json",
+                                    "value": "https://rdap.norid.no/entity/TH61R-NORID"
+                                }
+                            ],
+                            "objectClassName": "entity",
+                            "roles": [
+                                "technical"
+                            ],
+                            "vcardArray": [
+                                "vcard",
+                                [
+                                    [
+                                        "version",
+                                        {},
+                                        "text",
+                                        "4.0"
+                                    ],
+                                    [
+                                        "fn",
+                                        {},
+                                        "text",
+                                        "Telenor Hostmaster"
+                                    ],
+                                    [
+                                        "kind",
+                                        {},
+                                        "text",
+                                        "group"
+                                    ],
+                                    [
+                                        "adr",
+                                        {},
+                                        "text",
+                                        [
+                                            "",
+                                            "",
+                                            [],
+                                            "",
+                                            "",
+                                            "",
+                                            "NORWAY"
+                                        ]
+                                    ],
+                                    [
+                                        "tel",
+                                        {
+                                            "type": [
+                                                "voice"
+                                            ]
+                                        },
+                                        "uri",
+                                        "tel:+47.05000"
+                                    ],
+                                    [
+                                        "email",
+                                        {
+                                            "pref": "1"
+                                        },
+                                        "text",
+                                        "hostmaster@telenor.net"
+                                    ]
+                                ]
+                            ]
+                        }
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "2015-10-28T14:58:03Z"
+                        },
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2015-11-30T09:09:29Z"
+                        }
+                    ],
+                    "handle": "DOMA17H-NORID",
+                    "ldhName": "domain2.telenor.net",
+                    "links": [
+                        {
+                            "href": "https://rdap.norid.no/nameserver_handle/DOMA17H-NORID",
+                            "rel": "self",
+                            "type": "application/rdap+json",
+                            "value": "https://rdap.norid.no/nameserver_handle/DOMA17H-NORID"
+                        }
+                    ],
+                    "objectClassName": "nameserver"
+                }
+            ],
+            "notices": [
+                {
+                    "description": [
+                        "By looking up information in the domain registration directory",
+                        "service, you confirm that you accept the terms and conditions",
+                        "of the service.",
+                        "Norid AS holds the copyright to the lookup service,",
+                        "content, layout and the underlying collections of information",
+                        "used in the service (cf. the Act on Intellectual Property of",
+                        "May 2, 1961, No. 2). Any commercial use of information from",
+                        "the service, including targeted marketing, is prohibited.",
+                        "Using information from the domain registration directory",
+                        "service in violation of the terms and conditions may result in",
+                        "legal prosecution."
+                    ],
+                    "links": [
+                        {
+                            "href": "https://www.norid.no/en/domeneoppslag/vilkar",
+                            "rel": "alternate",
+                            "type": "text/html",
+                            "value": "https://rdap.norid.no/domain/nav.no"
+                        }
+                    ],
+                    "title": "Terms of use"
+                }
+            ],
+            "objectClassName": "domain",
+            "rdapConformance": [
+                "rdap_level_0",
+                "rdap_objectTag_level_0",
+                "norid_level_0"
+            ],
+            "secureDNS": {
+                "delegationSigned": true,
+                "dsData": [
+                    {
+                        "algorithm": 8,
+                        "digest": "c63d860ad605fcdf76fc2dae45f8a11e2e72b1d5d39b941b993bffe2437936ef",
+                        "digestType": 2,
+                        "keyTag": 33136
+                    }
+                ]
+            }
+        }
+    ],
+    "domain": "nav.no\r"
+}

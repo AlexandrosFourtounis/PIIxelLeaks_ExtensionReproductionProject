@@ -1,0 +1,5214 @@
+{
+  "domains_processed": 475,
+  "total_pixel_mentions": 1395,
+  "unique_pixel_count": 1353,
+  "reused_pixel_count": 40,
+  "unique_pixel_count_no_reuse": 1313,
+  "grouped_by_domains": [
+    {
+      "pixel_id": [
+        24345608961698693
+      ],
+      "domains": [
+        "bertlove.shop",
+        "sunelva.com",
+        "varaoras.com"
+      ],
+      "domain_count": 3,
+      "shared_infrastructure": [
+        "IPs: 216.120.131.66",
+        "Registrar: namesilo, llc"
+      ]
+    },
+    {
+      "pixel_id": [
+        1573355223759969
+      ],
+      "domains": [
+        "fashioniable.com",
+        "otherwiseu.com",
+        "waterfallom.com"
+      ],
+      "domain_count": 3,
+      "shared_infrastructure": [
+        "IPs: 104.18.11.62",
+        "ASN: CLOUDFLARENET - Cloudflare, Inc., US",
+        "Registrar: alibaba cloud computing ltd. d/b/a hichina (www.net.cn)"
+      ]
+    },
+    {
+      "pixel_id": [
+        1213090523243187,
+        1679021676252559
+      ],
+      "domains": [
+        "acompactly.com",
+        "cctvworkshop.com"
+      ],
+      "domain_count": 2,
+      "shared_infrastructure": [
+        "IPs: 104.18.11.62",
+        "ASN: CLOUDFLARENET - Cloudflare, Inc., US"
+      ]
+    },
+    {
+      "pixel_id": [
+        630484049491235
+      ],
+      "domains": [
+        "ansurely.com",
+        "relaxslack.com"
+      ],
+      "domain_count": 2,
+      "shared_infrastructure": [
+        "ASN: CLOUDFLARENET - Cloudflare, Inc., US",
+        "Registrar: alibaba cloud computing ltd. d/b/a hichina (www.net.cn)"
+      ]
+    },
+    {
+      "pixel_id": [
+        827065639655238
+      ],
+      "domains": [
+        "app.polyprofit.io",
+        "polyprofit.io"
+      ],
+      "domain_count": 2,
+      "shared_infrastructure": [
+        "Registrar: hostinger operations, uab"
+      ]
+    },
+    {
+      "pixel_id": [
+        716745021348125,
+        944981357077095,
+        1109007637813024,
+        1310952020594348,
+        1713165689405042,
+        1827442251416474,
+        2238473963254309,
+        2364113417324108,
+        2882971305425341,
+        9577666055600548
+      ],
+      "domains": [
+        "bertlove.shop",
+        "varaoras.com"
+      ],
+      "domain_count": 2,
+      "shared_infrastructure": [
+        "IPs: 216.120.131.66"
+      ]
+    },
+    {
+      "pixel_id": [
+        745227908525452,
+        1552618719828651
+      ],
+      "domains": [
+        "bigmaxsale.com",
+        "nexorvella.com"
+      ],
+      "domain_count": 2,
+      "shared_infrastructure": [
+        "IPs: 104.17.232.29",
+        "ASN: CLOUDFLARENET - Cloudflare, Inc., US"
+      ]
+    },
+    {
+      "pixel_id": [
+        5181456195269970
+      ],
+      "domains": [
+        "cordialous.com",
+        "gratefulof.com"
+      ],
+      "domain_count": 2,
+      "shared_infrastructure": [
+        "ASN: CLOUDFLARENET - Cloudflare, Inc., US",
+        "Registrar: alibaba cloud computing ltd. d/b/a hichina (www.net.cn)"
+      ]
+    },
+    {
+      "pixel_id": [
+        512386643949991,
+        764332419494900,
+        1342429980340746
+      ],
+      "domains": [
+        "cordialous.com",
+        "itfortunate.com"
+      ],
+      "domain_count": 2,
+      "shared_infrastructure": [
+        "ASN: CLOUDFLARENET - Cloudflare, Inc., US",
+        "Registrar: alibaba cloud computing ltd. d/b/a hichina (www.net.cn)"
+      ]
+    },
+    {
+      "pixel_id": [
+        630781985866915
+      ],
+      "domains": [
+        "eapinso.com",
+        "uswithme.com"
+      ],
+      "domain_count": 2,
+      "shared_infrastructure": [
+        "IPs: 104.17.232.29",
+        "ASN: CLOUDFLARENET - Cloudflare, Inc., US",
+        "Registrar: namecheap inc"
+      ]
+    },
+    {
+      "pixel_id": [
+        1000223749243923
+      ],
+      "domains": [
+        "fashioniable.com",
+        "formulatem.com"
+      ],
+      "domain_count": 2,
+      "shared_infrastructure": [
+        "IPs: 104.18.11.62",
+        "ASN: CLOUDFLARENET - Cloudflare, Inc., US",
+        "Registrar: alibaba cloud computing ltd. d/b/a hichina (www.net.cn)"
+      ]
+    },
+    {
+      "pixel_id": [
+        942724508477975,
+        967088289091605,
+        1287450446244937,
+        1500589178372766,
+        1918753578801584,
+        2376553309398205
+      ],
+      "domains": [
+        "fbpopi.de",
+        "qdila.de"
+      ],
+      "domain_count": 2,
+      "shared_infrastructure": [
+        "ASN: CLOUDFLARENET - Cloudflare, Inc., US"
+      ]
+    },
+    {
+      "pixel_id": [
+        939565748889006,
+        1538654447614041
+      ],
+      "domains": [
+        "homatikas.com",
+        "purchaseits.com"
+      ],
+      "domain_count": 2,
+      "shared_infrastructure": [
+        "ASN: CLOUDFLARENET - Cloudflare, Inc., US"
+      ]
+    },
+    {
+      "pixel_id": [
+        878623884231047
+      ],
+      "domains": [
+        "laudpraise.com",
+        "tivayo.com"
+      ],
+      "domain_count": 2,
+      "shared_infrastructure": [
+        "ASN: CLOUDFLARENET - Cloudflare, Inc., US"
+      ]
+    },
+    {
+      "pixel_id": [
+        969352365852208,
+        1955650608373193
+      ],
+      "domains": [
+        "mbxfk.com",
+        "umymall.com"
+      ],
+      "domain_count": 2,
+      "shared_infrastructure": [
+        "IPs: 104.17.232.29",
+        "ASN: CLOUDFLARENET - Cloudflare, Inc., US",
+        "Registrar: alibaba cloud computing ltd. d/b/a hichina (www.net.cn)"
+      ]
+    },
+    {
+      "pixel_id": [
+        988312569711286
+      ],
+      "domains": [
+        "peffiew.com",
+        "porchloves.com"
+      ],
+      "domain_count": 2,
+      "shared_infrastructure": [
+        "IPs: 104.17.232.29",
+        "ASN: CLOUDFLARENET - Cloudflare, Inc., US",
+        "Registrar: godaddy.com, llc"
+      ]
+    },
+    {
+      "pixel_id": [
+        958654118867879,
+        1508730820802710,
+        3712703875539366
+      ],
+      "domains": [
+        "smoke-uk.com",
+        "vipsmk.com"
+      ],
+      "domain_count": 2,
+      "shared_infrastructure": [
+        "Registrar: hosting concepts b.v. d/b/a registrar.eu"
+      ]
+    },
+    {
+      "pixel_id": [
+        852703390722546
+      ],
+      "domains": [
+        "tictkii.net",
+        "tiickons.com"
+      ],
+      "domain_count": 2,
+      "shared_infrastructure": [
+        "IPs: 104.18.74.116",
+        "ASN: CLOUDFLARENET - Cloudflare, Inc., US",
+        "Registrar: godaddy.com, llc"
+      ]
+    },
+    {
+      "pixel_id": [
+        582991924318630,
+        1020067819973596,
+        1429271601692824
+      ],
+      "domains": [
+        "2026worldcupgear.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        949365244583677
+      ],
+      "domains": [
+        "2tactics.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        594299973425024,
+        667710572708654,
+        724082367039358,
+        734843092644128,
+        745209088299966,
+        750405634306364,
+        757483030598437,
+        772069845629840,
+        780854254888521,
+        789490597398659,
+        816147090902037,
+        831971906128769,
+        840694471710770,
+        855778897021703,
+        858772750166537,
+        893081756742974,
+        1078244827737381,
+        1107085218306548,
+        1154772860161490,
+        1206716367856394,
+        1288224869460885,
+        1296540328478257,
+        1310823717206097,
+        1328653091954531,
+        1332802198509938,
+        1349072579497121,
+        1350513669922990,
+        1352306033282160,
+        1383501459977325,
+        1390540082489911,
+        1433462911711156,
+        1518352889407425,
+        1531154271190191,
+        1538855910482530,
+        1602765371105577,
+        1620066902684283,
+        1685553719525616,
+        1856081694967220,
+        1909132056315110,
+        1991553465027359,
+        2022499108568971,
+        2299536390566457,
+        2330255757389946,
+        2360131807771728,
+        2534331473609312,
+        2548964392142254,
+        2591019191275579,
+        2688042004890048,
+        3733031560332259,
+        4113367065593710,
+        24435190379504937,
+        30944587991853023
+      ],
+      "domains": [
+        "ababmall.shop"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1139838544979257,
+        1412577087098867,
+        2403403910095584,
+        24883552697994885
+      ],
+      "domains": [
+        "ablemodern.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        2197707507394587
+      ],
+      "domains": [
+        "absoluteeclipse.eu"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        937821695509695,
+        34667894889493033
+      ],
+      "domains": [
+        "abugarciau.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        783668926723356,
+        922880869089497,
+        1332570267298888,
+        1492783424587615
+      ],
+      "domains": [
+        "accurateu.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        364449753226893,
+        1460766018067762
+      ],
+      "domains": [
+        "acquaintw.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        934166276031722
+      ],
+      "domains": [
+        "adidasdeals.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        790375319160002,
+        846240143737438,
+        924839798596465,
+        1535208353677880,
+        3429606224020918
+      ],
+      "domains": [
+        "advocateh.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        879372815121378,
+        954455504005031,
+        1030159802699967,
+        1497356595237073,
+        1629993661552089,
+        1703329997698340,
+        1798706031107555
+      ],
+      "domains": [
+        "aidl.products-llc.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        3235231293532109
+      ],
+      "domains": [
+        "aj-jerseys.website"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1045622717185805
+      ],
+      "domains": [
+        "alabamalux.shop"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1428593035302916
+      ],
+      "domains": [
+        "alchemise.uk"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        836386055474185,
+        840020852484664,
+        1204879688234336,
+        1241540957922392,
+        1621012485803422,
+        2026236871559373
+      ],
+      "domains": [
+        "aliopss.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1666330594553192
+      ],
+      "domains": [
+        "aloshirt.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1090784693079053,
+        2193268151500113
+      ],
+      "domains": [
+        "aloyoga-eur.top"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1513806253412123
+      ],
+      "domains": [
+        "alvaraonline.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        961826402777812,
+        1818231358746989,
+        9375705702557819
+      ],
+      "domains": [
+        "analysisto.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1702472274273930
+      ],
+      "domains": [
+        "anescoinvest.cc"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        838757491612396,
+        1045126967427014
+      ],
+      "domains": [
+        "aniechic.shop"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1495368132374324
+      ],
+      "domains": [
+        "animebespokestudio.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        862664820219073
+      ],
+      "domains": [
+        "animefashoin.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1501960804880100
+      ],
+      "domains": [
+        "anitabarcelona.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        763087426135771,
+        1314050143650363
+      ],
+      "domains": [
+        "ansurely.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        823934986957742
+      ],
+      "domains": [
+        "antiapex.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        4166106896997811
+      ],
+      "domains": [
+        "aosuonazo.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1480836856904483
+      ],
+      "domains": [
+        "apexgoodsonline.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1498165768639981
+      ],
+      "domains": [
+        "apkbestmod.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        847841350988713,
+        937732506090303,
+        1689093198745756
+      ],
+      "domains": [
+        "applewow.shop"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        492382212958645
+      ],
+      "domains": [
+        "articles.yourselfirst.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1112492744336201
+      ],
+      "domains": [
+        "artveraprint.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1434143051782746,
+        2483452418739866
+      ],
+      "domains": [
+        "asarrobotics.cc"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        918957777553650,
+        929424433163170,
+        1317222433617704
+      ],
+      "domains": [
+        "asarrobotics.net"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        719120333602139,
+        759662406098724,
+        1067866961178750
+      ],
+      "domains": [
+        "attituide.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        991051168789929,
+        1252392518801319,
+        2903796596422314
+      ],
+      "domains": [
+        "audiencek.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1209267914350037,
+        1269750448554606,
+        24573454088948453,
+        26396948226605410
+      ],
+      "domains": [
+        "ausplaywear.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        7775758495779214
+      ],
+      "domains": [
+        "aussie-wear.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        591989863811294,
+        1260084672332334
+      ],
+      "domains": [
+        "autopremiumhub.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        820819434400665,
+        949970291084453,
+        968852529059498,
+        1050287911509377,
+        1270630005243793,
+        1323758409661727,
+        1455111905487313,
+        2168326103932531,
+        2873291179701612
+      ],
+      "domains": [
+        "autryapp.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        2138102193384127
+      ],
+      "domains": [
+        "avaroot.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        644810928631776,
+        1288467399358625,
+        24080622604953004
+      ],
+      "domains": [
+        "averageral.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        406174638291990,
+        412637287517638,
+        1136737530614332
+      ],
+      "domains": [
+        "awarecolumn.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        366556923116817,
+        1331404907348778,
+        5450276291691512
+      ],
+      "domains": [
+        "awe-spring.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        948405564556529,
+        1256738199918045
+      ],
+      "domains": [
+        "bagzify.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1236011327444929
+      ],
+      "domains": [
+        "balabala.xyz"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        131558003333068,
+        380859488394414
+      ],
+      "domains": [
+        "ballsgamegift.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        3558282427659219
+      ],
+      "domains": [
+        "barewillow.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1389104439683492
+      ],
+      "domains": [
+        "barkboutiqueonline.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1704156997497553
+      ],
+      "domains": [
+        "bb-pledge.top"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1956732778408360
+      ],
+      "domains": [
+        "bcadeaus.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        948136921034541,
+        1151498671382827,
+        1253128645436751,
+        1271387621781208,
+        1272744064459396,
+        2043134995874179,
+        2175566003209383
+      ],
+      "domains": [
+        "bechicostore.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        421131483719747,
+        490845193627199,
+        1018734656310020
+      ],
+      "domains": [
+        "begitschedule.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        2209598029170430
+      ],
+      "domains": [
+        "berrky.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1601720871126078
+      ],
+      "domains": [
+        "bestfinish.cc"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        748063337593163,
+        1345351713547302,
+        2355088334934780
+      ],
+      "domains": [
+        "blackprideshirts.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        643334824954071,
+        987453426784674,
+        1137145381931486,
+        1152124376784963,
+        1517099222256780,
+        1720584968653705,
+        3805338636438648,
+        26138612625807533
+      ],
+      "domains": [
+        "blockchainfx.io"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        2009483256074025,
+        3551951688424294
+      ],
+      "domains": [
+        "blomuse.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        803196019495439,
+        913293058219473,
+        1945612602659053,
+        2156339268466937,
+        3816883755284689
+      ],
+      "domains": [
+        "bloomcartshops.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1008762078333224
+      ],
+      "domains": [
+        "bloomei.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        820437060413907
+      ],
+      "domains": [
+        "bohulav.cc"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        4307463276193572
+      ],
+      "domains": [
+        "boiertimepieces.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1303328428458242,
+        27120629390874147
+      ],
+      "domains": [
+        "bookingad.cc"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        731741896673547
+      ],
+      "domains": [
+        "botomega.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1333760395330878,
+        27189293737333233
+      ],
+      "domains": [
+        "boxamzn.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        204257759216315,
+        212750938405096,
+        235396179138236,
+        250843967642316,
+        619438996902069,
+        900359291032614,
+        905623767813338,
+        1085447349456914,
+        1312620579328645,
+        1532485410902575,
+        6433079000117945
+      ],
+      "domains": [
+        "bremenmari.de"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        272778899232733,
+        1199626981718194,
+        1341379666500435,
+        1515472672613438,
+        3929379133950660
+      ],
+      "domains": [
+        "btftrend.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1050204211669001
+      ],
+      "domains": [
+        "buybumkins.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        973983615152308
+      ],
+      "domains": [
+        "buyme1.online"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1336464971642085
+      ],
+      "domains": [
+        "buymee.co.uk"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        2053336825223697
+      ],
+      "domains": [
+        "canoosport.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        2143142283106781
+      ],
+      "domains": [
+        "capswrld.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1333003734871900
+      ],
+      "domains": [
+        "cawpus.cc"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1477348520433074
+      ],
+      "domains": [
+        "ceralia.online"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        960380899669316
+      ],
+      "domains": [
+        "chantkit.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        392595076432936,
+        936275189147201,
+        938921672086470,
+        958803687058622,
+        1281253046737466,
+        1291620599599566,
+        1411207187687855,
+        1462094501685150,
+        1482748003481654,
+        1488130522902077,
+        1490118252839926,
+        1516898486817104,
+        1535476064875074,
+        1633575641218213,
+        1650757342738312,
+        1658410275431536,
+        1689323948919698,
+        1763669831280482,
+        1777363413239141,
+        1875803319745092,
+        1884132678907512,
+        2006993539848664,
+        2198506647643109,
+        2341903932988876,
+        2433898610387491,
+        2518551715255236,
+        2748933218803986,
+        4022869401306164,
+        4283520248580741,
+        26639930792361075
+      ],
+      "domains": [
+        "cheapeur.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1271386931205741
+      ],
+      "domains": [
+        "chicscos.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        178928311950733,
+        353206057098118,
+        514167823960789,
+        913210649866399,
+        926042911895224,
+        1468586067044183
+      ],
+      "domains": [
+        "clapseem.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        735768019560226,
+        838225571617131,
+        1220129562737540,
+        1442829057858762,
+        1607690163857754,
+        1628093878261147,
+        1687003945635117,
+        3961378667504568,
+        27783539681233787
+      ],
+      "domains": [
+        "clearmores.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1734141080730699
+      ],
+      "domains": [
+        "clogstudios.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1367710714343346
+      ],
+      "domains": [
+        "clothingirls.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1663164074981608
+      ],
+      "domains": [
+        "cluvie.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1419148466495519
+      ],
+      "domains": [
+        "comfortculture.online"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1531641705054665,
+        2820125468187642
+      ],
+      "domains": [
+        "comfortknot.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        277244375284971,
+        705146908142024,
+        1361384814454231
+      ],
+      "domains": [
+        "comoneplac.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1455333441936527
+      ],
+      "domains": [
+        "comxon.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        945604596799031,
+        1330423377516909
+      ],
+      "domains": [
+        "concentratiy.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        661737816799233,
+        1036740335037703,
+        2744844619039325
+      ],
+      "domains": [
+        "cordialous.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1532981801581465,
+        2467246060404298
+      ],
+      "domains": [
+        "corevia.shop"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        610607315010500,
+        668742192258582,
+        994133995072684,
+        1146275219788735
+      ],
+      "domains": [
+        "correctous.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        954519379462055
+      ],
+      "domains": [
+        "cortahaus.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        470716801847267
+      ],
+      "domains": [
+        "crispisboot.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        2508105749942564
+      ],
+      "domains": [
+        "cryptoinvestvip.vip"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        2090015728075522
+      ],
+      "domains": [
+        "csatiate.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1267126022172771
+      ],
+      "domains": [
+        "curamale.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        990061763723576
+      ],
+      "domains": [
+        "currency.mining-usdc.cc"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        862348998397353,
+        3316130658697326
+      ],
+      "domains": [
+        "customize.sunflowerly.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        731056749463814
+      ],
+      "domains": [
+        "damasoz.cc"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1528045085403256
+      ],
+      "domains": [
+        "darknessdagger.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        893465200315058,
+        1240803571118972,
+        1487605312982127
+      ],
+      "domains": [
+        "defineclear.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1815877989139210,
+        1826783088253468,
+        4208755099407945
+      ],
+      "domains": [
+        "definiteof.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        353322984506631,
+        384354310295426,
+        419846788484616,
+        876330294677873,
+        1185030479923516,
+        1551858489425767,
+        1635305984591084,
+        4382532041994229
+      ],
+      "domains": [
+        "delhuisportsclub.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        5935839813201611
+      ],
+      "domains": [
+        "delicate-leather.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        390742999619709,
+        487854400377357,
+        715817549500424,
+        766553571047604,
+        934265495571978,
+        1097838171973927
+      ],
+      "domains": [
+        "delicaten.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        2301492583713697,
+        2793590647655331
+      ],
+      "domains": [
+        "dermynex.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        691384940670995,
+        957153270692955,
+        1301386802195784,
+        1450003636716925,
+        1882305299153467
+      ],
+      "domains": [
+        "dichylie.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1380094682855927
+      ],
+      "domains": [
+        "dictionary.theobediencelanguage.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        840378671835146,
+        1501351334692317,
+        1712292676429206,
+        2855161504833691,
+        4467028060175226
+      ],
+      "domains": [
+        "didibuy.de"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1423462169106989,
+        2015599975657917,
+        26397989686530279
+      ],
+      "domains": [
+        "dietetice.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1241467719752911,
+        1500758681219187
+      ],
+      "domains": [
+        "dogcollarss.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        931068083214640
+      ],
+      "domains": [
+        "doodleway.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        3804737573170539
+      ],
+      "domains": [
+        "doruthy.shop"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        410486675393004,
+        603446389466927,
+        630590716705600,
+        739820348575839,
+        1362267185944600,
+        1620355642346168,
+        1701622010807981,
+        2097461180599954,
+        10007518599315673
+      ],
+      "domains": [
+        "dunnesstoresofficial.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        723404554147356,
+        793846383626722,
+        1359855232580622,
+        1373678257785049,
+        1421532639464169,
+        2325633324578758,
+        2824318931244923,
+        3211087125719303
+      ],
+      "domains": [
+        "ecrossmnall.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        517131674178740,
+        697016340054711,
+        949827394520076,
+        1404865237510418,
+        1596819544879169
+      ],
+      "domains": [
+        "effortua.net"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        118596201326386,
+        198886119617626,
+        822113609505877
+      ],
+      "domains": [
+        "elderdiscuss.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        849588073505609
+      ],
+      "domains": [
+        "eliteonwrist.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1337054821779020
+      ],
+      "domains": [
+        "elleootd.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        830508976732592,
+        1911555346228571,
+        2064843234377304
+      ],
+      "domains": [
+        "elsesupport.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1438318750162881,
+        1500321327256670
+      ],
+      "domains": [
+        "enjoyableadays.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        187286224033147,
+        210596194959334,
+        860607958343942
+      ],
+      "domains": [
+        "enthusiastiu.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1039787452549920,
+        1295506136097596,
+        1700809464617981,
+        1863214351062054,
+        2163525744473371,
+        25576421005370289,
+        25975215198839347
+      ],
+      "domains": [
+        "enyioo.shop"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        577801656944700
+      ],
+      "domains": [
+        "estherian.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        2329032260937624
+      ],
+      "domains": [
+        "ethenai.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        773790168998856,
+        918374677868733,
+        951284627785958,
+        971103205752454,
+        1098222120047824,
+        1264124635710055,
+        1374350081406425,
+        1449715659612912,
+        1514000520140011,
+        1861628101460595,
+        2041257386802218,
+        2185694718910747,
+        4237143849858288
+      ],
+      "domains": [
+        "eulildlde.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        190072297148787,
+        748008968339800,
+        820323820761270,
+        856126497553598,
+        884075738057153,
+        921356587593788,
+        967168936064970,
+        979942091456086,
+        985428340941996,
+        991549669944104,
+        993407213629252,
+        995159592992837,
+        1008238861534702,
+        1010108041366457,
+        1010433978312009,
+        1014886560887321,
+        1021254150344939,
+        1167950667478332,
+        1306993474314946,
+        1343204270996890,
+        1362342839248535,
+        1455326379213843,
+        1482375973902755,
+        1505896184411994,
+        1506261474575199,
+        1508284964215776,
+        1512686936909931,
+        1525470688991453,
+        1539030417974244,
+        1540153324369296,
+        1571696711157792,
+        1594489404983054,
+        1625291985796620,
+        1651712926044280,
+        1669301641021731,
+        1740447156940807,
+        1888710518458629,
+        1913012912731439,
+        1995049021387014,
+        2085698602017737,
+        2234834387323093,
+        2237338313763898,
+        2243194366419625,
+        2263628931049440,
+        2323465284852293,
+        2461001891078966,
+        2753884651650597,
+        3283471058501410,
+        3528937127280372,
+        4267882623475743,
+        27119679494302388,
+        27821352580803956
+      ],
+      "domains": [
+        "eur.birkenstockshopeu.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        652329806483217,
+        842735362208810,
+        994378529613911,
+        1000627819155825,
+        1001178245630216,
+        1008469758223807,
+        1019782880496094,
+        1087391715278982,
+        1250867460199588,
+        1262140062776173,
+        1273549108225333,
+        1286562437018322,
+        1295732815362131,
+        1306936888103076,
+        1312977387432141,
+        1313170864044997,
+        1319089917084326,
+        1347714283847779,
+        1354400019858197,
+        1438613808072197,
+        1609130853482903,
+        1617347122876057,
+        1655959808798712,
+        1693089118549498,
+        1694250721748804,
+        1885152178865121,
+        2087700012011946,
+        2125081238224726,
+        2141966669676490,
+        2148910359017491,
+        2234914640660702,
+        2399182287228047,
+        2431738413998656,
+        2818355668518349,
+        2856593744707374,
+        2858915254460775,
+        3035296523326950,
+        3063621987168576,
+        4898564907036900,
+        26358812987130319,
+        35661444720168006
+      ],
+      "domains": [
+        "eur.hokafactory.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        4190095291212473
+      ],
+      "domains": [
+        "europacustoms.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        189441650819647,
+        227757796546840,
+        777369940773078,
+        785495809526938,
+        800867035083887,
+        964443424585845
+      ],
+      "domains": [
+        "excellent-goods.de"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        622162279496218,
+        884084311390733,
+        974780680366649,
+        1326044652960050,
+        1405009493566573,
+        1531653728580541
+      ],
+      "domains": [
+        "exhibitionk.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1097156967595137
+      ],
+      "domains": [
+        "fabricationk.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1799851247533107
+      ],
+      "domains": [
+        "faithfusionapparel.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        823890890558832,
+        4395925097346896
+      ],
+      "domains": [
+        "falcochicquera.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        2145290782982454
+      ],
+      "domains": [
+        "falowwer.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        409772511024677,
+        454118146584125,
+        464913368864917,
+        623152759377500,
+        625754372201676,
+        761224991891908,
+        1130155464511035,
+        1470603893383689,
+        3171689226480136
+      ],
+      "domains": [
+        "farasncred.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1037036052834677
+      ],
+      "domains": [
+        "fashioniable.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        814878021669955,
+        1461857782159734
+      ],
+      "domains": [
+        "fastshopcase.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        630610028835496
+      ],
+      "domains": [
+        "fatemoll.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        372249131696534,
+        482879167192703,
+        486640336686400,
+        497510971851773,
+        582814963531799,
+        786887489245989
+      ],
+      "domains": [
+        "favorabler.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        870781892015910,
+        3106938159504948,
+        3209519345899186,
+        4264289487169901
+      ],
+      "domains": [
+        "fballjerseys.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        883626438070315,
+        1644085043462736,
+        1779816966330741,
+        2295392707649519,
+        2406409496551612,
+        2454398351740606,
+        2491732324614097
+      ],
+      "domains": [
+        "fbpopi.de"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        521354913901869
+      ],
+      "domains": [
+        "feelgoodnest.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        2490877184620683
+      ],
+      "domains": [
+        "feilangmask.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1684645956008994
+      ],
+      "domains": [
+        "feryna.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        720613743878135,
+        795038450025221,
+        1795797847712602
+      ],
+      "domains": [
+        "festivelook.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        939076265771233,
+        991706949903760,
+        1421656079766488,
+        1481211160082071,
+        1632617157732428,
+        1738256200889426,
+        2185466415596399,
+        2340201466485024
+      ],
+      "domains": [
+        "festoolsales.shop"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1628341864965028,
+        1918694738775808,
+        2098214784359285
+      ],
+      "domains": [
+        "fillbulletin.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1689808052056155
+      ],
+      "domains": [
+        "fisoew.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1343913507570790
+      ],
+      "domains": [
+        "flagmaxx.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        259855893438479,
+        748890490158870,
+        838585397683007,
+        902145584772690,
+        959823258963828,
+        4129439853965155
+      ],
+      "domains": [
+        "fleexos.online"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        990857980554832,
+        4058142507810596
+      ],
+      "domains": [
+        "fluttelik.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1509939727179666,
+        1528410148239485
+      ],
+      "domains": [
+        "footballhomeland.vip"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        938587348948428,
+        1399671028627515,
+        1519346009617366
+      ],
+      "domains": [
+        "footballhomelanda.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        443060904194879
+      ],
+      "domains": [
+        "forbyshopcn.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        735624229642916,
+        2158889518194202,
+        25955783517429523
+      ],
+      "domains": [
+        "formulatem.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1354527753175259
+      ],
+      "domains": [
+        "freshglowlife.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1138174207419451
+      ],
+      "domains": [
+        "funbibi.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        284067518410183,
+        412109816761155
+      ],
+      "domains": [
+        "funny.so"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        847291801137277,
+        923238953810670,
+        1259159853046235,
+        1443014153811339,
+        1506673320835890,
+        1555797118874417,
+        1606359463794198,
+        1676559493336328,
+        1709016253625540,
+        2488396628278950
+      ],
+      "domains": [
+        "furongpet.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        682964990144757
+      ],
+      "domains": [
+        "gabrinl.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1351007913488703
+      ],
+      "domains": [
+        "galaluxia.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1585641752723658
+      ],
+      "domains": [
+        "gamedayfit26.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1544248779947199,
+        1750915408956544,
+        24945129291803138
+      ],
+      "domains": [
+        "gamedaypride.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        814818921222541
+      ],
+      "domains": [
+        "gazintcv.cc"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        2103158370096311
+      ],
+      "domains": [
+        "getnaila.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1086782930003901,
+        1192215692960350,
+        1215666326700594,
+        1296949061902794
+      ],
+      "domains": [
+        "giveadmit.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        943695278431322,
+        1667398614505144
+      ],
+      "domains": [
+        "globalselectmarket.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        988003215645768
+      ],
+      "domains": [
+        "gloriousen.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1254684473138276
+      ],
+      "domains": [
+        "gloryboundus.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        497407916773217
+      ],
+      "domains": [
+        "glow-muse.online"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        476244581175529,
+        482717356619663,
+        599156411702792,
+        622972039158166,
+        763882841599791,
+        820415055983838
+      ],
+      "domains": [
+        "glowflip.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        3433322906823103
+      ],
+      "domains": [
+        "glowfusions.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        804951344538670
+      ],
+      "domains": [
+        "gobben.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        921160177425018,
+        1292276586174233
+      ],
+      "domains": [
+        "goldasseta.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        606605639167533
+      ],
+      "domains": [
+        "goldenoakcyprus.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        295244079851858,
+        317467230666163,
+        1323750825105542
+      ],
+      "domains": [
+        "goodgle.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        645338461815795,
+        895674342699586,
+        1436639987370973,
+        1958250551594645,
+        3472522706249641
+      ],
+      "domains": [
+        "gratefulof.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        409050143171761
+      ],
+      "domains": [
+        "guide.menupgame.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        873500199053874
+      ],
+      "domains": [
+        "h2vnhs.cryptovip99.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1217302906963680
+      ],
+      "domains": [
+        "h5.lushstory.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        954040257420490
+      ],
+      "domains": [
+        "handbagoutlet.live"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        582424906027697
+      ],
+      "domains": [
+        "hanpicked.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        930199802962789
+      ],
+      "domains": [
+        "herinte.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        673533523808071,
+        1783469019138094
+      ],
+      "domains": [
+        "hermsjewelry.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        447252457585796,
+        857944929942681,
+        887012279474139,
+        984540059980380
+      ],
+      "domains": [
+        "hervns.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1580994304032093,
+        3683297001934189,
+        26557759513857830
+      ],
+      "domains": [
+        "hhakl.shop"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        776741235510968,
+        991063326911494,
+        1366760484464313,
+        1524010185726290
+      ],
+      "domains": [
+        "highqualitykit.store"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1031855738928834
+      ],
+      "domains": [
+        "hotamsterdam.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        4155138404798045
+      ],
+      "domains": [
+        "howeveryet.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1442718290610139,
+        2731372013869157,
+        2740647459616759
+      ],
+      "domains": [
+        "ideamature.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        938153212442626
+      ],
+      "domains": [
+        "ideasfordigitalmarketers.top"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        501468235784717,
+        856285019738688,
+        983726819969304,
+        1123460698732892,
+        1228105765232257,
+        1550897622438252
+      ],
+      "domains": [
+        "immobilibo.de"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        635805934282568
+      ],
+      "domains": [
+        "imohave.co"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        545680047522568,
+        737435200997368
+      ],
+      "domains": [
+        "inclusivey.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        817490593375719
+      ],
+      "domains": [
+        "influenceing.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        227567983250854,
+        235816685807191,
+        616792793697188,
+        706609527946591,
+        924154945400669,
+        1648119872371956,
+        9807471039263804
+      ],
+      "domains": [
+        "inkaufsplatz.de"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        493169543853675,
+        2141466532947657,
+        2710718735793846
+      ],
+      "domains": [
+        "inmemoryly.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        883082316244865
+      ],
+      "domains": [
+        "interactionk.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1532864358457212
+      ],
+      "domains": [
+        "intimaglow.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        942646231923683,
+        991102167226622,
+        1007353461862845,
+        1304382424447856,
+        1305521784724544,
+        1454519532537314,
+        1531322475312481,
+        1569761120747502,
+        1615267639556363,
+        1732268067948376,
+        2020888548835641,
+        2027330314659087,
+        2108472319729916,
+        2344656009356278,
+        3431908856960875,
+        4092894520855619,
+        26744677038487130
+      ],
+      "domains": [
+        "iridescentr.shop"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        954663123726656
+      ],
+      "domains": [
+        "jaemsun.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        877729428482165
+      ],
+      "domains": [
+        "jardinvues.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1328546305584912
+      ],
+      "domains": [
+        "jhvxginp.cc"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1609517870136342,
+        2787604641599960
+      ],
+      "domains": [
+        "joanjacksonco.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        194130250283079
+      ],
+      "domains": [
+        "joliefacile.fr"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        603306747975632
+      ],
+      "domains": [
+        "joymos.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        967778499023549,
+        1635585741012412
+      ],
+      "domains": [
+        "joywplace.co"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        684827614314933
+      ],
+      "domains": [
+        "juarezc.cc"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1428955252188602,
+        1912412936305053,
+        3453652121450636
+      ],
+      "domains": [
+        "jubilee250.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1238056193622734,
+        3596252673850838
+      ],
+      "domains": [
+        "juseyst.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        456915213711789,
+        987852743714310
+      ],
+      "domains": [
+        "jwzmj.shop"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1247514120118997
+      ],
+      "domains": [
+        "karlpuay.cc"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1222543366365969
+      ],
+      "domains": [
+        "karmazla.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        950301284423447
+      ],
+      "domains": [
+        "kaycenie.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        4350028091991916
+      ],
+      "domains": [
+        "keepsavial.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        420029497158654
+      ],
+      "domains": [
+        "kinsalesisters.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        890417157221811
+      ],
+      "domains": [
+        "kirtiagarwal.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        736659252839003
+      ],
+      "domains": [
+        "kmartfu.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1837005066829272
+      ],
+      "domains": [
+        "kyrobeauty.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        703302632113030,
+        782172718179567,
+        787789917167840,
+        1586768592497399,
+        4216469375262590,
+        24627096753588514
+      ],
+      "domains": [
+        "laudpraise.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        656977412990306
+      ],
+      "domains": [
+        "lilolo.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        871696155508282,
+        1171026401766705,
+        1907905456777728
+      ],
+      "domains": [
+        "lilymora.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        523857252037338
+      ],
+      "domains": [
+        "linnemi.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1234162635348409
+      ],
+      "domains": [
+        "linojd.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        571051348523649
+      ],
+      "domains": [
+        "liooll.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1124123748813127
+      ],
+      "domains": [
+        "lisa.readyresell.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1515387340597663
+      ],
+      "domains": [
+        "livinganne.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        477617128024902,
+        825100733908548
+      ],
+      "domains": [
+        "lkzq.cc"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        958829960369989,
+        1245405607666400,
+        1501764047502907,
+        1699117311483619
+      ],
+      "domains": [
+        "llywatch.shop"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1229790714722542
+      ],
+      "domains": [
+        "lniany.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        323883349496263
+      ],
+      "domains": [
+        "londonsunny.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        861223179943205,
+        5181584585399385
+      ],
+      "domains": [
+        "lookgesture.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        2317729285396778
+      ],
+      "domains": [
+        "loverlinen.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1725563428804657
+      ],
+      "domains": [
+        "loveyrose.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        26573956368854669
+      ],
+      "domains": [
+        "luckinova.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1113608384302286,
+        26495728343410203
+      ],
+      "domains": [
+        "luckytoday.store"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        2079138619625935
+      ],
+      "domains": [
+        "lumanee.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        3839922302981207
+      ],
+      "domains": [
+        "luminvas.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        28014902118110128
+      ],
+      "domains": [
+        "lumomesh.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        361842855342288,
+        798324888782651
+      ],
+      "domains": [
+        "luxalad.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        575308970943444
+      ],
+      "domains": [
+        "luxeapperal.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        2000734327220034
+      ],
+      "domains": [
+        "luxswatchco.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        935859886784707
+      ],
+      "domains": [
+        "m.arichbox.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        359975758757431
+      ],
+      "domains": [
+        "m.awishday.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        352581612832613
+      ],
+      "domains": [
+        "majesticpure.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        2356673278116240
+      ],
+      "domains": [
+        "mapleridges.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        628498876526727
+      ],
+      "domains": [
+        "mariamraj.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        583303184831775,
+        637733082397943,
+        771221191926512,
+        792208823384408,
+        836259925547433,
+        928862973051883,
+        951597204132677,
+        1145770633746332,
+        1151924016746536,
+        1239279968267091,
+        1467980721559101,
+        1532341488410446,
+        1698928444110486,
+        1777023542978645,
+        1817033722570466,
+        2352762885220112,
+        3113048455537288
+      ],
+      "domains": [
+        "maxdeall.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1189822903289898,
+        1428231018430360
+      ],
+      "domains": [
+        "mayochix-vip.shop"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        957956253302757
+      ],
+      "domains": [
+        "mb-vision.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        576803348128287
+      ],
+      "domains": [
+        "medicadepot.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1005520701735200
+      ],
+      "domains": [
+        "megamartify.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        907962851939538,
+        1373545881205571
+      ],
+      "domains": [
+        "melodyclo.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1612435812851898
+      ],
+      "domains": [
+        "menk.store"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        534720965744077,
+        1026048992553505,
+        3840933842795451
+      ],
+      "domains": [
+        "mensboom.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        3818408971745713
+      ],
+      "domains": [
+        "menstrove.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1749640359331317
+      ],
+      "domains": [
+        "mercoth.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        3588160984779506
+      ],
+      "domains": [
+        "mikazonline.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1361627302461040
+      ],
+      "domains": [
+        "mildgentle.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        541163625350468
+      ],
+      "domains": [
+        "mirrorsphere.lat"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1579376283292420
+      ],
+      "domains": [
+        "mmm38.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1255936389521833
+      ],
+      "domains": [
+        "mollylillydublin.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1760197951604616
+      ],
+      "domains": [
+        "mominonline.pk"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1324745459235958
+      ],
+      "domains": [
+        "moodixa.store"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        2021360868785236
+      ],
+      "domains": [
+        "moonx.io"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        797798449588661,
+        1585062842024018
+      ],
+      "domains": [
+        "motocruising.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        907495165598107
+      ],
+      "domains": [
+        "muckpaw.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        924558250507202
+      ],
+      "domains": [
+        "musiconshirt.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        529246209688946,
+        899360909756324,
+        903474658973292,
+        955703359908324,
+        1067306405105333,
+        2736434913397320
+      ],
+      "domains": [
+        "myfavstyle.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        294079839974617,
+        443371451475329,
+        695889945939616
+      ],
+      "domains": [
+        "nariaes.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1633347830908230
+      ],
+      "domains": [
+        "nashvillecottonlinen.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        855133935903206
+      ],
+      "domains": [
+        "nbwn.org"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1081547631068137,
+        36454165544182766
+      ],
+      "domains": [
+        "nectacoffee.vip"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1427327858968585
+      ],
+      "domains": [
+        "newplum.us"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        942028488615299,
+        973843828731539,
+        1717406742976334,
+        2117630095692052
+      ],
+      "domains": [
+        "nexorvella.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1227736135400455
+      ],
+      "domains": [
+        "nezauto.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        2123258711770062,
+        4420466241542883
+      ],
+      "domains": [
+        "nigrath.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        621017607215951,
+        683441444254138
+      ],
+      "domains": [
+        "nordicgoodshub.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1297153969258173,
+        1382687337217903
+      ],
+      "domains": [
+        "nordsalecollection.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        154288307680732,
+        179552105219184,
+        656215886126661,
+        804890127676704,
+        1547466922673663,
+        1975790352869719,
+        2245743852287535,
+        8305249849497064
+      ],
+      "domains": [
+        "northwestl.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1707615800424028
+      ],
+      "domains": [
+        "norviaonline.store"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1132454259950557,
+        4140596692824304,
+        26759392433658012
+      ],
+      "domains": [
+        "novaweara.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1419886479821467
+      ],
+      "domains": [
+        "novea.shop"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        4399569283658269
+      ],
+      "domains": [
+        "novellyn.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        2528254620944388
+      ],
+      "domains": [
+        "nuvoriastore.online"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1536336427487063
+      ],
+      "domains": [
+        "ocrbuaox.cc"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        27219793007616189
+      ],
+      "domains": [
+        "offer-go.shop"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1546465840002779,
+        3305347379617923,
+        26524606453853586
+      ],
+      "domains": [
+        "olidress.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1013524687759085
+      ],
+      "domains": [
+        "onetwoyear.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1705953097110007
+      ],
+      "domains": [
+        "online-hk.shop"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1599932414452682,
+        1855976621743230
+      ],
+      "domains": [
+        "online-walk-in-paris.top"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        881337051647324,
+        1350992043516147,
+        1489243722739583,
+        1863643980850966
+      ],
+      "domains": [
+        "onlinemaketsale-us.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1342601656738567
+      ],
+      "domains": [
+        "oobend.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        950768469765389
+      ],
+      "domains": [
+        "originalitet.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        493570266615774
+      ],
+      "domains": [
+        "originalment.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        4433588576862842
+      ],
+      "domains": [
+        "otherwiseu.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1439451380993075
+      ],
+      "domains": [
+        "outdoorgearsales.vip"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1609517816864909
+      ],
+      "domains": [
+        "oveltrix.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        27062866843367501
+      ],
+      "domains": [
+        "paletza.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1882803555672119
+      ],
+      "domains": [
+        "parfumelite.online"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        2904821076390341
+      ],
+      "domains": [
+        "partneryls.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1228519152700190
+      ],
+      "domains": [
+        "pawiseus.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        278983448161926,
+        673213537625105,
+        1126192235760546,
+        1165424820805294,
+        1233513914040189,
+        1237659607125595,
+        1395977715288596,
+        1754594458377273
+      ],
+      "domains": [
+        "pepacia.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1153241396626178
+      ],
+      "domains": [
+        "petalisse.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        924040503705691,
+        1036450367014780
+      ],
+      "domains": [
+        "petertie.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        503634461165989,
+        637174124469229
+      ],
+      "domains": [
+        "philosophym.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1489338609455772,
+        2409639459501445
+      ],
+      "domains": [
+        "pickleballdc.store"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1137794181818226
+      ],
+      "domains": [
+        "pickquick.uk"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        482125866592373,
+        2043566586506430
+      ],
+      "domains": [
+        "pinkpamlpuff.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        950945044081110
+      ],
+      "domains": [
+        "piquecases.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        960741410008225,
+        1666544064586629,
+        1925412668413055,
+        26823596733963847
+      ],
+      "domains": [
+        "poliais.shop"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        357532758037328
+      ],
+      "domains": [
+        "poloia.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        684819167752406,
+        998312585459751
+      ],
+      "domains": [
+        "popnifty.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        476073892069700
+      ],
+      "domains": [
+        "porchloves.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        2738008373228335
+      ],
+      "domains": [
+        "profitsupplyz.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        896839036447133
+      ],
+      "domains": [
+        "proundme.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1190198812403918,
+        3840168746300051
+      ],
+      "domains": [
+        "pureflex.gentlepants.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        898512046337308,
+        918436787854754,
+        954761914092883,
+        984881674102902,
+        1100640805146136,
+        1166069525648936,
+        1234619408582478,
+        1275273911394760,
+        1442578084274694,
+        1462192702105261,
+        1464110604548032,
+        1475306743678965,
+        1628118361762228,
+        1629373544852764,
+        1670179244295453,
+        2116784502054494,
+        2250774815666558,
+        25556460770697263,
+        26235333562775714,
+        35404783482499565
+      ],
+      "domains": [
+        "qdila.de"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1326578062382424
+      ],
+      "domains": [
+        "qlayo.shop"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        996123966052882
+      ],
+      "domains": [
+        "qstorgtd.cc"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        519470534189045,
+        592181896748088,
+        908711571172547,
+        1058788498895644
+      ],
+      "domains": [
+        "qualitativeed.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1234100142057711,
+        2524494761337466
+      ],
+      "domains": [
+        "qualnies.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1710503729372941
+      ],
+      "domains": [
+        "quiz.breathelio.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        26097230419912753
+      ],
+      "domains": [
+        "readylms.app"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        585600284197473,
+        1079818277357740,
+        1507441336891606
+      ],
+      "domains": [
+        "recentof.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        707671565430689,
+        1714411502518369
+      ],
+      "domains": [
+        "reeboksports.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        982883781092827
+      ],
+      "domains": [
+        "relestyle.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1088757312869205
+      ],
+      "domains": [
+        "reluno.cc"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        428329572845450,
+        433508212280459,
+        906995810958752,
+        991881739413130,
+        1251602766151470,
+        1299444470847843
+      ],
+      "domains": [
+        "reservationk.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        2760051067689208
+      ],
+      "domains": [
+        "revitaliseonline.store"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        904877049206715,
+        958758216838243,
+        1341538121221356,
+        1612191556652991,
+        1801998437449738,
+        1971483143754719,
+        2007038463558319
+      ],
+      "domains": [
+        "rhglam.shop"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1616773116044257
+      ],
+      "domains": [
+        "rossignoleu.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        2168795633951973
+      ],
+      "domains": [
+        "roviani-milano.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        817015998082445,
+        2149254262279940
+      ],
+      "domains": [
+        "rrfglxury.shop"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        426815516329949,
+        956407706974871
+      ],
+      "domains": [
+        "russell-bromleyofficial.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1235326985444900
+      ],
+      "domains": [
+        "sacredcanon.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        267720265869203,
+        433514537513674,
+        806319409131863,
+        845357571601165,
+        899838199502298,
+        903017562221467,
+        905282042105516,
+        943762181209448,
+        1088500126132755,
+        1118998246768328,
+        1177983737827939,
+        1280262290747379,
+        1285230629897132,
+        1353306916152200,
+        1372118167460932,
+        1377310933444745,
+        1445806606564162,
+        1462180285363337,
+        1465864105189411,
+        1775316717200095,
+        1854327908459659,
+        1992031611606623,
+        2378189659306987,
+        2401482560357931,
+        4227326330814855
+      ],
+      "domains": [
+        "salehoka.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1388511842960747
+      ],
+      "domains": [
+        "savannahscollective.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1368809730720953,
+        1382743672680470,
+        7006839102701499
+      ],
+      "domains": [
+        "scarcelye.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        10094447610583346
+      ],
+      "domains": [
+        "scrbay.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1486971932883004
+      ],
+      "domains": [
+        "scuffersoutlet.top"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        162088870029914,
+        178276351860133,
+        800797551620093,
+        932292741391170,
+        1013669813349314,
+        2088032501536551,
+        2327836577399984
+      ],
+      "domains": [
+        "sensationi.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1889668905051166,
+        2106536296857338
+      ],
+      "domains": [
+        "shatafu.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        545335783618821,
+        572873051168396,
+        2937638206529489
+      ],
+      "domains": [
+        "shineshore.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1037330691167954,
+        1213036916939636
+      ],
+      "domains": [
+        "shopbkc.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        936496599139959
+      ],
+      "domains": [
+        "shopgo.work"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        356621320187383,
+        585660137362899,
+        783706494485241,
+        916814674459765,
+        1113423703457038,
+        1392415329307744,
+        26175486515442117
+      ],
+      "domains": [
+        "shopltu.shop"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        2625935497909621
+      ],
+      "domains": [
+        "shopnuvora.org"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        782210234627672,
+        2202778007142786
+      ],
+      "domains": [
+        "shoppinguk.shop"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1831731787843046
+      ],
+      "domains": [
+        "shoptrivara.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1271287741513139
+      ],
+      "domains": [
+        "shopwellory.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        939703521769248,
+        1105580541090038,
+        1227017752833165,
+        1362476679218088,
+        1622644292271228,
+        1648263536230735,
+        3046468925550143
+      ],
+      "domains": [
+        "shopzc71.myshoplaza.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1881206079258560
+      ],
+      "domains": [
+        "showroom-usa.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        458441853446962,
+        1197815538055177,
+        1199950904497260
+      ],
+      "domains": [
+        "shuhere.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        390960106099450,
+        535365128309435,
+        1056297594992414,
+        1237028216805121,
+        5315461941806345
+      ],
+      "domains": [
+        "sincerelyone.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1779032585754105
+      ],
+      "domains": [
+        "skinceuticals.de"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1260776505484915
+      ],
+      "domains": [
+        "sleevina.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1492953775133456,
+        1986852588862269
+      ],
+      "domains": [
+        "smatfu.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        2178121242998335
+      ],
+      "domains": [
+        "smoke-uk.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1495733305611491
+      ],
+      "domains": [
+        "sneakerdistrict.nl"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1053593925735631
+      ],
+      "domains": [
+        "snoozeflex.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1633783861201290
+      ],
+      "domains": [
+        "soliroyal.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1112835905235986,
+        1912395929403001
+      ],
+      "domains": [
+        "sonneria.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1208689990251300
+      ],
+      "domains": [
+        "soonhoc.top"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        835747663118640
+      ],
+      "domains": [
+        "soufeel.com.au"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        371763151595242,
+        423751066293537,
+        677491410017257,
+        720750739170189,
+        741301386874773,
+        1011864699626715
+      ],
+      "domains": [
+        "sourcesubmit.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        3010745202491820
+      ],
+      "domains": [
+        "sousoleil.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1088297615732135
+      ],
+      "domains": [
+        "soutfits.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        730822303387111,
+        813647358454123
+      ],
+      "domains": [
+        "sovrantor.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        116395051565539,
+        146692995182570,
+        1082256772950596
+      ],
+      "domains": [
+        "sparkliamon.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1354413682292993
+      ],
+      "domains": [
+        "specialjersey.vip"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1294765106104015
+      ],
+      "domains": [
+        "spiderpool.app"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        923829053777955
+      ],
+      "domains": [
+        "sportsdirect-outlet.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        979974918284334,
+        3250440178472954
+      ],
+      "domains": [
+        "ssseii9.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        387150773633349,
+        533055148342662,
+        537641694463171,
+        1366299117109265,
+        1763137714131751,
+        2951813161777867
+      ],
+      "domains": [
+        "stabilityt.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        320871958347316
+      ],
+      "domains": [
+        "stagerboss.co.uk"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1539548283910639
+      ],
+      "domains": [
+        "standify.org"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        187833374276045,
+        264470709628815,
+        1051169929987846,
+        1102532424404253,
+        1633969387438322,
+        1640679423084987,
+        2681744461997954,
+        7352727228083909
+      ],
+      "domains": [
+        "stationaryi.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1251231447181715
+      ],
+      "domains": [
+        "stillwelluk.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        677646445331022,
+        810939535395991,
+        839317138721009,
+        857972800561121,
+        940325852089598,
+        942273518412726,
+        948142601460201,
+        952415994319080,
+        954759207452472,
+        965352552911864,
+        974105971705635,
+        974899441628953,
+        1183871897070588,
+        1191768816226905,
+        1219467853322242,
+        1246870654182702,
+        1247489337589356,
+        1249028360548340,
+        1268124545492253,
+        1283462810588099,
+        1298203262191407,
+        1347028190820735,
+        1419975409115663,
+        1427458512484582,
+        1484848943286210,
+        1494202045434453,
+        1578660463194027,
+        1614127676528506,
+        1743683416609524,
+        1933906351341347,
+        2084493695739905,
+        2195478974518868,
+        2373092539876979,
+        2461185580982102,
+        2503071396807648,
+        3276607612520213,
+        3967714506862438,
+        24822062487487736,
+        26224099480525678,
+        27016582494615731
+      ],
+      "domains": [
+        "sunlu-eur.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        856198930874556,
+        1221446873487880,
+        1527566408786105,
+        1715761666124985,
+        1848621105811775,
+        35033378629644144
+      ],
+      "domains": [
+        "syrvel.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        715581239083160
+      ],
+      "domains": [
+        "takuyi.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        420993407175676,
+        557892076580696,
+        572801888550789,
+        664047606267447,
+        985487733363985,
+        1242711470324597,
+        1278971900224964,
+        2504969166561068
+      ],
+      "domains": [
+        "terrificfeminist.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        836970686120422,
+        854967373662772,
+        1600300025432485,
+        1996109997662044,
+        2400989890422821
+      ],
+      "domains": [
+        "terzalorao.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        932822996045116,
+        1574458340909518
+      ],
+      "domains": [
+        "texas-company.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1293307306070153
+      ],
+      "domains": [
+        "theforgottencodestore.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        601574892827799
+      ],
+      "domains": [
+        "thermoslim.co"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        4304722519777141
+      ],
+      "domains": [
+        "thomannsound.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        644835591778672,
+        981033747484031,
+        1179839306722245,
+        1331158027992156,
+        1411993953316941,
+        1767568114101469
+      ],
+      "domains": [
+        "tivayo.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        945688321374628,
+        1585945235825517,
+        1651207149556941,
+        2055333468429009,
+        2215094102237115,
+        3819735074836089,
+        4667118146844335,
+        25643707758661052,
+        26673177112348183
+      ],
+      "domains": [
+        "topclonewatches.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        206206742106278,
+        316132094247009,
+        519608833704962,
+        558778116240870,
+        680784540244334,
+        1289778388340584
+      ],
+      "domains": [
+        "total-goods.de"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        796784449523489
+      ],
+      "domains": [
+        "toucancustom.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        403113922846456,
+        532388335931514,
+        1660691574483132,
+        1763255844414401
+      ],
+      "domains": [
+        "trecding.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        772028672498187
+      ],
+      "domains": [
+        "trendsoraonline.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        2140465356480932
+      ],
+      "domains": [
+        "truebuckhorn.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        905388622214941
+      ],
+      "domains": [
+        "tryorgatics.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        996881303298788,
+        2389117044843418
+      ],
+      "domains": [
+        "tryvalisse.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1398182595152897,
+        4229314193977554
+      ],
+      "domains": [
+        "tsofluxury.online"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1762202411647577,
+        3723090087987382
+      ],
+      "domains": [
+        "twinklemytoes.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1208135460952146
+      ],
+      "domains": [
+        "tysonvapie.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        4201277413495201
+      ],
+      "domains": [
+        "u3faktory.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1070928901342043,
+        2964840470361439
+      ],
+      "domains": [
+        "uaeteam-pissei.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1732037028158326
+      ],
+      "domains": [
+        "ukenzy.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1258956782585660,
+        1340641084144889,
+        1825086928141429
+      ],
+      "domains": [
+        "uniffm.uk"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        584102014684367,
+        850000517891344,
+        963061109675278,
+        1044889304406286,
+        1271251588451270,
+        1346310150734238,
+        1543867216642146,
+        2215484632600833,
+        4227261400845128,
+        26133965559600508
+      ],
+      "domains": [
+        "unionrugbys.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        213808848049509,
+        246538931401040,
+        770068128120529,
+        1414924999257196,
+        1582406575562324,
+        2263729510682587,
+        2913931392075427
+      ],
+      "domains": [
+        "unnnivee.de"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1251465376652337,
+        1365189308417314,
+        1559719028371430,
+        1941446820084845,
+        4420784558246472,
+        24952106997821780
+      ],
+      "domains": [
+        "uotolineshop.top"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1295927631710879,
+        1328594611810013,
+        1496765487683655,
+        1700930224160145,
+        1792185604954677
+      ],
+      "domains": [
+        "uprightas.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1519134489555964,
+        1973726233214720
+      ],
+      "domains": [
+        "urbanriotco.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        2132246934218006
+      ],
+      "domains": [
+        "usa250fashion.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1166477904868007,
+        1413118479677598,
+        1641299179824699
+      ],
+      "domains": [
+        "usagoodapparel.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        925527156908114
+      ],
+      "domains": [
+        "usapatriotwears.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1446518626964761,
+        1927662947862993,
+        2706122469757473
+      ],
+      "domains": [
+        "uschics.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1458899808539777,
+        2772458112942010,
+        3960121474131620
+      ],
+      "domains": [
+        "usfreedomforever.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        2753260221680932
+      ],
+      "domains": [
+        "uswardrobe.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        482929184809706,
+        553294800944049,
+        643155917707980,
+        820440199443775,
+        1001728670989054,
+        3800234123551445
+      ],
+      "domains": [
+        "utilityk.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1274731937485992,
+        1308952477805785,
+        1474518097717540,
+        4607114522945488
+      ],
+      "domains": [
+        "utool.shop"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1280313224130632
+      ],
+      "domains": [
+        "valorsusa.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1525230666276210
+      ],
+      "domains": [
+        "vancemade.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        802762089579181,
+        1642516850330088,
+        2454513721661379
+      ],
+      "domains": [
+        "vapeonline24.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        483325814039103,
+        979036591139242
+      ],
+      "domains": [
+        "vapeonline365.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1274714764346407,
+        1306443121055825,
+        2624649241209193
+      ],
+      "domains": [
+        "variousmal.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1693840984955715
+      ],
+      "domains": [
+        "varntix.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        2223196171500712
+      ],
+      "domains": [
+        "velmiran.shop"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        754252396866696
+      ],
+      "domains": [
+        "verceri.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        775274545420151,
+        968672039206268,
+        987360803948285,
+        1046680097061730,
+        1229409371982415,
+        1261752188960257,
+        1285058033723637,
+        1368030867591565,
+        1437393687678807,
+        1766589367546569,
+        1850292212387142,
+        3943542335945473,
+        31121426574123521
+      ],
+      "domains": [
+        "verveacious.shop"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        941305058259427
+      ],
+      "domains": [
+        "vitalbloomhealth.online"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        462905198789077
+      ],
+      "domains": [
+        "vivideve.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        3113869858815658
+      ],
+      "domains": [
+        "vivlyhub.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        133496566371496,
+        461068529653426,
+        773554047031094,
+        1002145254502131,
+        1082862776320808
+      ],
+      "domains": [
+        "vocationalofwork.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        439597651742917,
+        748601433908215,
+        1079743286345544,
+        1341306303223634
+      ],
+      "domains": [
+        "vocationay.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        2692187521150985
+      ],
+      "domains": [
+        "vorenax.store"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1443897737252821
+      ],
+      "domains": [
+        "vorlora.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        970034092268421
+      ],
+      "domains": [
+        "voxowatches.us"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        2079577712984264,
+        3483159568507823
+      ],
+      "domains": [
+        "wanda-tv.vip"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        8687525694699334
+      ],
+      "domains": [
+        "wanderoj.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        738240661524510
+      ],
+      "domains": [
+        "warmswe.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1547689046741453
+      ],
+      "domains": [
+        "welcome.romanticalabs.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        719324524284024,
+        762732736711183,
+        1503120144193472,
+        2599376953736833
+      ],
+      "domains": [
+        "wristaficionado.link"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        2805004499875091
+      ],
+      "domains": [
+        "xylvok.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1298126078991410
+      ],
+      "domains": [
+        "xymera.store"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1015870727371700,
+        1576766083443931
+      ],
+      "domains": [
+        "yencite.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        952560757263430,
+        978630768090292
+      ],
+      "domains": [
+        "yominis.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        790662887234172
+      ],
+      "domains": [
+        "yorebsv.cc"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1623568095266407
+      ],
+      "domains": [
+        "youhnife.cc"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        785736821072073,
+        925441843572674,
+        1820295462000015
+      ],
+      "domains": [
+        "zalandosales.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        500981487072300
+      ],
+      "domains": [
+        "zamt-berlin.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1530702504872630,
+        1825987631382372,
+        4357522804573864
+      ],
+      "domains": [
+        "zizzisave.shop"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        777148908587193,
+        1091054709909912,
+        1545575004235438,
+        2509401846177712
+      ],
+      "domains": [
+        "zoooneofficial.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        975587453759621
+      ],
+      "domains": [
+        "zrono.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        1303860211962111,
+        2489301201540631
+      ],
+      "domains": [
+        "zuna-live.com"
+      ],
+      "domain_count": 1
+    },
+    {
+      "pixel_id": [
+        788429845913533,
+        874112934456497,
+        920879495674450,
+        941681993823519,
+        1152970659330583,
+        1165767751314853,
+        1195649617766998,
+        1631227470967595,
+        1906816536406225,
+        1949864625375754
+      ],
+      "domains": [
+        "zyler.de"
+      ],
+      "domain_count": 1
+    }
+  ]
+}

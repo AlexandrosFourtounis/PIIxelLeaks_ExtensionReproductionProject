@@ -1,0 +1,866 @@
+{
+    "name": "interlockingblockshousing.africa",
+    "handle": "664",
+    "registrationDate": "1/26/2024, 11:23:39 AM GMT+2",
+    "expirationDate": "1/26/2027, 11:23:39 AM GMT+2",
+    "lastChangedDate": "2/3/2026, 7:15:55 PM GMT+2",
+    "lastUpdateDate": "6/16/2026, 6:32:11 PM GMT+3",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "roles": [
+                "abuse"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Oluniyi Ajao"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "info@web4africa.net"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+27.105008831"
+                    ]
+                ]
+            ]
+        },
+        {
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "roles": [
+                        "abuse"
+                    ],
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Oluniyi Ajao"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "info@web4africa.net"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "voice"
+                                },
+                                "text",
+                                "+27.105008831"
+                            ]
+                        ]
+                    ]
+                }
+            ],
+            "handle": "664",
+            "links": [
+                {
+                    "href": "https://web4africa.com",
+                    "rel": "about",
+                    "title": "Registrar URL",
+                    "value": "https://rdapserver.net/"
+                }
+            ],
+            "objectClassName": "entity",
+            "port43": "whois.web4africa.net",
+            "publicIds": [
+                {
+                    "identifier": "664",
+                    "type": "IANA Registrar ID"
+                }
+            ],
+            "roles": [
+                "registrar"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Web4Africa"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "info@web4africa.net"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+27.110838382"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "ZA"
+                        },
+                        "text",
+                        [
+                            "372 Oak  Avenue",
+                            "Ferndale",
+                            "null",
+                            "Randburg",
+                            "Gauteng",
+                            "2194",
+                            ""
+                        ]
+                    ]
+                ]
+            ]
+        },
+        {
+            "handle": "BILLING_REDACTED_ENTITY-AFRICA",
+            "objectClassName": "entity",
+            "roles": [
+                "billing"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "REDACTED"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "REDACTED"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "REDACTED"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "REDACTED"
+                    ],
+                    [
+                        "adr",
+                        {},
+                        "text",
+                        [
+                            "REDACTED",
+                            "REDACTED",
+                            "REDACTED",
+                            "REDACTED",
+                            "REDACTED",
+                            "REDACTED",
+                            ""
+                        ]
+                    ]
+                ]
+            ]
+        },
+        {
+            "handle": "TECHNICAL_REDACTED_ENTITY-AFRICA",
+            "objectClassName": "entity",
+            "roles": [
+                "technical"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "REDACTED"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "REDACTED"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "REDACTED"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "REDACTED"
+                    ],
+                    [
+                        "adr",
+                        {},
+                        "text",
+                        [
+                            "REDACTED",
+                            "REDACTED",
+                            "REDACTED",
+                            "REDACTED",
+                            "REDACTED",
+                            "REDACTED",
+                            ""
+                        ]
+                    ]
+                ]
+            ]
+        },
+        {
+            "handle": "REGISTRANT_gqk4_ENTITY-AFRICA",
+            "objectClassName": "entity",
+            "roles": [
+                "registrant"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "REDACTED"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "Interlocking Blocks Housing Ltd"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "REDACTED"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "REDACTED"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "KE"
+                        },
+                        "text",
+                        [
+                            "REDACTED",
+                            "REDACTED",
+                            "REDACTED",
+                            "REDACTED",
+                            "REDACTED",
+                            "REDACTED",
+                            ""
+                        ]
+                    ]
+                ]
+            ]
+        },
+        {
+            "ldhName": "ns1.host-ww.net",
+            "objectClassName": "nameserver"
+        },
+        {
+            "ldhName": "ns2.host-ww.net",
+            "objectClassName": "nameserver"
+        },
+        {
+            "ldhName": "interlockingblockshousing.africa",
+            "links": [
+                {
+                    "href": "https://rdap.nic.africa/rdap/domain/interlockingblockshousing.africa",
+                    "rel": "self",
+                    "value": "https://rdap.nic.africa/rdap/domain/interlockingblockshousing.africa"
+                },
+                {
+                    "href": "https://rdapserver.net/domain/interlockingblockshousing.africa",
+                    "rel": "related",
+                    "value": "https://rdap.nic.africa/rdap/domain/interlockingblockshousing.africa"
+                }
+            ],
+            "nameservers": [
+                {
+                    "ldhName": "ns1.host-ww.net",
+                    "objectClassName": "nameserver"
+                },
+                {
+                    "ldhName": "ns2.host-ww.net",
+                    "objectClassName": "nameserver"
+                }
+            ],
+            "notices": [
+                {
+                    "description": [
+                        "Use of this facility is subject to the following policies:"
+                    ],
+                    "links": [
+                        {
+                            "href": "https://registry.africa/whois-terms-and-conditions",
+                            "rel": "terms-of-service",
+                            "value": "https://rdap.nic.africa/rdap/domain/interlockingblockshousing.africa"
+                        }
+                    ],
+                    "title": "Terms of use"
+                },
+                {
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ],
+                    "links": [
+                        {
+                            "href": "https://icann.org/epp",
+                            "rel": "glossary",
+                            "type": "text/html",
+                            "value": "https://rdap.nic.africa/rdap/domain/interlockingblockshousing.africa"
+                        }
+                    ],
+                    "title": "Status Codes"
+                },
+                {
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ],
+                    "links": [
+                        {
+                            "href": "https://icann.org/wicf",
+                            "rel": "help",
+                            "type": "text/html",
+                            "value": "https://rdap.nic.africa/rdap/domain/interlockingblockshousing.africa"
+                        }
+                    ],
+                    "title": "RDDS Inaccuracy Complaint Form"
+                }
+            ],
+            "objectClassName": "domain",
+            "rdapConformance": [
+                "icann_rdap_response_profile_1",
+                "icann_rdap_technical_implementation_guide_1",
+                "rdap_objectTag",
+                "redacted"
+            ],
+            "redacted": [
+                {
+                    "method": "removal",
+                    "name": {
+                        "type": "Registry Domain ID"
+                    },
+                    "pathLang": "jsonpath",
+                    "prePath": "$.handle",
+                    "reason": {
+                        "description": "Server Policy"
+                    }
+                },
+                {
+                    "method": "replacementValue",
+                    "name": {
+                        "description": "billing handle"
+                    },
+                    "pathLang": "jsonpath",
+                    "postPath": "$.entities[?(@.roles[0]=='billing')].handle",
+                    "reason": {
+                        "description": "Server Policy"
+                    }
+                },
+                {
+                    "method": "removal",
+                    "name": {
+                        "description": "billing registration"
+                    },
+                    "pathLang": "jsonpath",
+                    "prePath": "$.entities[?(@.roles[0]=='billing')].events[?(@.eventAction=='registration')]",
+                    "reason": {
+                        "description": "Server Policy"
+                    }
+                },
+                {
+                    "method": "replacementValue",
+                    "name": {
+                        "description": "billing email"
+                    },
+                    "pathLang": "jsonpath",
+                    "postPath": "$.entities[?(@.roles[0]=='billing')].vcardArray[1][?(@[0]=='email')][3]",
+                    "reason": {
+                        "description": "Server Policy"
+                    }
+                },
+                {
+                    "method": "replacementValue",
+                    "name": {
+                        "description": "billing fax"
+                    },
+                    "pathLang": "jsonpath",
+                    "postPath": "$.entities[?(@.roles[0]=='billing')].vcardArray[1][?(@[1].type=='fax')]",
+                    "reason": {
+                        "description": "Server Policy"
+                    }
+                },
+                {
+                    "method": "replacementValue",
+                    "name": {
+                        "description": "billing fax ext"
+                    },
+                    "pathLang": "jsonpath",
+                    "postPath": "$.entities[?(@.roles[0]=='billing')].vcardArray[1][?(@[1].type=='fax')]",
+                    "reason": {
+                        "description": "Server Policy"
+                    }
+                },
+                {
+                    "method": "replacementValue",
+                    "name": {
+                        "description": "billing phone"
+                    },
+                    "pathLang": "jsonpath",
+                    "postPath": "$.entities[?(@.roles[0]=='billing')].vcardArray[1][?(@[1].type=='voice')]",
+                    "reason": {
+                        "description": "Server Policy"
+                    }
+                },
+                {
+                    "method": "replacementValue",
+                    "name": {
+                        "description": "billing phone ext"
+                    },
+                    "pathLang": "jsonpath",
+                    "postPath": "$.entities[?(@.roles[0]=='billing')].vcardArray[1][?(@[1].type=='voice')]",
+                    "reason": {
+                        "description": "Server Policy"
+                    }
+                },
+                {
+                    "method": "replacementValue",
+                    "name": {
+                        "description": "billing name"
+                    },
+                    "pathLang": "jsonpath",
+                    "postPath": "$.entities[?(@.roles[0]=='billing')].vcardArray[1][?(@[0]=='fn')][3]",
+                    "reason": {
+                        "description": "Server Policy"
+                    }
+                },
+                {
+                    "method": "replacementValue",
+                    "name": {
+                        "description": "billing province/state"
+                    },
+                    "pathLang": "jsonpath",
+                    "postPath": "$.entities[?(@.roles[0]=='billing')].vcardArray[1][?(@[0]=='adr')][3][4]",
+                    "reason": {
+                        "description": "Server Policy"
+                    }
+                },
+                {
+                    "method": "replacementValue",
+                    "name": {
+                        "description": "billing organization"
+                    },
+                    "pathLang": "jsonpath",
+                    "postPath": "$.entities[?(@.roles[0]=='billing')].vcardArray[1][?(@[0]=='org')]",
+                    "reason": {
+                        "description": "Server Policy"
+                    }
+                },
+                {
+                    "method": "replacementValue",
+                    "name": {
+                        "description": "billing street"
+                    },
+                    "pathLang": "jsonpath",
+                    "postPath": "$.entities[?(@.roles[0]=='billing')].vcardArray[1][?(@[0]=='adr')][3][:3]",
+                    "reason": {
+                        "description": "Server Policy"
+                    }
+                },
+                {
+                    "method": "replacementValue",
+                    "name": {
+                        "description": "billing city"
+                    },
+                    "pathLang": "jsonpath",
+                    "postPath": "$.entities[?(@.roles[0]=='billing')].vcardArray[1][?(@[0]=='adr')][3][3]",
+                    "reason": {
+                        "description": "Server Policy"
+                    }
+                },
+                {
+                    "method": "replacementValue",
+                    "name": {
+                        "description": "billing postal code"
+                    },
+                    "pathLang": "jsonpath",
+                    "postPath": "$.entities[?(@.roles[0]=='billing')].vcardArray[1][?(@[0]=='adr')][3][5]",
+                    "reason": {
+                        "description": "Server Policy"
+                    }
+                },
+                {
+                    "method": "emptyValue",
+                    "name": {
+                        "description": "billing country_code"
+                    },
+                    "pathLang": "jsonpath",
+                    "postPath": "$.entities[?(@.roles[0]=='billing')].vcardArray[1][?(@[0]=='adr')][1].cc",
+                    "reason": {
+                        "description": "Server Policy"
+                    }
+                },
+                {
+                    "method": "replacementValue",
+                    "name": {
+                        "description": "technical handle"
+                    },
+                    "pathLang": "jsonpath",
+                    "postPath": "$.entities[?(@.roles[0]=='technical')].handle",
+                    "reason": {
+                        "description": "Server Policy"
+                    }
+                },
+                {
+                    "method": "removal",
+                    "name": {
+                        "description": "technical registration"
+                    },
+                    "pathLang": "jsonpath",
+                    "prePath": "$.entities[?(@.roles[0]=='technical')].events[?(@.eventAction=='registration')]",
+                    "reason": {
+                        "description": "Server Policy"
+                    }
+                },
+                {
+                    "method": "replacementValue",
+                    "name": {
+                        "description": "technical email"
+                    },
+                    "pathLang": "jsonpath",
+                    "postPath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='email')][3]",
+                    "reason": {
+                        "description": "Server Policy"
+                    }
+                },
+                {
+                    "method": "replacementValue",
+                    "name": {
+                        "description": "technical fax"
+                    },
+                    "pathLang": "jsonpath",
+                    "postPath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[1].type=='fax')]",
+                    "reason": {
+                        "description": "Server Policy"
+                    }
+                },
+                {
+                    "method": "replacementValue",
+                    "name": {
+                        "description": "technical fax ext"
+                    },
+                    "pathLang": "jsonpath",
+                    "postPath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[1].type=='fax')]",
+                    "reason": {
+                        "description": "Server Policy"
+                    }
+                },
+                {
+                    "method": "replacementValue",
+                    "name": {
+                        "description": "technical phone"
+                    },
+                    "pathLang": "jsonpath",
+                    "postPath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[1].type=='voice')]",
+                    "reason": {
+                        "description": "Server Policy"
+                    }
+                },
+                {
+                    "method": "replacementValue",
+                    "name": {
+                        "description": "technical phone ext"
+                    },
+                    "pathLang": "jsonpath",
+                    "postPath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[1].type=='voice')]",
+                    "reason": {
+                        "description": "Server Policy"
+                    }
+                },
+                {
+                    "method": "replacementValue",
+                    "name": {
+                        "description": "technical name"
+                    },
+                    "pathLang": "jsonpath",
+                    "postPath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='fn')][3]",
+                    "reason": {
+                        "description": "Server Policy"
+                    }
+                },
+                {
+                    "method": "replacementValue",
+                    "name": {
+                        "description": "technical province/state"
+                    },
+                    "pathLang": "jsonpath",
+                    "postPath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='adr')][3][4]",
+                    "reason": {
+                        "description": "Server Policy"
+                    }
+                },
+                {
+                    "method": "replacementValue",
+                    "name": {
+                        "description": "technical organization"
+                    },
+                    "pathLang": "jsonpath",
+                    "postPath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='org')]",
+                    "reason": {
+                        "description": "Server Policy"
+                    }
+                },
+                {
+                    "method": "replacementValue",
+                    "name": {
+                        "description": "technical street"
+                    },
+                    "pathLang": "jsonpath",
+                    "postPath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='adr')][3][:3]",
+                    "reason": {
+                        "description": "Server Policy"
+                    }
+                },
+                {
+                    "method": "replacementValue",
+                    "name": {
+                        "description": "technical city"
+                    },
+                    "pathLang": "jsonpath",
+                    "postPath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='adr')][3][3]",
+                    "reason": {
+                        "description": "Server Policy"
+                    }
+                },
+                {
+                    "method": "replacementValue",
+                    "name": {
+                        "description": "technical postal code"
+                    },
+                    "pathLang": "jsonpath",
+                    "postPath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='adr')][3][5]",
+                    "reason": {
+                        "description": "Server Policy"
+                    }
+                },
+                {
+                    "method": "emptyValue",
+                    "name": {
+                        "description": "technical country_code"
+                    },
+                    "pathLang": "jsonpath",
+                    "postPath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='adr')][1].cc",
+                    "reason": {
+                        "description": "Server Policy"
+                    }
+                },
+                {
+                    "method": "removal",
+                    "name": {
+                        "description": "registrant registration"
+                    },
+                    "pathLang": "jsonpath",
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].events[?(@.eventAction=='registration')]",
+                    "reason": {
+                        "description": "Server Policy"
+                    }
+                },
+                {
+                    "method": "replacementValue",
+                    "name": {
+                        "description": "registrant email"
+                    },
+                    "pathLang": "jsonpath",
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='email')][3]",
+                    "reason": {
+                        "description": "Server Policy"
+                    }
+                },
+                {
+                    "method": "replacementValue",
+                    "name": {
+                        "description": "registrant fax"
+                    },
+                    "pathLang": "jsonpath",
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[1].type=='fax')]",
+                    "reason": {
+                        "description": "Server Policy"
+                    }
+                },
+                {
+                    "method": "replacementValue",
+                    "name": {
+                        "description": "registrant fax ext"
+                    },
+                    "pathLang": "jsonpath",
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[1].type=='fax')]",
+                    "reason": {
+                        "description": "Server Policy"
+                    }
+                },
+                {
+                    "method": "replacementValue",
+                    "name": {
+                        "description": "registrant phone"
+                    },
+                    "pathLang": "jsonpath",
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[1].type=='voice')]",
+                    "reason": {
+                        "description": "Server Policy"
+                    }
+                },
+                {
+                    "method": "replacementValue",
+                    "name": {
+                        "description": "registrant phone ext"
+                    },
+                    "pathLang": "jsonpath",
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[1].type=='voice')]",
+                    "reason": {
+                        "description": "Server Policy"
+                    }
+                },
+                {
+                    "method": "replacementValue",
+                    "name": {
+                        "description": "registrant name"
+                    },
+                    "pathLang": "jsonpath",
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='fn')][3]",
+                    "reason": {
+                        "description": "Server Policy"
+                    }
+                },
+                {
+                    "method": "replacementValue",
+                    "name": {
+                        "description": "registrant province/state"
+                    },
+                    "pathLang": "jsonpath",
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][4]",
+                    "reason": {
+                        "description": "Server Policy"
+                    }
+                },
+                {
+                    "method": "replacementValue",
+                    "name": {
+                        "description": "registrant street"
+                    },
+                    "pathLang": "jsonpath",
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][:3]",
+                    "reason": {
+                        "description": "Server Policy"
+                    }
+                },
+                {
+                    "method": "replacementValue",
+                    "name": {
+                        "description": "registrant city"
+                    },
+                    "pathLang": "jsonpath",
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][3]",
+                    "reason": {
+                        "description": "Server Policy"
+                    }
+                },
+                {
+                    "method": "replacementValue",
+                    "name": {
+                        "description": "registrant postal code"
+                    },
+                    "pathLang": "jsonpath",
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][5]",
+                    "reason": {
+                        "description": "Server Policy"
+                    }
+                }
+            ],
+            "secureDNS": {
+                "delegationSigned": false
+            }
+        }
+    ],
+    "domain": "interlockingblockshousing.africa\r"
+}

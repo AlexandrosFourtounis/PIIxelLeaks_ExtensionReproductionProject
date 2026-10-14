@@ -1,0 +1,581 @@
+{
+    "name": "fosdem.org",
+    "handle": "10faf5b7d136435e906f177c69b8c856-LROR",
+    "registrationDate": "6/22/2001, 6:15:11 PM GMT+3",
+    "expirationDate": "6/22/2027, 6:15:11 PM GMT+3",
+    "lastChangedDate": "1/12/2026, 4:40:54 PM GMT+2",
+    "lastUpdateDate": "6/23/2026, 3:05:11 PM GMT+3",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "roles": [
+                "abuse"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+49.68949396850"
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": ""
+                        },
+                        "text",
+                        "abusereport@key-systems.net"
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "http://www.report-abuse.online"
+                    ]
+                ]
+            ]
+        },
+        {
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "roles": [
+                        "abuse"
+                    ],
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                ""
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "voice"
+                                },
+                                "uri",
+                                "tel:+49.68949396850"
+                            ],
+                            [
+                                "email",
+                                {
+                                    "type": ""
+                                },
+                                "text",
+                                "abusereport@key-systems.net"
+                            ],
+                            [
+                                "contact-uri",
+                                {},
+                                "uri",
+                                "http://www.report-abuse.online"
+                            ]
+                        ]
+                    ]
+                }
+            ],
+            "handle": "269",
+            "lang": "en-US",
+            "links": [
+                {
+                    "href": "http://www.tigron.be/",
+                    "rel": "about",
+                    "type": "application/rdap+json",
+                    "value": "https://rdap.rrpproxy.net/"
+                }
+            ],
+            "objectClassName": "entity",
+            "publicIds": [
+                {
+                    "identifier": "269",
+                    "type": "IANA Registrar ID"
+                }
+            ],
+            "roles": [
+                "registrar"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Key-Systems GmbH"
+                    ]
+                ]
+            ]
+        },
+        {
+            "lang": "en-US",
+            "objectClassName": "entity",
+            "remarks": [
+                {
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ],
+                    "type": "object redacted due to authorization"
+                }
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "BE",
+                            "type": ""
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": ""
+                        },
+                        "text",
+                        "info@domain-contact.org"
+                    ]
+                ]
+            ]
+        },
+        {
+            "lang": "en-US",
+            "objectClassName": "entity",
+            "remarks": [
+                {
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ],
+                    "type": "object redacted due to authorization"
+                }
+            ],
+            "roles": [
+                "technical"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "BE",
+                            "type": ""
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": ""
+                        },
+                        "text",
+                        "info@domain-contact.org"
+                    ]
+                ]
+            ]
+        },
+        {
+            "ipAddresses": {
+                "v4": [
+                    "31.22.22.138"
+                ],
+                "v6": [
+                    "2001:67c:1808:0:0:0:0:138"
+                ]
+            },
+            "lang": "en-US",
+            "ldhName": "ns1.fosdem.org",
+            "objectClassName": "nameserver",
+            "status": [
+                "active"
+            ],
+            "unicodeName": "ns1.fosdem.org"
+        },
+        {
+            "lang": "en-US",
+            "ldhName": "ns1.x-net.be",
+            "objectClassName": "nameserver",
+            "status": [
+                "active"
+            ],
+            "unicodeName": "ns1.x-net.be"
+        },
+        {
+            "ipAddresses": {
+                "v4": [
+                    "85.9.216.143"
+                ],
+                "v6": [
+                    "2a04:3544:1000:1510:a4da:e9ff:fe08:2efc"
+                ]
+            },
+            "lang": "en-US",
+            "ldhName": "ns2.fosdem.org",
+            "objectClassName": "nameserver",
+            "status": [
+                "active"
+            ],
+            "unicodeName": "ns2.fosdem.org"
+        },
+        {
+            "ipAddresses": {
+                "v4": [
+                    "216.66.80.18"
+                ]
+            },
+            "lang": "en-US",
+            "ldhName": "ns5.he.net",
+            "objectClassName": "nameserver",
+            "status": [
+                "active"
+            ],
+            "unicodeName": "ns5.he.net"
+        },
+        {
+            "handle": "10faf5b7d136435e906f177c69b8c856-LROR",
+            "ldhName": "fosdem.org",
+            "nameservers": [
+                {
+                    "ipAddresses": {
+                        "v4": [
+                            "31.22.22.138"
+                        ],
+                        "v6": [
+                            "2001:67c:1808:0:0:0:0:138"
+                        ]
+                    },
+                    "lang": "en-US",
+                    "ldhName": "ns1.fosdem.org",
+                    "objectClassName": "nameserver",
+                    "status": [
+                        "active"
+                    ],
+                    "unicodeName": "ns1.fosdem.org"
+                },
+                {
+                    "lang": "en-US",
+                    "ldhName": "ns1.x-net.be",
+                    "objectClassName": "nameserver",
+                    "status": [
+                        "active"
+                    ],
+                    "unicodeName": "ns1.x-net.be"
+                },
+                {
+                    "ipAddresses": {
+                        "v4": [
+                            "85.9.216.143"
+                        ],
+                        "v6": [
+                            "2a04:3544:1000:1510:a4da:e9ff:fe08:2efc"
+                        ]
+                    },
+                    "lang": "en-US",
+                    "ldhName": "ns2.fosdem.org",
+                    "objectClassName": "nameserver",
+                    "status": [
+                        "active"
+                    ],
+                    "unicodeName": "ns2.fosdem.org"
+                },
+                {
+                    "ipAddresses": {
+                        "v4": [
+                            "216.66.80.18"
+                        ]
+                    },
+                    "lang": "en-US",
+                    "ldhName": "ns5.he.net",
+                    "objectClassName": "nameserver",
+                    "status": [
+                        "active"
+                    ],
+                    "unicodeName": "ns5.he.net"
+                }
+            ],
+            "notices": [
+                {
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ],
+                    "links": [
+                        {
+                            "href": "https://icann.org/epp",
+                            "rel": "glossary",
+                            "title": "More information on domain status codes",
+                            "type": "application/rdap+json",
+                            "value": "https://rdap.rrpproxy.net/domain/fosdem.org"
+                        }
+                    ],
+                    "title": "Status Codes"
+                },
+                {
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ],
+                    "links": [
+                        {
+                            "href": "https://icann.org/wicf",
+                            "rel": "help",
+                            "type": "application/rdap+json",
+                            "value": "https://rdap.rrpproxy.net/domain/fosdem.org"
+                        }
+                    ],
+                    "title": "RDDS Inaccuracy Complaint Form"
+                },
+                {
+                    "description": [
+                        "This data is provided by Tigron bvba",
+                        "for information purposes, and to assist persons obtaining information",
+                        "about or related to domain name registration records.",
+                        "Tigron bvba does not guarantee its accuracy.",
+                        "By submitting a RDAP query, you agree that you will use this data",
+                        "only for lawful purposes and that, under no circumstances, you will",
+                        "use this data to",
+                        "1) allow, enable, or otherwise support the transmission of mass",
+                        "   unsolicited, commercial advertising or solicitations via E-mail",
+                        "   (spam) or",
+                        "2) enable high volume, automated, electronic processes that apply",
+                        "   to this RDAP server.",
+                        "These terms may be changed without prior notice.",
+                        "By submitting this query, you agree to abide by this policy."
+                    ],
+                    "links": [
+                        {
+                            "href": "https://www.key-systems.net/en/legal/terms-conditions",
+                            "rel": "terms-of-service",
+                            "title": "Terms & Conditions",
+                            "value": "https://rdap.rrpproxy.net/domain/fosdem.org"
+                        }
+                    ],
+                    "title": "Terms of Use"
+                }
+            ],
+            "objectClassName": "domain",
+            "rdapConformance": [
+                "rdap_level_0",
+                "icann_rdap_response_profile_1",
+                "icann_rdap_technical_implementation_guide_1",
+                "redacted"
+            ],
+            "redacted": [
+                {
+                    "method": "emptyValue",
+                    "name": {
+                        "type": "Registrant City"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][3]"
+                },
+                {
+                    "method": "replacementValue",
+                    "name": {
+                        "type": "Registrant Email"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='email')]"
+                },
+                {
+                    "method": "emptyValue",
+                    "name": {
+                        "type": "Registrant Name"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='fn')][3]"
+                },
+                {
+                    "method": "removal",
+                    "name": {
+                        "type": "Registrant Organization"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='org')]"
+                },
+                {
+                    "method": "removal",
+                    "name": {
+                        "type": "Registrant Phone"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[1].type=='voice')]"
+                },
+                {
+                    "method": "emptyValue",
+                    "name": {
+                        "type": "Registrant Street"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][:3]"
+                },
+                {
+                    "method": "emptyValue",
+                    "name": {
+                        "type": "Registrant Postal Code"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][5]"
+                },
+                {
+                    "method": "emptyValue",
+                    "name": {
+                        "type": "Tech City"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='adr')][3][3]"
+                },
+                {
+                    "method": "replacementValue",
+                    "name": {
+                        "type": "Tech Email"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='email')]"
+                },
+                {
+                    "method": "removal",
+                    "name": {
+                        "type": "Tech Fax"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[1].type=='fax')]"
+                },
+                {
+                    "method": "emptyValue",
+                    "name": {
+                        "type": "Tech Name"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='fn')][3]"
+                },
+                {
+                    "method": "removal",
+                    "name": {
+                        "type": "Tech Organization"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='org')]"
+                },
+                {
+                    "method": "removal",
+                    "name": {
+                        "type": "Tech Phone"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[1].type=='voice')]"
+                },
+                {
+                    "method": "emptyValue",
+                    "name": {
+                        "type": "Tech Province"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='adr')][3][4]"
+                },
+                {
+                    "method": "emptyValue",
+                    "name": {
+                        "type": "Tech Street"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='adr')][3][:3]"
+                },
+                {
+                    "method": "emptyValue",
+                    "name": {
+                        "type": "Tech Postal Code"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='adr')][3][5]"
+                },
+                {
+                    "method": "removal",
+                    "name": {
+                        "type": "Registry Registrant ID"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].handle"
+                },
+                {
+                    "method": "removal",
+                    "name": {
+                        "type": "Registry Tech ID"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='tech')].handle"
+                }
+            ],
+            "secureDNS": {
+                "delegationSigned": true,
+                "dsData": [
+                    {
+                        "algorithm": 13,
+                        "digest": "75DE91D9630E97B617C2CC592455EBAA52481614EE41E5B9FCF7B499C111F7CC",
+                        "digestType": 2,
+                        "keyTag": 29225
+                    }
+                ]
+            },
+            "unicodeName": "fosdem.org"
+        }
+    ],
+    "domain": "fosdem.org\r"
+}

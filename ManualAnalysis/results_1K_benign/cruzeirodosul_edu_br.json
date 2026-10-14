@@ -1,0 +1,555 @@
+{
+    "name": "cruzeirodosul.edu.br",
+    "handle": "cruzeirodosul.edu.br",
+    "registrationDate": "8/11/2008, 8:59:16 PM GMT+3",
+    "expirationDate": null,
+    "lastChangedDate": "5/22/2025, 4:03:04 PM GMT+3",
+    "lastUpdateDate": null,
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "handle": "CRSED4",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Cruzeiro do Sul Educacional"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "dominios.cse@cruzeirodosul.edu.br"
+                    ],
+                    [
+                        "lang",
+                        {},
+                        "language-tag",
+                        "pt"
+                    ],
+                    [
+                        "adr",
+                        {},
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "BR"
+                        ]
+                    ]
+                ]
+            ],
+            "roles": [
+                "administrative"
+            ],
+            "events": [
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2022-04-06T13:56:24Z"
+                },
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2025-10-31T15:45:43Z"
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "62984091000102",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "CRUZEIRO DO SUL EDUCACIONAL S/A"
+                    ],
+                    [
+                        "adr",
+                        {},
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "BR"
+                        ]
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "publicIds": [
+                {
+                    "type": "cnpj",
+                    "identifier": "62.984.091/0001-02"
+                }
+            ],
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "handle": "CRSED4",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "kind",
+                                {},
+                                "text",
+                                "individual"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Cruzeiro do Sul Educacional"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "dominios.cse@cruzeirodosul.edu.br"
+                            ],
+                            [
+                                "lang",
+                                {},
+                                "language-tag",
+                                "pt"
+                            ],
+                            [
+                                "adr",
+                                {},
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "BR"
+                                ]
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "administrative"
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "2022-04-06T13:56:24Z"
+                        },
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2025-10-31T15:45:43Z"
+                        }
+                    ]
+                }
+            ],
+            "events": [
+                {
+                    "eventAction": "registration",
+                    "eventDate": "1998-11-06T12:00:00Z"
+                },
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2025-01-13T13:18:11Z"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.registro.br/entity/62984091000102",
+                    "rel": "self",
+                    "href": "https://rdap.registro.br/entity/62984091000102",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "legalRepresentative": "Fabio Ferreira Figueiredo"
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "GHC34",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Gustavo Henrique da Silva Carrijo"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "gustavo.carrijo@unifran.edu.br"
+                    ],
+                    [
+                        "lang",
+                        {},
+                        "language-tag",
+                        "pt"
+                    ],
+                    [
+                        "adr",
+                        {},
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "BR"
+                        ]
+                    ]
+                ]
+            ],
+            "roles": [
+                "technical"
+            ],
+            "events": [
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2003-08-15T12:00:00Z"
+                },
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2025-10-30T14:45:43Z"
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "a1-60.akam.net",
+            "events": [
+                {
+                    "eventAction": "delegation check",
+                    "eventDate": "2026-06-23T08:01:27Z",
+                    "status": [
+                        "ns aa"
+                    ]
+                },
+                {
+                    "eventAction": "last correct delegation check",
+                    "eventDate": "2026-06-23T08:01:27Z"
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "a22-66.akam.net",
+            "events": [
+                {
+                    "eventAction": "delegation check",
+                    "eventDate": "2026-06-23T08:01:27Z",
+                    "status": [
+                        "ns aa"
+                    ]
+                },
+                {
+                    "eventAction": "last correct delegation check",
+                    "eventDate": "2026-06-23T08:01:27Z"
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "a8-65.akam.net",
+            "events": [
+                {
+                    "eventAction": "delegation check",
+                    "eventDate": "2026-06-23T08:01:27Z",
+                    "status": [
+                        "ns aa"
+                    ]
+                },
+                {
+                    "eventAction": "last correct delegation check",
+                    "eventDate": "2026-06-23T08:01:27Z"
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "a12-66.akam.net",
+            "events": [
+                {
+                    "eventAction": "delegation check",
+                    "eventDate": "2026-06-23T08:01:27Z",
+                    "status": [
+                        "ns aa"
+                    ]
+                },
+                {
+                    "eventAction": "last correct delegation check",
+                    "eventDate": "2026-06-23T08:01:27Z"
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "a11-64.akam.net",
+            "events": [
+                {
+                    "eventAction": "delegation check",
+                    "eventDate": "2026-06-23T08:01:27Z",
+                    "status": [
+                        "ns aa"
+                    ]
+                },
+                {
+                    "eventAction": "last correct delegation check",
+                    "eventDate": "2026-06-23T08:01:27Z"
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "a3-67.akam.net",
+            "events": [
+                {
+                    "eventAction": "delegation check",
+                    "eventDate": "2026-06-23T08:01:27Z",
+                    "status": [
+                        "ns aa"
+                    ]
+                },
+                {
+                    "eventAction": "last correct delegation check",
+                    "eventDate": "2026-06-23T08:01:27Z"
+                }
+            ]
+        },
+        {
+            "objectClassName": "domain",
+            "handle": "cruzeirodosul.edu.br",
+            "ldhName": "cruzeirodosul.edu.br",
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "a1-60.akam.net",
+                    "events": [
+                        {
+                            "eventAction": "delegation check",
+                            "eventDate": "2026-06-23T08:01:27Z",
+                            "status": [
+                                "ns aa"
+                            ]
+                        },
+                        {
+                            "eventAction": "last correct delegation check",
+                            "eventDate": "2026-06-23T08:01:27Z"
+                        }
+                    ]
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "a22-66.akam.net",
+                    "events": [
+                        {
+                            "eventAction": "delegation check",
+                            "eventDate": "2026-06-23T08:01:27Z",
+                            "status": [
+                                "ns aa"
+                            ]
+                        },
+                        {
+                            "eventAction": "last correct delegation check",
+                            "eventDate": "2026-06-23T08:01:27Z"
+                        }
+                    ]
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "a8-65.akam.net",
+                    "events": [
+                        {
+                            "eventAction": "delegation check",
+                            "eventDate": "2026-06-23T08:01:27Z",
+                            "status": [
+                                "ns aa"
+                            ]
+                        },
+                        {
+                            "eventAction": "last correct delegation check",
+                            "eventDate": "2026-06-23T08:01:27Z"
+                        }
+                    ]
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "a12-66.akam.net",
+                    "events": [
+                        {
+                            "eventAction": "delegation check",
+                            "eventDate": "2026-06-23T08:01:27Z",
+                            "status": [
+                                "ns aa"
+                            ]
+                        },
+                        {
+                            "eventAction": "last correct delegation check",
+                            "eventDate": "2026-06-23T08:01:27Z"
+                        }
+                    ]
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "a11-64.akam.net",
+                    "events": [
+                        {
+                            "eventAction": "delegation check",
+                            "eventDate": "2026-06-23T08:01:27Z",
+                            "status": [
+                                "ns aa"
+                            ]
+                        },
+                        {
+                            "eventAction": "last correct delegation check",
+                            "eventDate": "2026-06-23T08:01:27Z"
+                        }
+                    ]
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "a3-67.akam.net",
+                    "events": [
+                        {
+                            "eventAction": "delegation check",
+                            "eventDate": "2026-06-23T08:01:27Z",
+                            "status": [
+                                "ns aa"
+                            ]
+                        },
+                        {
+                            "eventAction": "last correct delegation check",
+                            "eventDate": "2026-06-23T08:01:27Z"
+                        }
+                    ]
+                }
+            ],
+            "secureDNS": {
+                "delegationSigned": true,
+                "dsData": [
+                    {
+                        "keyTag": 13290,
+                        "algorithm": 13,
+                        "digest": "C12B51528D5492E4F19F48A747842E02EF0F1EDAB0002BE4C3D602165257C061",
+                        "digestType": 2,
+                        "events": [
+                            {
+                                "eventAction": "registration",
+                                "eventDate": "2025-05-22T13:03:04Z"
+                            },
+                            {
+                                "eventAction": "delegation sign check",
+                                "eventDate": "2026-06-23T08:01:27Z",
+                                "status": [
+                                    "ds ok"
+                                ]
+                            },
+                            {
+                                "eventAction": "last correct delegation sign check",
+                                "eventDate": "2026-06-23T08:01:27Z"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "value": "https://rdap.registro.br/domain/cruzeirodosul.edu.br",
+                    "rel": "self",
+                    "href": "https://rdap.registro.br/domain/cruzeirodosul.edu.br",
+                    "type": "application/rdap+json"
+                },
+                {
+                    "value": "https://rdap.registro.br/domain/cruzeirodosul.edu.br",
+                    "rel": "archives",
+                    "href": "https://rdap.registro.br/domain/cruzeirodosul.edu.br?ticket=4713912",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "notices": [
+                {
+                    "title": "Use and Privacy Policy",
+                    "description": [
+                        "Copyright (c) Nic.br - Use of this data is governed by the Use and Privacy Policy. Distribution, commercialization, reproduction, and use for advertising or similar purposes are expressly prohibited.",
+                        "2026-06-23T10:44:40-03:00 - 139.91.90.27"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.registro.br/domain/cruzeirodosul.edu.br",
+                            "rel": "alternate",
+                            "href": "https://registro.br/upp",
+                            "type": "text/html"
+                        }
+                    ]
+                }
+            ],
+            "rdapConformance": [
+                "rdap_level_0",
+                "nicbr_level_0"
+            ],
+            "port43": "whois.registro.br"
+        }
+    ],
+    "domain": "cruzeirodosul.edu.br\r"
+}

@@ -1,0 +1,608 @@
+{
+    "name": "uk.net",
+    "handle": "3098933_DOMAIN_NET-VRSN",
+    "registrationDate": "2/27/1997, 7:00:00 AM GMT+2",
+    "expirationDate": "2/28/2031, 7:00:00 AM GMT+2",
+    "lastChangedDate": "3/6/2026, 5:09:13 PM GMT+2",
+    "lastUpdateDate": "6/23/2026, 5:37:18 PM GMT+3",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "roles": [
+                "abuse"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+61.397831800"
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": ""
+                        },
+                        "text",
+                        "abuse@instra.com"
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "http://www.report-abuse.online"
+                    ]
+                ]
+            ]
+        },
+        {
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "roles": [
+                        "abuse"
+                    ],
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                ""
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "voice"
+                                },
+                                "uri",
+                                "tel:+61.397831800"
+                            ],
+                            [
+                                "email",
+                                {
+                                    "type": ""
+                                },
+                                "text",
+                                "abuse@instra.com"
+                            ],
+                            [
+                                "contact-uri",
+                                {},
+                                "uri",
+                                "http://www.report-abuse.online"
+                            ]
+                        ]
+                    ]
+                }
+            ],
+            "handle": "1376",
+            "lang": "en-US",
+            "links": [
+                {
+                    "href": "http://www.instra.com",
+                    "rel": "about",
+                    "type": "application/rdap+json",
+                    "value": "https://rdap.instra.com/"
+                }
+            ],
+            "objectClassName": "entity",
+            "publicIds": [
+                {
+                    "identifier": "1376",
+                    "type": "IANA Registrar ID"
+                }
+            ],
+            "roles": [
+                "registrar"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Instra Corporation Pty Ltd."
+                    ]
+                ]
+            ]
+        },
+        {
+            "lang": "en-US",
+            "objectClassName": "entity",
+            "remarks": [
+                {
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ],
+                    "type": "object redacted due to authorization"
+                }
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "NZ",
+                            "type": ""
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "Auckland District",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": ""
+                        },
+                        "text",
+                        "info@domain-contact.org"
+                    ]
+                ]
+            ]
+        },
+        {
+            "lang": "en-US",
+            "objectClassName": "entity",
+            "remarks": [
+                {
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ],
+                    "type": "object redacted due to authorization"
+                }
+            ],
+            "roles": [
+                "technical"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "NZ",
+                            "type": ""
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": ""
+                        },
+                        "text",
+                        "info@domain-contact.org"
+                    ]
+                ]
+            ]
+        },
+        {
+            "ipAddresses": {
+                "v4": [
+                    "194.169.218.24"
+                ],
+                "v6": [
+                    "2001:67c:13cc:0:0:0:1:24"
+                ]
+            },
+            "lang": "en-US",
+            "ldhName": "ns1.centralnic.net",
+            "objectClassName": "nameserver",
+            "status": [
+                "active"
+            ],
+            "unicodeName": "ns1.centralnic.net"
+        },
+        {
+            "ipAddresses": {
+                "v4": [
+                    "185.24.64.10"
+                ],
+                "v6": [
+                    "2a04:2b00:13cc:0:0:0:1:10"
+                ]
+            },
+            "lang": "en-US",
+            "ldhName": "ns2.centralnic.net",
+            "objectClassName": "nameserver",
+            "status": [
+                "active"
+            ],
+            "unicodeName": "ns2.centralnic.net"
+        },
+        {
+            "ipAddresses": {
+                "v4": [
+                    "212.18.248.10"
+                ],
+                "v6": [
+                    "2a04:2b00:13ee:0:0:0:0:10"
+                ]
+            },
+            "lang": "en-US",
+            "ldhName": "ns3.centralnic.net",
+            "objectClassName": "nameserver",
+            "status": [
+                "active"
+            ],
+            "unicodeName": "ns3.centralnic.net"
+        },
+        {
+            "ipAddresses": {
+                "v4": [
+                    "212.18.249.24"
+                ],
+                "v6": [
+                    "2a04:2b00:13ff:0:0:0:0:24"
+                ]
+            },
+            "lang": "en-US",
+            "ldhName": "ns4.centralnic.net",
+            "objectClassName": "nameserver",
+            "status": [
+                "active"
+            ],
+            "unicodeName": "ns4.centralnic.net"
+        },
+        {
+            "handle": "3098933_DOMAIN_NET-VRSN",
+            "ldhName": "uk.net",
+            "nameservers": [
+                {
+                    "ipAddresses": {
+                        "v4": [
+                            "194.169.218.24"
+                        ],
+                        "v6": [
+                            "2001:67c:13cc:0:0:0:1:24"
+                        ]
+                    },
+                    "lang": "en-US",
+                    "ldhName": "ns1.centralnic.net",
+                    "objectClassName": "nameserver",
+                    "status": [
+                        "active"
+                    ],
+                    "unicodeName": "ns1.centralnic.net"
+                },
+                {
+                    "ipAddresses": {
+                        "v4": [
+                            "185.24.64.10"
+                        ],
+                        "v6": [
+                            "2a04:2b00:13cc:0:0:0:1:10"
+                        ]
+                    },
+                    "lang": "en-US",
+                    "ldhName": "ns2.centralnic.net",
+                    "objectClassName": "nameserver",
+                    "status": [
+                        "active"
+                    ],
+                    "unicodeName": "ns2.centralnic.net"
+                },
+                {
+                    "ipAddresses": {
+                        "v4": [
+                            "212.18.248.10"
+                        ],
+                        "v6": [
+                            "2a04:2b00:13ee:0:0:0:0:10"
+                        ]
+                    },
+                    "lang": "en-US",
+                    "ldhName": "ns3.centralnic.net",
+                    "objectClassName": "nameserver",
+                    "status": [
+                        "active"
+                    ],
+                    "unicodeName": "ns3.centralnic.net"
+                },
+                {
+                    "ipAddresses": {
+                        "v4": [
+                            "212.18.249.24"
+                        ],
+                        "v6": [
+                            "2a04:2b00:13ff:0:0:0:0:24"
+                        ]
+                    },
+                    "lang": "en-US",
+                    "ldhName": "ns4.centralnic.net",
+                    "objectClassName": "nameserver",
+                    "status": [
+                        "active"
+                    ],
+                    "unicodeName": "ns4.centralnic.net"
+                }
+            ],
+            "notices": [
+                {
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ],
+                    "links": [
+                        {
+                            "href": "https://icann.org/epp",
+                            "rel": "glossary",
+                            "title": "More information on domain status codes",
+                            "type": "application/rdap+json",
+                            "value": "https://rdap.instra.com/domain/uk.net"
+                        }
+                    ],
+                    "title": "Status Codes"
+                },
+                {
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ],
+                    "links": [
+                        {
+                            "href": "https://icann.org/wicf",
+                            "rel": "help",
+                            "type": "application/rdap+json",
+                            "value": "https://rdap.instra.com/domain/uk.net"
+                        }
+                    ],
+                    "title": "RDDS Inaccuracy Complaint Form"
+                },
+                {
+                    "description": [
+                        "This data is provided by Instra Corporation Pty Ltd.",
+                        "for information purposes, and to assist persons obtaining information",
+                        "about or related to domain name registration records.",
+                        "Instra Corporation Pty Ltd. does not guarantee its accuracy.",
+                        "By submitting a RDAP query, you agree that you will use this data",
+                        "only for lawful purposes and that, under no circumstances, you will",
+                        "use this data to",
+                        "1) allow, enable, or otherwise support the transmission of mass",
+                        "   unsolicited, commercial advertising or solicitations via E-mail",
+                        "   (spam) or",
+                        "2) enable high volume, automated, electronic processes that apply",
+                        "   to this RDAP server.",
+                        "These terms may be changed without prior notice.",
+                        "By submitting this query, you agree to abide by this policy."
+                    ],
+                    "links": [
+                        {
+                            "href": "https://www.key-systems.net/en/legal/terms-conditions",
+                            "rel": "terms-of-service",
+                            "title": "Terms & Conditions",
+                            "value": "https://rdap.instra.com/domain/uk.net"
+                        }
+                    ],
+                    "title": "Terms of Use"
+                }
+            ],
+            "objectClassName": "domain",
+            "rdapConformance": [
+                "rdap_level_0",
+                "icann_rdap_response_profile_1",
+                "icann_rdap_technical_implementation_guide_1",
+                "redacted"
+            ],
+            "redacted": [
+                {
+                    "method": "emptyValue",
+                    "name": {
+                        "type": "Registrant City"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][3]"
+                },
+                {
+                    "method": "replacementValue",
+                    "name": {
+                        "type": "Registrant Email"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='email')]"
+                },
+                {
+                    "method": "emptyValue",
+                    "name": {
+                        "type": "Registrant Name"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='fn')][3]"
+                },
+                {
+                    "method": "removal",
+                    "name": {
+                        "type": "Registrant Organization"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='org')]"
+                },
+                {
+                    "method": "removal",
+                    "name": {
+                        "type": "Registrant Phone"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[1].type=='voice')]"
+                },
+                {
+                    "method": "emptyValue",
+                    "name": {
+                        "type": "Registrant Street"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][:3]"
+                },
+                {
+                    "method": "emptyValue",
+                    "name": {
+                        "type": "Registrant Postal Code"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][5]"
+                },
+                {
+                    "method": "emptyValue",
+                    "name": {
+                        "type": "Tech City"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='adr')][3][3]"
+                },
+                {
+                    "method": "replacementValue",
+                    "name": {
+                        "type": "Tech Email"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='email')]"
+                },
+                {
+                    "method": "emptyValue",
+                    "name": {
+                        "type": "Tech Name"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='fn')][3]"
+                },
+                {
+                    "method": "removal",
+                    "name": {
+                        "type": "Tech Organization"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='org')]"
+                },
+                {
+                    "method": "removal",
+                    "name": {
+                        "type": "Tech Phone"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[1].type=='voice')]"
+                },
+                {
+                    "method": "emptyValue",
+                    "name": {
+                        "type": "Tech Province"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='adr')][3][4]"
+                },
+                {
+                    "method": "emptyValue",
+                    "name": {
+                        "type": "Tech Street"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='adr')][3][:3]"
+                },
+                {
+                    "method": "emptyValue",
+                    "name": {
+                        "type": "Tech Postal Code"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='adr')][3][5]"
+                },
+                {
+                    "method": "removal",
+                    "name": {
+                        "type": "Registry Registrant ID"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].handle"
+                },
+                {
+                    "method": "removal",
+                    "name": {
+                        "type": "Registry Tech ID"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='tech')].handle"
+                }
+            ],
+            "secureDNS": {
+                "delegationSigned": true,
+                "dsData": [
+                    {
+                        "algorithm": 7,
+                        "digest": "8B80E09B21CEDE71F13A132313B2BF0BC790C3C7",
+                        "digestType": 1,
+                        "keyTag": 23762
+                    },
+                    {
+                        "algorithm": 7,
+                        "digest": "894A1BAC5A4C2A537B39250AE553C4DD86704BC2CFF3CBD45717086E4531008C",
+                        "digestType": 2,
+                        "keyTag": 23762
+                    },
+                    {
+                        "algorithm": 7,
+                        "digest": "D135947CB4BAA6A5DAE9259EBF10724954BD98F0F521D37F262BE8EE05C6CC6F",
+                        "digestType": 2,
+                        "keyTag": 31855
+                    }
+                ]
+            },
+            "unicodeName": "uk.net"
+        }
+    ],
+    "domain": "uk.net\r"
+}

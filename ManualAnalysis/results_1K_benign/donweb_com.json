@@ -1,0 +1,448 @@
+{
+    "name": "donweb.com",
+    "handle": "donweb.com",
+    "registrationDate": "3/15/2002, 12:22:58 AM GMT+2",
+    "expirationDate": "3/14/2034, 5:00:00 AM GMT+2",
+    "lastChangedDate": "7/2/2024, 6:00:06 PM GMT+3",
+    "lastUpdateDate": "6/23/2026, 6:05:49 PM GMT+3",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "handle": "DONWEBCOM-reg",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Guillermo Tornatore"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "Donweb.com"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "dominios@donweb.com"
+                    ],
+                    [
+                        "adr",
+                        {},
+                        "text",
+                        [
+                            "Cordoba 3753",
+                            "",
+                            "",
+                            "Rosario 2000",
+                            "Santa Fe",
+                            "AR"
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {},
+                        "uri",
+                        "tel:+543414360555"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrant"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "DONWEBCOM-adm",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Guillermo Tornatore"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "Donweb.com"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "dominios@donweb.com"
+                    ],
+                    [
+                        "adr",
+                        {},
+                        "text",
+                        [
+                            "Cordoba 3753",
+                            "",
+                            "",
+                            "Rosario 2000",
+                            "Santa Fe",
+                            "AR"
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {},
+                        "uri",
+                        "tel:+543414360555"
+                    ]
+                ]
+            ],
+            "roles": [
+                "administrative"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "DONWEBCOM-adm",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Guillermo Tornatore"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "Donweb.com"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "dominios@donweb.com"
+                    ],
+                    [
+                        "adr",
+                        {},
+                        "text",
+                        [
+                            "Cordoba 3753",
+                            "",
+                            "",
+                            "Rosario 2000",
+                            "Santa Fe",
+                            "AR"
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {},
+                        "uri",
+                        "tel:+543414360555"
+                    ]
+                ]
+            ],
+            "roles": [
+                "technical"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "voice"
+                            ]
+                        },
+                        "uri",
+                        "tel:+54-011-52388127"
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "abuse@donweb.com"
+                    ]
+                ]
+            ],
+            "roles": [
+                "abuse"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "1388",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "dattatec.com SRL"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "AR"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "Cordoba 3753",
+                            "Rosario",
+                            "SF",
+                            "2000",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "abuse@donweb.com"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrar"
+            ],
+            "publicIds": [
+                {
+                    "type": "IANA Registrar ID",
+                    "identifier": "1388"
+                }
+            ],
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                ""
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "voice"
+                                    ]
+                                },
+                                "uri",
+                                "tel:+54-011-52388127"
+                            ],
+                            [
+                                "email",
+                                {
+                                    "type": "work"
+                                },
+                                "text",
+                                "abuse@donweb.com"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "abuse"
+                    ]
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://administracion.donweb.com/rdap",
+                    "rel": "about",
+                    "href": "https://administracion.donweb.com/rdap",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "port43": "whois.donweb.com"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "cfns1.donweb.com",
+            "status": [
+                "active"
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "cfns2.donweb.com",
+            "status": [
+                "active"
+            ]
+        },
+        {
+            "objectClassName": "domain",
+            "handle": "donweb.com",
+            "ldhName": "donweb.com",
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "cfns1.donweb.com",
+                    "status": [
+                        "active"
+                    ]
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "cfns2.donweb.com",
+                    "status": [
+                        "active"
+                    ]
+                }
+            ],
+            "secureDNS": {
+                "delegationSigned": false
+            },
+            "links": [
+                {
+                    "value": "https://administracion.donweb.com/rdap/domain/DONWEB.COM",
+                    "rel": "related",
+                    "href": "https://administracion.donweb.com/rdap/domain/DONWEB.COM",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "notices": [
+                {
+                    "title": "Status Codes",
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp."
+                    ],
+                    "links": [
+                        {
+                            "rel": "glossary",
+                            "href": "https://icann.org/epp",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "RDDS Inaccuracy Complaint Form",
+                    "description": [
+                        "URL of the RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ],
+                    "links": [
+                        {
+                            "rel": "help",
+                            "href": "https://icann.org/wicf",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "Terms of Use",
+                    "description": [
+                        "All data in this whois database is provided by dattatec.com for",
+                        "information purposes only, and to assist persons in obtaining",
+                        "information about or related to a domain name registration record.",
+                        "By querying this server, you agree that you :",
+                        "    (1)-may use this data only for lawful purposes;",
+                        "    (2)-will not re-use data for any kind of support for the transmission",
+                        "    of unsolicited advertising via e-mail, telephone, or facsimile;",
+                        "    (3)-will not reproduce and/or store any part of the data without prior",
+                        "    permission of the copyright holders;",
+                        "    (4)-are aware of and agree to the fact that all access to the server is",
+                        "    under constant monitoring and will be logged for the purpose of",
+                        "    prosecution in case of missuse!",
+                        "",
+                        "Dattatec.com reserves the right to modify these terms at any time."
+                    ],
+                    "links": [
+                        {
+                            "rel": "terms-of-service",
+                            "href": "https://donweb.com/es-ar/terminos-y-condiciones#registracion-dominios",
+                            "type": "text/html"
+                        }
+                    ]
+                }
+            ],
+            "rdapConformance": [
+                "rdap_level_0",
+                "redacted",
+                "icann_rdap_response_profile_1",
+                "icann_rdap_technical_implementation_guide_1"
+            ],
+            "port43": "whois.donweb.com"
+        }
+    ],
+    "domain": "donweb.com\r"
+}

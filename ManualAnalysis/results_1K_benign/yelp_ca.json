@@ -1,0 +1,705 @@
+{
+    "name": "yelp.ca",
+    "handle": "D685032-CIRA",
+    "registrationDate": "7/17/2006, 7:30:16 PM GMT+3",
+    "expirationDate": "7/17/2028, 7:00:00 AM GMT+3",
+    "lastChangedDate": "6/15/2026, 12:21:47 PM GMT+3",
+    "lastUpdateDate": "6/23/2026, 4:02:34 PM GMT+3",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "handle": "not applicable",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Abuse Contact"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "role",
+                        {},
+                        "text",
+                        "abuse"
+                    ],
+                    [
+                        "adr",
+                        {},
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "voice"
+                            ]
+                        },
+                        "uri",
+                        "tel:+1.2083895740"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "abusecomplaints@markmonitor.com"
+                    ],
+                    [
+                        "url",
+                        {
+                            "type": "home"
+                        },
+                        "uri",
+                        "Markmonitor.com"
+                    ]
+                ]
+            ],
+            "roles": [
+                "abuse"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "not applicable",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "MarkMonitor International Canada Ltd."
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ],
+                    [
+                        "role",
+                        {},
+                        "text",
+                        "registrar"
+                    ],
+                    [
+                        "adr",
+                        {},
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "url",
+                        {
+                            "type": "home"
+                        },
+                        "uri",
+                        "Markmonitor.com"
+                    ]
+                ]
+            ],
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "handle": "not applicable",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Abuse Contact"
+                            ],
+                            [
+                                "kind",
+                                {},
+                                "text",
+                                "individual"
+                            ],
+                            [
+                                "role",
+                                {},
+                                "text",
+                                "abuse"
+                            ],
+                            [
+                                "adr",
+                                {},
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "voice"
+                                    ]
+                                },
+                                "uri",
+                                "tel:+1.2083895740"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "abusecomplaints@markmonitor.com"
+                            ],
+                            [
+                                "url",
+                                {
+                                    "type": "home"
+                                },
+                                "uri",
+                                "Markmonitor.com"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "abuse"
+                    ]
+                }
+            ],
+            "roles": [
+                "registrar"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "16337105-CIRA",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Yelp Inc. TMA 858370"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "role",
+                        {},
+                        "text",
+                        "registrant"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "US"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            [
+                                "140 New Montgomery",
+                                "9th Floor"
+                            ],
+                            "San Francisco",
+                            "CA",
+                            "94105",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "voice"
+                            ]
+                        },
+                        "uri",
+                        "tel:+1.4159083801"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "admin@yelp.com"
+                    ],
+                    [
+                        "url",
+                        {
+                            "type": "home"
+                        },
+                        "uri",
+                        "Markmonitor.com"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrant"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "16475540-CIRA",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Laurence Wilson"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "Yelp Inc. TMA 858370"
+                    ],
+                    [
+                        "role",
+                        {},
+                        "text",
+                        "administrative"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "US"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            [
+                                "140 New Montgomery",
+                                "9th Floor"
+                            ],
+                            "San Francisco",
+                            "CA",
+                            "60504",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "voice"
+                            ]
+                        },
+                        "uri",
+                        "tel:+1.4159083801"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "admin@yelp.com"
+                    ],
+                    [
+                        "url",
+                        {
+                            "type": "home"
+                        },
+                        "uri",
+                        "Markmonitor.com"
+                    ]
+                ]
+            ],
+            "roles": [
+                "administrative"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "16475540-CIRA",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Laurence Wilson"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "Yelp Inc. TMA 858370"
+                    ],
+                    [
+                        "role",
+                        {},
+                        "text",
+                        "technical"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "US"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            [
+                                "140 New Montgomery",
+                                "9th Floor"
+                            ],
+                            "San Francisco",
+                            "CA",
+                            "60504",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "voice"
+                            ]
+                        },
+                        "uri",
+                        "tel:+1.4159083801"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "admin@yelp.com"
+                    ],
+                    [
+                        "url",
+                        {
+                            "type": "home"
+                        },
+                        "uri",
+                        "Markmonitor.com"
+                    ]
+                ]
+            ],
+            "roles": [
+                "technical"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "role",
+                        {},
+                        "text",
+                        "billing"
+                    ],
+                    [
+                        "adr",
+                        {},
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "voice"
+                            ]
+                        },
+                        "text",
+                        ""
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "fax"
+                            ]
+                        },
+                        "text",
+                        ""
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "url",
+                        {
+                            "type": "home"
+                        },
+                        "uri",
+                        "Markmonitor.com"
+                    ]
+                ]
+            ],
+            "roles": [
+                "billing"
+            ]
+        },
+        {
+            "ldhName": "dns1.p03.nsone.net",
+            "objectClassName": "nameserver"
+        },
+        {
+            "ldhName": "dns2.p03.nsone.net",
+            "objectClassName": "nameserver"
+        },
+        {
+            "ldhName": "dns3.p03.nsone.net",
+            "objectClassName": "nameserver"
+        },
+        {
+            "ldhName": "dns4.p03.nsone.net",
+            "objectClassName": "nameserver"
+        },
+        {
+            "ldhName": "ns01.midtowndoornailns.com",
+            "objectClassName": "nameserver"
+        },
+        {
+            "ldhName": "ns02.midtowndoornailns.com",
+            "objectClassName": "nameserver"
+        },
+        {
+            "ldhName": "ns03.midtowndoornailns.com",
+            "objectClassName": "nameserver"
+        },
+        {
+            "ldhName": "ns04.midtowndoornailns.com",
+            "objectClassName": "nameserver"
+        },
+        {
+            "rdapConformance": [
+                "icann_rdap_response_profile_1",
+                "icann_rdap_technical_implementation_guide_1",
+                "rdap_level_0"
+            ],
+            "handle": "D685032-CIRA",
+            "ldhName": "yelp.ca",
+            "unicodeName": "yelp.ca",
+            "port43": "whois.ca.fury.ca",
+            "links": [
+                {
+                    "href": "https://rdap.ca.fury.ca/rdap/domain/yelp.ca",
+                    "value": "https://rdap.ca.fury.ca/rdap/domain/yelp.ca",
+                    "rel": "self",
+                    "title": "Authoritative URL for this resource",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "notices": [
+                {
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ],
+                    "title": "Status Codes",
+                    "links": [
+                        {
+                            "href": "https://icann.org/epp",
+                            "value": "https://rdap.ca.fury.ca/rdap/domain/yelp.ca",
+                            "rel": "glossary",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "description": [
+                        "Service subject to Terms of Use."
+                    ],
+                    "title": "Terms of Service",
+                    "links": [
+                        {
+                            "href": "https://www.cira.ca/en/resources/documents/about/website-terms-use",
+                            "value": "https://rdap.ca.fury.ca/rdap/domain/yelp.ca",
+                            "rel": "terms-of-service",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ],
+                    "title": "RDDS Inaccuracy Complaint Form",
+                    "links": [
+                        {
+                            "href": "https://icann.org/wicf",
+                            "value": "https://rdap.ca.fury.ca/rdap/domain/yelp.ca",
+                            "rel": "help",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "description": [
+                        "\nUse of CIRA's WHOIS service is governed by the Terms of Use in its Legal\nNotice, available at https://www.cira.ca/en/resources/documents/about/website-terms-use\n\n(c) 2026 Canadian Internet Registration Authority, (http://www.cira.ca/)"
+                    ],
+                    "title": "Legal Notice",
+                    "links": [
+                        {
+                            "href": "https://www.cira.ca/en/resources/documents/about/website-terms-use",
+                            "value": "https://rdap.ca.fury.ca/rdap/domain/yelp.ca",
+                            "rel": "help",
+                            "type": "text/html"
+                        }
+                    ]
+                }
+            ],
+            "nameservers": [
+                {
+                    "ldhName": "dns1.p03.nsone.net",
+                    "objectClassName": "nameserver"
+                },
+                {
+                    "ldhName": "dns2.p03.nsone.net",
+                    "objectClassName": "nameserver"
+                },
+                {
+                    "ldhName": "dns3.p03.nsone.net",
+                    "objectClassName": "nameserver"
+                },
+                {
+                    "ldhName": "dns4.p03.nsone.net",
+                    "objectClassName": "nameserver"
+                },
+                {
+                    "ldhName": "ns01.midtowndoornailns.com",
+                    "objectClassName": "nameserver"
+                },
+                {
+                    "ldhName": "ns02.midtowndoornailns.com",
+                    "objectClassName": "nameserver"
+                },
+                {
+                    "ldhName": "ns03.midtowndoornailns.com",
+                    "objectClassName": "nameserver"
+                },
+                {
+                    "ldhName": "ns04.midtowndoornailns.com",
+                    "objectClassName": "nameserver"
+                }
+            ],
+            "secureDNS": {
+                "delegationSigned": false
+            },
+            "objectClassName": "domain"
+        }
+    ],
+    "domain": "yelp.ca\r"
+}

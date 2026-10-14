@@ -1,0 +1,395 @@
+{
+    "name": "chaos.social",
+    "handle": "61d92801325441f69eec87b5d5ae19b4-DONUTS",
+    "registrationDate": "4/12/2017, 2:45:52 PM GMT+3",
+    "expirationDate": "4/12/2027, 2:45:51 PM GMT+3",
+    "lastChangedDate": "4/12/2026, 3:20:30 AM GMT+3",
+    "lastUpdateDate": "6/23/2026, 5:32:01 PM GMT+3",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Abuse Contact"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "INWX GmbH"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+49.30983212123"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "abuse@inwx.com"
+                    ]
+                ]
+            ],
+            "roles": [
+                "abuse"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "links": [
+                {
+                    "value": "https://rdap.domrobot.com/",
+                    "rel": "about",
+                    "href": "https://inwx.de"
+                }
+            ],
+            "handle": "1420",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "INWX GmbH"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrar"
+            ],
+            "publicIds": [
+                {
+                    "type": "IANA Registrar ID",
+                    "identifier": "1420"
+                }
+            ],
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Abuse Contact"
+                            ],
+                            [
+                                "org",
+                                {},
+                                "text",
+                                "INWX GmbH"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "voice"
+                                },
+                                "uri",
+                                "tel:+49.30983212123"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "abuse@inwx.com"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "abuse"
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "DE"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "https://whois-contact.domrobot.com"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrant"
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns1.leah.is",
+            "unicodeName": "ns1.leah.is"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns2.leah.is",
+            "unicodeName": "ns2.leah.is"
+        },
+        {
+            "rdapConformance": [
+                "redacted",
+                "rdap_level_0",
+                "icann_rdap_technical_implementation_guide_1",
+                "icann_rdap_response_profile_1"
+            ],
+            "objectClassName": "domain",
+            "links": [
+                {
+                    "value": "https://rdap.domrobot.com/domain/chaos.social",
+                    "rel": "self",
+                    "href": "https://rdap.domrobot.com/domain/chaos.social",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "notices": [
+                {
+                    "title": "Status Codes",
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.domrobot.com/domain/chaos.social",
+                            "rel": "glossary",
+                            "href": "https://icann.org/epp",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "RDDS Inaccuracy Complaint Form",
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.domrobot.com/domain/chaos.social",
+                            "rel": "help",
+                            "href": "https://icann.org/wicf",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "Terms of Use",
+                    "description": [
+                        "By submitting an inquiry, you agree to these Universal Terms of Service",
+                        "and limitations of warranty. In particular, you agree not to use this",
+                        "data to allow, enable, or otherwise make possible, dissemination or",
+                        "collection of this data, in part or in its entirety, for any purpose,",
+                        "such as the transmission of unsolicited advertising and solicitations of",
+                        "any kind, including spam. You further agree not to use this data to enable",
+                        "high volume, automated or robotic electronic processes designed to collect",
+                        "or compile this data for any purpose, including mining this data for your",
+                        "own personal or commercial purposes, or use this data in any way that violates",
+                        "applicable laws and regulations."
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.domrobot.com/domain/chaos.social",
+                            "rel": "terms-of-service",
+                            "href": "https://www.inwx.com/en/aboutus/terms",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "RDAP Help Document",
+                    "description": [
+                        "Documentation describing the functionality of this RDAP service."
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.domrobot.com/domain/chaos.social",
+                            "rel": "related",
+                            "href": "https://kb.inwx.com/en-us/1-domains/202-rdap-help",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "Query Policy",
+                    "description": [
+                        "Queries are limited to 60 per 60 seconds per IP."
+                    ]
+                }
+            ],
+            "port43": "whois.domrobot.com",
+            "handle": "61d92801325441f69eec87b5d5ae19b4-DONUTS",
+            "ldhName": "chaos.social",
+            "unicodeName": "chaos.social",
+            "secureDNS": {
+                "zoneSigned": true,
+                "delegationSigned": true,
+                "dsData": [
+                    {
+                        "keyTag": 36742,
+                        "algorithm": 13,
+                        "digest": "564957E0EFD58392D8B898379E91F338168E58644A026142550EFC07F8599DB9",
+                        "digestType": 2
+                    }
+                ]
+            },
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns1.leah.is",
+                    "unicodeName": "ns1.leah.is"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns2.leah.is",
+                    "unicodeName": "ns2.leah.is"
+                }
+            ],
+            "redacted": [
+                {
+                    "name": {
+                        "type": "Registrant Name"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='fn')][3]",
+                    "pathLang": "jsonpath",
+                    "method": "emptyValue"
+                },
+                {
+                    "name": {
+                        "type": "Registrant Organization"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='org')]",
+                    "pathLang": "jsonpath",
+                    "method": "removal"
+                },
+                {
+                    "name": {
+                        "type": "Registrant Street"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][:3]",
+                    "pathLang": "jsonpath",
+                    "method": "emptyValue"
+                },
+                {
+                    "name": {
+                        "type": "Registrant City"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][3]",
+                    "pathLang": "jsonpath",
+                    "method": "emptyValue"
+                },
+                {
+                    "name": {
+                        "type": "Registrant Postal Code"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][5]",
+                    "pathLang": "jsonpath",
+                    "method": "emptyValue"
+                },
+                {
+                    "name": {
+                        "type": "Registrant Phone"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[1].type=='voice')]",
+                    "pathLang": "jsonpath",
+                    "method": "removal"
+                },
+                {
+                    "name": {
+                        "type": "Registrant Fax"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[1].type=='fax')]",
+                    "pathLang": "jsonpath",
+                    "method": "removal"
+                },
+                {
+                    "name": {
+                        "type": "Registrant Email"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='email')]",
+                    "replacementPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='contact-uri')]",
+                    "pathLang": "jsonpath",
+                    "method": "replacementValue"
+                },
+                {
+                    "name": {
+                        "type": "Registry Registrant ID"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].handle",
+                    "pathLang": "jsonpath",
+                    "method": "removal"
+                },
+                {
+                    "name": {
+                        "description": "Technical Contact"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='technical')]",
+                    "pathLang": "jsonpath",
+                    "method": "removal",
+                    "reason": {
+                        "description": "Refer to the registrant contact"
+                    }
+                }
+            ]
+        }
+    ],
+    "domain": "chaos.social\r"
+}

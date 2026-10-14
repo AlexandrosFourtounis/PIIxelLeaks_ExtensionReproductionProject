@@ -1,0 +1,363 @@
+{
+    "name": "privat24.ua",
+    "handle": "privat24.ua",
+    "registrationDate": "7/8/2005, 11:26:47 AM GMT+3 (by ua.imena)",
+    "expirationDate": "7/8/2030, 11:26:47 AM GMT+3",
+    "lastChangedDate": "2/16/2026, 2:42:26 PM GMT+2 (by ua.imena)",
+    "lastUpdateDate": null,
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "handle": "ua.imena",
+            "roles": [
+                "registrar"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Internet Invest LLC"
+                    ],
+                    [
+                        "org",
+                        {
+                            "altid": "1"
+                        },
+                        "text",
+                        "Internet Invest LLC"
+                    ],
+                    [
+                        "org",
+                        {
+                            "altid": "1"
+                        },
+                        "text",
+                        "ТОВ 'Інтернет Інвест'"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "type": "work",
+                            "altid": "1",
+                            "label": "50-B Simi Prakhovykh St., Kyiv, 01033, Ukraine"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "adr",
+                        {
+                            "type": "work",
+                            "altid": "1",
+                            "label": "вул. Сім'ї Прахових, 50-Б, м. Київ, 01033, Україна"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "voice"
+                            ]
+                        },
+                        "uri",
+                        "tel:+380442010102"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "abuse@imena.ua"
+                    ],
+                    [
+                        "url",
+                        {
+                            "type": "home"
+                        },
+                        "uri",
+                        "http://www.imena.ua"
+                    ]
+                ]
+            ],
+            "status": [
+                "active"
+            ],
+            "links": [
+                {
+                    "rel": "self",
+                    "value": "https://rdap.hostmaster.ua/entity/ua.imena",
+                    "type": "application/rdap+json",
+                    "href": "https://rdap.hostmaster.ua/entity/ua.imena"
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "ua.imena",
+            "roles": [
+                "registrar"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "C0001623608-UA",
+            "roles": [
+                "administrative"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "not published"
+                    ]
+                ]
+            ],
+            "remarks": [
+                {
+                    "title": "Data Policy",
+                    "description": [
+                        "Some of the data in this object has been removed."
+                    ]
+                }
+            ],
+            "status": [
+                "active",
+                "associated",
+                "private"
+            ],
+            "events": [
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2014-04-02T21:47:19+03:00",
+                    "eventActor": "ua.imena"
+                }
+            ],
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "handle": "ua.imena",
+                    "roles": [
+                        "registrar"
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "ua.imena",
+            "roles": [
+                "registrar"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "C0001623611-UA",
+            "roles": [
+                "technical"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "not published"
+                    ]
+                ]
+            ],
+            "remarks": [
+                {
+                    "title": "Data Policy",
+                    "description": [
+                        "Some of the data in this object has been removed."
+                    ]
+                }
+            ],
+            "status": [
+                "active",
+                "associated",
+                "private"
+            ],
+            "events": [
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2014-04-02T21:47:20+03:00",
+                    "eventActor": "ua.imena"
+                }
+            ],
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "handle": "ua.imena",
+                    "roles": [
+                        "registrar"
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "ua.imena",
+            "roles": [
+                "registrar"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "C0001623606-UA",
+            "roles": [
+                "registrant"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "not published"
+                    ]
+                ]
+            ],
+            "remarks": [
+                {
+                    "title": "Data Policy",
+                    "description": [
+                        "Some of the data in this object has been removed."
+                    ]
+                }
+            ],
+            "status": [
+                "active",
+                "associated",
+                "private"
+            ],
+            "events": [
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2014-04-02T21:47:18+03:00",
+                    "eventActor": "ua.imena"
+                }
+            ],
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "handle": "ua.imena",
+                    "roles": [
+                        "registrar"
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns-1264.awsdns-30.org"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns-1539.awsdns-00.co.uk"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns-279.awsdns-34.com"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns-551.awsdns-04.net"
+        },
+        {
+            "rdapConformance": [
+                "rdap_level_0"
+            ],
+            "objectClassName": "domain",
+            "handle": "privat24.ua",
+            "ldhName": "privat24.ua",
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns-1264.awsdns-30.org"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns-1539.awsdns-00.co.uk"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns-279.awsdns-34.com"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns-551.awsdns-04.net"
+                }
+            ],
+            "secureDNS": {
+                "delegationSigned": false
+            },
+            "links": [
+                {
+                    "rel": "self",
+                    "value": "https://rdap.hostmaster.ua/domain/privat24.ua",
+                    "type": "application/rdap+json",
+                    "href": "https://rdap.hostmaster.ua/domain/privat24.ua"
+                }
+            ],
+            "remarks": [
+                {
+                    "description": [
+                        "license: 49942"
+                    ]
+                }
+            ],
+            "port43": "whois.ua"
+        }
+    ],
+    "domain": "privat24.ua\r"
+}

@@ -1,0 +1,489 @@
+{
+    "name": "realme.com",
+    "handle": "3233776_DOMAIN_COM-VRSN",
+    "registrationDate": "10/17/1997, 7:00:00 AM GMT+3 (by NSI)",
+    "expirationDate": "10/16/2026, 7:00:00 AM GMT+3",
+    "lastChangedDate": "8/29/2025, 5:28:17 AM GMT+3 (by hichina)",
+    "lastUpdateDate": "9/30/2022, 11:04:40 AM GMT+3",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Redacted for Privacy"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "org",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "Redacted for Privacy"
+                    ],
+                    [
+                        "adr",
+                        {},
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "广东",
+                            "",
+                            "CN"
+                        ]
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "https://whois.aliyun.com/whois/whoisForm"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "handle": "1",
+            "remarks": [
+                {
+                    "description": [
+                        "Some of the data in this object has been removed."
+                    ],
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object truncated due to authorization"
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Redacted for Privacy"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "org",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "Redacted for Privacy"
+                    ],
+                    [
+                        "adr",
+                        {},
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "广东",
+                            "",
+                            "CN"
+                        ]
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "https://whois.aliyun.com/whois/whoisForm"
+                    ]
+                ]
+            ],
+            "roles": [
+                "administrative"
+            ],
+            "handle": "2",
+            "remarks": [
+                {
+                    "description": [
+                        "Some of the data in this object has been removed."
+                    ],
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object truncated due to authorization"
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Redacted for Privacy"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "org",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "Redacted for Privacy"
+                    ],
+                    [
+                        "adr",
+                        {},
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "广东",
+                            "",
+                            "CN"
+                        ]
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "https://whois.aliyun.com/whois/whoisForm"
+                    ]
+                ]
+            ],
+            "roles": [
+                "technical"
+            ],
+            "handle": "3",
+            "remarks": [
+                {
+                    "description": [
+                        "Some of the data in this object has been removed."
+                    ],
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object truncated due to authorization"
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Redacted for Privacy"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "org",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "Redacted for Privacy"
+                    ],
+                    [
+                        "adr",
+                        {},
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "广东",
+                            "",
+                            "CN"
+                        ]
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "https://whois.aliyun.com/whois/whoisForm"
+                    ]
+                ]
+            ],
+            "roles": [
+                "billing"
+            ],
+            "handle": "4",
+            "remarks": [
+                {
+                    "description": [
+                        "Some of the data in this object has been removed."
+                    ],
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object truncated due to authorization"
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+86.95187"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "DomainAbuse@service.aliyun.com"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        ""
+                    ]
+                ]
+            ],
+            "roles": [
+                "abuse"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "publicIds": [
+                {
+                    "identifier": "420",
+                    "type": "IANA Registrar ID"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Alibaba Cloud Computing (Beijing) Co., Ltd."
+                    ]
+                ]
+            ],
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "voice"
+                                },
+                                "uri",
+                                "tel:+86.95187"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "DomainAbuse@service.aliyun.com"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                ""
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "abuse"
+                    ]
+                }
+            ],
+            "roles": [
+                "registrar"
+            ],
+            "handle": "420"
+        },
+        {
+            "objectClassName": "nameserver",
+            "lang": "en",
+            "unicodeName": "ns-298.awsdns-37.com",
+            "ldhName": "ns-298.awsdns-37.com"
+        },
+        {
+            "objectClassName": "nameserver",
+            "lang": "en",
+            "unicodeName": "ns-1146.awsdns-15.org",
+            "ldhName": "ns-1146.awsdns-15.org"
+        },
+        {
+            "objectClassName": "nameserver",
+            "lang": "en",
+            "unicodeName": "ns-1599.awsdns-07.co.uk",
+            "ldhName": "ns-1599.awsdns-07.co.uk"
+        },
+        {
+            "objectClassName": "nameserver",
+            "lang": "en",
+            "unicodeName": "ns-710.awsdns-24.net",
+            "ldhName": "ns-710.awsdns-24.net"
+        },
+        {
+            "rdapConformance": [
+                "rdap_level_0",
+                "icann_rdap_response_profile_0",
+                "icann_rdap_technical_implementation_guide_0"
+            ],
+            "handle": "3233776_DOMAIN_COM-VRSN",
+            "secureDNS": {
+                "delegationSigned": false
+            },
+            "unicodeName": "realme.com",
+            "notices": [
+                {
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp."
+                    ],
+                    "links": [
+                        {
+                            "rel": "related",
+                            "href": "https://icann.org/epp",
+                            "type": "text/html",
+                            "value": "https://icann.org/epp"
+                        }
+                    ],
+                    "title": "Epp Status Codes"
+                },
+                {
+                    "description": [
+                        "URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf."
+                    ],
+                    "links": [
+                        {
+                            "rel": "related",
+                            "href": "https://www.icann.org/wicf",
+                            "type": "text/html",
+                            "value": "https://www.icann.org/wicf"
+                        }
+                    ],
+                    "title": "Whois Inaccuracy Complaint Form"
+                }
+            ],
+            "port43": "grs-whois.hichina.com",
+            "objectClassName": "domain",
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "lang": "en",
+                    "unicodeName": "ns-298.awsdns-37.com",
+                    "ldhName": "ns-298.awsdns-37.com"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "lang": "en",
+                    "unicodeName": "ns-1146.awsdns-15.org",
+                    "ldhName": "ns-1146.awsdns-15.org"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "lang": "en",
+                    "unicodeName": "ns-1599.awsdns-07.co.uk",
+                    "ldhName": "ns-1599.awsdns-07.co.uk"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "lang": "en",
+                    "unicodeName": "ns-710.awsdns-24.net",
+                    "ldhName": "ns-710.awsdns-24.net"
+                }
+            ],
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "https://whois.aliyun.com/rdap/domain/realme.com",
+                    "type": "application/rdap+json",
+                    "value": "https://whois.aliyun.com/rdap/domain/realme.com"
+                }
+            ],
+            "lang": "en",
+            "ldhName": "realme.com"
+        }
+    ],
+    "domain": "realme.com\r"
+}

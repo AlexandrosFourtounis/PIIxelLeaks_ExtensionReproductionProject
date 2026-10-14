@@ -1,0 +1,77 @@
+{
+    "name": null,
+    "handle": null,
+    "registrationDate": null,
+    "expirationDate": null,
+    "lastChangedDate": null,
+    "lastUpdateDate": null,
+    "rawData": [
+        {
+            "rdapConformance": [
+                "rdap_level_0",
+                "icann_rdap_response_profile_0",
+                "icann_rdap_response_profile_1",
+                "icann_rdap_technical_implementation_guide_0"
+            ],
+            "notices": [
+                {
+                    "title": "Status Codes",
+                    "description": [
+                        "For more information on Whois status codes, please visit https://icann.org/epp"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://icann.org/epp",
+                            "rel": "related",
+                            "href": "https://icann.org/epp",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "RDDS Inaccuracy Complaint Form",
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://icann.org/wicf",
+                            "rel": "related",
+                            "href": "https://icann.org/wicf",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "Terms of Use",
+                    "description": [
+                        "By using the Site and Services, you agree to all terms and conditions of this Agreement, which incorporates by reference (1) Sav.com's Privacy Policy; and (3) any other policy or agreement specifically referred to herein."
+                    ],
+                    "links": [
+                        {
+                            "value": "https://www.sav.com/terms",
+                            "rel": "related",
+                            "href": "https://www.sav.com/terms",
+                            "type": "text/html"
+                        }
+                    ]
+                }
+            ],
+            "port43": "whois.virtualcloudmanager.com",
+            "links": [
+                {
+                    "value": "https://rdap.virtualcloudmanager.com/rdap/domain/e-sale.click",
+                    "rel": "self",
+                    "href": "https://rdap.virtualcloudmanager.com/rdap/domain/e-sale.click",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "errorCode": 404,
+            "title": "NOT FOUND",
+            "description": [
+                "No domain found for e-sale.click"
+            ]
+        }
+    ],
+    "domain": "e-sale.click\r"
+}

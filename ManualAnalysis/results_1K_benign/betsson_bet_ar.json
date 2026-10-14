@@ -1,0 +1,223 @@
+{
+    "name": "betsson.bet.ar",
+    "handle": "betsson.bet.ar",
+    "registrationDate": "8/26/2021, 7:52:33 PM GMT+3",
+    "expirationDate": "8/26/2026, 12:00:00 PM GMT+3",
+    "lastChangedDate": "9/1/2021, 1:14:30 PM GMT+3",
+    "lastUpdateDate": null,
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "handle": "33717266639",
+            "links": [
+                {
+                    "href": "https://rdap.nic.ar/entity/33717266639",
+                    "type": "application/rdap+json",
+                    "rel": "self",
+                    "value": "https://rdap.nic.ar/entity/33717266639"
+                }
+            ],
+            "roles": [
+                "registrant"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "nicar",
+            "roles": [
+                "registrar"
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "handle": "ns-1027.awsdns-00.org",
+            "links": [
+                {
+                    "href": "https://rdap.nic.ar/nameserver/ns-1027.awsdns-00.org",
+                    "type": "application/rdap+json",
+                    "rel": "self",
+                    "value": "https://rdap.nic.ar/nameserver/ns-1027.awsdns-00.org"
+                }
+            ],
+            "ldhName": "ns-1027.awsdns-00.org"
+        },
+        {
+            "objectClassName": "nameserver",
+            "handle": "ns-1549.awsdns-01.co.uk",
+            "links": [
+                {
+                    "href": "https://rdap.nic.ar/nameserver/ns-1549.awsdns-01.co.uk",
+                    "type": "application/rdap+json",
+                    "rel": "self",
+                    "value": "https://rdap.nic.ar/nameserver/ns-1549.awsdns-01.co.uk"
+                }
+            ],
+            "ldhName": "ns-1549.awsdns-01.co.uk"
+        },
+        {
+            "objectClassName": "nameserver",
+            "handle": "ns-393.awsdns-49.com",
+            "links": [
+                {
+                    "href": "https://rdap.nic.ar/nameserver/ns-393.awsdns-49.com",
+                    "type": "application/rdap+json",
+                    "rel": "self",
+                    "value": "https://rdap.nic.ar/nameserver/ns-393.awsdns-49.com"
+                }
+            ],
+            "ldhName": "ns-393.awsdns-49.com"
+        },
+        {
+            "objectClassName": "nameserver",
+            "handle": "ns-684.awsdns-21.net",
+            "links": [
+                {
+                    "href": "https://rdap.nic.ar/nameserver/ns-684.awsdns-21.net",
+                    "type": "application/rdap+json",
+                    "rel": "self",
+                    "value": "https://rdap.nic.ar/nameserver/ns-684.awsdns-21.net"
+                }
+            ],
+            "ldhName": "ns-684.awsdns-21.net"
+        },
+        {
+            "fred_nsset": {
+                "nameservers": [
+                    {
+                        "objectClassName": "nameserver",
+                        "handle": "ns-1027.awsdns-00.org",
+                        "links": [
+                            {
+                                "href": "https://rdap.nic.ar/nameserver/ns-1027.awsdns-00.org",
+                                "type": "application/rdap+json",
+                                "rel": "self",
+                                "value": "https://rdap.nic.ar/nameserver/ns-1027.awsdns-00.org"
+                            }
+                        ],
+                        "ldhName": "ns-1027.awsdns-00.org"
+                    },
+                    {
+                        "objectClassName": "nameserver",
+                        "handle": "ns-1549.awsdns-01.co.uk",
+                        "links": [
+                            {
+                                "href": "https://rdap.nic.ar/nameserver/ns-1549.awsdns-01.co.uk",
+                                "type": "application/rdap+json",
+                                "rel": "self",
+                                "value": "https://rdap.nic.ar/nameserver/ns-1549.awsdns-01.co.uk"
+                            }
+                        ],
+                        "ldhName": "ns-1549.awsdns-01.co.uk"
+                    },
+                    {
+                        "objectClassName": "nameserver",
+                        "handle": "ns-393.awsdns-49.com",
+                        "links": [
+                            {
+                                "href": "https://rdap.nic.ar/nameserver/ns-393.awsdns-49.com",
+                                "type": "application/rdap+json",
+                                "rel": "self",
+                                "value": "https://rdap.nic.ar/nameserver/ns-393.awsdns-49.com"
+                            }
+                        ],
+                        "ldhName": "ns-393.awsdns-49.com"
+                    },
+                    {
+                        "objectClassName": "nameserver",
+                        "handle": "ns-684.awsdns-21.net",
+                        "links": [
+                            {
+                                "href": "https://rdap.nic.ar/nameserver/ns-684.awsdns-21.net",
+                                "type": "application/rdap+json",
+                                "rel": "self",
+                                "value": "https://rdap.nic.ar/nameserver/ns-684.awsdns-21.net"
+                            }
+                        ],
+                        "ldhName": "ns-684.awsdns-21.net"
+                    }
+                ],
+                "objectClassName": "fred_nsset",
+                "handle": "70109485701717",
+                "links": [
+                    {
+                        "href": "https://rdap.nic.ar/fred_nsset/70109485701717",
+                        "type": "application/rdap+json",
+                        "rel": "self",
+                        "value": "https://rdap.nic.ar/fred_nsset/70109485701717"
+                    }
+                ]
+            },
+            "handle": "betsson.bet.ar",
+            "links": [
+                {
+                    "href": "https://rdap.nic.ar/domain/betsson.bet.ar",
+                    "type": "application/rdap+json",
+                    "rel": "self",
+                    "value": "https://rdap.nic.ar/domain/betsson.bet.ar"
+                }
+            ],
+            "port43": "",
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "handle": "ns-1027.awsdns-00.org",
+                    "links": [
+                        {
+                            "href": "https://rdap.nic.ar/nameserver/ns-1027.awsdns-00.org",
+                            "type": "application/rdap+json",
+                            "rel": "self",
+                            "value": "https://rdap.nic.ar/nameserver/ns-1027.awsdns-00.org"
+                        }
+                    ],
+                    "ldhName": "ns-1027.awsdns-00.org"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "handle": "ns-1549.awsdns-01.co.uk",
+                    "links": [
+                        {
+                            "href": "https://rdap.nic.ar/nameserver/ns-1549.awsdns-01.co.uk",
+                            "type": "application/rdap+json",
+                            "rel": "self",
+                            "value": "https://rdap.nic.ar/nameserver/ns-1549.awsdns-01.co.uk"
+                        }
+                    ],
+                    "ldhName": "ns-1549.awsdns-01.co.uk"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "handle": "ns-393.awsdns-49.com",
+                    "links": [
+                        {
+                            "href": "https://rdap.nic.ar/nameserver/ns-393.awsdns-49.com",
+                            "type": "application/rdap+json",
+                            "rel": "self",
+                            "value": "https://rdap.nic.ar/nameserver/ns-393.awsdns-49.com"
+                        }
+                    ],
+                    "ldhName": "ns-393.awsdns-49.com"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "handle": "ns-684.awsdns-21.net",
+                    "links": [
+                        {
+                            "href": "https://rdap.nic.ar/nameserver/ns-684.awsdns-21.net",
+                            "type": "application/rdap+json",
+                            "rel": "self",
+                            "value": "https://rdap.nic.ar/nameserver/ns-684.awsdns-21.net"
+                        }
+                    ],
+                    "ldhName": "ns-684.awsdns-21.net"
+                }
+            ],
+            "ldhName": "betsson.bet.ar",
+            "rdapConformance": [
+                "rdap_level_0",
+                "fred_version_0"
+            ],
+            "objectClassName": "domain"
+        }
+    ],
+    "domain": "betsson.bet.ar\r"
+}

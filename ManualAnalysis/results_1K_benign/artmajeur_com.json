@@ -1,0 +1,561 @@
+{
+    "name": "ARTMAJEUR.COM",
+    "handle": "31616958_DOMAIN_COM-VRSN",
+    "registrationDate": "7/20/2000, 3:18:49 AM GMT+3",
+    "expirationDate": "7/20/2028, 3:18:49 AM GMT+3",
+    "lastChangedDate": "3/8/2023, 11:16:03 AM GMT+2",
+    "lastUpdateDate": "12/3/2024, 11:10:47 AM GMT+2",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "roles": [
+                "abuse"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Abuse Contact"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "pref": "1",
+                            "type": [
+                                "work",
+                                "voice"
+                            ]
+                        },
+                        "uri",
+                        "tel:+33.972101007"
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "abuse@ovh.net"
+                    ]
+                ]
+            ],
+            "handle": "433"
+        },
+        {
+            "links": [
+                {
+                    "rel": "about",
+                    "type": "text/html",
+                    "href": "https://rdap.ovh.com/",
+                    "value": "https://rdap.ovh.com/"
+                }
+            ],
+            "objectClassName": "entity",
+            "roles": [
+                "registrar"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "OVH, SAS"
+                    ]
+                ]
+            ],
+            "port43": "whois.ovh.com",
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "roles": [
+                        "abuse"
+                    ],
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Abuse Contact"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "pref": "1",
+                                    "type": [
+                                        "work",
+                                        "voice"
+                                    ]
+                                },
+                                "uri",
+                                "tel:+33.972101007"
+                            ],
+                            [
+                                "email",
+                                {
+                                    "type": "work"
+                                },
+                                "text",
+                                "abuse@ovh.net"
+                            ]
+                        ]
+                    ],
+                    "handle": "433"
+                }
+            ],
+            "handle": "433",
+            "publicIds": [
+                {
+                    "identifier": "433",
+                    "type": "IANA Registrar ID"
+                }
+            ]
+        },
+        {
+            "remarks": [
+                {
+                    "type": "result set truncated due to authorization",
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ]
+                }
+            ],
+            "objectClassName": "entity",
+            "roles": [
+                "registrant"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "https://ovhcloud.com/en/lp/request-ovhcloud-registered-domain/"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "FR"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ]
+                ]
+            ]
+        },
+        {
+            "remarks": [
+                {
+                    "type": "result set truncated due to authorization",
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ]
+                }
+            ],
+            "objectClassName": "entity",
+            "roles": [
+                "technical",
+                "administrative"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "https://ovhcloud.com/en/lp/request-ovhcloud-registered-domain/"
+                    ],
+                    [
+                        "adr",
+                        {},
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ]
+                ]
+            ]
+        },
+        {
+            "ldhName": "sunny.ns.cloudflare.com",
+            "objectClassName": "nameserver"
+        },
+        {
+            "ldhName": "otto.ns.cloudflare.com",
+            "objectClassName": "nameserver"
+        },
+        {
+            "objectClassName": "domain",
+            "secureDNS": {
+                "delegationSigned": false
+            },
+            "lang": "en-US",
+            "handle": "31616958_DOMAIN_COM-VRSN",
+            "ldhName": "ARTMAJEUR.COM",
+            "port43": "whois.ovh.com",
+            "unicodeName": "ARTMAJEUR.COM",
+            "rdapConformance": [
+                "rdap_level_0",
+                "icann_rdap_response_profile_1",
+                "icann_rdap_technical_implementation_guide_1",
+                "redacted"
+            ],
+            "nameservers": [
+                {
+                    "ldhName": "sunny.ns.cloudflare.com",
+                    "objectClassName": "nameserver"
+                },
+                {
+                    "ldhName": "otto.ns.cloudflare.com",
+                    "objectClassName": "nameserver"
+                }
+            ],
+            "notices": [
+                {
+                    "title": "Terms of use",
+                    "links": [
+                        {
+                            "rel": "terms-of-service",
+                            "type": "text/html",
+                            "href": "https://rdap.ovh.com/terms_of_use.html",
+                            "value": "https://rdap.ovh.com/domain/ARTMAJEUR.COM"
+                        }
+                    ],
+                    "description": [
+                        "URL of OVHcloud Terms of Use: https://rdap.ovh.com/terms_of_use.html"
+                    ]
+                },
+                {
+                    "title": "RDDS Inaccuracy Complaint Form",
+                    "links": [
+                        {
+                            "rel": "help",
+                            "type": "text/html",
+                            "href": "https://icann.org/wicf",
+                            "value": "https://rdap.ovh.com/domain/ARTMAJEUR.COM"
+                        }
+                    ],
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ]
+                },
+                {
+                    "title": "Status Codes",
+                    "links": [
+                        {
+                            "rel": "glossary",
+                            "type": "text/html",
+                            "href": "https://icann.org/epp",
+                            "value": "https://rdap.ovh.com/domain/ARTMAJEUR.COM"
+                        }
+                    ],
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ]
+                }
+            ],
+            "remarks": [
+                {
+                    "type": "result set truncated due to authorization",
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ]
+                }
+            ],
+            "links": [
+                {
+                    "rel": "related",
+                    "type": "application/rdap+json",
+                    "href": "https://rdap.ovh.com/domain/ARTMAJEUR.COM",
+                    "value": "https://rdap.ovh.com/domain/ARTMAJEUR.COM"
+                }
+            ],
+            "redacted": [
+                {
+                    "name": {
+                        "type": "Admin City"
+                    },
+                    "postPath": "$.entities[?(@.roles[1]=='administrative')].vcardArray[1][?(@[0]=='adr')][3][3]",
+                    "method": "emptyValue"
+                },
+                {
+                    "name": {
+                        "type": "Admin Country"
+                    },
+                    "prePath": "$.entities[?(@.roles[1]=='administrative')].vcardArray[1][?(@[0]=='adr')][1].cc",
+                    "method": "removal"
+                },
+                {
+                    "name": {
+                        "type": "Admin Email"
+                    },
+                    "prePath": "$.entities[?(@.roles[1]=='administrative')].vcardArray[1][?(@[0]=='email')]",
+                    "replacementPath": "$.entities[?(@.roles[1]=='administrative')].vcardArray[1][?(@[0]=='contact-uri')]",
+                    "method": "replacementValue"
+                },
+                {
+                    "name": {
+                        "type": "Admin Fax"
+                    },
+                    "prePath": "$.entities[?(@.roles[1]=='administrative')].vcardArray[1][?(@[1].type=='fax')]",
+                    "method": "removal"
+                },
+                {
+                    "name": {
+                        "type": "Admin Name"
+                    },
+                    "postPath": "$.entities[?(@.roles[1]=='administrative')].vcardArray[1][?(@[0]=='fn')][1]",
+                    "method": "emptyValue"
+                },
+                {
+                    "name": {
+                        "type": "Admin Organization"
+                    },
+                    "prePath": "$.entities[?(@.roles[1]=='administrative')].vcardArray[1][?(@[0]=='org')]",
+                    "method": "removal"
+                },
+                {
+                    "name": {
+                        "type": "Admin Phone"
+                    },
+                    "prePath": "$.entities[?(@.roles[1]=='administrative')].vcardArray[1][?(@[1].type=='voice')]",
+                    "method": "removal"
+                },
+                {
+                    "name": {
+                        "type": "Admin Postal Code"
+                    },
+                    "postPath": "$.entities[?(@.roles[1]=='administrative')].vcardArray[1][?(@[0]=='adr')][3][5]",
+                    "method": "emptyValue"
+                },
+                {
+                    "name": {
+                        "type": "Admin Province"
+                    },
+                    "postPath": "$.entities[?(@.roles[1]=='administrative')].vcardArray[1][?(@[0]=='adr')][3][4]",
+                    "method": "emptyValue"
+                },
+                {
+                    "name": {
+                        "type": "Admin Street"
+                    },
+                    "postPath": "$.entities[?(@.roles[1]=='administrative')].vcardArray[1][?(@[0]=='adr')][3][:3]",
+                    "method": "emptyValue"
+                },
+                {
+                    "name": {
+                        "type": "Registrant City"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][3]",
+                    "method": "emptyValue"
+                },
+                {
+                    "name": {
+                        "type": "Registrant Email"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='email')]",
+                    "replacementPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='contact-uri')]",
+                    "method": "replacementValue"
+                },
+                {
+                    "name": {
+                        "type": "Registrant Fax"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[1].type=='fax')]",
+                    "method": "removal"
+                },
+                {
+                    "name": {
+                        "type": "Registrant Name"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='fn')][1]",
+                    "method": "emptyValue"
+                },
+                {
+                    "name": {
+                        "type": "Registrant Phone"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[1].type=='voice')]",
+                    "method": "removal"
+                },
+                {
+                    "name": {
+                        "type": "Registrant Postal Code"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][5]",
+                    "method": "emptyValue"
+                },
+                {
+                    "name": {
+                        "type": "Registrant Street"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][:3]",
+                    "method": "emptyValue"
+                },
+                {
+                    "name": {
+                        "type": "Registry Admin ID"
+                    },
+                    "prePath": "$.entities[?(@.roles[1]=='administrative')].handle",
+                    "method": "removal"
+                },
+                {
+                    "name": {
+                        "type": "Registry Registrant ID"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].handle",
+                    "method": "removal"
+                },
+                {
+                    "name": {
+                        "type": "Registry Tech ID"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='technical')].handle",
+                    "method": "removal"
+                },
+                {
+                    "name": {
+                        "type": "Tech City"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='adr')][3][3]",
+                    "method": "emptyValue"
+                },
+                {
+                    "name": {
+                        "type": "Tech Country"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='adr')][1].cc",
+                    "method": "removal"
+                },
+                {
+                    "name": {
+                        "type": "Tech Email"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='email')]",
+                    "replacementPath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='contact-uri')]",
+                    "method": "replacementValue"
+                },
+                {
+                    "name": {
+                        "type": "Tech Fax"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[1].type=='fax')]",
+                    "method": "removal"
+                },
+                {
+                    "name": {
+                        "type": "Tech Name"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='fn')][1]",
+                    "method": "emptyValue"
+                },
+                {
+                    "name": {
+                        "type": "Tech Organization"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='org')]",
+                    "method": "removal"
+                },
+                {
+                    "name": {
+                        "type": "Tech Phone"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[1].type=='voice')]",
+                    "method": "removal"
+                },
+                {
+                    "name": {
+                        "type": "Tech Postal Code"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='adr')][3][5]",
+                    "method": "emptyValue"
+                },
+                {
+                    "name": {
+                        "type": "Tech Province"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='adr')][3][4]",
+                    "method": "emptyValue"
+                },
+                {
+                    "name": {
+                        "type": "Tech Street"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='adr')][3][:3]",
+                    "method": "emptyValue"
+                }
+            ]
+        }
+    ],
+    "domain": "artmajeur.com\r"
+}

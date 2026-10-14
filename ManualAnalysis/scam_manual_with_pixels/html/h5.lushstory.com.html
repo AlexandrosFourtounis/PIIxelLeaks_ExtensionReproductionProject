@@ -1,0 +1,145 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="description"
+      content="Discover thousands of addictive fantasy, romance, and werewolf novels on Lushstory. Read the first chapters for free and unlock premium stories instantly."
+    />
+    <meta name="keywords" content="fantasy novels, romance stories, werewolf fiction, read online, Lushstory" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="LushStory" />
+    <meta
+      property="og:description"
+      content="Discover thousands of addictive fantasy, romance, and werewolf novels on Lushstory. Read the first chapters for free and unlock premium stories instantly."
+    />
+    <meta property="og:image" content="/favicon.ico" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no"
+    />
+    <link rel="icon" href="/favicon.ico" sizes="32x32" />
+    <link rel="apple-touch-icon" href="/favicon.ico" />
+    <link rel="icon" type="image/png" href="/favicon.ico" />
+    <title>LushStory</title>
+    <!-- Meta Pixel Code -->
+    <script>
+      // 1. 从 URL 读取 fb_pixel_id 参数（示例 URL：?fb_pixel_id=123456789）
+      function getFbPixelIdFromUrl() {
+        const params = new URLSearchParams(window.location.search)
+        return params.get('fb_pixel_id') || '' // 没有就返回空
+      }
+
+      let PIXEL_ID = getFbPixelIdFromUrl() || '1217302906963680'
+      if (location.pathname.startsWith('/market/')) {
+        const arr = location.pathname.split('/')
+        if (arr.length === 4) {
+          PIXEL_ID = arr[2]
+        }
+      }
+      !((f, b, e, v, n, t, s) => {
+        if (f.fbq) return
+        n = f.fbq = (...arguments) => {
+          n.callMethod ? n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+        }
+        if (!f._fbq) f._fbq = n
+        n.push = n
+        n.loaded = !0
+        n.version = '2.0'
+        n.queue = []
+        t = b.createElement(e)
+        t.async = !0
+        t.src = v
+        s = b.getElementsByTagName(e)[0]
+        s.parentNode.insertBefore(t, s)
+      })(window, document, 'script', 'https://connect.facebook.net/en_US/fbevents.js')
+      fbq('init', PIXEL_ID)
+      fbq('track', 'PageView')
+
+      // 2. 动态创建 noscript + 像素 img
+      function insertFbPixel() {
+        const pixelId = getFbPixelIdFromUrl() || '1217302906963680'
+
+        const noscript = document.createElement('noscript')
+        const img = document.createElement('img')
+        img.height = 1
+        img.width = 1
+        img.style.display = 'none'
+        // 拼接像素 URL
+        img.src = `https://www.facebook.com/tr?id=${pixelId}&ev=PageView&noscript=1`
+
+        noscript.appendChild(img)
+        document.body.appendChild(noscript)
+      }
+      window.addEventListener('DOMContentLoaded', insertFbPixel)
+    </script>
+    <!-- End Meta Pixel Code -->
+    <style>
+      ._loading-circle {
+        width: 9.06667vw;
+        height: 9.06667vw;
+        border-radius: 50%;
+        border-width: 0.8vw;
+        border-color: #888888;
+        border-style: solid;
+        border-top-color: transparent;
+        margin-bottom: 2.66667vw;
+        animation: loadingCircle 0.5s linear infinite;
+      }
+
+      @keyframes loadingCircle {
+        from {
+          transform: rotateZ(0);
+        }
+
+        to {
+          transform: rotateZ(360deg);
+        }
+      }
+    </style>
+    <script type="module" crossorigin src="/assets/index-BFBmWJks.js"></script>
+    <link rel="modulepreload" crossorigin href="/assets/common-vendor-5wUBZxvY.js">
+    <link rel="modulepreload" crossorigin href="/assets/vue-vendor-M8pqAlTo.js">
+    <link rel="modulepreload" crossorigin href="/assets/varlet-vendor-uUCTQgLw.js">
+    <link rel="modulepreload" crossorigin href="/assets/route-main.vue-DFN-9ocl.js">
+    <link rel="modulepreload" crossorigin href="/assets/route-discover-D8tl4kTa.js">
+    <link rel="modulepreload" crossorigin href="/assets/route-library-CAFQ985R.js">
+    <link rel="modulepreload" crossorigin href="/assets/route-user-BABnYTXS.js">
+    <link rel="stylesheet" crossorigin href="/assets/varlet-vendor-CeLlKgUl.css">
+    <link rel="stylesheet" crossorigin href="/assets/route-main.vue_vue_type_style_index_0_scoped_6acc6455_lang-DHIJBh5_.css">
+    <link rel="stylesheet" crossorigin href="/assets/route-discover-D9SZIFaW.css">
+    <link rel="stylesheet" crossorigin href="/assets/route-library-BeNZynEu.css">
+    <link rel="stylesheet" crossorigin href="/assets/route-user-C7g7fjxX.css">
+    <link rel="stylesheet" crossorigin href="/assets/index-C9CFXVUq.css">
+  
+<script src="/version-check.1778581684445.js"></script>
+</head>
+
+  <body>
+    <!-- <noscript>
+      <img
+        height="1"
+        width="1"
+        style="display: none"
+        src="https://www.facebook.com/tr?id=1217302906963680&ev=PageView&noscript=1"
+      />
+    </noscript> -->
+    <div id="app">
+      <div
+        style="
+          height: 100vh;
+          width: 100vw;
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          align-items: center;
+          position: fixed;
+          inset: 0;
+        "
+      >
+        <div class="_loading-circle"></div>
+        <div style="font-size: 14px; color: #333">The page is loading. Please wait a moment...</div>
+      </div>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,545 @@
+{
+    "name": "rnp.br",
+    "handle": "rnp.br",
+    "registrationDate": "1/1/1996, 2:00:00 PM GMT+2",
+    "expirationDate": null,
+    "lastChangedDate": "11/26/2020, 7:48:19 PM GMT+2",
+    "lastUpdateDate": null,
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "handle": "RCO217",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "RNP - Centro de Engenharia e Operações"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "registro@rnp.br"
+                    ],
+                    [
+                        "lang",
+                        {},
+                        "language-tag",
+                        "pt"
+                    ],
+                    [
+                        "adr",
+                        {},
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "BR"
+                        ]
+                    ]
+                ]
+            ],
+            "roles": [
+                "administrative"
+            ],
+            "events": [
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2006-04-06T12:00:00Z"
+                },
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2024-09-19T14:07:35Z"
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "03508097000136",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Rede Nacional de Ensino e Pesquisa"
+                    ],
+                    [
+                        "adr",
+                        {},
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "BR"
+                        ]
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "publicIds": [
+                {
+                    "type": "cnpj",
+                    "identifier": "03.508.097/0001-36"
+                }
+            ],
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "handle": "RCO217",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "kind",
+                                {},
+                                "text",
+                                "individual"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "RNP - Centro de Engenharia e Operações"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "registro@rnp.br"
+                            ],
+                            [
+                                "lang",
+                                {},
+                                "language-tag",
+                                "pt"
+                            ],
+                            [
+                                "adr",
+                                {},
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "BR"
+                                ]
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "administrative"
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "2006-04-06T12:00:00Z"
+                        },
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2024-09-19T14:07:35Z"
+                        }
+                    ]
+                }
+            ],
+            "events": [
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2000-04-13T12:00:00Z"
+                },
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2025-04-03T19:23:24Z"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.registro.br/entity/03508097000136",
+                    "rel": "self",
+                    "href": "https://rdap.registro.br/entity/03508097000136",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "legalRepresentative": "Lisandro Zambenedetti Granville"
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "RCO217",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "RNP - Centro de Engenharia e Operações"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "registro@rnp.br"
+                    ],
+                    [
+                        "lang",
+                        {},
+                        "language-tag",
+                        "pt"
+                    ],
+                    [
+                        "adr",
+                        {},
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "BR"
+                        ]
+                    ]
+                ]
+            ],
+            "roles": [
+                "technical"
+            ],
+            "events": [
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2006-04-06T12:00:00Z"
+                },
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2024-09-19T14:07:35Z"
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "nscl1.rnp.br",
+            "ipAddresses": {
+                "v4": [
+                    "162.159.8.154"
+                ],
+                "v6": [
+                    "2400:cb00:2049:1::a29f:89a"
+                ]
+            },
+            "events": [
+                {
+                    "eventAction": "delegation check",
+                    "eventDate": "2026-06-20T08:00:25Z",
+                    "status": [
+                        "ns aa"
+                    ]
+                },
+                {
+                    "eventAction": "last correct delegation check",
+                    "eventDate": "2026-06-20T08:00:25Z"
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "nscl2.rnp.br",
+            "ipAddresses": {
+                "v4": [
+                    "162.159.9.208"
+                ],
+                "v6": [
+                    "2400:cb00:2049:1::a29f:9d0"
+                ]
+            },
+            "events": [
+                {
+                    "eventAction": "delegation check",
+                    "eventDate": "2026-06-20T08:00:25Z",
+                    "status": [
+                        "ns aa"
+                    ]
+                },
+                {
+                    "eventAction": "last correct delegation check",
+                    "eventDate": "2026-06-20T08:00:25Z"
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "nscl3.rnp.br",
+            "ipAddresses": {
+                "v4": [
+                    "162.159.10.128"
+                ],
+                "v6": [
+                    "2400:cb00:2049:1::a29f:a80"
+                ]
+            },
+            "events": [
+                {
+                    "eventAction": "delegation check",
+                    "eventDate": "2026-06-20T08:00:25Z",
+                    "status": [
+                        "ns aa"
+                    ]
+                },
+                {
+                    "eventAction": "last correct delegation check",
+                    "eventDate": "2026-06-20T08:00:25Z"
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "nscl4.rnp.br",
+            "ipAddresses": {
+                "v4": [
+                    "162.159.11.186"
+                ],
+                "v6": [
+                    "2400:cb00:2049:1::a29f:bba"
+                ]
+            },
+            "events": [
+                {
+                    "eventAction": "delegation check",
+                    "eventDate": "2026-06-20T08:00:25Z",
+                    "status": [
+                        "ns aa"
+                    ]
+                },
+                {
+                    "eventAction": "last correct delegation check",
+                    "eventDate": "2026-06-20T08:00:25Z"
+                }
+            ]
+        },
+        {
+            "objectClassName": "domain",
+            "handle": "rnp.br",
+            "ldhName": "rnp.br",
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "nscl1.rnp.br",
+                    "ipAddresses": {
+                        "v4": [
+                            "162.159.8.154"
+                        ],
+                        "v6": [
+                            "2400:cb00:2049:1::a29f:89a"
+                        ]
+                    },
+                    "events": [
+                        {
+                            "eventAction": "delegation check",
+                            "eventDate": "2026-06-20T08:00:25Z",
+                            "status": [
+                                "ns aa"
+                            ]
+                        },
+                        {
+                            "eventAction": "last correct delegation check",
+                            "eventDate": "2026-06-20T08:00:25Z"
+                        }
+                    ]
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "nscl2.rnp.br",
+                    "ipAddresses": {
+                        "v4": [
+                            "162.159.9.208"
+                        ],
+                        "v6": [
+                            "2400:cb00:2049:1::a29f:9d0"
+                        ]
+                    },
+                    "events": [
+                        {
+                            "eventAction": "delegation check",
+                            "eventDate": "2026-06-20T08:00:25Z",
+                            "status": [
+                                "ns aa"
+                            ]
+                        },
+                        {
+                            "eventAction": "last correct delegation check",
+                            "eventDate": "2026-06-20T08:00:25Z"
+                        }
+                    ]
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "nscl3.rnp.br",
+                    "ipAddresses": {
+                        "v4": [
+                            "162.159.10.128"
+                        ],
+                        "v6": [
+                            "2400:cb00:2049:1::a29f:a80"
+                        ]
+                    },
+                    "events": [
+                        {
+                            "eventAction": "delegation check",
+                            "eventDate": "2026-06-20T08:00:25Z",
+                            "status": [
+                                "ns aa"
+                            ]
+                        },
+                        {
+                            "eventAction": "last correct delegation check",
+                            "eventDate": "2026-06-20T08:00:25Z"
+                        }
+                    ]
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "nscl4.rnp.br",
+                    "ipAddresses": {
+                        "v4": [
+                            "162.159.11.186"
+                        ],
+                        "v6": [
+                            "2400:cb00:2049:1::a29f:bba"
+                        ]
+                    },
+                    "events": [
+                        {
+                            "eventAction": "delegation check",
+                            "eventDate": "2026-06-20T08:00:25Z",
+                            "status": [
+                                "ns aa"
+                            ]
+                        },
+                        {
+                            "eventAction": "last correct delegation check",
+                            "eventDate": "2026-06-20T08:00:25Z"
+                        }
+                    ]
+                }
+            ],
+            "secureDNS": {
+                "delegationSigned": true,
+                "dsData": [
+                    {
+                        "keyTag": 2371,
+                        "algorithm": 13,
+                        "digest": "E22F8BE0F554F9285C4760CC398C47D4BE37C94C4A62DB6A9F1E726FEB2D0694",
+                        "digestType": 2,
+                        "events": [
+                            {
+                                "eventAction": "registration",
+                                "eventDate": "2019-12-08T03:32:54Z"
+                            },
+                            {
+                                "eventAction": "delegation sign check",
+                                "eventDate": "2026-06-20T08:00:25Z",
+                                "status": [
+                                    "ds ok"
+                                ]
+                            },
+                            {
+                                "eventAction": "last correct delegation sign check",
+                                "eventDate": "2026-06-20T08:00:25Z"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "value": "https://rdap.registro.br/domain/rnp.br",
+                    "rel": "self",
+                    "href": "https://rdap.registro.br/domain/rnp.br",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "notices": [
+                {
+                    "title": "Use and Privacy Policy",
+                    "description": [
+                        "Copyright (c) Nic.br - Use of this data is governed by the Use and Privacy Policy. Distribution, commercialization, reproduction, and use for advertising or similar purposes are expressly prohibited.",
+                        "2026-06-23T09:42:29-03:00 - 139.91.90.27"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.registro.br/domain/rnp.br",
+                            "rel": "alternate",
+                            "href": "https://registro.br/upp",
+                            "type": "text/html"
+                        }
+                    ]
+                }
+            ],
+            "rdapConformance": [
+                "rdap_level_0",
+                "nicbr_level_0"
+            ],
+            "port43": "whois.registro.br"
+        }
+    ],
+    "domain": "rnp.br\r"
+}

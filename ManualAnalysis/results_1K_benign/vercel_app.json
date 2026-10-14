@@ -1,0 +1,15 @@
+{
+    "name": null,
+    "handle": null,
+    "registrationDate": null,
+    "expirationDate": null,
+    "lastChangedDate": null,
+    "lastUpdateDate": null,
+    "rawData": [
+        {
+            "errorCode": 400,
+            "title": "error on parsing TLD from domain name"
+        }
+    ],
+    "domain": "vercel.app\r"
+}

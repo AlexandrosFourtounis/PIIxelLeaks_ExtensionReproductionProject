@@ -1,0 +1,2378 @@
+{
+    "name": "justice.fr",
+    "handle": "DOM000000015188-FRNIC",
+    "registrationDate": "7/29/1997, 1:00:00 AM GMT+3",
+    "expirationDate": "11/7/2026, 3:44:19 PM GMT+2",
+    "lastChangedDate": "11/11/2025, 1:15:44 AM GMT+2",
+    "lastUpdateDate": "6/23/2026, 6:08:52 PM GMT+3",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "handle": "RAR24-FRNIC",
+            "publicIds": [
+                {
+                    "type": "IANA Registrar ID",
+                    "identifier": "1251"
+                }
+            ],
+            "status": [
+                "active"
+            ],
+            "port43": "whois.nameshield.net",
+            "events": [
+                {
+                    "eventAction": "registration",
+                    "eventDate": "1997-12-29T00:00:00Z"
+                },
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2026-02-05T08:20:43.643149Z"
+                }
+            ],
+            "links": [
+                {
+                    "href": "https://rdap.nic.fr/entity/RAR24-FRNIC",
+                    "value": "https://rdap.nic.fr/entity/RAR24-FRNIC",
+                    "rel": "self"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "NAMESHIELD"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+33.241182828"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "uri",
+                        "tel:+33.241182829"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "registrar@nameshield.net"
+                    ],
+                    [
+                        "url",
+                        {},
+                        "uri",
+                        "https://www.nameshield.com/contact-nameshield/"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "FR"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "39 boulevard des Capucines",
+                            "PARIS",
+                            "",
+                            "75002",
+                            ""
+                        ]
+                    ]
+                ]
+            ],
+            "roles": [
+                "sponsor",
+                "registrar"
+            ],
+            "remarks": [
+                {
+                    "type": "registrar restricted publication",
+                    "description": [
+                        "No"
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "MDLJ60-FRNIC",
+            "status": [
+                "associated",
+                "active"
+            ],
+            "events": [
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2017-11-07T00:00:00Z"
+                },
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2022-05-05T12:14:42Z"
+                }
+            ],
+            "links": [
+                {
+                    "href": "https://rdap.nic.fr/entity/MDLJ60-FRNIC",
+                    "value": "https://rdap.nic.fr/entity/MDLJ60-FRNIC",
+                    "rel": "self"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "ETAT FRANCAIS REPRESENTE PAR LE MINISTERE DE LA JUSTICE"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "MINISTERE DE LA JUSTICE"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "FR"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "13, place Vendome",
+                            "Paris",
+                            "",
+                            "75042",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "gestion-dns@justice.gouv.fr"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+33.170228836"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "uri",
+                        "tel:+33.170228836"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "remarks": [
+                {
+                    "type": "contact restricted publication",
+                    "description": [
+                        "NO"
+                    ]
+                },
+                {
+                    "type": "contact obsolete",
+                    "description": [
+                        "NO"
+                    ]
+                },
+                {
+                    "type": "contact type",
+                    "description": [
+                        "ORGANIZATION"
+                    ]
+                },
+                {
+                    "type": "reachable",
+                    "description": [
+                        "NO"
+                    ]
+                },
+                {
+                    "type": "eligibility status",
+                    "description": [
+                        "NotIdentified"
+                    ]
+                },
+                {
+                    "type": "registrar name",
+                    "description": [
+                        "NAMESHIELD"
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "MDLJ59-FRNIC",
+            "status": [
+                "associated",
+                "active"
+            ],
+            "events": [
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2017-11-06T17:30:06Z"
+                }
+            ],
+            "links": [
+                {
+                    "href": "https://rdap.nic.fr/entity/MDLJ59-FRNIC",
+                    "value": "https://rdap.nic.fr/entity/MDLJ59-FRNIC",
+                    "rel": "self"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "MINISTERE DE LA JUSTICE (SG/SSIC)"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "MINISTERE de la justice"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "FR"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "13 place Vendome",
+                            "PARIS",
+                            "",
+                            "75042",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "gestion-dns@justice.gouv.fr"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+33.170228836"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "uri",
+                        "tel:+33.170228836"
+                    ]
+                ]
+            ],
+            "roles": [
+                "administrative"
+            ],
+            "remarks": [
+                {
+                    "type": "contact restricted publication",
+                    "description": [
+                        "NO"
+                    ]
+                },
+                {
+                    "type": "contact obsolete",
+                    "description": [
+                        "NO"
+                    ]
+                },
+                {
+                    "type": "contact type",
+                    "description": [
+                        "ORGANIZATION"
+                    ]
+                },
+                {
+                    "type": "reachable",
+                    "description": [
+                        "NO"
+                    ]
+                },
+                {
+                    "type": "eligibility status",
+                    "description": [
+                        "NotIdentified"
+                    ]
+                },
+                {
+                    "type": "registrar name",
+                    "description": [
+                        "NAMESHIELD"
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "CT11812-FRNIC",
+            "status": [
+                "associated",
+                "active"
+            ],
+            "events": [
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2017-11-06T17:30:08Z"
+                }
+            ],
+            "links": [
+                {
+                    "href": "https://rdap.nic.fr/entity/CT11812-FRNIC",
+                    "value": "https://rdap.nic.fr/entity/CT11812-FRNIC",
+                    "rel": "self"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "CP2I/DOIP/EQUIPE TECHNIQUE"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "CP2I DOIP EQUIPE technique"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "FR"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "rue Pierre Ramond - B.P. 10010",
+                            "SAINT MEDARD EN JALLES",
+                            "",
+                            "33166",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "gestiondns-tech@developpement-durable.gouv.fr"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+33.556706536"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "uri",
+                        "tel:+33.556706536"
+                    ]
+                ]
+            ],
+            "roles": [
+                "technical"
+            ],
+            "remarks": [
+                {
+                    "type": "contact restricted publication",
+                    "description": [
+                        "NO"
+                    ]
+                },
+                {
+                    "type": "contact obsolete",
+                    "description": [
+                        "NO"
+                    ]
+                },
+                {
+                    "type": "contact type",
+                    "description": [
+                        "ORGANIZATION"
+                    ]
+                },
+                {
+                    "type": "reachable",
+                    "description": [
+                        "NO"
+                    ]
+                },
+                {
+                    "type": "eligibility status",
+                    "description": [
+                        "NotIdentified"
+                    ]
+                },
+                {
+                    "type": "registrar name",
+                    "description": [
+                        "NAMESHIELD"
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "RAR24-FRNIC",
+            "publicIds": [
+                {
+                    "type": "IANA Registrar ID",
+                    "identifier": "1251"
+                }
+            ],
+            "status": [
+                "active"
+            ],
+            "port43": "whois.nameshield.net",
+            "events": [
+                {
+                    "eventAction": "registration",
+                    "eventDate": "1997-12-29T00:00:00Z"
+                },
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2026-02-05T08:20:43.643149Z"
+                }
+            ],
+            "links": [
+                {
+                    "href": "https://rdap.nic.fr/entity/RAR24-FRNIC",
+                    "value": "https://rdap.nic.fr/entity/RAR24-FRNIC",
+                    "rel": "self"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "NAMESHIELD"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+33.241182828"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "uri",
+                        "tel:+33.241182829"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "registrar@nameshield.net"
+                    ],
+                    [
+                        "url",
+                        {},
+                        "uri",
+                        "https://www.nameshield.com/contact-nameshield/"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "FR"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "39 boulevard des Capucines",
+                            "PARIS",
+                            "",
+                            "75002",
+                            ""
+                        ]
+                    ]
+                ]
+            ],
+            "roles": [
+                "sponsor",
+                "registrar"
+            ],
+            "remarks": [
+                {
+                    "type": "registrar restricted publication",
+                    "description": [
+                        "No"
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "handle": "HOST74040-FRNIC",
+            "ldhName": "a.ns.developpement-durable.gouv.fr",
+            "status": [
+                "server update prohibited",
+                "associated"
+            ],
+            "ipAddresses": {
+                "v4": [
+                    "194.5.172.19"
+                ]
+            },
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "handle": "RAR24-FRNIC",
+                    "publicIds": [
+                        {
+                            "type": "IANA Registrar ID",
+                            "identifier": "1251"
+                        }
+                    ],
+                    "status": [
+                        "active"
+                    ],
+                    "port43": "whois.nameshield.net",
+                    "events": [
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "1997-12-29T00:00:00Z"
+                        },
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2026-02-05T08:20:43.643149Z"
+                        }
+                    ],
+                    "links": [
+                        {
+                            "href": "https://rdap.nic.fr/entity/RAR24-FRNIC",
+                            "value": "https://rdap.nic.fr/entity/RAR24-FRNIC",
+                            "rel": "self"
+                        }
+                    ],
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "NAMESHIELD"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "voice"
+                                },
+                                "uri",
+                                "tel:+33.241182828"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "fax"
+                                },
+                                "uri",
+                                "tel:+33.241182829"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "registrar@nameshield.net"
+                            ],
+                            [
+                                "url",
+                                {},
+                                "uri",
+                                "https://www.nameshield.com/contact-nameshield/"
+                            ],
+                            [
+                                "adr",
+                                {
+                                    "cc": "FR"
+                                },
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "39 boulevard des Capucines",
+                                    "PARIS",
+                                    "",
+                                    "75002",
+                                    ""
+                                ]
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "sponsor",
+                        "registrar"
+                    ],
+                    "remarks": [
+                        {
+                            "type": "registrar restricted publication",
+                            "description": [
+                                "No"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "links": [
+                {
+                    "href": "https://rdap.nic.fr/nameserver/a.ns.developpement-durable.gouv.fr",
+                    "value": "https://rdap.nic.fr/nameserver/a.ns.developpement-durable.gouv.fr",
+                    "rel": "self"
+                }
+            ],
+            "remarks": [
+                {
+                    "title": "result set truncated due to authorization",
+                    "description": [
+                        "The list of results does not contain all results due to lack of authorization.",
+                        "This may indicate to some clients that proper authorization will yield a longer result set."
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "RAR24-FRNIC",
+            "publicIds": [
+                {
+                    "type": "IANA Registrar ID",
+                    "identifier": "1251"
+                }
+            ],
+            "status": [
+                "active"
+            ],
+            "port43": "whois.nameshield.net",
+            "events": [
+                {
+                    "eventAction": "registration",
+                    "eventDate": "1997-12-29T00:00:00Z"
+                },
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2026-02-05T08:20:43.643149Z"
+                }
+            ],
+            "links": [
+                {
+                    "href": "https://rdap.nic.fr/entity/RAR24-FRNIC",
+                    "value": "https://rdap.nic.fr/entity/RAR24-FRNIC",
+                    "rel": "self"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "NAMESHIELD"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+33.241182828"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "uri",
+                        "tel:+33.241182829"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "registrar@nameshield.net"
+                    ],
+                    [
+                        "url",
+                        {},
+                        "uri",
+                        "https://www.nameshield.com/contact-nameshield/"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "FR"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "39 boulevard des Capucines",
+                            "PARIS",
+                            "",
+                            "75002",
+                            ""
+                        ]
+                    ]
+                ]
+            ],
+            "roles": [
+                "sponsor",
+                "registrar"
+            ],
+            "remarks": [
+                {
+                    "type": "registrar restricted publication",
+                    "description": [
+                        "No"
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "handle": "HOST74039-FRNIC",
+            "ldhName": "b.ns.developpement-durable.gouv.fr",
+            "status": [
+                "server update prohibited",
+                "associated"
+            ],
+            "ipAddresses": {
+                "v4": [
+                    "194.5.173.19"
+                ]
+            },
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "handle": "RAR24-FRNIC",
+                    "publicIds": [
+                        {
+                            "type": "IANA Registrar ID",
+                            "identifier": "1251"
+                        }
+                    ],
+                    "status": [
+                        "active"
+                    ],
+                    "port43": "whois.nameshield.net",
+                    "events": [
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "1997-12-29T00:00:00Z"
+                        },
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2026-02-05T08:20:43.643149Z"
+                        }
+                    ],
+                    "links": [
+                        {
+                            "href": "https://rdap.nic.fr/entity/RAR24-FRNIC",
+                            "value": "https://rdap.nic.fr/entity/RAR24-FRNIC",
+                            "rel": "self"
+                        }
+                    ],
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "NAMESHIELD"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "voice"
+                                },
+                                "uri",
+                                "tel:+33.241182828"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "fax"
+                                },
+                                "uri",
+                                "tel:+33.241182829"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "registrar@nameshield.net"
+                            ],
+                            [
+                                "url",
+                                {},
+                                "uri",
+                                "https://www.nameshield.com/contact-nameshield/"
+                            ],
+                            [
+                                "adr",
+                                {
+                                    "cc": "FR"
+                                },
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "39 boulevard des Capucines",
+                                    "PARIS",
+                                    "",
+                                    "75002",
+                                    ""
+                                ]
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "sponsor",
+                        "registrar"
+                    ],
+                    "remarks": [
+                        {
+                            "type": "registrar restricted publication",
+                            "description": [
+                                "No"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "links": [
+                {
+                    "href": "https://rdap.nic.fr/nameserver/b.ns.developpement-durable.gouv.fr",
+                    "value": "https://rdap.nic.fr/nameserver/b.ns.developpement-durable.gouv.fr",
+                    "rel": "self"
+                }
+            ],
+            "remarks": [
+                {
+                    "title": "result set truncated due to authorization",
+                    "description": [
+                        "The list of results does not contain all results due to lack of authorization.",
+                        "This may indicate to some clients that proper authorization will yield a longer result set."
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "RAR24-FRNIC",
+            "publicIds": [
+                {
+                    "type": "IANA Registrar ID",
+                    "identifier": "1251"
+                }
+            ],
+            "status": [
+                "active"
+            ],
+            "port43": "whois.nameshield.net",
+            "events": [
+                {
+                    "eventAction": "registration",
+                    "eventDate": "1997-12-29T00:00:00Z"
+                },
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2026-02-05T08:20:43.643149Z"
+                }
+            ],
+            "links": [
+                {
+                    "href": "https://rdap.nic.fr/entity/RAR24-FRNIC",
+                    "value": "https://rdap.nic.fr/entity/RAR24-FRNIC",
+                    "rel": "self"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "NAMESHIELD"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+33.241182828"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "uri",
+                        "tel:+33.241182829"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "registrar@nameshield.net"
+                    ],
+                    [
+                        "url",
+                        {},
+                        "uri",
+                        "https://www.nameshield.com/contact-nameshield/"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "FR"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "39 boulevard des Capucines",
+                            "PARIS",
+                            "",
+                            "75002",
+                            ""
+                        ]
+                    ]
+                ]
+            ],
+            "roles": [
+                "sponsor",
+                "registrar"
+            ],
+            "remarks": [
+                {
+                    "type": "registrar restricted publication",
+                    "description": [
+                        "No"
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "handle": "HOST159928-FRNIC",
+            "ldhName": "nsa.perf1.fr",
+            "status": [
+                "server update prohibited",
+                "associated"
+            ],
+            "ipAddresses": {
+                "v4": [
+                    "81.92.94.100"
+                ],
+                "v6": [
+                    "2a01:c8:100::100"
+                ]
+            },
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "handle": "RAR24-FRNIC",
+                    "publicIds": [
+                        {
+                            "type": "IANA Registrar ID",
+                            "identifier": "1251"
+                        }
+                    ],
+                    "status": [
+                        "active"
+                    ],
+                    "port43": "whois.nameshield.net",
+                    "events": [
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "1997-12-29T00:00:00Z"
+                        },
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2026-02-05T08:20:43.643149Z"
+                        }
+                    ],
+                    "links": [
+                        {
+                            "href": "https://rdap.nic.fr/entity/RAR24-FRNIC",
+                            "value": "https://rdap.nic.fr/entity/RAR24-FRNIC",
+                            "rel": "self"
+                        }
+                    ],
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "NAMESHIELD"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "voice"
+                                },
+                                "uri",
+                                "tel:+33.241182828"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "fax"
+                                },
+                                "uri",
+                                "tel:+33.241182829"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "registrar@nameshield.net"
+                            ],
+                            [
+                                "url",
+                                {},
+                                "uri",
+                                "https://www.nameshield.com/contact-nameshield/"
+                            ],
+                            [
+                                "adr",
+                                {
+                                    "cc": "FR"
+                                },
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "39 boulevard des Capucines",
+                                    "PARIS",
+                                    "",
+                                    "75002",
+                                    ""
+                                ]
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "sponsor",
+                        "registrar"
+                    ],
+                    "remarks": [
+                        {
+                            "type": "registrar restricted publication",
+                            "description": [
+                                "No"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "links": [
+                {
+                    "href": "https://rdap.nic.fr/nameserver/nsa.perf1.fr",
+                    "value": "https://rdap.nic.fr/nameserver/nsa.perf1.fr",
+                    "rel": "self"
+                }
+            ],
+            "remarks": [
+                {
+                    "title": "result set truncated due to authorization",
+                    "description": [
+                        "The list of results does not contain all results due to lack of authorization.",
+                        "This may indicate to some clients that proper authorization will yield a longer result set."
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "RAR24-FRNIC",
+            "publicIds": [
+                {
+                    "type": "IANA Registrar ID",
+                    "identifier": "1251"
+                }
+            ],
+            "status": [
+                "active"
+            ],
+            "port43": "whois.nameshield.net",
+            "events": [
+                {
+                    "eventAction": "registration",
+                    "eventDate": "1997-12-29T00:00:00Z"
+                },
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2026-02-05T08:20:43.643149Z"
+                }
+            ],
+            "links": [
+                {
+                    "href": "https://rdap.nic.fr/entity/RAR24-FRNIC",
+                    "value": "https://rdap.nic.fr/entity/RAR24-FRNIC",
+                    "rel": "self"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "NAMESHIELD"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+33.241182828"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "uri",
+                        "tel:+33.241182829"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "registrar@nameshield.net"
+                    ],
+                    [
+                        "url",
+                        {},
+                        "uri",
+                        "https://www.nameshield.com/contact-nameshield/"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "FR"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "39 boulevard des Capucines",
+                            "PARIS",
+                            "",
+                            "75002",
+                            ""
+                        ]
+                    ]
+                ]
+            ],
+            "roles": [
+                "sponsor",
+                "registrar"
+            ],
+            "remarks": [
+                {
+                    "type": "registrar restricted publication",
+                    "description": [
+                        "No"
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "handle": "HOST169710-FRNIC",
+            "ldhName": "nsb.perf1.com",
+            "status": [
+                "server update prohibited",
+                "associated"
+            ],
+            "ipAddresses": {},
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "handle": "RAR24-FRNIC",
+                    "publicIds": [
+                        {
+                            "type": "IANA Registrar ID",
+                            "identifier": "1251"
+                        }
+                    ],
+                    "status": [
+                        "active"
+                    ],
+                    "port43": "whois.nameshield.net",
+                    "events": [
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "1997-12-29T00:00:00Z"
+                        },
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2026-02-05T08:20:43.643149Z"
+                        }
+                    ],
+                    "links": [
+                        {
+                            "href": "https://rdap.nic.fr/entity/RAR24-FRNIC",
+                            "value": "https://rdap.nic.fr/entity/RAR24-FRNIC",
+                            "rel": "self"
+                        }
+                    ],
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "NAMESHIELD"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "voice"
+                                },
+                                "uri",
+                                "tel:+33.241182828"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "fax"
+                                },
+                                "uri",
+                                "tel:+33.241182829"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "registrar@nameshield.net"
+                            ],
+                            [
+                                "url",
+                                {},
+                                "uri",
+                                "https://www.nameshield.com/contact-nameshield/"
+                            ],
+                            [
+                                "adr",
+                                {
+                                    "cc": "FR"
+                                },
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "39 boulevard des Capucines",
+                                    "PARIS",
+                                    "",
+                                    "75002",
+                                    ""
+                                ]
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "sponsor",
+                        "registrar"
+                    ],
+                    "remarks": [
+                        {
+                            "type": "registrar restricted publication",
+                            "description": [
+                                "No"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "links": [
+                {
+                    "href": "https://rdap.nic.fr/nameserver/nsb.perf1.com",
+                    "value": "https://rdap.nic.fr/nameserver/nsb.perf1.com",
+                    "rel": "self"
+                }
+            ],
+            "remarks": [
+                {
+                    "title": "result set truncated due to authorization",
+                    "description": [
+                        "The list of results does not contain all results due to lack of authorization.",
+                        "This may indicate to some clients that proper authorization will yield a longer result set."
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "RAR24-FRNIC",
+            "publicIds": [
+                {
+                    "type": "IANA Registrar ID",
+                    "identifier": "1251"
+                }
+            ],
+            "status": [
+                "active"
+            ],
+            "port43": "whois.nameshield.net",
+            "events": [
+                {
+                    "eventAction": "registration",
+                    "eventDate": "1997-12-29T00:00:00Z"
+                },
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2026-02-05T08:20:43.643149Z"
+                }
+            ],
+            "links": [
+                {
+                    "href": "https://rdap.nic.fr/entity/RAR24-FRNIC",
+                    "value": "https://rdap.nic.fr/entity/RAR24-FRNIC",
+                    "rel": "self"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "NAMESHIELD"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+33.241182828"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "uri",
+                        "tel:+33.241182829"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "registrar@nameshield.net"
+                    ],
+                    [
+                        "url",
+                        {},
+                        "uri",
+                        "https://www.nameshield.com/contact-nameshield/"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "FR"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "39 boulevard des Capucines",
+                            "PARIS",
+                            "",
+                            "75002",
+                            ""
+                        ]
+                    ]
+                ]
+            ],
+            "roles": [
+                "sponsor",
+                "registrar"
+            ],
+            "remarks": [
+                {
+                    "type": "registrar restricted publication",
+                    "description": [
+                        "No"
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "handle": "HOST169709-FRNIC",
+            "ldhName": "nsc.perf1.com",
+            "status": [
+                "server update prohibited",
+                "associated"
+            ],
+            "ipAddresses": {},
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "handle": "RAR24-FRNIC",
+                    "publicIds": [
+                        {
+                            "type": "IANA Registrar ID",
+                            "identifier": "1251"
+                        }
+                    ],
+                    "status": [
+                        "active"
+                    ],
+                    "port43": "whois.nameshield.net",
+                    "events": [
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "1997-12-29T00:00:00Z"
+                        },
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2026-02-05T08:20:43.643149Z"
+                        }
+                    ],
+                    "links": [
+                        {
+                            "href": "https://rdap.nic.fr/entity/RAR24-FRNIC",
+                            "value": "https://rdap.nic.fr/entity/RAR24-FRNIC",
+                            "rel": "self"
+                        }
+                    ],
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "NAMESHIELD"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "voice"
+                                },
+                                "uri",
+                                "tel:+33.241182828"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "fax"
+                                },
+                                "uri",
+                                "tel:+33.241182829"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "registrar@nameshield.net"
+                            ],
+                            [
+                                "url",
+                                {},
+                                "uri",
+                                "https://www.nameshield.com/contact-nameshield/"
+                            ],
+                            [
+                                "adr",
+                                {
+                                    "cc": "FR"
+                                },
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "39 boulevard des Capucines",
+                                    "PARIS",
+                                    "",
+                                    "75002",
+                                    ""
+                                ]
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "sponsor",
+                        "registrar"
+                    ],
+                    "remarks": [
+                        {
+                            "type": "registrar restricted publication",
+                            "description": [
+                                "No"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "links": [
+                {
+                    "href": "https://rdap.nic.fr/nameserver/nsc.perf1.com",
+                    "value": "https://rdap.nic.fr/nameserver/nsc.perf1.com",
+                    "rel": "self"
+                }
+            ],
+            "remarks": [
+                {
+                    "title": "result set truncated due to authorization",
+                    "description": [
+                        "The list of results does not contain all results due to lack of authorization.",
+                        "This may indicate to some clients that proper authorization will yield a longer result set."
+                    ]
+                }
+            ]
+        },
+        {
+            "rdapConformance": [
+                "rdap_level_0",
+                "icann_rdap_technical_implementation_guide_1",
+                "icann_rdap_response_profile_1"
+            ],
+            "objectClassName": "domain",
+            "handle": "DOM000000015188-FRNIC",
+            "ldhName": "justice.fr",
+            "whoisStatus": "ACTIVE",
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "handle": "HOST74040-FRNIC",
+                    "ldhName": "a.ns.developpement-durable.gouv.fr",
+                    "status": [
+                        "server update prohibited",
+                        "associated"
+                    ],
+                    "ipAddresses": {
+                        "v4": [
+                            "194.5.172.19"
+                        ]
+                    },
+                    "entities": [
+                        {
+                            "objectClassName": "entity",
+                            "handle": "RAR24-FRNIC",
+                            "publicIds": [
+                                {
+                                    "type": "IANA Registrar ID",
+                                    "identifier": "1251"
+                                }
+                            ],
+                            "status": [
+                                "active"
+                            ],
+                            "port43": "whois.nameshield.net",
+                            "events": [
+                                {
+                                    "eventAction": "registration",
+                                    "eventDate": "1997-12-29T00:00:00Z"
+                                },
+                                {
+                                    "eventAction": "last changed",
+                                    "eventDate": "2026-02-05T08:20:43.643149Z"
+                                }
+                            ],
+                            "links": [
+                                {
+                                    "href": "https://rdap.nic.fr/entity/RAR24-FRNIC",
+                                    "value": "https://rdap.nic.fr/entity/RAR24-FRNIC",
+                                    "rel": "self"
+                                }
+                            ],
+                            "vcardArray": [
+                                "vcard",
+                                [
+                                    [
+                                        "version",
+                                        {},
+                                        "text",
+                                        "4.0"
+                                    ],
+                                    [
+                                        "fn",
+                                        {},
+                                        "text",
+                                        "NAMESHIELD"
+                                    ],
+                                    [
+                                        "tel",
+                                        {
+                                            "type": "voice"
+                                        },
+                                        "uri",
+                                        "tel:+33.241182828"
+                                    ],
+                                    [
+                                        "tel",
+                                        {
+                                            "type": "fax"
+                                        },
+                                        "uri",
+                                        "tel:+33.241182829"
+                                    ],
+                                    [
+                                        "email",
+                                        {},
+                                        "text",
+                                        "registrar@nameshield.net"
+                                    ],
+                                    [
+                                        "url",
+                                        {},
+                                        "uri",
+                                        "https://www.nameshield.com/contact-nameshield/"
+                                    ],
+                                    [
+                                        "adr",
+                                        {
+                                            "cc": "FR"
+                                        },
+                                        "text",
+                                        [
+                                            "",
+                                            "",
+                                            "39 boulevard des Capucines",
+                                            "PARIS",
+                                            "",
+                                            "75002",
+                                            ""
+                                        ]
+                                    ]
+                                ]
+                            ],
+                            "roles": [
+                                "sponsor",
+                                "registrar"
+                            ],
+                            "remarks": [
+                                {
+                                    "type": "registrar restricted publication",
+                                    "description": [
+                                        "No"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "links": [
+                        {
+                            "href": "https://rdap.nic.fr/nameserver/a.ns.developpement-durable.gouv.fr",
+                            "value": "https://rdap.nic.fr/nameserver/a.ns.developpement-durable.gouv.fr",
+                            "rel": "self"
+                        }
+                    ],
+                    "remarks": [
+                        {
+                            "title": "result set truncated due to authorization",
+                            "description": [
+                                "The list of results does not contain all results due to lack of authorization.",
+                                "This may indicate to some clients that proper authorization will yield a longer result set."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "handle": "HOST74039-FRNIC",
+                    "ldhName": "b.ns.developpement-durable.gouv.fr",
+                    "status": [
+                        "server update prohibited",
+                        "associated"
+                    ],
+                    "ipAddresses": {
+                        "v4": [
+                            "194.5.173.19"
+                        ]
+                    },
+                    "entities": [
+                        {
+                            "objectClassName": "entity",
+                            "handle": "RAR24-FRNIC",
+                            "publicIds": [
+                                {
+                                    "type": "IANA Registrar ID",
+                                    "identifier": "1251"
+                                }
+                            ],
+                            "status": [
+                                "active"
+                            ],
+                            "port43": "whois.nameshield.net",
+                            "events": [
+                                {
+                                    "eventAction": "registration",
+                                    "eventDate": "1997-12-29T00:00:00Z"
+                                },
+                                {
+                                    "eventAction": "last changed",
+                                    "eventDate": "2026-02-05T08:20:43.643149Z"
+                                }
+                            ],
+                            "links": [
+                                {
+                                    "href": "https://rdap.nic.fr/entity/RAR24-FRNIC",
+                                    "value": "https://rdap.nic.fr/entity/RAR24-FRNIC",
+                                    "rel": "self"
+                                }
+                            ],
+                            "vcardArray": [
+                                "vcard",
+                                [
+                                    [
+                                        "version",
+                                        {},
+                                        "text",
+                                        "4.0"
+                                    ],
+                                    [
+                                        "fn",
+                                        {},
+                                        "text",
+                                        "NAMESHIELD"
+                                    ],
+                                    [
+                                        "tel",
+                                        {
+                                            "type": "voice"
+                                        },
+                                        "uri",
+                                        "tel:+33.241182828"
+                                    ],
+                                    [
+                                        "tel",
+                                        {
+                                            "type": "fax"
+                                        },
+                                        "uri",
+                                        "tel:+33.241182829"
+                                    ],
+                                    [
+                                        "email",
+                                        {},
+                                        "text",
+                                        "registrar@nameshield.net"
+                                    ],
+                                    [
+                                        "url",
+                                        {},
+                                        "uri",
+                                        "https://www.nameshield.com/contact-nameshield/"
+                                    ],
+                                    [
+                                        "adr",
+                                        {
+                                            "cc": "FR"
+                                        },
+                                        "text",
+                                        [
+                                            "",
+                                            "",
+                                            "39 boulevard des Capucines",
+                                            "PARIS",
+                                            "",
+                                            "75002",
+                                            ""
+                                        ]
+                                    ]
+                                ]
+                            ],
+                            "roles": [
+                                "sponsor",
+                                "registrar"
+                            ],
+                            "remarks": [
+                                {
+                                    "type": "registrar restricted publication",
+                                    "description": [
+                                        "No"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "links": [
+                        {
+                            "href": "https://rdap.nic.fr/nameserver/b.ns.developpement-durable.gouv.fr",
+                            "value": "https://rdap.nic.fr/nameserver/b.ns.developpement-durable.gouv.fr",
+                            "rel": "self"
+                        }
+                    ],
+                    "remarks": [
+                        {
+                            "title": "result set truncated due to authorization",
+                            "description": [
+                                "The list of results does not contain all results due to lack of authorization.",
+                                "This may indicate to some clients that proper authorization will yield a longer result set."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "handle": "HOST159928-FRNIC",
+                    "ldhName": "nsa.perf1.fr",
+                    "status": [
+                        "server update prohibited",
+                        "associated"
+                    ],
+                    "ipAddresses": {
+                        "v4": [
+                            "81.92.94.100"
+                        ],
+                        "v6": [
+                            "2a01:c8:100::100"
+                        ]
+                    },
+                    "entities": [
+                        {
+                            "objectClassName": "entity",
+                            "handle": "RAR24-FRNIC",
+                            "publicIds": [
+                                {
+                                    "type": "IANA Registrar ID",
+                                    "identifier": "1251"
+                                }
+                            ],
+                            "status": [
+                                "active"
+                            ],
+                            "port43": "whois.nameshield.net",
+                            "events": [
+                                {
+                                    "eventAction": "registration",
+                                    "eventDate": "1997-12-29T00:00:00Z"
+                                },
+                                {
+                                    "eventAction": "last changed",
+                                    "eventDate": "2026-02-05T08:20:43.643149Z"
+                                }
+                            ],
+                            "links": [
+                                {
+                                    "href": "https://rdap.nic.fr/entity/RAR24-FRNIC",
+                                    "value": "https://rdap.nic.fr/entity/RAR24-FRNIC",
+                                    "rel": "self"
+                                }
+                            ],
+                            "vcardArray": [
+                                "vcard",
+                                [
+                                    [
+                                        "version",
+                                        {},
+                                        "text",
+                                        "4.0"
+                                    ],
+                                    [
+                                        "fn",
+                                        {},
+                                        "text",
+                                        "NAMESHIELD"
+                                    ],
+                                    [
+                                        "tel",
+                                        {
+                                            "type": "voice"
+                                        },
+                                        "uri",
+                                        "tel:+33.241182828"
+                                    ],
+                                    [
+                                        "tel",
+                                        {
+                                            "type": "fax"
+                                        },
+                                        "uri",
+                                        "tel:+33.241182829"
+                                    ],
+                                    [
+                                        "email",
+                                        {},
+                                        "text",
+                                        "registrar@nameshield.net"
+                                    ],
+                                    [
+                                        "url",
+                                        {},
+                                        "uri",
+                                        "https://www.nameshield.com/contact-nameshield/"
+                                    ],
+                                    [
+                                        "adr",
+                                        {
+                                            "cc": "FR"
+                                        },
+                                        "text",
+                                        [
+                                            "",
+                                            "",
+                                            "39 boulevard des Capucines",
+                                            "PARIS",
+                                            "",
+                                            "75002",
+                                            ""
+                                        ]
+                                    ]
+                                ]
+                            ],
+                            "roles": [
+                                "sponsor",
+                                "registrar"
+                            ],
+                            "remarks": [
+                                {
+                                    "type": "registrar restricted publication",
+                                    "description": [
+                                        "No"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "links": [
+                        {
+                            "href": "https://rdap.nic.fr/nameserver/nsa.perf1.fr",
+                            "value": "https://rdap.nic.fr/nameserver/nsa.perf1.fr",
+                            "rel": "self"
+                        }
+                    ],
+                    "remarks": [
+                        {
+                            "title": "result set truncated due to authorization",
+                            "description": [
+                                "The list of results does not contain all results due to lack of authorization.",
+                                "This may indicate to some clients that proper authorization will yield a longer result set."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "handle": "HOST169710-FRNIC",
+                    "ldhName": "nsb.perf1.com",
+                    "status": [
+                        "server update prohibited",
+                        "associated"
+                    ],
+                    "ipAddresses": {},
+                    "entities": [
+                        {
+                            "objectClassName": "entity",
+                            "handle": "RAR24-FRNIC",
+                            "publicIds": [
+                                {
+                                    "type": "IANA Registrar ID",
+                                    "identifier": "1251"
+                                }
+                            ],
+                            "status": [
+                                "active"
+                            ],
+                            "port43": "whois.nameshield.net",
+                            "events": [
+                                {
+                                    "eventAction": "registration",
+                                    "eventDate": "1997-12-29T00:00:00Z"
+                                },
+                                {
+                                    "eventAction": "last changed",
+                                    "eventDate": "2026-02-05T08:20:43.643149Z"
+                                }
+                            ],
+                            "links": [
+                                {
+                                    "href": "https://rdap.nic.fr/entity/RAR24-FRNIC",
+                                    "value": "https://rdap.nic.fr/entity/RAR24-FRNIC",
+                                    "rel": "self"
+                                }
+                            ],
+                            "vcardArray": [
+                                "vcard",
+                                [
+                                    [
+                                        "version",
+                                        {},
+                                        "text",
+                                        "4.0"
+                                    ],
+                                    [
+                                        "fn",
+                                        {},
+                                        "text",
+                                        "NAMESHIELD"
+                                    ],
+                                    [
+                                        "tel",
+                                        {
+                                            "type": "voice"
+                                        },
+                                        "uri",
+                                        "tel:+33.241182828"
+                                    ],
+                                    [
+                                        "tel",
+                                        {
+                                            "type": "fax"
+                                        },
+                                        "uri",
+                                        "tel:+33.241182829"
+                                    ],
+                                    [
+                                        "email",
+                                        {},
+                                        "text",
+                                        "registrar@nameshield.net"
+                                    ],
+                                    [
+                                        "url",
+                                        {},
+                                        "uri",
+                                        "https://www.nameshield.com/contact-nameshield/"
+                                    ],
+                                    [
+                                        "adr",
+                                        {
+                                            "cc": "FR"
+                                        },
+                                        "text",
+                                        [
+                                            "",
+                                            "",
+                                            "39 boulevard des Capucines",
+                                            "PARIS",
+                                            "",
+                                            "75002",
+                                            ""
+                                        ]
+                                    ]
+                                ]
+                            ],
+                            "roles": [
+                                "sponsor",
+                                "registrar"
+                            ],
+                            "remarks": [
+                                {
+                                    "type": "registrar restricted publication",
+                                    "description": [
+                                        "No"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "links": [
+                        {
+                            "href": "https://rdap.nic.fr/nameserver/nsb.perf1.com",
+                            "value": "https://rdap.nic.fr/nameserver/nsb.perf1.com",
+                            "rel": "self"
+                        }
+                    ],
+                    "remarks": [
+                        {
+                            "title": "result set truncated due to authorization",
+                            "description": [
+                                "The list of results does not contain all results due to lack of authorization.",
+                                "This may indicate to some clients that proper authorization will yield a longer result set."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "handle": "HOST169709-FRNIC",
+                    "ldhName": "nsc.perf1.com",
+                    "status": [
+                        "server update prohibited",
+                        "associated"
+                    ],
+                    "ipAddresses": {},
+                    "entities": [
+                        {
+                            "objectClassName": "entity",
+                            "handle": "RAR24-FRNIC",
+                            "publicIds": [
+                                {
+                                    "type": "IANA Registrar ID",
+                                    "identifier": "1251"
+                                }
+                            ],
+                            "status": [
+                                "active"
+                            ],
+                            "port43": "whois.nameshield.net",
+                            "events": [
+                                {
+                                    "eventAction": "registration",
+                                    "eventDate": "1997-12-29T00:00:00Z"
+                                },
+                                {
+                                    "eventAction": "last changed",
+                                    "eventDate": "2026-02-05T08:20:43.643149Z"
+                                }
+                            ],
+                            "links": [
+                                {
+                                    "href": "https://rdap.nic.fr/entity/RAR24-FRNIC",
+                                    "value": "https://rdap.nic.fr/entity/RAR24-FRNIC",
+                                    "rel": "self"
+                                }
+                            ],
+                            "vcardArray": [
+                                "vcard",
+                                [
+                                    [
+                                        "version",
+                                        {},
+                                        "text",
+                                        "4.0"
+                                    ],
+                                    [
+                                        "fn",
+                                        {},
+                                        "text",
+                                        "NAMESHIELD"
+                                    ],
+                                    [
+                                        "tel",
+                                        {
+                                            "type": "voice"
+                                        },
+                                        "uri",
+                                        "tel:+33.241182828"
+                                    ],
+                                    [
+                                        "tel",
+                                        {
+                                            "type": "fax"
+                                        },
+                                        "uri",
+                                        "tel:+33.241182829"
+                                    ],
+                                    [
+                                        "email",
+                                        {},
+                                        "text",
+                                        "registrar@nameshield.net"
+                                    ],
+                                    [
+                                        "url",
+                                        {},
+                                        "uri",
+                                        "https://www.nameshield.com/contact-nameshield/"
+                                    ],
+                                    [
+                                        "adr",
+                                        {
+                                            "cc": "FR"
+                                        },
+                                        "text",
+                                        [
+                                            "",
+                                            "",
+                                            "39 boulevard des Capucines",
+                                            "PARIS",
+                                            "",
+                                            "75002",
+                                            ""
+                                        ]
+                                    ]
+                                ]
+                            ],
+                            "roles": [
+                                "sponsor",
+                                "registrar"
+                            ],
+                            "remarks": [
+                                {
+                                    "type": "registrar restricted publication",
+                                    "description": [
+                                        "No"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "links": [
+                        {
+                            "href": "https://rdap.nic.fr/nameserver/nsc.perf1.com",
+                            "value": "https://rdap.nic.fr/nameserver/nsc.perf1.com",
+                            "rel": "self"
+                        }
+                    ],
+                    "remarks": [
+                        {
+                            "title": "result set truncated due to authorization",
+                            "description": [
+                                "The list of results does not contain all results due to lack of authorization.",
+                                "This may indicate to some clients that proper authorization will yield a longer result set."
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "links": [
+                {
+                    "href": "https://rdap.nic.fr/domain/justice.fr",
+                    "value": "https://rdap.nic.fr/domain/justice.fr",
+                    "rel": "self"
+                }
+            ]
+        }
+    ],
+    "domain": "justice.fr\r"
+}

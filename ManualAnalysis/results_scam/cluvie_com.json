@@ -1,0 +1,319 @@
+{
+    "name": "cluvie.com",
+    "handle": "3083021929_DOMAIN_COM-VRSN",
+    "registrationDate": "3/31/2026, 10:51:58 PM GMT+3",
+    "expirationDate": "3/31/2027, 10:51:58 PM GMT+3",
+    "lastChangedDate": null,
+    "lastUpdateDate": "6/16/2026, 1:22:26 PM GMT+3",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "roles": [
+                "abuse"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+31.104482297"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "abuse@registrar.eu"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        ""
+                    ]
+                ]
+            ]
+        },
+        {
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "roles": [
+                        "abuse"
+                    ],
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "voice"
+                                },
+                                "uri",
+                                "tel:+31.104482297"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "abuse@registrar.eu"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                ""
+                            ]
+                        ]
+                    ]
+                }
+            ],
+            "handle": "1647",
+            "links": [
+                {
+                    "href": "https://www.openprovider.com/",
+                    "rel": "about",
+                    "value": "https://rdap.registrar.eu/v1/"
+                }
+            ],
+            "objectClassName": "entity",
+            "publicIds": [
+                {
+                    "identifier": "1647",
+                    "type": "IANA Registrar ID"
+                }
+            ],
+            "roles": [
+                "registrar"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Hosting Concepts B.V. d/b/a Registrar.eu"
+                    ]
+                ]
+            ]
+        },
+        {
+            "handle": "WF903118-NL",
+            "objectClassName": "entity",
+            "remarks": [
+                {
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ],
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object redacted due to authorization"
+                },
+                {
+                    "description": [
+                        "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant of the queried domain name."
+                    ],
+                    "title": "EMAIL REDACTED FOR PRIVACY",
+                    "type": "object redacted due to authorization"
+                }
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "https://contact-form.registrar.eu/?domainName=cluvie.com&purpose=owner"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Whois Privacy Protection Foundation"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "Whois Privacy Protection Foundation"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+31104482295"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "https://contact-form.registrar.eu/?domainName=cluvie.com&purpose=owner"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "NL"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "20 Hofplein",
+                            "Rotterdam",
+                            "Zuid-Holland",
+                            "3032 AC",
+                            ""
+                        ]
+                    ]
+                ]
+            ]
+        },
+        {
+            "ldhName": "aurora.dns-parking.com",
+            "objectClassName": "nameserver"
+        },
+        {
+            "ldhName": "nebula.dns-parking.com",
+            "objectClassName": "nameserver"
+        },
+        {
+            "handle": "3083021929_DOMAIN_COM-VRSN",
+            "ldhName": "cluvie.com",
+            "links": [
+                {
+                    "href": "https://rdap.registrar.eu/v1/domain/cluvie.com",
+                    "rel": "self",
+                    "type": "application/rdap+json",
+                    "value": "https://rdap.registrar.eu/v1/domain/cluvie.com"
+                }
+            ],
+            "nameservers": [
+                {
+                    "ldhName": "aurora.dns-parking.com",
+                    "objectClassName": "nameserver"
+                },
+                {
+                    "ldhName": "nebula.dns-parking.com",
+                    "objectClassName": "nameserver"
+                }
+            ],
+            "notices": [
+                {
+                    "description": [
+                        "Service subject to Terms of Use."
+                    ],
+                    "links": [
+                        {
+                            "href": "https://www.openprovider.com/en/services/rdap/terms-use-rdap-service",
+                            "rel": "terms-of-service",
+                            "type": "text/html",
+                            "value": "https://rdap.registrar.eu/v1/domain/cluvie.com"
+                        }
+                    ],
+                    "title": "Terms of Use"
+                },
+                {
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ],
+                    "links": [
+                        {
+                            "href": "https://icann.org/epp",
+                            "rel": "glossary",
+                            "type": "text/html",
+                            "value": "https://rdap.registrar.eu/v1/domain/cluvie.com"
+                        }
+                    ],
+                    "title": "Status Codes"
+                },
+                {
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ],
+                    "links": [
+                        {
+                            "href": "https://icann.org/wicf",
+                            "rel": "help",
+                            "type": "text/html",
+                            "value": "https://rdap.registrar.eu/v1/domain/cluvie.com"
+                        }
+                    ],
+                    "title": "RDDS Inaccuracy Complaint Form"
+                }
+            ],
+            "objectClassName": "domain",
+            "rdapConformance": [
+                "rdap_level_0",
+                "icann_rdap_response_profile_1",
+                "icann_rdap_technical_implementation_guide_1",
+                "redacted"
+            ],
+            "redacted": [
+                {
+                    "method": "replacementValue",
+                    "name": {
+                        "description": "Registrant Email"
+                    },
+                    "pathLang": "jsonpath",
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='email')]",
+                    "replacementPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='contact-uri')]"
+                },
+                {
+                    "method": "replacementValue",
+                    "name": {
+                        "description": "Administrative Email"
+                    },
+                    "pathLang": "jsonpath",
+                    "prePath": "$.entities[?(@.roles[0]=='administrative')].vcardArray[1][?(@[0]=='email')]",
+                    "replacementPath": "$.entities[?(@.roles[0]=='administrative')].vcardArray[1][?(@[0]=='contact-uri')]"
+                },
+                {
+                    "method": "replacementValue",
+                    "name": {
+                        "description": "Technical Email"
+                    },
+                    "pathLang": "jsonpath",
+                    "prePath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='email')]",
+                    "replacementPath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='contact-uri')]"
+                }
+            ],
+            "secureDNS": {
+                "delegationSigned": false
+            }
+        }
+    ],
+    "domain": "cluvie.com\r"
+}

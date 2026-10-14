@@ -1,0 +1,2209 @@
+{
+    "name": "dmp.gouv.fr",
+    "handle": "DOM000001137666-FRNIC",
+    "registrationDate": "7/23/2007, 7:13:12 PM GMT+3",
+    "expirationDate": "3/30/2027, 3:04:36 PM GMT+3",
+    "lastChangedDate": "2/21/2026, 4:32:15 PM GMT+2",
+    "lastUpdateDate": "6/23/2026, 2:36:26 PM GMT+3",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "handle": "RAR711-FRNIC",
+            "publicIds": [
+                {
+                    "type": "IANA Registrar ID",
+                    "identifier": "299"
+                }
+            ],
+            "status": [
+                "active"
+            ],
+            "port43": "whois.cscglobal.com ",
+            "events": [
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2006-10-16T00:00:00Z"
+                },
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2026-03-27T11:32:53.318049Z"
+                }
+            ],
+            "links": [
+                {
+                    "href": "www.cscdbs.com",
+                    "value": "https://rdap.cscglobal.com/dbs/rdap-api/v1/",
+                    "rel": "about"
+                },
+                {
+                    "href": "https://rdap.nic.fr/entity/RAR711-FRNIC",
+                    "value": "https://rdap.nic.fr/entity/RAR711-FRNIC",
+                    "rel": "self"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "CSC CORPORATE DOMAINS INC."
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+1.3026365400"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "uri",
+                        "tel:+1.3026365454"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "tldsupport@cscglobal.com"
+                    ],
+                    [
+                        "url",
+                        {},
+                        "uri",
+                        "www.cscdbs.com"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "US"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "251 Little Falls Drive",
+                            "WILMINGTON",
+                            "",
+                            "DE 19808",
+                            ""
+                        ]
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrar",
+                "sponsor"
+            ],
+            "remarks": [
+                {
+                    "type": "registrar restricted publication",
+                    "description": [
+                        "No"
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "CTC4965143-FRNIC",
+            "status": [
+                "associated",
+                "active"
+            ],
+            "events": [
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2025-02-25T08:34:04.361739Z"
+                },
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2025-03-10T22:09:56.125693Z"
+                }
+            ],
+            "links": [
+                {
+                    "href": "https://rdap.nic.fr/entity/CTC4965143-FRNIC",
+                    "value": "https://rdap.nic.fr/entity/CTC4965143-FRNIC",
+                    "rel": "self"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Etat francais represente par Caisse Nationale de l'Assurance Maladie - CNAM"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "Caisse Nationale de l'Assurance Maladie - CNAM"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "FR"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "26-50 avenue du Professeur Andre Lemierre",
+                            "Paris",
+                            "FR",
+                            "75986",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "domaines-ameli.cnam@assurance-maladie.fr"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+33.172601000"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "uri",
+                        "tel:+33.172601000"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "remarks": [
+                {
+                    "type": "contact restricted publication",
+                    "description": [
+                        "NO"
+                    ]
+                },
+                {
+                    "type": "contact obsolete",
+                    "description": [
+                        "NO"
+                    ]
+                },
+                {
+                    "type": "contact type",
+                    "description": [
+                        "ORGANIZATION"
+                    ]
+                },
+                {
+                    "type": "reachable",
+                    "description": [
+                        "NO"
+                    ]
+                },
+                {
+                    "type": "eligibility status",
+                    "description": [
+                        "NotIdentified"
+                    ]
+                },
+                {
+                    "type": "registrar name",
+                    "description": [
+                        "CSC CORPORATE DOMAINS INC."
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "CTC4961388-FRNIC",
+            "status": [
+                "associated",
+                "active"
+            ],
+            "events": [
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2025-02-24T16:25:23.391485Z"
+                },
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2025-02-25T08:34:04.393605Z"
+                }
+            ],
+            "links": [
+                {
+                    "href": "https://rdap.nic.fr/entity/CTC4961388-FRNIC",
+                    "value": "https://rdap.nic.fr/entity/CTC4961388-FRNIC",
+                    "rel": "self"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Domain Administrator"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "Caisse nationale de l'Assurance Maladie - Cnam"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "FR"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "26-50 avenue du Professeur Andre Lemierre",
+                            "Paris",
+                            "FR",
+                            "75986",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "domaines-ameli.cnam@assurance-maladie.fr"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+33.172601000"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "uri",
+                        "tel:+33.172601000"
+                    ]
+                ]
+            ],
+            "roles": [
+                "administrative"
+            ],
+            "remarks": [
+                {
+                    "type": "contact restricted publication",
+                    "description": [
+                        "NO"
+                    ]
+                },
+                {
+                    "type": "contact obsolete",
+                    "description": [
+                        "NO"
+                    ]
+                },
+                {
+                    "type": "contact type",
+                    "description": [
+                        "ORGANIZATION"
+                    ]
+                },
+                {
+                    "type": "reach medium",
+                    "description": [
+                        "EMAIL"
+                    ]
+                },
+                {
+                    "type": "reach date",
+                    "description": [
+                        "2025-02-24T16:25:23.391495Z"
+                    ]
+                },
+                {
+                    "type": "reach source",
+                    "description": [
+                        "REGISTRAR"
+                    ]
+                },
+                {
+                    "type": "reachable",
+                    "description": [
+                        "YES"
+                    ]
+                },
+                {
+                    "type": "eligibility status",
+                    "description": [
+                        "OK"
+                    ]
+                },
+                {
+                    "type": "eligibility source",
+                    "description": [
+                        "REGISTRAR"
+                    ]
+                },
+                {
+                    "type": "eligibility date",
+                    "description": [
+                        "2025-02-24T16:25:23.391495Z"
+                    ]
+                },
+                {
+                    "type": "registrar name",
+                    "description": [
+                        "CSC CORPORATE DOMAINS INC."
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "DA6025-FRNIC",
+            "status": [
+                "associated",
+                "active"
+            ],
+            "events": [
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2012-05-16T00:00:00Z"
+                },
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2026-05-14T14:31:06.681757Z"
+                }
+            ],
+            "links": [
+                {
+                    "href": "https://rdap.nic.fr/entity/DA6025-FRNIC",
+                    "value": "https://rdap.nic.fr/entity/DA6025-FRNIC",
+                    "rel": "self"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Dns Administrator"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "CSC Corporate Domains, Inc."
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "US"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "251 Little Falls Drive",
+                            "Wilmington",
+                            "DE",
+                            "19808",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "dns-admin@cscglobal.com"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+1.3026365400"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "uri",
+                        "tel:+1.3026365454"
+                    ]
+                ]
+            ],
+            "roles": [
+                "technical"
+            ],
+            "remarks": [
+                {
+                    "type": "contact restricted publication",
+                    "description": [
+                        "NO"
+                    ]
+                },
+                {
+                    "type": "contact obsolete",
+                    "description": [
+                        "NO"
+                    ]
+                },
+                {
+                    "type": "contact type",
+                    "description": [
+                        "PERSON"
+                    ]
+                },
+                {
+                    "type": "reach medium",
+                    "description": [
+                        "EMAIL"
+                    ]
+                },
+                {
+                    "type": "reach date",
+                    "description": [
+                        "2018-10-04T00:00:00Z"
+                    ]
+                },
+                {
+                    "type": "reach source",
+                    "description": [
+                        "REGISTRAR"
+                    ]
+                },
+                {
+                    "type": "reachable",
+                    "description": [
+                        "YES"
+                    ]
+                },
+                {
+                    "type": "eligibility status",
+                    "description": [
+                        "OK"
+                    ]
+                },
+                {
+                    "type": "eligibility source",
+                    "description": [
+                        "REGISTRAR"
+                    ]
+                },
+                {
+                    "type": "eligibility date",
+                    "description": [
+                        "2018-10-04T00:00:00Z"
+                    ]
+                },
+                {
+                    "type": "registrar name",
+                    "description": [
+                        "CSC CORPORATE DOMAINS INC."
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "links": [],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Compliance Contact"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "abuse@ionos.com"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+49.721913741868"
+                    ]
+                ]
+            ],
+            "roles": [
+                "abuse"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "RAR306-FRNIC",
+            "publicIds": [
+                {
+                    "type": "IANA Registrar ID",
+                    "identifier": "83"
+                }
+            ],
+            "status": [
+                "active"
+            ],
+            "port43": "whois.ionos.com",
+            "events": [
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2001-01-15T00:00:00Z"
+                },
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2025-08-22T14:42:18.323451Z"
+                }
+            ],
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "links": [],
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Compliance Contact"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "abuse@ionos.com"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "voice"
+                                },
+                                "uri",
+                                "tel:+49.721913741868"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "abuse"
+                    ]
+                }
+            ],
+            "links": [
+                {
+                    "href": "https://ionos.com",
+                    "value": "https://rdap.ionos.com/",
+                    "rel": "about"
+                },
+                {
+                    "href": "https://rdap.nic.fr/entity/RAR306-FRNIC",
+                    "value": "https://rdap.nic.fr/entity/RAR306-FRNIC",
+                    "rel": "self"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "IONOS SE"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+49.7219137450"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "uri",
+                        "tel:+49.72191374215"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "hostmaster@1und1.de"
+                    ],
+                    [
+                        "url",
+                        {},
+                        "uri",
+                        "https://ionos.com"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "DE"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "Ernst-Frey Strasse 9",
+                            "KARLSRUHE",
+                            "",
+                            "76135",
+                            ""
+                        ]
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrar",
+                "sponsor"
+            ],
+            "remarks": [
+                {
+                    "type": "registrar restricted publication",
+                    "description": [
+                        "No"
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "handle": "HOST293575-FRNIC",
+            "ldhName": "blue.foundationdns.com",
+            "status": [
+                "associated",
+                "active"
+            ],
+            "ipAddresses": {},
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "handle": "RAR306-FRNIC",
+                    "publicIds": [
+                        {
+                            "type": "IANA Registrar ID",
+                            "identifier": "83"
+                        }
+                    ],
+                    "status": [
+                        "active"
+                    ],
+                    "port43": "whois.ionos.com",
+                    "events": [
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "2001-01-15T00:00:00Z"
+                        },
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2025-08-22T14:42:18.323451Z"
+                        }
+                    ],
+                    "entities": [
+                        {
+                            "objectClassName": "entity",
+                            "links": [],
+                            "vcardArray": [
+                                "vcard",
+                                [
+                                    [
+                                        "version",
+                                        {},
+                                        "text",
+                                        "4.0"
+                                    ],
+                                    [
+                                        "fn",
+                                        {},
+                                        "text",
+                                        "Compliance Contact"
+                                    ],
+                                    [
+                                        "email",
+                                        {},
+                                        "text",
+                                        "abuse@ionos.com"
+                                    ],
+                                    [
+                                        "tel",
+                                        {
+                                            "type": "voice"
+                                        },
+                                        "uri",
+                                        "tel:+49.721913741868"
+                                    ]
+                                ]
+                            ],
+                            "roles": [
+                                "abuse"
+                            ]
+                        }
+                    ],
+                    "links": [
+                        {
+                            "href": "https://ionos.com",
+                            "value": "https://rdap.ionos.com/",
+                            "rel": "about"
+                        },
+                        {
+                            "href": "https://rdap.nic.fr/entity/RAR306-FRNIC",
+                            "value": "https://rdap.nic.fr/entity/RAR306-FRNIC",
+                            "rel": "self"
+                        }
+                    ],
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "IONOS SE"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "voice"
+                                },
+                                "uri",
+                                "tel:+49.7219137450"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "fax"
+                                },
+                                "uri",
+                                "tel:+49.72191374215"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "hostmaster@1und1.de"
+                            ],
+                            [
+                                "url",
+                                {},
+                                "uri",
+                                "https://ionos.com"
+                            ],
+                            [
+                                "adr",
+                                {
+                                    "cc": "DE"
+                                },
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "Ernst-Frey Strasse 9",
+                                    "KARLSRUHE",
+                                    "",
+                                    "76135",
+                                    ""
+                                ]
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "registrar",
+                        "sponsor"
+                    ],
+                    "remarks": [
+                        {
+                            "type": "registrar restricted publication",
+                            "description": [
+                                "No"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "links": [
+                {
+                    "href": "https://rdap.nic.fr/nameserver/blue.foundationdns.com",
+                    "value": "https://rdap.nic.fr/nameserver/blue.foundationdns.com",
+                    "rel": "self"
+                }
+            ],
+            "remarks": [
+                {
+                    "title": "result set truncated due to authorization",
+                    "description": [
+                        "The list of results does not contain all results due to lack of authorization.",
+                        "This may indicate to some clients that proper authorization will yield a longer result set."
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "links": [],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Compliance Contact"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "abuse@ionos.com"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+49.721913741868"
+                    ]
+                ]
+            ],
+            "roles": [
+                "abuse"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "RAR306-FRNIC",
+            "publicIds": [
+                {
+                    "type": "IANA Registrar ID",
+                    "identifier": "83"
+                }
+            ],
+            "status": [
+                "active"
+            ],
+            "port43": "whois.ionos.com",
+            "events": [
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2001-01-15T00:00:00Z"
+                },
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2025-08-22T14:42:18.323451Z"
+                }
+            ],
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "links": [],
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Compliance Contact"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "abuse@ionos.com"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "voice"
+                                },
+                                "uri",
+                                "tel:+49.721913741868"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "abuse"
+                    ]
+                }
+            ],
+            "links": [
+                {
+                    "href": "https://ionos.com",
+                    "value": "https://rdap.ionos.com/",
+                    "rel": "about"
+                },
+                {
+                    "href": "https://rdap.nic.fr/entity/RAR306-FRNIC",
+                    "value": "https://rdap.nic.fr/entity/RAR306-FRNIC",
+                    "rel": "self"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "IONOS SE"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+49.7219137450"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "uri",
+                        "tel:+49.72191374215"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "hostmaster@1und1.de"
+                    ],
+                    [
+                        "url",
+                        {},
+                        "uri",
+                        "https://ionos.com"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "DE"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "Ernst-Frey Strasse 9",
+                            "KARLSRUHE",
+                            "",
+                            "76135",
+                            ""
+                        ]
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrar",
+                "sponsor"
+            ],
+            "remarks": [
+                {
+                    "type": "registrar restricted publication",
+                    "description": [
+                        "No"
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "handle": "HOST293576-FRNIC",
+            "ldhName": "blue.foundationdns.net",
+            "status": [
+                "associated",
+                "active"
+            ],
+            "ipAddresses": {},
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "handle": "RAR306-FRNIC",
+                    "publicIds": [
+                        {
+                            "type": "IANA Registrar ID",
+                            "identifier": "83"
+                        }
+                    ],
+                    "status": [
+                        "active"
+                    ],
+                    "port43": "whois.ionos.com",
+                    "events": [
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "2001-01-15T00:00:00Z"
+                        },
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2025-08-22T14:42:18.323451Z"
+                        }
+                    ],
+                    "entities": [
+                        {
+                            "objectClassName": "entity",
+                            "links": [],
+                            "vcardArray": [
+                                "vcard",
+                                [
+                                    [
+                                        "version",
+                                        {},
+                                        "text",
+                                        "4.0"
+                                    ],
+                                    [
+                                        "fn",
+                                        {},
+                                        "text",
+                                        "Compliance Contact"
+                                    ],
+                                    [
+                                        "email",
+                                        {},
+                                        "text",
+                                        "abuse@ionos.com"
+                                    ],
+                                    [
+                                        "tel",
+                                        {
+                                            "type": "voice"
+                                        },
+                                        "uri",
+                                        "tel:+49.721913741868"
+                                    ]
+                                ]
+                            ],
+                            "roles": [
+                                "abuse"
+                            ]
+                        }
+                    ],
+                    "links": [
+                        {
+                            "href": "https://ionos.com",
+                            "value": "https://rdap.ionos.com/",
+                            "rel": "about"
+                        },
+                        {
+                            "href": "https://rdap.nic.fr/entity/RAR306-FRNIC",
+                            "value": "https://rdap.nic.fr/entity/RAR306-FRNIC",
+                            "rel": "self"
+                        }
+                    ],
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "IONOS SE"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "voice"
+                                },
+                                "uri",
+                                "tel:+49.7219137450"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "fax"
+                                },
+                                "uri",
+                                "tel:+49.72191374215"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "hostmaster@1und1.de"
+                            ],
+                            [
+                                "url",
+                                {},
+                                "uri",
+                                "https://ionos.com"
+                            ],
+                            [
+                                "adr",
+                                {
+                                    "cc": "DE"
+                                },
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "Ernst-Frey Strasse 9",
+                                    "KARLSRUHE",
+                                    "",
+                                    "76135",
+                                    ""
+                                ]
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "registrar",
+                        "sponsor"
+                    ],
+                    "remarks": [
+                        {
+                            "type": "registrar restricted publication",
+                            "description": [
+                                "No"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "links": [
+                {
+                    "href": "https://rdap.nic.fr/nameserver/blue.foundationdns.net",
+                    "value": "https://rdap.nic.fr/nameserver/blue.foundationdns.net",
+                    "rel": "self"
+                }
+            ],
+            "remarks": [
+                {
+                    "title": "result set truncated due to authorization",
+                    "description": [
+                        "The list of results does not contain all results due to lack of authorization.",
+                        "This may indicate to some clients that proper authorization will yield a longer result set."
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "links": [],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Compliance Contact"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "abuse@ionos.com"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+49.721913741868"
+                    ]
+                ]
+            ],
+            "roles": [
+                "abuse"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "RAR306-FRNIC",
+            "publicIds": [
+                {
+                    "type": "IANA Registrar ID",
+                    "identifier": "83"
+                }
+            ],
+            "status": [
+                "active"
+            ],
+            "port43": "whois.ionos.com",
+            "events": [
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2001-01-15T00:00:00Z"
+                },
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2025-08-22T14:42:18.323451Z"
+                }
+            ],
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "links": [],
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Compliance Contact"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "abuse@ionos.com"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "voice"
+                                },
+                                "uri",
+                                "tel:+49.721913741868"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "abuse"
+                    ]
+                }
+            ],
+            "links": [
+                {
+                    "href": "https://ionos.com",
+                    "value": "https://rdap.ionos.com/",
+                    "rel": "about"
+                },
+                {
+                    "href": "https://rdap.nic.fr/entity/RAR306-FRNIC",
+                    "value": "https://rdap.nic.fr/entity/RAR306-FRNIC",
+                    "rel": "self"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "IONOS SE"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+49.7219137450"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "uri",
+                        "tel:+49.72191374215"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "hostmaster@1und1.de"
+                    ],
+                    [
+                        "url",
+                        {},
+                        "uri",
+                        "https://ionos.com"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "DE"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "Ernst-Frey Strasse 9",
+                            "KARLSRUHE",
+                            "",
+                            "76135",
+                            ""
+                        ]
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrar",
+                "sponsor"
+            ],
+            "remarks": [
+                {
+                    "type": "registrar restricted publication",
+                    "description": [
+                        "No"
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "handle": "HOST293577-FRNIC",
+            "ldhName": "blue.foundationdns.org",
+            "status": [
+                "associated",
+                "active"
+            ],
+            "ipAddresses": {},
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "handle": "RAR306-FRNIC",
+                    "publicIds": [
+                        {
+                            "type": "IANA Registrar ID",
+                            "identifier": "83"
+                        }
+                    ],
+                    "status": [
+                        "active"
+                    ],
+                    "port43": "whois.ionos.com",
+                    "events": [
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "2001-01-15T00:00:00Z"
+                        },
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2025-08-22T14:42:18.323451Z"
+                        }
+                    ],
+                    "entities": [
+                        {
+                            "objectClassName": "entity",
+                            "links": [],
+                            "vcardArray": [
+                                "vcard",
+                                [
+                                    [
+                                        "version",
+                                        {},
+                                        "text",
+                                        "4.0"
+                                    ],
+                                    [
+                                        "fn",
+                                        {},
+                                        "text",
+                                        "Compliance Contact"
+                                    ],
+                                    [
+                                        "email",
+                                        {},
+                                        "text",
+                                        "abuse@ionos.com"
+                                    ],
+                                    [
+                                        "tel",
+                                        {
+                                            "type": "voice"
+                                        },
+                                        "uri",
+                                        "tel:+49.721913741868"
+                                    ]
+                                ]
+                            ],
+                            "roles": [
+                                "abuse"
+                            ]
+                        }
+                    ],
+                    "links": [
+                        {
+                            "href": "https://ionos.com",
+                            "value": "https://rdap.ionos.com/",
+                            "rel": "about"
+                        },
+                        {
+                            "href": "https://rdap.nic.fr/entity/RAR306-FRNIC",
+                            "value": "https://rdap.nic.fr/entity/RAR306-FRNIC",
+                            "rel": "self"
+                        }
+                    ],
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "IONOS SE"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "voice"
+                                },
+                                "uri",
+                                "tel:+49.7219137450"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "fax"
+                                },
+                                "uri",
+                                "tel:+49.72191374215"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "hostmaster@1und1.de"
+                            ],
+                            [
+                                "url",
+                                {},
+                                "uri",
+                                "https://ionos.com"
+                            ],
+                            [
+                                "adr",
+                                {
+                                    "cc": "DE"
+                                },
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "Ernst-Frey Strasse 9",
+                                    "KARLSRUHE",
+                                    "",
+                                    "76135",
+                                    ""
+                                ]
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "registrar",
+                        "sponsor"
+                    ],
+                    "remarks": [
+                        {
+                            "type": "registrar restricted publication",
+                            "description": [
+                                "No"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "links": [
+                {
+                    "href": "https://rdap.nic.fr/nameserver/blue.foundationdns.org",
+                    "value": "https://rdap.nic.fr/nameserver/blue.foundationdns.org",
+                    "rel": "self"
+                }
+            ],
+            "remarks": [
+                {
+                    "title": "result set truncated due to authorization",
+                    "description": [
+                        "The list of results does not contain all results due to lack of authorization.",
+                        "This may indicate to some clients that proper authorization will yield a longer result set."
+                    ]
+                }
+            ]
+        },
+        {
+            "rdapConformance": [
+                "rdap_level_0",
+                "icann_rdap_technical_implementation_guide_1",
+                "icann_rdap_response_profile_1"
+            ],
+            "objectClassName": "domain",
+            "handle": "DOM000001137666-FRNIC",
+            "ldhName": "dmp.gouv.fr",
+            "whoisStatus": "ACTIVE",
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "handle": "HOST293575-FRNIC",
+                    "ldhName": "blue.foundationdns.com",
+                    "status": [
+                        "associated",
+                        "active"
+                    ],
+                    "ipAddresses": {},
+                    "entities": [
+                        {
+                            "objectClassName": "entity",
+                            "handle": "RAR306-FRNIC",
+                            "publicIds": [
+                                {
+                                    "type": "IANA Registrar ID",
+                                    "identifier": "83"
+                                }
+                            ],
+                            "status": [
+                                "active"
+                            ],
+                            "port43": "whois.ionos.com",
+                            "events": [
+                                {
+                                    "eventAction": "registration",
+                                    "eventDate": "2001-01-15T00:00:00Z"
+                                },
+                                {
+                                    "eventAction": "last changed",
+                                    "eventDate": "2025-08-22T14:42:18.323451Z"
+                                }
+                            ],
+                            "entities": [
+                                {
+                                    "objectClassName": "entity",
+                                    "links": [],
+                                    "vcardArray": [
+                                        "vcard",
+                                        [
+                                            [
+                                                "version",
+                                                {},
+                                                "text",
+                                                "4.0"
+                                            ],
+                                            [
+                                                "fn",
+                                                {},
+                                                "text",
+                                                "Compliance Contact"
+                                            ],
+                                            [
+                                                "email",
+                                                {},
+                                                "text",
+                                                "abuse@ionos.com"
+                                            ],
+                                            [
+                                                "tel",
+                                                {
+                                                    "type": "voice"
+                                                },
+                                                "uri",
+                                                "tel:+49.721913741868"
+                                            ]
+                                        ]
+                                    ],
+                                    "roles": [
+                                        "abuse"
+                                    ]
+                                }
+                            ],
+                            "links": [
+                                {
+                                    "href": "https://ionos.com",
+                                    "value": "https://rdap.ionos.com/",
+                                    "rel": "about"
+                                },
+                                {
+                                    "href": "https://rdap.nic.fr/entity/RAR306-FRNIC",
+                                    "value": "https://rdap.nic.fr/entity/RAR306-FRNIC",
+                                    "rel": "self"
+                                }
+                            ],
+                            "vcardArray": [
+                                "vcard",
+                                [
+                                    [
+                                        "version",
+                                        {},
+                                        "text",
+                                        "4.0"
+                                    ],
+                                    [
+                                        "fn",
+                                        {},
+                                        "text",
+                                        "IONOS SE"
+                                    ],
+                                    [
+                                        "tel",
+                                        {
+                                            "type": "voice"
+                                        },
+                                        "uri",
+                                        "tel:+49.7219137450"
+                                    ],
+                                    [
+                                        "tel",
+                                        {
+                                            "type": "fax"
+                                        },
+                                        "uri",
+                                        "tel:+49.72191374215"
+                                    ],
+                                    [
+                                        "email",
+                                        {},
+                                        "text",
+                                        "hostmaster@1und1.de"
+                                    ],
+                                    [
+                                        "url",
+                                        {},
+                                        "uri",
+                                        "https://ionos.com"
+                                    ],
+                                    [
+                                        "adr",
+                                        {
+                                            "cc": "DE"
+                                        },
+                                        "text",
+                                        [
+                                            "",
+                                            "",
+                                            "Ernst-Frey Strasse 9",
+                                            "KARLSRUHE",
+                                            "",
+                                            "76135",
+                                            ""
+                                        ]
+                                    ]
+                                ]
+                            ],
+                            "roles": [
+                                "registrar",
+                                "sponsor"
+                            ],
+                            "remarks": [
+                                {
+                                    "type": "registrar restricted publication",
+                                    "description": [
+                                        "No"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "links": [
+                        {
+                            "href": "https://rdap.nic.fr/nameserver/blue.foundationdns.com",
+                            "value": "https://rdap.nic.fr/nameserver/blue.foundationdns.com",
+                            "rel": "self"
+                        }
+                    ],
+                    "remarks": [
+                        {
+                            "title": "result set truncated due to authorization",
+                            "description": [
+                                "The list of results does not contain all results due to lack of authorization.",
+                                "This may indicate to some clients that proper authorization will yield a longer result set."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "handle": "HOST293576-FRNIC",
+                    "ldhName": "blue.foundationdns.net",
+                    "status": [
+                        "associated",
+                        "active"
+                    ],
+                    "ipAddresses": {},
+                    "entities": [
+                        {
+                            "objectClassName": "entity",
+                            "handle": "RAR306-FRNIC",
+                            "publicIds": [
+                                {
+                                    "type": "IANA Registrar ID",
+                                    "identifier": "83"
+                                }
+                            ],
+                            "status": [
+                                "active"
+                            ],
+                            "port43": "whois.ionos.com",
+                            "events": [
+                                {
+                                    "eventAction": "registration",
+                                    "eventDate": "2001-01-15T00:00:00Z"
+                                },
+                                {
+                                    "eventAction": "last changed",
+                                    "eventDate": "2025-08-22T14:42:18.323451Z"
+                                }
+                            ],
+                            "entities": [
+                                {
+                                    "objectClassName": "entity",
+                                    "links": [],
+                                    "vcardArray": [
+                                        "vcard",
+                                        [
+                                            [
+                                                "version",
+                                                {},
+                                                "text",
+                                                "4.0"
+                                            ],
+                                            [
+                                                "fn",
+                                                {},
+                                                "text",
+                                                "Compliance Contact"
+                                            ],
+                                            [
+                                                "email",
+                                                {},
+                                                "text",
+                                                "abuse@ionos.com"
+                                            ],
+                                            [
+                                                "tel",
+                                                {
+                                                    "type": "voice"
+                                                },
+                                                "uri",
+                                                "tel:+49.721913741868"
+                                            ]
+                                        ]
+                                    ],
+                                    "roles": [
+                                        "abuse"
+                                    ]
+                                }
+                            ],
+                            "links": [
+                                {
+                                    "href": "https://ionos.com",
+                                    "value": "https://rdap.ionos.com/",
+                                    "rel": "about"
+                                },
+                                {
+                                    "href": "https://rdap.nic.fr/entity/RAR306-FRNIC",
+                                    "value": "https://rdap.nic.fr/entity/RAR306-FRNIC",
+                                    "rel": "self"
+                                }
+                            ],
+                            "vcardArray": [
+                                "vcard",
+                                [
+                                    [
+                                        "version",
+                                        {},
+                                        "text",
+                                        "4.0"
+                                    ],
+                                    [
+                                        "fn",
+                                        {},
+                                        "text",
+                                        "IONOS SE"
+                                    ],
+                                    [
+                                        "tel",
+                                        {
+                                            "type": "voice"
+                                        },
+                                        "uri",
+                                        "tel:+49.7219137450"
+                                    ],
+                                    [
+                                        "tel",
+                                        {
+                                            "type": "fax"
+                                        },
+                                        "uri",
+                                        "tel:+49.72191374215"
+                                    ],
+                                    [
+                                        "email",
+                                        {},
+                                        "text",
+                                        "hostmaster@1und1.de"
+                                    ],
+                                    [
+                                        "url",
+                                        {},
+                                        "uri",
+                                        "https://ionos.com"
+                                    ],
+                                    [
+                                        "adr",
+                                        {
+                                            "cc": "DE"
+                                        },
+                                        "text",
+                                        [
+                                            "",
+                                            "",
+                                            "Ernst-Frey Strasse 9",
+                                            "KARLSRUHE",
+                                            "",
+                                            "76135",
+                                            ""
+                                        ]
+                                    ]
+                                ]
+                            ],
+                            "roles": [
+                                "registrar",
+                                "sponsor"
+                            ],
+                            "remarks": [
+                                {
+                                    "type": "registrar restricted publication",
+                                    "description": [
+                                        "No"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "links": [
+                        {
+                            "href": "https://rdap.nic.fr/nameserver/blue.foundationdns.net",
+                            "value": "https://rdap.nic.fr/nameserver/blue.foundationdns.net",
+                            "rel": "self"
+                        }
+                    ],
+                    "remarks": [
+                        {
+                            "title": "result set truncated due to authorization",
+                            "description": [
+                                "The list of results does not contain all results due to lack of authorization.",
+                                "This may indicate to some clients that proper authorization will yield a longer result set."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "handle": "HOST293577-FRNIC",
+                    "ldhName": "blue.foundationdns.org",
+                    "status": [
+                        "associated",
+                        "active"
+                    ],
+                    "ipAddresses": {},
+                    "entities": [
+                        {
+                            "objectClassName": "entity",
+                            "handle": "RAR306-FRNIC",
+                            "publicIds": [
+                                {
+                                    "type": "IANA Registrar ID",
+                                    "identifier": "83"
+                                }
+                            ],
+                            "status": [
+                                "active"
+                            ],
+                            "port43": "whois.ionos.com",
+                            "events": [
+                                {
+                                    "eventAction": "registration",
+                                    "eventDate": "2001-01-15T00:00:00Z"
+                                },
+                                {
+                                    "eventAction": "last changed",
+                                    "eventDate": "2025-08-22T14:42:18.323451Z"
+                                }
+                            ],
+                            "entities": [
+                                {
+                                    "objectClassName": "entity",
+                                    "links": [],
+                                    "vcardArray": [
+                                        "vcard",
+                                        [
+                                            [
+                                                "version",
+                                                {},
+                                                "text",
+                                                "4.0"
+                                            ],
+                                            [
+                                                "fn",
+                                                {},
+                                                "text",
+                                                "Compliance Contact"
+                                            ],
+                                            [
+                                                "email",
+                                                {},
+                                                "text",
+                                                "abuse@ionos.com"
+                                            ],
+                                            [
+                                                "tel",
+                                                {
+                                                    "type": "voice"
+                                                },
+                                                "uri",
+                                                "tel:+49.721913741868"
+                                            ]
+                                        ]
+                                    ],
+                                    "roles": [
+                                        "abuse"
+                                    ]
+                                }
+                            ],
+                            "links": [
+                                {
+                                    "href": "https://ionos.com",
+                                    "value": "https://rdap.ionos.com/",
+                                    "rel": "about"
+                                },
+                                {
+                                    "href": "https://rdap.nic.fr/entity/RAR306-FRNIC",
+                                    "value": "https://rdap.nic.fr/entity/RAR306-FRNIC",
+                                    "rel": "self"
+                                }
+                            ],
+                            "vcardArray": [
+                                "vcard",
+                                [
+                                    [
+                                        "version",
+                                        {},
+                                        "text",
+                                        "4.0"
+                                    ],
+                                    [
+                                        "fn",
+                                        {},
+                                        "text",
+                                        "IONOS SE"
+                                    ],
+                                    [
+                                        "tel",
+                                        {
+                                            "type": "voice"
+                                        },
+                                        "uri",
+                                        "tel:+49.7219137450"
+                                    ],
+                                    [
+                                        "tel",
+                                        {
+                                            "type": "fax"
+                                        },
+                                        "uri",
+                                        "tel:+49.72191374215"
+                                    ],
+                                    [
+                                        "email",
+                                        {},
+                                        "text",
+                                        "hostmaster@1und1.de"
+                                    ],
+                                    [
+                                        "url",
+                                        {},
+                                        "uri",
+                                        "https://ionos.com"
+                                    ],
+                                    [
+                                        "adr",
+                                        {
+                                            "cc": "DE"
+                                        },
+                                        "text",
+                                        [
+                                            "",
+                                            "",
+                                            "Ernst-Frey Strasse 9",
+                                            "KARLSRUHE",
+                                            "",
+                                            "76135",
+                                            ""
+                                        ]
+                                    ]
+                                ]
+                            ],
+                            "roles": [
+                                "registrar",
+                                "sponsor"
+                            ],
+                            "remarks": [
+                                {
+                                    "type": "registrar restricted publication",
+                                    "description": [
+                                        "No"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "links": [
+                        {
+                            "href": "https://rdap.nic.fr/nameserver/blue.foundationdns.org",
+                            "value": "https://rdap.nic.fr/nameserver/blue.foundationdns.org",
+                            "rel": "self"
+                        }
+                    ],
+                    "remarks": [
+                        {
+                            "title": "result set truncated due to authorization",
+                            "description": [
+                                "The list of results does not contain all results due to lack of authorization.",
+                                "This may indicate to some clients that proper authorization will yield a longer result set."
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "links": [
+                {
+                    "href": "https://rdap.nic.fr/domain/dmp.gouv.fr",
+                    "value": "https://rdap.nic.fr/domain/dmp.gouv.fr",
+                    "rel": "self"
+                },
+                {
+                    "href": "https://rdap.cscglobal.com/dbs/rdap-api/v1/domain/dmp.gouv.fr",
+                    "value": "https://rdap.nic.fr/domain/dmp.gouv.fr",
+                    "rel": "related"
+                }
+            ]
+        }
+    ],
+    "domain": "dmp.gouv.fr\r"
+}

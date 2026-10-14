@@ -1,0 +1,523 @@
+{
+    "name": "private.coffee",
+    "handle": "79e74a8f539b4c179b4251861d3ef6e1-DONUTS",
+    "registrationDate": "3/8/2023, 8:51:41 PM GMT+2",
+    "expirationDate": "3/8/2027, 8:51:41 PM GMT+2",
+    "lastChangedDate": "3/7/2026, 5:39:35 AM GMT+2",
+    "lastUpdateDate": "1/2/2025, 9:00:21 PM GMT+2",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "handle": "INTERNAL-31637680",
+            "roles": [
+                "registrant"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2025-01-02T19:00:21+00:00"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "organization"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Kumi"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "Private.coffee – Verein zur Förderung von Privatsphäre und digitaler Souveränität"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "AT"
+                        },
+                        "text",
+                        [
+                            "Gartengasse 22/7/3",
+                            "",
+                            "",
+                            "Graz",
+                            "Styria",
+                            "8010",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "voice"
+                            ]
+                        },
+                        "uri",
+                        "tel:+43.6702083579"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "ops@private.coffee"
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "INTERNAL-31637681",
+            "roles": [
+                "administrative"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2025-01-02T19:00:21+00:00"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "organization"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Kumi"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "Private.coffee – Verein zur Förderung von Privatsphäre und digitaler Souveränität"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "AT"
+                        },
+                        "text",
+                        [
+                            "Gartengasse 22/7/3",
+                            "",
+                            "",
+                            "Graz",
+                            "Styria",
+                            "8010",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "voice"
+                            ]
+                        },
+                        "uri",
+                        "tel:+43.6702083579"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "ops@private.coffee"
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "INTERNAL-31637682",
+            "roles": [
+                "technical"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2025-01-02T19:00:21+00:00"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "organization"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Kumi"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "Private.coffee – Verein zur Förderung von Privatsphäre und digitaler Souveränität"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "AT"
+                        },
+                        "text",
+                        [
+                            "Gartengasse 22/7/3",
+                            "",
+                            "",
+                            "Graz",
+                            "Styria",
+                            "8010",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "voice"
+                            ]
+                        },
+                        "uri",
+                        "tel:+43.6702083579"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "ops@private.coffee"
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "INTERNAL-31637683",
+            "roles": [
+                "billing"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2025-01-02T19:00:21+00:00"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "organization"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Kumi"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "Private.coffee – Verein zur Förderung von Privatsphäre und digitaler Souveränität"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "AT"
+                        },
+                        "text",
+                        [
+                            "Gartengasse 22/7/3",
+                            "",
+                            "",
+                            "Graz",
+                            "Styria",
+                            "8010",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "voice"
+                            ]
+                        },
+                        "uri",
+                        "tel:+43.6702083579"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "ops@private.coffee"
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "1",
+            "roles": [
+                "abuse"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "organization"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Abuse Department"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "voice"
+                            ]
+                        },
+                        "uri",
+                        "tel:+1.8557675286"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "abuse@porkbun.com"
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "1861",
+            "roles": [
+                "registrar"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "organization"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Porkbun LLC"
+                    ]
+                ]
+            ],
+            "publicIds": [
+                {
+                    "type": "IANA Registrar ID",
+                    "identifier": "1861"
+                }
+            ],
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "handle": "1",
+                    "roles": [
+                        "abuse"
+                    ],
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "kind",
+                                {},
+                                "text",
+                                "organization"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Abuse Department"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "voice"
+                                    ]
+                                },
+                                "uri",
+                                "tel:+1.8557675286"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "abuse@porkbun.com"
+                            ]
+                        ]
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns1.private.coffee"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns2.private.coffee"
+        },
+        {
+            "rdapConformance": [
+                "rdap_level_0",
+                "icann_rdap_response_profile_0",
+                "icann_rdap_technical_implementation_guide_0"
+            ],
+            "publicIds": [
+                {
+                    "type": "IANA Registrar ID",
+                    "identifier": "1861"
+                }
+            ],
+            "notices": [
+                {
+                    "title": "RDDS Inaccuracy Complaint Form",
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ],
+                    "links": [
+                        {
+                            "rel": "related",
+                            "href": "https://icann.org/wicf",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "Status Codes",
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ],
+                    "links": [
+                        {
+                            "rel": "related",
+                            "href": "https://icann.org/epp",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "Terms of Service",
+                    "description": [
+                        "URL of the Porkbun LLC terms of service: https://porkbun.com/legal/agreement/product_terms_of_service"
+                    ],
+                    "links": [
+                        {
+                            "rel": "related",
+                            "href": "https://porkbun.com/legal/agreement/product_terms_of_service",
+                            "type": "text/html"
+                        }
+                    ]
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://cart-before.porkbun.horse/rdap/domain/private.coffee",
+                    "rel": "self",
+                    "href": "https://cart-before.porkbun.horse/rdap/domain/private.coffee",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "objectClassName": "domain",
+            "secureDNS": {
+                "delegationSigned": false
+            },
+            "handle": "79e74a8f539b4c179b4251861d3ef6e1-DONUTS",
+            "ldhName": "private.coffee",
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns1.private.coffee"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns2.private.coffee"
+                }
+            ]
+        }
+    ],
+    "domain": "private.coffee\r"
+}

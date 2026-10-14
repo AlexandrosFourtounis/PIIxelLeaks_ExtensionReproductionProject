@@ -1,0 +1,510 @@
+{
+    "name": "LITHUB.COM",
+    "handle": "1861831065_DOMAIN_COM-VRSN",
+    "registrationDate": "6/6/2014, 4:29:23 PM GMT+3",
+    "expirationDate": "6/6/2029, 4:29:23 PM GMT+3",
+    "lastChangedDate": "4/6/2024, 1:00:47 PM GMT+3",
+    "lastUpdateDate": "6/23/2026, 3:59:24 PM GMT+3",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "handle": "LITHUBCOM-reg",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Registration Private"
+                    ],
+                    [
+                        "org",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "Domains By Proxy, LLC"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "US"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "DomainsByProxy.com 100 S. Mill Ave, Suite 1600",
+                            "Tempe",
+                            "Arizona",
+                            "85281",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+1.4806242599"
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "https://www.secureserver.net/whois?plid=1387&domain=LITHUB.COM&action=contactDomainOwner"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2015-08-17T16:55:22Z"
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "LITHUBCOM-tech",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Registration Private"
+                    ],
+                    [
+                        "org",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "Domains By Proxy, LLC"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "US"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "DomainsByProxy.com 100 S. Mill Ave, Suite 1600",
+                            "Tempe",
+                            "Arizona",
+                            "85281",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+1.4806242599"
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "https://www.secureserver.net/whois?plid=1387&domain=LITHUB.COM&action=contactDomainOwner"
+                    ]
+                ]
+            ],
+            "roles": [
+                "technical"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2015-08-17T16:55:22Z"
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+1.480-624-2505"
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "abuse@wildwestdomains.com"
+                    ]
+                ]
+            ],
+            "roles": [
+                "abuse"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "440",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Wild West Domains, LLC"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "US"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "2155 E Godaddy Way",
+                            "Tempe",
+                            "AZ",
+                            "85284",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "abuse@wildwestdomains.com"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrar"
+            ],
+            "publicIds": [
+                {
+                    "type": "IANA Registrar ID",
+                    "identifier": "440"
+                }
+            ],
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                ""
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "voice"
+                                },
+                                "uri",
+                                "tel:+1.480-624-2505"
+                            ],
+                            [
+                                "email",
+                                {
+                                    "type": "work"
+                                },
+                                "text",
+                                "abuse@wildwestdomains.com"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "abuse"
+                    ]
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.wildwestdomains.com/v1/",
+                    "rel": "about",
+                    "href": "https://www.wildwestdomains.com",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "port43": "whois.wildwestdomains.com"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns-1082.awsdns-07.org",
+            "status": [
+                "active"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2014-11-10T13:31:46Z"
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns-1837.awsdns-37.co.uk",
+            "status": [
+                "active"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2014-11-10T13:31:46Z"
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns-739.awsdns-28.net",
+            "status": [
+                "active"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2014-11-10T13:31:46Z"
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns-416.awsdns-52.com",
+            "status": [
+                "active"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2014-11-10T13:31:46Z"
+                }
+            ]
+        },
+        {
+            "objectClassName": "domain",
+            "handle": "1861831065_DOMAIN_COM-VRSN",
+            "ldhName": "LITHUB.COM",
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns-1082.awsdns-07.org",
+                    "status": [
+                        "active"
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2014-11-10T13:31:46Z"
+                        }
+                    ]
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns-1837.awsdns-37.co.uk",
+                    "status": [
+                        "active"
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2014-11-10T13:31:46Z"
+                        }
+                    ]
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns-739.awsdns-28.net",
+                    "status": [
+                        "active"
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2014-11-10T13:31:46Z"
+                        }
+                    ]
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns-416.awsdns-52.com",
+                    "status": [
+                        "active"
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2014-11-10T13:31:46Z"
+                        }
+                    ]
+                }
+            ],
+            "secureDNS": {
+                "delegationSigned": false
+            },
+            "links": [
+                {
+                    "value": "https://rdap.wildwestdomains.com/v1/domain/LITHUB.COM",
+                    "rel": "self",
+                    "href": "https://rdap.wildwestdomains.com/v1/domain/LITHUB.COM",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "notices": [
+                {
+                    "title": "Status Codes",
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.wildwestdomains.com/v1/domain/LITHUB.COM",
+                            "rel": "glossary",
+                            "href": "https://icann.org/epp",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "RDDS Inaccuracy Complaint Form",
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.wildwestdomains.com/v1/domain/LITHUB.COM",
+                            "rel": "help",
+                            "href": "https://icann.org/wicf",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "Terms of Use",
+                    "description": [
+                        "By submitting an inquiry, you agree to these Universal Terms of Service",
+                        "and limitations of warranty. In particular, you agree not to use this",
+                        "data to allow, enable, or otherwise make possible, dissemination or",
+                        "collection of this data, in part or in its entirety, for any purpose,",
+                        "such as the transmission of unsolicited advertising and solicitations of",
+                        "any kind, including spam. You further agree not to use this data to enable",
+                        "high volume, automated or robotic electronic processes designed to collect",
+                        "or compile this data for any purpose, including mining this data for your",
+                        "own personal or commercial purposes, or use this data in any way that violates",
+                        "applicable laws and regulations."
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.wildwestdomains.com/v1/domain/LITHUB.COM",
+                            "rel": "terms-of-service",
+                            "href": "https://www.godaddy.com/agreements/showdoc?pageid=5403",
+                            "type": "text/html"
+                        }
+                    ]
+                }
+            ],
+            "rdapConformance": [
+                "rdap_level_0",
+                "redacted",
+                "icann_rdap_response_profile_1",
+                "icann_rdap_technical_implementation_guide_1"
+            ],
+            "port43": "whois.wildwestdomains.com",
+            "redacted": [
+                {
+                    "name": {
+                        "description": "Registrant Email"
+                    },
+                    "method": "replacementValue",
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='email')]",
+                    "replacementPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='contact-uri')]",
+                    "pathLang": "jsonpath",
+                    "reason": {
+                        "description": "Server Policy"
+                    }
+                },
+                {
+                    "name": {
+                        "description": "Technical Email"
+                    },
+                    "method": "replacementValue",
+                    "prePath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='email')]",
+                    "replacementPath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='contact-uri')]",
+                    "pathLang": "jsonpath",
+                    "reason": {
+                        "description": "Server Policy"
+                    }
+                }
+            ]
+        }
+    ],
+    "domain": "lithub.com\r"
+}

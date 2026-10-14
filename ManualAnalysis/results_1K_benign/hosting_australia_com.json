@@ -1,0 +1,630 @@
+{
+    "name": "hosting-australia.com",
+    "handle": "94773609_DOMAIN_COM-VRSN",
+    "registrationDate": "2/8/2003, 4:06:20 AM GMT+2 (by wildwest)",
+    "expirationDate": "2/8/2029, 4:06:20 AM GMT+2",
+    "lastChangedDate": "1/16/2024, 12:30:34 AM GMT+2",
+    "lastUpdateDate": null,
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "handle": "hosting-australia.com-admin",
+            "status": [
+                "active"
+            ],
+            "roles": [
+                "administrative"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Leo Rodriguez"
+                    ],
+                    [
+                        "n",
+                        {},
+                        "text",
+                        [
+                            "Rodriguez",
+                            "Leo",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "org",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "NARLE PTY LTD"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "pref": "1",
+                            "type": [
+                                "work",
+                                "voice"
+                            ]
+                        },
+                        "uri",
+                        "tel:+61.385145121"
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "domains@hosting-australia.com"
+                    ],
+                    [
+                        "adr",
+                        {},
+                        "text",
+                        [
+                            "",
+                            "",
+                            [
+                                "PO Box 119",
+                                "",
+                                ""
+                            ],
+                            "Beaconsfield",
+                            "VIC",
+                            "3807",
+                            "AU"
+                        ]
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "https://synergywholesale.com/domain-tools/?domain=hosting-australia.com"
+                    ]
+                ]
+            ],
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "https://rdap.synergywholesale.com/entity/hosting-australia.com-admin",
+                    "type": "application/rdap+json",
+                    "value": "https://rdap.synergywholesale.com/entity/hosting-australia.com-admin"
+                }
+            ],
+            "events": []
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "hosting-australia.com-tech",
+            "status": [
+                "active"
+            ],
+            "roles": [
+                "technical"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Leo Rodriguez"
+                    ],
+                    [
+                        "n",
+                        {},
+                        "text",
+                        [
+                            "Rodriguez",
+                            "Leo",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "org",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "NARLE PTY LTD"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "pref": "1",
+                            "type": [
+                                "work",
+                                "voice"
+                            ]
+                        },
+                        "uri",
+                        "tel:+61.385145121"
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "domains@hosting-australia.com"
+                    ],
+                    [
+                        "adr",
+                        {},
+                        "text",
+                        [
+                            "",
+                            "",
+                            [
+                                "PO Box 119",
+                                "",
+                                ""
+                            ],
+                            "Beaconsfield",
+                            "VIC",
+                            "3807",
+                            "AU"
+                        ]
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "https://synergywholesale.com/domain-tools/?domain=hosting-australia.com"
+                    ]
+                ]
+            ],
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "https://rdap.synergywholesale.com/entity/hosting-australia.com-tech",
+                    "type": "application/rdap+json",
+                    "value": "https://rdap.synergywholesale.com/entity/hosting-australia.com-tech"
+                }
+            ],
+            "events": []
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "hosting-australia.com-billing",
+            "status": [
+                "active"
+            ],
+            "roles": [
+                "billing"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Leo Rodriguez"
+                    ],
+                    [
+                        "n",
+                        {},
+                        "text",
+                        [
+                            "Rodriguez",
+                            "Leo",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "org",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "NARLE PTY LTD"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "pref": "1",
+                            "type": [
+                                "work",
+                                "voice"
+                            ]
+                        },
+                        "uri",
+                        "tel:+61.385145121"
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "domains@hosting-australia.com"
+                    ],
+                    [
+                        "adr",
+                        {},
+                        "text",
+                        [
+                            "",
+                            "",
+                            [
+                                "PO Box 119",
+                                "",
+                                ""
+                            ],
+                            "Beaconsfield",
+                            "VIC",
+                            "3807",
+                            "AU"
+                        ]
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "https://synergywholesale.com/domain-tools/?domain=hosting-australia.com"
+                    ]
+                ]
+            ],
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "https://rdap.synergywholesale.com/entity/hosting-australia.com-billing",
+                    "type": "application/rdap+json",
+                    "value": "https://rdap.synergywholesale.com/entity/hosting-australia.com-billing"
+                }
+            ],
+            "events": []
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "hosting-australia.com-registrant",
+            "status": [
+                "active"
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Leo Rodriguez"
+                    ],
+                    [
+                        "n",
+                        {},
+                        "text",
+                        [
+                            "Rodriguez",
+                            "Leo",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "org",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "NARLE PTY LTD"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "pref": "1",
+                            "type": [
+                                "work",
+                                "voice"
+                            ]
+                        },
+                        "uri",
+                        "tel:+61.385145121"
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "domains@hosting-australia.com"
+                    ],
+                    [
+                        "adr",
+                        {},
+                        "text",
+                        [
+                            "",
+                            "",
+                            [
+                                "PO Box 119",
+                                "",
+                                ""
+                            ],
+                            "Beaconsfield",
+                            "VIC",
+                            "3807",
+                            "AU"
+                        ]
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "https://synergywholesale.com/domain-tools/?domain=hosting-australia.com"
+                    ]
+                ]
+            ],
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "https://rdap.synergywholesale.com/entity/hosting-australia.com-registrant",
+                    "type": "application/rdap+json",
+                    "value": "https://rdap.synergywholesale.com/entity/hosting-australia.com-registrant"
+                }
+            ],
+            "events": []
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "synergywholesale",
+            "status": [
+                "active"
+            ],
+            "roles": [
+                "abuse",
+                "registrar",
+                "noc"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Synergy Wholesale Accreditations Pty Ltd"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "Synergy Wholesale Accreditations Pty Ltd"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "pref": "1",
+                            "type": [
+                                "work",
+                                "voice"
+                            ]
+                        },
+                        "uri",
+                        "tel:+61383999483"
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "registry-abuse@nexigen.digital"
+                    ],
+                    [
+                        "adr",
+                        {},
+                        "text",
+                        [
+                            "",
+                            "",
+                            [
+                                "PO BOX 119"
+                            ],
+                            "Beaconsfield",
+                            "VIC",
+                            "3807",
+                            "AU"
+                        ]
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "mailto:registry-abuse@nexigen.digital"
+                    ]
+                ]
+            ],
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "https://rdap.synergywholesale.com/entity/abuse",
+                    "type": "application/rdap+json",
+                    "value": "https://rdap.synergywholesale.com/entity/abuse"
+                }
+            ],
+            "events": [],
+            "publicIds": [
+                {
+                    "type": "IANA Registrar ID",
+                    "identifier": "1609"
+                },
+                {
+                    "type": "Registrar",
+                    "identifier": "Synergy Wholesale Pty Ltd"
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns1.hosting-australia.com",
+            "unicodeName": "ns1.hosting-australia.com",
+            "status": [
+                "active"
+            ],
+            "events": [],
+            "links": []
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns2.hosting-australia.com",
+            "unicodeName": "ns2.hosting-australia.com",
+            "status": [
+                "active"
+            ],
+            "events": [],
+            "links": []
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns3.hosting-australia.com",
+            "unicodeName": "ns3.hosting-australia.com",
+            "status": [
+                "active"
+            ],
+            "events": [],
+            "links": []
+        },
+        {
+            "objectClassName": "domain",
+            "handle": "94773609_DOMAIN_COM-VRSN",
+            "ldhName": "hosting-australia.com",
+            "unicodeName": "hosting-australia.com",
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns1.hosting-australia.com",
+                    "unicodeName": "ns1.hosting-australia.com",
+                    "status": [
+                        "active"
+                    ],
+                    "events": [],
+                    "links": []
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns2.hosting-australia.com",
+                    "unicodeName": "ns2.hosting-australia.com",
+                    "status": [
+                        "active"
+                    ],
+                    "events": [],
+                    "links": []
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns3.hosting-australia.com",
+                    "unicodeName": "ns3.hosting-australia.com",
+                    "status": [
+                        "active"
+                    ],
+                    "events": [],
+                    "links": []
+                }
+            ],
+            "secureDNS": {
+                "delegationSigned": false,
+                "dsData": []
+            },
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "https://rdap.synergywholesale.com/domain/hosting-australia.com",
+                    "type": "application/rdap+json",
+                    "value": "https://rdap.synergywholesale.com/domain/hosting-australia.com"
+                }
+            ],
+            "redacted": [],
+            "port43": "whois.synergywholesale.com",
+            "rdapConformance": [
+                "icann_rdap_response_profile_1",
+                "icann_rdap_technical_implementation_guide_1",
+                "rdap_level_0",
+                "redacted"
+            ],
+            "notices": [
+                {
+                    "title": "Status Codes",
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ],
+                    "links": [
+                        {
+                            "rel": "related",
+                            "type": "text/html",
+                            "value": "https://icann.org/epp",
+                            "href": "https://icann.org/epp",
+                            "hreflang": [
+                                "en"
+                            ],
+                            "media": "screen"
+                        }
+                    ]
+                },
+                {
+                    "title": "RDDS Inaccuracy Complaint Form",
+                    "description": [
+                        "URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf"
+                    ],
+                    "links": [
+                        {
+                            "rel": "related",
+                            "type": "text/html",
+                            "href": "https://www.icann.org/wicf",
+                            "value": "https://www.icann.org/wicf",
+                            "hreflang": [
+                                "en"
+                            ],
+                            "media": "screen"
+                        }
+                    ]
+                }
+            ],
+            "lang": "en"
+        }
+    ],
+    "domain": "hosting-australia.com\r"
+}

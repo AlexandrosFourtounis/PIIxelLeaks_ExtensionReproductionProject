@@ -1,0 +1,464 @@
+{
+    "name": "alpinechauffeurs.co.uk",
+    "handle": "D_70560766-UK",
+    "registrationDate": "1/22/2020, 10:20:01 PM GMT+2 (by NAMESCO)",
+    "expirationDate": "1/22/2030, 10:20:01 PM GMT+2",
+    "lastChangedDate": "1/22/2020, 10:20:01 PM GMT+2",
+    "lastUpdateDate": "6/16/2026, 3:14:08 PM GMT+3",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Abuse contact"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "0845-363-3630"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "abuse@names.co.uk"
+                    ]
+                ]
+            ],
+            "roles": [
+                "abuse"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "links": [
+                {
+                    "value": "https://rdap.nominet.uk/uk/entity/NAMESCO",
+                    "rel": "self",
+                    "href": "https://rdap.nominet.uk/uk/entity/NAMESCO",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "handle": "NAMESCO",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Team Blue Internet Services UK Limited t/a Team Blue Internet Services Limited t/a names.co.uk"
+                    ],
+                    [
+                        "adr",
+                        {},
+                        "text",
+                        [
+                            "",
+                            "",
+                            "Second Floor, Oak House, Bridgwater Road, Worcester, WR4 9FP, United Kingdom",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+44-(0)1905-342342-or-0345-363-3632"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "uri",
+                        "tel:+44-(0)1905-342343"
+                    ],
+                    [
+                        "url",
+                        {},
+                        "uri",
+                        "https://www.names.co.uk/"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrar"
+            ],
+            "publicIds": [
+                {
+                    "type": "Registry Identifier",
+                    "identifier": "NAMESCO"
+                }
+            ],
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Abuse contact"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "voice"
+                                },
+                                "text",
+                                "0845-363-3630"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "abuse@names.co.uk"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "abuse"
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object redacted due to authorization",
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ]
+                },
+                {
+                    "title": "EMAIL REDACTED FOR PRIVACY",
+                    "type": "object redacted due to authorization",
+                    "description": [
+                        "This data is not generally available, if you have legitimate reason to request access please review Nominets data release process."
+                    ]
+                },
+                {
+                    "title": "Data Quality",
+                    "description": [
+                        "Registrar responsible for validation."
+                    ]
+                },
+                {
+                    "title": "Registrant type",
+                    "description": [
+                        "UK Limited Company"
+                    ]
+                },
+                {
+                    "title": "Company number",
+                    "description": [
+                        "3913408"
+                    ]
+                }
+            ],
+            "events": [
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2018-07-16T15:06:03Z"
+                },
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2023-10-26T09:12:07Z"
+                }
+            ],
+            "status": [
+                "validated"
+            ],
+            "handle": "C_76784497-UK",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Domain Proxy Service. Namesco Limited."
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "GB"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            [
+                                "Acton House",
+                                "Perdiswell Park"
+                            ],
+                            "Worcester",
+                            "Worcestershire",
+                            "WR3 7GD",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "redacted@nominet.uk"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrant"
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "links": [
+                {
+                    "value": "https://rdap.nominet.uk/uk/nameserver/ns0.phase8.net.",
+                    "rel": "self",
+                    "href": "https://rdap.nominet.uk/uk/nameserver/ns0.phase8.net.",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "status": [
+                "active",
+                "associated"
+            ],
+            "handle": "H_48125-UK",
+            "ldhName": "ns0.phase8.net.",
+            "unicodeName": "ns0.phase8.net."
+        },
+        {
+            "objectClassName": "nameserver",
+            "links": [
+                {
+                    "value": "https://rdap.nominet.uk/uk/nameserver/ns1.phase8.net.",
+                    "rel": "self",
+                    "href": "https://rdap.nominet.uk/uk/nameserver/ns1.phase8.net.",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "status": [
+                "active",
+                "associated"
+            ],
+            "handle": "H_38599-UK",
+            "ldhName": "ns1.phase8.net.",
+            "unicodeName": "ns1.phase8.net."
+        },
+        {
+            "objectClassName": "nameserver",
+            "links": [
+                {
+                    "value": "https://rdap.nominet.uk/uk/nameserver/ns2.phase8.net.",
+                    "rel": "self",
+                    "href": "https://rdap.nominet.uk/uk/nameserver/ns2.phase8.net.",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "status": [
+                "active",
+                "associated"
+            ],
+            "handle": "H_881183-UK",
+            "ldhName": "ns2.phase8.net.",
+            "unicodeName": "ns2.phase8.net."
+        },
+        {
+            "rdapConformance": [
+                "redacted",
+                "rdap_level_0"
+            ],
+            "objectClassName": "domain",
+            "links": [
+                {
+                    "value": "https://rdap.nominet.uk/uk/domain/alpinechauffeurs.co.uk",
+                    "rel": "self",
+                    "href": "https://rdap.nominet.uk/uk/domain/alpinechauffeurs.co.uk",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "notices": [
+                {
+                    "title": "Terms of Service",
+                    "description": [
+                        "The Registry Operator, offers this Registration Data Access Protocol (RDAP) service and provides access to the records in the RDAP database for information purposes only, to assist you in obtaining information about the registration records of existing domain names. The stored information in the RDAP database is provided as is. We do not guarantee its accuracy or completeness, and cannot be held liable if the stored information in the RDAP database is wrong, incomplete, or inaccurate in any way. By querying the RDAP database in any way, you agree that you will not use this data: (i) to allow, enable or otherwise support the transmission of unsolicited, commercial advertising or other solicitations in any form or by any means; (ii) to enable high volume, automated, electronic processes that query or send data to the Registry Operator or any registrar or registrant; (iii) for target advertising; (iv) to cause nuisance to registrants by sending (by any means) messages to or contacting them; (v) to violate any law, rule, regulation or statute; and/or (vi) in violation of applicable data and privacy protection acts. You are explicitly prohibited from extracting, copying and/or using or re-using in any form and by any means (electronically or not) all or part (quantitatively or qualitatively) of the contents of the RDAP database without prior and explicit permission from the Registry Operator. Any copying or transmission of data for commercial purposes violates this prohibition. You agree that we can take measures to limit the use of the RDAP service to protect the privacy of registrants or the integrity of the database. We reserve the right to make changes to this website, the RDAP service, and these Terms and Conditions at any time without prior notice to you. You should review these Terms and Conditions each time you access or use the RDAP database and the RDAP service to learn of any changes. If you do not agree to the changes we have made, your only remedy is to stop your use of the RDAP database and the RDAP service. By executing a query, in any means whatsoever, you agree to these Terms of Service."
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.nominet.uk/uk/domain/alpinechauffeurs.co.uk",
+                            "rel": "terms-of-service",
+                            "href": "https://nominet.uk/rdap-tos",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "Status Codes",
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.nominet.uk/uk/domain/alpinechauffeurs.co.uk",
+                            "rel": "glossary",
+                            "href": "https://icann.org/epp",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "RDDS Inaccuracy Complaint Form",
+                    "description": [
+                        "URL of the Nominet WHOIS data complaint process: https://www.nominet.uk/complaints/#complaining-about-incorrect-whois-data"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.nominet.uk/uk/domain/alpinechauffeurs.co.uk",
+                            "rel": "help",
+                            "href": "https://www.nominet.uk/complaints/#complaining-about-incorrect-whois-data",
+                            "type": "text/html"
+                        }
+                    ]
+                }
+            ],
+            "handle": "D_70560766-UK",
+            "ldhName": "alpinechauffeurs.co.uk",
+            "unicodeName": "alpinechauffeurs.co.uk",
+            "secureDNS": {
+                "delegationSigned": false,
+                "maxSigLife": 3024000
+            },
+            "publicIds": [
+                {
+                    "type": "Registry Identifier",
+                    "identifier": "D_70560766-UK"
+                }
+            ],
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "links": [
+                        {
+                            "value": "https://rdap.nominet.uk/uk/nameserver/ns0.phase8.net.",
+                            "rel": "self",
+                            "href": "https://rdap.nominet.uk/uk/nameserver/ns0.phase8.net.",
+                            "type": "application/rdap+json"
+                        }
+                    ],
+                    "status": [
+                        "active",
+                        "associated"
+                    ],
+                    "handle": "H_48125-UK",
+                    "ldhName": "ns0.phase8.net.",
+                    "unicodeName": "ns0.phase8.net."
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "links": [
+                        {
+                            "value": "https://rdap.nominet.uk/uk/nameserver/ns1.phase8.net.",
+                            "rel": "self",
+                            "href": "https://rdap.nominet.uk/uk/nameserver/ns1.phase8.net.",
+                            "type": "application/rdap+json"
+                        }
+                    ],
+                    "status": [
+                        "active",
+                        "associated"
+                    ],
+                    "handle": "H_38599-UK",
+                    "ldhName": "ns1.phase8.net.",
+                    "unicodeName": "ns1.phase8.net."
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "links": [
+                        {
+                            "value": "https://rdap.nominet.uk/uk/nameserver/ns2.phase8.net.",
+                            "rel": "self",
+                            "href": "https://rdap.nominet.uk/uk/nameserver/ns2.phase8.net.",
+                            "type": "application/rdap+json"
+                        }
+                    ],
+                    "status": [
+                        "active",
+                        "associated"
+                    ],
+                    "handle": "H_881183-UK",
+                    "ldhName": "ns2.phase8.net.",
+                    "unicodeName": "ns2.phase8.net."
+                }
+            ],
+            "redacted": [
+                {
+                    "name": {
+                        "type": "Registrant Email"
+                    },
+                    "reason": {
+                        "description": "Server policy"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='email')]",
+                    "replacementPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='email')][3]",
+                    "pathLang": "jsonpath",
+                    "method": "replacementValue"
+                },
+                {
+                    "name": {
+                        "type": "Registrant Phone"
+                    },
+                    "reason": {
+                        "description": "Server policy"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[1].type=='voice')]",
+                    "pathLang": "jsonpath",
+                    "method": "removal"
+                }
+            ]
+        }
+    ],
+    "domain": "alpinechauffeurs.co.uk\r"
+}

@@ -1,0 +1,785 @@
+{
+    "name": "nu.nl",
+    "handle": "REDACTED-BY-SIDN",
+    "registrationDate": "5/26/1998, 2:58:16 PM GMT+3",
+    "expirationDate": null,
+    "lastChangedDate": "2/3/2026, 4:39:25 PM GMT+2",
+    "lastUpdateDate": "6/23/2026, 7:02:12 PM GMT+3",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "handle": "DPV000580-OPENP",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "DPG Media Group nv"
+                    ]
+                ]
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.sidn.nl/entity/DPV000580-OPENP",
+                    "rel": "about",
+                    "href": "https://rdap.sidn.nl/entity/DPV000580-OPENP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "roles": [
+                "registrant"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "DPV000580-OPENP",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "REDACTED FOR PRIVACY"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "dns@dpgmedia.be"
+                    ]
+                ]
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.sidn.nl/entity/DPV000580-OPENP",
+                    "rel": "about",
+                    "href": "https://rdap.sidn.nl/entity/DPV000580-OPENP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "roles": [
+                "technical"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "DPV000580-OPENP",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "REDACTED FOR PRIVACY"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "dns@dpgmedia.be"
+                    ]
+                ]
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.sidn.nl/entity/DPV000580-OPENP",
+                    "rel": "about",
+                    "href": "https://rdap.sidn.nl/entity/DPV000580-OPENP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "roles": [
+                "administrative"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "ABUSE-SIDN",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "abuse@registrar.eu"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+31.104482297"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "abuse@registrar.eu"
+                    ]
+                ]
+            ],
+            "roles": [
+                "abuse"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "0000",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Registrar.eu"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "NL"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "Hofplein 20",
+                            "Rotterdam",
+                            "",
+                            "3032AC",
+                            ""
+                        ]
+                    ]
+                ]
+            ],
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "handle": "ABUSE-SIDN",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "abuse@registrar.eu"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "voice"
+                                },
+                                "text",
+                                "+31.104482297"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "abuse@registrar.eu"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "abuse"
+                    ]
+                }
+            ],
+            "publicIds": [
+                {
+                    "identifier": "0000",
+                    "type": "IANA Registrar ID"
+                }
+            ],
+            "roles": [
+                "registrar"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "REDACTED-BY-SIDN",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "DPG Media Group nv"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "BE"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "Mediaplein 1",
+                            "Antwerpen",
+                            "",
+                            "2018",
+                            ""
+                        ]
+                    ]
+                ]
+            ],
+            "roles": [
+                "reseller"
+            ]
+        },
+        {
+            "ldhName": "usc2.akam.net",
+            "unicodeName": "usc2.akam.net",
+            "objectClassName": "nameserver",
+            "links": [
+                {
+                    "value": "https://rdap.sidn.nl/nameserver/usc2.akam.net",
+                    "rel": "about",
+                    "href": "https://rdap.sidn.nl/nameserver/usc2.akam.net",
+                    "type": "application/rdap+json"
+                }
+            ]
+        },
+        {
+            "ldhName": "ns1-125.akam.net",
+            "unicodeName": "ns1-125.akam.net",
+            "objectClassName": "nameserver",
+            "links": [
+                {
+                    "value": "https://rdap.sidn.nl/nameserver/ns1-125.akam.net",
+                    "rel": "about",
+                    "href": "https://rdap.sidn.nl/nameserver/ns1-125.akam.net",
+                    "type": "application/rdap+json"
+                }
+            ]
+        },
+        {
+            "ldhName": "eur5.akam.net",
+            "unicodeName": "eur5.akam.net",
+            "objectClassName": "nameserver",
+            "links": [
+                {
+                    "value": "https://rdap.sidn.nl/nameserver/eur5.akam.net",
+                    "rel": "about",
+                    "href": "https://rdap.sidn.nl/nameserver/eur5.akam.net",
+                    "type": "application/rdap+json"
+                }
+            ]
+        },
+        {
+            "ldhName": "ns1-25.akam.net",
+            "unicodeName": "ns1-25.akam.net",
+            "objectClassName": "nameserver",
+            "links": [
+                {
+                    "value": "https://rdap.sidn.nl/nameserver/ns1-25.akam.net",
+                    "rel": "about",
+                    "href": "https://rdap.sidn.nl/nameserver/ns1-25.akam.net",
+                    "type": "application/rdap+json"
+                }
+            ]
+        },
+        {
+            "ldhName": "use5.akam.net",
+            "unicodeName": "use5.akam.net",
+            "objectClassName": "nameserver",
+            "links": [
+                {
+                    "value": "https://rdap.sidn.nl/nameserver/use5.akam.net",
+                    "rel": "about",
+                    "href": "https://rdap.sidn.nl/nameserver/use5.akam.net",
+                    "type": "application/rdap+json"
+                }
+            ]
+        },
+        {
+            "ldhName": "use2.akam.net",
+            "unicodeName": "use2.akam.net",
+            "objectClassName": "nameserver",
+            "links": [
+                {
+                    "value": "https://rdap.sidn.nl/nameserver/use2.akam.net",
+                    "rel": "about",
+                    "href": "https://rdap.sidn.nl/nameserver/use2.akam.net",
+                    "type": "application/rdap+json"
+                }
+            ]
+        },
+        {
+            "ldhName": "eur6.akam.net",
+            "unicodeName": "eur6.akam.net",
+            "objectClassName": "nameserver",
+            "links": [
+                {
+                    "value": "https://rdap.sidn.nl/nameserver/eur6.akam.net",
+                    "rel": "about",
+                    "href": "https://rdap.sidn.nl/nameserver/eur6.akam.net",
+                    "type": "application/rdap+json"
+                }
+            ]
+        },
+        {
+            "ldhName": "eur2.akam.net",
+            "unicodeName": "eur2.akam.net",
+            "objectClassName": "nameserver",
+            "links": [
+                {
+                    "value": "https://rdap.sidn.nl/nameserver/eur2.akam.net",
+                    "rel": "about",
+                    "href": "https://rdap.sidn.nl/nameserver/eur2.akam.net",
+                    "type": "application/rdap+json"
+                }
+            ]
+        },
+        {
+            "rdapConformance": [
+                "rdap_level_0",
+                "icann_rdap_response_profile_1",
+                "icann_rdap_technical_implementation_guide_1",
+                "redacted"
+            ],
+            "objectClassName": "domain",
+            "notices": [
+                {
+                    "title": "Status Codes",
+                    "description": [
+                        "Meer informatie over domeinstatuscodes vind je op https://icann.org/epp",
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.sidn.nl/domain/nu.nl",
+                            "rel": "glossary",
+                            "href": "https://icann.org/epp",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "Domicilie notice",
+                    "description": [
+                        "Omdat het adres van deze houder in het buitenland gevestigd is, heeft de houder gekozen om het kantooradres van SIDN als domicilieadres (briefadres) op te geven. Meer informatie over deze keuze vind je in de Procedure Domicilieadres. https://www.sidn.nl/nl-domeinnaam/domicilieadres",
+                        "As the registrant's address is not in the Netherlands, the registrant is obliged by the General Terms and Conditions for .nl Registrants to use SIDN's registered office address as a domicile address. More information on the use of a domicile address may be found at https://www.sidn.nl/en/nl-domain-name/domicile-address"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://www.sidn.nl/nl-domeinnaam/domicilieadres",
+                            "rel": "related",
+                            "href": "https://www.sidn.nl/nl-domeinnaam/domicilieadres",
+                            "hreflang": [
+                                "nl"
+                            ],
+                            "type": "text/html"
+                        },
+                        {
+                            "value": "https://www.sidn.nl/en/nl-domain-name/domicile-address",
+                            "rel": "related",
+                            "href": "https://www.sidn.nl/en/nl-domain-name/domicile-address",
+                            "hreflang": [
+                                "en"
+                            ],
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "Privacy notice",
+                    "description": [
+                        "De houdergegevens kunnen afgeschermd zijn. Meer informatie hierover vind je op: https://www.sidn.nl/nl-domeinnaam/sidn-en-privacy",
+                        "The registrant's details can be withheld from public view. For more information, see https://www.sidn.nl/en/nl-domain-name/sidn-and-privacy"
+                    ]
+                },
+                {
+                    "title": "Maintainer",
+                    "description": [
+                        "Administratie door: SIDN BV",
+                        "Record maintained by: SIDN BV"
+                    ]
+                },
+                {
+                    "title": "RDDS Inaccuracy Complaint Form",
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://www.icann.org/wicf"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.sidn.nl/domain/nu.nl",
+                            "rel": "help",
+                            "href": "https://icann.org/wicf",
+                            "type": "text/html"
+                        }
+                    ]
+                }
+            ],
+            "lang": "nl-NL",
+            "handle": "REDACTED-BY-SIDN",
+            "ldhName": "nu.nl",
+            "secureDNS": {
+                "delegationSigned": true,
+                "dsData": [
+                    {
+                        "keyTag": 45050,
+                        "algorithm": 13,
+                        "digestType": 2,
+                        "digest": "55CD01BA5CB452657467131332B278A74BDA5DF5F84E0F0157914369CE7E3974"
+                    }
+                ]
+            },
+            "nameservers": [
+                {
+                    "ldhName": "usc2.akam.net",
+                    "unicodeName": "usc2.akam.net",
+                    "objectClassName": "nameserver",
+                    "links": [
+                        {
+                            "value": "https://rdap.sidn.nl/nameserver/usc2.akam.net",
+                            "rel": "about",
+                            "href": "https://rdap.sidn.nl/nameserver/usc2.akam.net",
+                            "type": "application/rdap+json"
+                        }
+                    ]
+                },
+                {
+                    "ldhName": "ns1-125.akam.net",
+                    "unicodeName": "ns1-125.akam.net",
+                    "objectClassName": "nameserver",
+                    "links": [
+                        {
+                            "value": "https://rdap.sidn.nl/nameserver/ns1-125.akam.net",
+                            "rel": "about",
+                            "href": "https://rdap.sidn.nl/nameserver/ns1-125.akam.net",
+                            "type": "application/rdap+json"
+                        }
+                    ]
+                },
+                {
+                    "ldhName": "eur5.akam.net",
+                    "unicodeName": "eur5.akam.net",
+                    "objectClassName": "nameserver",
+                    "links": [
+                        {
+                            "value": "https://rdap.sidn.nl/nameserver/eur5.akam.net",
+                            "rel": "about",
+                            "href": "https://rdap.sidn.nl/nameserver/eur5.akam.net",
+                            "type": "application/rdap+json"
+                        }
+                    ]
+                },
+                {
+                    "ldhName": "ns1-25.akam.net",
+                    "unicodeName": "ns1-25.akam.net",
+                    "objectClassName": "nameserver",
+                    "links": [
+                        {
+                            "value": "https://rdap.sidn.nl/nameserver/ns1-25.akam.net",
+                            "rel": "about",
+                            "href": "https://rdap.sidn.nl/nameserver/ns1-25.akam.net",
+                            "type": "application/rdap+json"
+                        }
+                    ]
+                },
+                {
+                    "ldhName": "use5.akam.net",
+                    "unicodeName": "use5.akam.net",
+                    "objectClassName": "nameserver",
+                    "links": [
+                        {
+                            "value": "https://rdap.sidn.nl/nameserver/use5.akam.net",
+                            "rel": "about",
+                            "href": "https://rdap.sidn.nl/nameserver/use5.akam.net",
+                            "type": "application/rdap+json"
+                        }
+                    ]
+                },
+                {
+                    "ldhName": "use2.akam.net",
+                    "unicodeName": "use2.akam.net",
+                    "objectClassName": "nameserver",
+                    "links": [
+                        {
+                            "value": "https://rdap.sidn.nl/nameserver/use2.akam.net",
+                            "rel": "about",
+                            "href": "https://rdap.sidn.nl/nameserver/use2.akam.net",
+                            "type": "application/rdap+json"
+                        }
+                    ]
+                },
+                {
+                    "ldhName": "eur6.akam.net",
+                    "unicodeName": "eur6.akam.net",
+                    "objectClassName": "nameserver",
+                    "links": [
+                        {
+                            "value": "https://rdap.sidn.nl/nameserver/eur6.akam.net",
+                            "rel": "about",
+                            "href": "https://rdap.sidn.nl/nameserver/eur6.akam.net",
+                            "type": "application/rdap+json"
+                        }
+                    ]
+                },
+                {
+                    "ldhName": "eur2.akam.net",
+                    "unicodeName": "eur2.akam.net",
+                    "objectClassName": "nameserver",
+                    "links": [
+                        {
+                            "value": "https://rdap.sidn.nl/nameserver/eur2.akam.net",
+                            "rel": "about",
+                            "href": "https://rdap.sidn.nl/nameserver/eur2.akam.net",
+                            "type": "application/rdap+json"
+                        }
+                    ]
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.sidn.nl/domain/nu.nl",
+                    "rel": "self",
+                    "href": "https://rdap.sidn.nl/domain/nu.nl",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "redacted": [
+                {
+                    "name": {
+                        "description": "Domain handle"
+                    },
+                    "postPath": "$.handle",
+                    "pathLang": "jsonpath",
+                    "method": "replacementValue",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "description": "Registrant phone number"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='tel')]",
+                    "pathLang": "jsonpath",
+                    "method": "removal",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "description": "Registrant email"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='email')]",
+                    "pathLang": "jsonpath",
+                    "method": "removal",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "description": "Registrant address"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')]",
+                    "pathLang": "jsonpath",
+                    "method": "removal",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "description": "Administrative name"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='administrative')].vcardArray[1][?(@[0]=='fn')][3]",
+                    "pathLang": "jsonpath",
+                    "method": "replacementValue",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "description": "Administrative address"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='administrative')].vcardArray[1][?(@[0]=='adr')]",
+                    "pathLang": "jsonpath",
+                    "method": "removal",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "description": "Administrative phone number"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='administrative')].vcardArray[1][?(@[0]=='tel')]",
+                    "pathLang": "jsonpath",
+                    "method": "removal",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "description": "Reseller handle"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='reseller')].handle",
+                    "pathLang": "jsonpath",
+                    "method": "replacementValue",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "description": "Reseller phone number"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='reseller')].vcardArray[1][?(@[0]=='tel')]",
+                    "pathLang": "jsonpath",
+                    "method": "removal",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "description": "Reseller email"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='reseller')].vcardArray[1][?(@[0]=='email')]",
+                    "pathLang": "jsonpath",
+                    "method": "removal",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "description": "Registrar handle"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrar')].handle",
+                    "pathLang": "jsonpath",
+                    "method": "replacementValue",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "description": "Public id"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrar')].publicIds[@LAST].identifier",
+                    "pathLang": "jsonpath",
+                    "method": "replacementValue",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "description": "Registrar email"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrar')].vcardArray[1][?(@[0]=='email')]",
+                    "pathLang": "jsonpath",
+                    "method": "removal",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "description": "Registrar phone number"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrar')].vcardArray[1][?(@[0]=='tel')]",
+                    "pathLang": "jsonpath",
+                    "method": "removal",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "description": "Technical name"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='fn')][3]",
+                    "pathLang": "jsonpath",
+                    "method": "replacementValue",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "description": "Technical address"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='adr')]",
+                    "pathLang": "jsonpath",
+                    "method": "removal",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "description": "Technical phone number"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='tel')]",
+                    "pathLang": "jsonpath",
+                    "method": "removal",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                }
+            ]
+        }
+    ],
+    "domain": "nu.nl\r"
+}

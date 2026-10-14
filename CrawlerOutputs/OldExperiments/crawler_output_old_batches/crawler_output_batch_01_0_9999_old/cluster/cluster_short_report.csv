@@ -1,0 +1,156 @@
+cluster_id,cluster_size,domains,shared_registrar,shared_nameservers,shared_asn
+2,16,biography.com; caranddriver.com; cosmopolitan.com; countryliving.com; delish.com; digitalspy.com; elle.com; esquire.com; fotogramas.es; goodhousekeeping.com; harpersbazaar.com; menshealth.com; popularmechanics.com; runnersworld.com; thepioneerwoman.com; womenshealthmag.com,False,False,True
+3,13,allrecipes.com; bhg.com; eatingwell.com; ew.com; foodandwine.com; health.com; instyle.com; marthastewart.com; parents.com; people.com; realsimple.com; southernliving.com; travelandleisure.com,False,False,True
+4,9,gamesradar.com; livescience.com; pcgamer.com; space.com; techradar.com; theweek.com; tomsguide.com; tomshardware.com; windowscentral.com,True,False,True
+5,8,birminghammail.co.uk; dailyrecord.co.uk; dailystar.co.uk; getsurrey.co.uk; liverpoolecho.co.uk; manchestereveningnews.co.uk; mirror.co.uk; walesonline.co.uk,True,False,True
+6,7,echodnia.eu; expressbydgoski.pl; gazetawroclawska.pl; gloswielkopolski.pl; nowiny24.pl; nto.pl; pomorska.pl,True,False,True
+7,7,goto.com; gotoassist.com; gotomeeting.com; gotoresolve.com; gotostage.com; gotowebinar.com; logmein.com,True,False,False
+8,7,zalando.be; zalando.de; zalando.es; zalando.fr; zalando.it; zalando.nl; zalando.pl,False,False,True
+9,6,c6gj-static.net; hola.org; kbz0pwvxmv.com; su89-cdn.net; x-cdn-static.com; yg5sjx5kzy.com,True,False,True
+10,6,eater.com; popsugar.com; sbnation.com; theverge.com; thrillist.com; vox.com,True,False,True
+11,5,al.com; cleveland.com; mlive.com; nj.com; oregonlive.com,True,False,True
+13,5,bostonherald.com; denverpost.com; mercurynews.com; ocregister.com; sandiegouniontribune.com,False,False,True
+14,5,chron.com; dallasnews.com; houstonchronicle.com; sfchronicle.com; sfgate.com,False,False,True
+15,5,lunalabs.io; tapjoy.com; unity.com; unity3d.com; vivox.com,True,False,False
+16,4,atlassian.com; atlassian.net; bitbucket.org; statuspage.io,True,False,False
+17,4,biomedcentral.com; nature.com; springer.com; springeropen.com,False,False,True
+18,4,businessinsider.com.pl; fakt.pl; medonet.pl; onet.pl,False,False,True
+19,4,eater.com; sbnation.com; theverge.com; vox.com,True,False,True
+20,4,lc.chat; livechat.com; livechatenterprise.com; livechatinc.com,False,False,True
+21,4,segment.com; segment.io; sendgrid.com; twilio.com,True,False,False
+24,3,appboy.com; braze.com; braze.eu,True,False,False
+25,3,appdynamics.com; signalfx.com; splunk.com,True,False,True
+26,3,atlassian.com; atlassian.net; statuspage.io,True,False,False
+27,3,canonical.com; snapcraft.io; ubuntu.com,True,False,True
+28,3,capital.fr; programme-tv.net; voici.fr,False,False,True
+30,3,cio.com; computerworld.com; infoworld.com,True,False,False
+31,3,cisco.com; kennasecurity.com; webex.com,True,False,False
+34,3,dzone.com; ehow.com; techrepublic.com,True,False,True
+36,3,ebay.ca; ebay.com; ebay.com.au,False,False,True
+37,3,eepurl.com; mailchi.mp; mailchimp.com,True,False,True
+38,3,elperiodico.com; lne.es; sport.es,True,False,True
+39,3,freewebs.com; vistaprint.com; webs.com,False,False,True
+40,3,freshdesk.com; freshservice.com; freshworks.com,False,False,True
+41,3,gotoassist.com; gotoresolve.com; logmein.com,True,False,False
+42,3,hs-sites.com; hubspot.com; hubspot.net,True,False,True
+43,3,ilgazzettino.it; ilmattino.it; ilmessaggero.it,False,False,True
+45,3,intercom.com; intercom.io; intercomcdn.com,True,False,True
+46,3,kampyle.com; medallia.com; medallia.eu,True,False,False
+47,3,ladepeche.fr; lindependant.fr; midilibre.fr,True,False,True
+48,3,loggly.com; pingdom.com; pingdom.net,True,False,False
+49,3,mercadopago.com; mercadopago.com.ar; mercadopago.com.br,True,False,True
+50,3,nessus.org; tenable.com; tenablesecurity.com,True,False,True
+51,3,onlamp.com; ora.com; oreilly.com,True,False,True
+52,3,shopee.co.id; shopee.com.br; shopeemobile.com,False,False,True
+53,3,shopee.co.th; shopee.com.br; shopeemobile.com,False,False,True
+54,3,shopee.com.br; shopee.com.my; shopeemobile.com,True,False,True
+55,3,shopee.com.br; shopee.ph; shopeemobile.com,True,False,True
+56,3,shopee.com.br; shopee.sg; shopeemobile.com,False,False,True
+58,3,shopee.com.br; shopee.vn; shopeemobile.com,True,False,True
+59,3,smooch.io; zendesk.com; zopim.com,True,False,False
+61,3,surveymonkey.com; usabilla.com; wufoo.com,False,False,True
+62,3,vanityfair.com; wired.co.uk; wired.com,False,False,True
+63,3,verizon.com; verizonwireless.com; vzw.com,True,False,False
+64,3,wordpress.com; wp.com; wp.me,True,False,True
+65,2,abc.es; elcorreo.com,True,False,True
+66,2,ably.io; ably.net,True,False,False
+67,2,acuityscheduling.com; squarespace.com,True,False,False
+68,2,adorocinema.com; tudocelular.com,False,False,True
+70,2,afreecatv.com; sooplive.co.kr,False,False,True
+71,2,akamai.com; linode.com,True,False,True
+72,2,ameba.jp; ameblo.jp,False,False,True
+73,2,ancestry.co.uk; ancestry.com,False,False,True
+74,2,apartmenttherapy.com; thekitchn.com,False,False,True
+76,2,apptimize.com; urbanairship.com,False,False,True
+79,2,auth0.com; okta.com,True,False,False
+80,2,autoscout24.de; autoscout24.it,False,False,True
+81,2,avast.com; avg.com,True,False,False
+82,2,awin1.com; shareasale.com,False,False,True
+84,2,backlinko.com; semrush.com,True,False,False
+85,2,banco.bradesco; bradesco.com.br,True,False,True
+86,2,barracuda.com; barracudanetworks.com,True,False,True
+87,2,besoccer.com; resultados-futbol.com,True,False,False
+88,2,bet7k.com; cassinopix.com,False,False,True
+89,2,betano.com; betano.pe,True,False,True
+91,2,bibliaon.com; pensador.com,True,False,True
+92,2,binance.com; binance.info,False,False,True
+93,2,bit.ly; bitly.com,False,False,True
+94,2,blogs.com; typepad.com,True,False,True
+95,2,boomtrain.com; sailthru.com,True,False,True
+96,2,box.com; box.net,True,False,True
+97,2,bromium-online.com; elcorteingles.es,True,False,False
+98,2,buffer.com; bufferapp.com,True,False,True
+99,2,businessinsider.com; insider.com,True,False,True
+100,2,bybit.biz; bybit.com,False,False,True
+101,2,canalblog.com; over-blog.com,True,False,True
+103,2,casapariurilor.ro; efortuna.pl,True,False,True
+104,2,checkpoint.com; dome9.com,False,False,True
+105,2,chegg.com; mathway.com,True,False,True
+106,2,cnet.com; zdnet.com,True,False,True
+107,2,cntraveler.com; vanityfair.it,True,False,True
+109,2,cookiebot.com; usercentrics.eu,True,False,False
+110,2,cpanel.com; cpanel.net,True,False,False
+111,2,customer.io; gist.build,True,False,False
+112,2,datto.com; rocketcyber.com,True,False,False
+113,2,digitalturbine.com; fyber.com,False,False,True
+114,2,docker.com; docker.io,True,False,False
+115,2,eventbrite.co.uk; eventbrite.com,False,False,True
+117,2,facai88.club; mcwcasino.io,False,False,True
+118,2,financialpost.com; nationalpost.com,False,False,True
+119,2,flic.kr; flickr.com,True,False,True
+121,2,foxit.com; foxitsoftware.com,False,False,True
+123,2,freepik.com; freepik.es,False,False,True
+124,2,gazeta.pl; sport.pl,True,False,True
+125,2,geforce.com; nvidia.com,True,False,True
+126,2,getpostman.com; postman.com,True,False,False
+127,2,glip.com; ringcentral.com,True,False,False
+128,2,globalsign.com; globalsign.net,True,False,False
+129,2,goldmansachs.com; gs.com,True,False,True
+130,2,grafana.com; grafana.net,True,False,True
+132,2,hoidap247.com; loigiaihay.com,True,False,True
+134,2,hsn.com; qvc.com,True,False,True
+135,2,indiana.edu; iu.edu,False,False,True
+136,2,indianexpress.com; jansatta.com,True,False,False
+137,2,infomaniak.ch; infomaniak.com,True,False,True
+138,2,isaidub9.com; prmsrvs.com,False,False,True
+139,2,ivi.ru; ivicdn.tv,False,False,True
+141,2,jivo.ru; jivosite.com,False,False,True
+143,2,kansascity.com; miamiherald.com,False,False,True
+145,2,lecturas.com; semana.es,True,False,True
+146,2,lesnumeriques.com; marmiton.org,True,False,False
+147,2,letras.com; letras.mus.br,True,False,True
+148,2,lg.com; lge.com,False,False,True
+149,2,liftoff.io; vungle.com,False,False,True
+150,2,liquidweb.com; nexcess.net,True,False,True
+151,2,mega.co.nz; mega.nz,False,False,True
+152,2,mentalfloss.com; si.com,False,False,True
+153,2,meta.com; oculus.com,True,False,True
+156,2,mystrikingly.com; strikingly.com,True,False,True
+157,2,news24.com; snl24.com,True,False,True
+158,2,nypost.com; pagesix.com,True,False,True
+159,2,nyt.com; nytimes.com,True,False,True
+160,2,olympic.org; olympics.com,True,False,False
+161,2,one.com; one.one,False,False,True
+162,2,opencan.net; stoiximan.gr,True,False,False
+163,2,packzy.com; steadfast.com.bd,True,False,False
+164,2,pewinternet.org; pewresearch.org,True,False,True
+165,2,photobucket.com; tinypic.com,True,False,False
+166,2,poshvine.com; razorpay.com,False,False,True
+167,2,razer.com; razerzone.com,True,False,False
+168,2,rb.gy; rebrand.ly,False,False,True
+170,2,rmf.fm; rmf24.pl,False,False,True
+173,2,science.org; sciencemag.org,True,False,True
+174,2,shopee.com.br; shopeemobile.com,True,False,True
+175,2,siteground.biz; siteground.us,True,False,True
+176,2,sketchup.com; trimble.com,True,False,True
+177,2,snowflake.com; snowflakecomputing.com,True,False,False
+179,2,ticketmaster.co.uk; ticketmaster.com.mx,True,False,True
+183,2,value-domain.com; xrea.com,True,False,False
+184,2,vogue.co.uk; vogue.com,False,False,True
+185,2,wargaming.net; worldoftanks.eu,True,False,True
+186,2,we.tl; wetransfer.com,True,False,True
+187,2,webflow.com; webflow.io,False,False,True
+188,2,windows.com; xbox.com,False,False,True
+189,2,wired.co.uk; wired.com,False,False,True
+190,2,wyze.com; wyzecam.com,True,False,True
+191,2,zoom.com; zoom.us,True,False,False

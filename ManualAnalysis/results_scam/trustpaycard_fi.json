@@ -1,0 +1,79 @@
+{
+    "name": "trustpaycard.fi",
+    "handle": null,
+    "registrationDate": "5/1/2026, 12:03:18 AM GMT+3",
+    "expirationDate": null,
+    "lastChangedDate": null,
+    "lastUpdateDate": null,
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "adr",
+                        {},
+                        "text",
+                        [
+                            null,
+                            null,
+                            null,
+                            null,
+                            null,
+                            null,
+                            null
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        null
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrant"
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "dns2.icedns.is [Technical check not done]",
+            "unicodeName": "dns2.icedns.is [Technical check not done]"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "dns1.icedns.is [Technical check not done]",
+            "unicodeName": "dns1.icedns.is [Technical check not done]"
+        },
+        {
+            "rdapConformance": [
+                "rdap_level_0"
+            ],
+            "objectClassName": "domain",
+            "port43": "whois.nic.fi",
+            "ldhName": "trustpaycard.fi",
+            "unicodeName": "trustpaycard.fi",
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "dns2.icedns.is [Technical check not done]",
+                    "unicodeName": "dns2.icedns.is [Technical check not done]"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "dns1.icedns.is [Technical check not done]",
+                    "unicodeName": "dns1.icedns.is [Technical check not done]"
+                }
+            ]
+        }
+    ],
+    "domain": "trustpaycard.fi\r"
+}

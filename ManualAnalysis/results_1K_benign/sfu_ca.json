@@ -1,0 +1,397 @@
+{
+    "name": "sfu.ca",
+    "handle": "D259976-CIRA",
+    "registrationDate": "10/10/2000, 10:00:00 AM GMT+3",
+    "expirationDate": "1/20/2028, 10:00:00 AM GMT+2",
+    "lastChangedDate": "4/16/2026, 6:06:34 PM GMT+3",
+    "lastUpdateDate": "6/23/2026, 4:06:33 PM GMT+3",
+    "rawData": [
+        {
+            "roles": [
+                "registrant"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2025-08-27T20:08:25Z"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Glenn Davies"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+1.7787824155"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "Simon Fraser University"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "CA"
+                        },
+                        "text",
+                        [
+                            "",
+                            "8888 University Drive",
+                            "",
+                            "Burnaby",
+                            "BC",
+                            "V5A 1S6",
+                            ""
+                        ]
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "https://www.webnames.ca/services/domains/privacy_contact_owner.aspx"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object redacted due to authorization",
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ]
+                }
+            ]
+        },
+        {
+            "roles": [
+                "technical"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2025-08-27T20:08:25Z"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Rajvir Gill"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+1.7787824155"
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "https://www.webnames.ca/services/domains/privacy_contact_owner.aspx"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object redacted due to authorization",
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ]
+                }
+            ]
+        },
+        {
+            "roles": [
+                "abuse"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Abuse Contact"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+1.8662217878"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "abuse@webnames.ca"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "456"
+        },
+        {
+            "roles": [
+                "registrar"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Webnames.ca Inc."
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+1.8662217878"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "support@webnames.ca"
+                    ]
+                ]
+            ],
+            "publicIds": [
+                {
+                    "type": "IANA Registrar ID",
+                    "identifier": "456"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://www.webnames.ca/rdap/",
+                    "rel": "about",
+                    "href": "https://www.webnames.ca"
+                }
+            ],
+            "entities": [
+                {
+                    "roles": [
+                        "abuse"
+                    ],
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Abuse Contact"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "voice"
+                                },
+                                "uri",
+                                "tel:+1.8662217878"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "abuse@webnames.ca"
+                            ]
+                        ]
+                    ],
+                    "objectClassName": "entity",
+                    "handle": "456"
+                }
+            ],
+            "objectClassName": "entity",
+            "handle": "456"
+        },
+        {
+            "ldhName": "ns1.sfu.ca",
+            "objectClassName": "nameserver"
+        },
+        {
+            "ldhName": "ns2.sfu.ca",
+            "objectClassName": "nameserver"
+        },
+        {
+            "ldhName": "ns3.sfu.ca",
+            "objectClassName": "nameserver"
+        },
+        {
+            "ldhName": "sfu.ca",
+            "unicodeName": "sfu.ca",
+            "nameservers": [
+                {
+                    "ldhName": "ns1.sfu.ca",
+                    "objectClassName": "nameserver"
+                },
+                {
+                    "ldhName": "ns2.sfu.ca",
+                    "objectClassName": "nameserver"
+                },
+                {
+                    "ldhName": "ns3.sfu.ca",
+                    "objectClassName": "nameserver"
+                }
+            ],
+            "port43": "whois.cira.ca",
+            "secureDNS": {
+                "delegationSigned": false
+            },
+            "redacted": [
+                {
+                    "name": {
+                        "type": "Registry Registrant ID"
+                    },
+                    "method": "removal",
+                    "reason": {}
+                },
+                {
+                    "name": {
+                        "type": "Registrant Email"
+                    },
+                    "method": "removal",
+                    "reason": {}
+                },
+                {
+                    "name": {
+                        "type": "Registrant Street"
+                    },
+                    "method": "emptyValue",
+                    "reason": {}
+                },
+                {
+                    "name": {
+                        "type": "Tech Email"
+                    },
+                    "method": "removal",
+                    "reason": {}
+                }
+            ],
+            "rdapConformance": [
+                "rdap_level_0",
+                "icann_rdap_response_profile_1",
+                "icann_rdap_technical_implementation_guide_1",
+                "redacted"
+            ],
+            "links": [
+                {
+                    "value": "https://www.webnames.ca/rdap/domain/sfu.ca",
+                    "rel": "self",
+                    "type": "application/rdap+json",
+                    "href": "https://www.webnames.ca/rdap/domain/sfu.ca"
+                }
+            ],
+            "objectClassName": "domain",
+            "handle": "D259976-CIRA",
+            "notices": [
+                {
+                    "title": "Status Codes",
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://www.webnames.ca/rdap/domain/sfu.ca",
+                            "rel": "glossary",
+                            "type": "text/html",
+                            "href": "https://icann.org/epp"
+                        }
+                    ]
+                },
+                {
+                    "title": "RDDS Inaccuracy Complaint Form",
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://www.webnames.ca/rdap/domain/sfu.ca",
+                            "rel": "help",
+                            "href": "https://icann.org/wicf"
+                        }
+                    ]
+                },
+                {
+                    "title": "Terms of Use",
+                    "description": [
+                        "Webnames.ca provides RDAP service on a best-effort basis and makes no guarantee about the reliability of the information. Consult the appropriate TLD registry for authoritative information.",
+                        "Webnames.ca will provide access to Personal Data within Registration Data over and above what may already be present publicly to third parties, when ordered to do so directly and specifically by a Canadian court of competent jurisdiction.",
+                        "Automated or high-volume queries are not permitted.",
+                        "For full terms of service, see https://www.webnames.ca/terms/terms.aspx."
+                    ],
+                    "links": [
+                        {
+                            "value": "https://www.webnames.ca/rdap/domain/sfu.ca",
+                            "rel": "terms-of-service",
+                            "href": "https://www.webnames.ca/terms/terms.aspx"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "domain": "sfu.ca\r"
+}

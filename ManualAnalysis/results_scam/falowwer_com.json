@@ -1,0 +1,394 @@
+{
+    "name": "falowwer.com",
+    "handle": "3076224810_DOMAIN_COM-VRSN",
+    "registrationDate": "3/12/2026, 8:29:02 AM GMT+2",
+    "expirationDate": "3/12/2027, 8:29:02 AM GMT+2",
+    "lastChangedDate": null,
+    "lastUpdateDate": "6/16/2026, 5:38:13 PM GMT+3",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "roles": [
+                "abuse"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+31.104482297"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "abuse@registrar.eu"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        ""
+                    ]
+                ]
+            ]
+        },
+        {
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "roles": [
+                        "abuse"
+                    ],
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "voice"
+                                },
+                                "uri",
+                                "tel:+31.104482297"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "abuse@registrar.eu"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                ""
+                            ]
+                        ]
+                    ]
+                }
+            ],
+            "handle": "1647",
+            "links": [
+                {
+                    "href": "https://www.openprovider.com/",
+                    "rel": "about",
+                    "value": "https://rdap.registrar.eu/v1/"
+                }
+            ],
+            "objectClassName": "entity",
+            "publicIds": [
+                {
+                    "identifier": "1647",
+                    "type": "IANA Registrar ID"
+                }
+            ],
+            "roles": [
+                "registrar"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Hosting Concepts B.V. d/b/a Registrar.eu"
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "remarks": [
+                {
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ],
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object redacted due to authorization"
+                },
+                {
+                    "description": [
+                        "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant of the queried domain name."
+                    ],
+                    "title": "EMAIL REDACTED FOR PRIVACY",
+                    "type": "object redacted due to authorization"
+                },
+                {
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ],
+                    "title": "REGISTRY REGISTRANT ID REDACTED FOR PRIVACY",
+                    "type": "object redacted due to authorization"
+                },
+                {
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ],
+                    "title": "REGISTRANT ORGANIZATION REDACTED FOR PRIVACY",
+                    "type": "object redacted due to authorization"
+                },
+                {
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ],
+                    "title": "REGISTRY DOMAIN ID REDACTED FOR PRIVACY",
+                    "type": "object redacted due to authorization"
+                }
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "https://contact-form.registrar.eu/?domainName=falowwer.com&purpose=owner"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "REDACTED FOR PRIVACY"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "REDACTED FOR PRIVACY"
+                    ]
+                ]
+            ]
+        },
+        {
+            "ldhName": "ns1.dyna-ns.net",
+            "objectClassName": "nameserver"
+        },
+        {
+            "ldhName": "ns2.dyna-ns.net",
+            "objectClassName": "nameserver"
+        },
+        {
+            "handle": "3076224810_DOMAIN_COM-VRSN",
+            "ldhName": "falowwer.com",
+            "links": [
+                {
+                    "href": "https://rdap.registrar.eu/v1/domain/falowwer.com",
+                    "rel": "self",
+                    "type": "application/rdap+json",
+                    "value": "https://rdap.registrar.eu/v1/domain/falowwer.com"
+                }
+            ],
+            "nameservers": [
+                {
+                    "ldhName": "ns1.dyna-ns.net",
+                    "objectClassName": "nameserver"
+                },
+                {
+                    "ldhName": "ns2.dyna-ns.net",
+                    "objectClassName": "nameserver"
+                }
+            ],
+            "notices": [
+                {
+                    "description": [
+                        "Service subject to Terms of Use."
+                    ],
+                    "links": [
+                        {
+                            "href": "https://www.openprovider.com/en/services/rdap/terms-use-rdap-service",
+                            "rel": "terms-of-service",
+                            "type": "text/html",
+                            "value": "https://rdap.registrar.eu/v1/domain/falowwer.com"
+                        }
+                    ],
+                    "title": "Terms of Use"
+                },
+                {
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ],
+                    "links": [
+                        {
+                            "href": "https://icann.org/epp",
+                            "rel": "glossary",
+                            "type": "text/html",
+                            "value": "https://rdap.registrar.eu/v1/domain/falowwer.com"
+                        }
+                    ],
+                    "title": "Status Codes"
+                },
+                {
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ],
+                    "links": [
+                        {
+                            "href": "https://icann.org/wicf",
+                            "rel": "help",
+                            "type": "text/html",
+                            "value": "https://rdap.registrar.eu/v1/domain/falowwer.com"
+                        }
+                    ],
+                    "title": "RDDS Inaccuracy Complaint Form"
+                }
+            ],
+            "objectClassName": "domain",
+            "rdapConformance": [
+                "rdap_level_0",
+                "icann_rdap_response_profile_1",
+                "icann_rdap_technical_implementation_guide_1",
+                "redacted"
+            ],
+            "redacted": [
+                {
+                    "method": "removal",
+                    "name": {
+                        "type": "Registry Domain ID"
+                    },
+                    "pathLang": "jsonpath",
+                    "prePath": "$.handle"
+                },
+                {
+                    "method": "removal",
+                    "name": {
+                        "type": "Registry Registrant ID"
+                    },
+                    "pathLang": "jsonpath",
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].handle",
+                    "reason": {
+                        "description": "Server policy requires removal due to lack of consent",
+                        "type": "server policy"
+                    }
+                },
+                {
+                    "method": "emptyValue",
+                    "name": {
+                        "type": "Registrant Name"
+                    },
+                    "pathLang": "jsonpath",
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='fn')][3]",
+                    "reason": {
+                        "description": "Server policy requires redaction due to lack of consent",
+                        "type": "server policy"
+                    }
+                },
+                {
+                    "method": "emptyValue",
+                    "name": {
+                        "type": "Registrant Street"
+                    },
+                    "pathLang": "jsonpath",
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][:3]",
+                    "reason": {
+                        "description": "Server policy requires redaction due to lack of consent",
+                        "type": "server policy"
+                    }
+                },
+                {
+                    "method": "emptyValue",
+                    "name": {
+                        "type": "Registrant City"
+                    },
+                    "pathLang": "jsonpath",
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][3]",
+                    "reason": {
+                        "description": "Server policy requires redaction due to lack of consent",
+                        "type": "server policy"
+                    }
+                },
+                {
+                    "method": "emptyValue",
+                    "name": {
+                        "type": "Registrant Postal Code"
+                    },
+                    "pathLang": "jsonpath",
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][5]",
+                    "reason": {
+                        "description": "Server policy requires redaction due to lack of consent",
+                        "type": "server policy"
+                    }
+                },
+                {
+                    "method": "removal",
+                    "name": {
+                        "type": "Registrant Phone"
+                    },
+                    "pathLang": "jsonpath",
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[1].type=='voice')]",
+                    "reason": {
+                        "description": "Server policy requires removal due to lack of consent",
+                        "type": "server policy"
+                    }
+                },
+                {
+                    "method": "removal",
+                    "name": {
+                        "type": "Registrant Email"
+                    },
+                    "pathLang": "jsonpath",
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='email')]",
+                    "reason": {
+                        "description": "Server policy requires removal due to lack of consent",
+                        "type": "server policy"
+                    }
+                },
+                {
+                    "method": "removal",
+                    "name": {
+                        "description": "Administrative Contact"
+                    },
+                    "reason": {
+                        "description": "Server policy requires removal due to lack of consent",
+                        "type": "server policy"
+                    }
+                },
+                {
+                    "method": "removal",
+                    "name": {
+                        "description": "Technical Contact"
+                    },
+                    "reason": {
+                        "description": "Server policy requires removal due to lack of consent",
+                        "type": "server policy"
+                    }
+                }
+            ],
+            "secureDNS": {
+                "delegationSigned": false
+            }
+        }
+    ],
+    "domain": "falowwer.com\r"
+}

@@ -1,0 +1,206 @@
+{
+    "name": "scuffersoutlet.top",
+    "handle": "20260410g10001g-72517202",
+    "registrationDate": "4/10/2026, 1:38:43 PM GMT+3",
+    "expirationDate": "4/10/2027, 1:38:43 PM GMT+3",
+    "lastChangedDate": "5/12/2026, 10:17:36 AM GMT+3",
+    "lastUpdateDate": "6/16/2026, 4:29:18 PM GMT+3",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "roles": [
+                "abuse"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:85268504817"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "abuse@kenpai.net"
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "events": [
+                {
+                    "eventAction": "registrar expiration",
+                    "eventDate": "2027-04-10T10:38:43.0Z"
+                }
+            ],
+            "handle": "4543",
+            "roles": [
+                "registrar"
+            ],
+            "publicIds": [
+                {
+                    "type": "IANA Registrar ID",
+                    "identifier": "4543"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Kenpai International Technology Limited"
+                    ]
+                ]
+            ],
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "roles": [
+                        "abuse"
+                    ],
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                ""
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "voice"
+                                },
+                                "uri",
+                                "tel:85268504817"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "abuse@kenpai.net"
+                            ]
+                        ]
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "NS1.NIKODNS.COM"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "NS2.NIKODNS.COM"
+        },
+        {
+            "objectClassName": "domain",
+            "handle": "20260410g10001g-72517202",
+            "ldhName": "scuffersoutlet.top",
+            "links": [
+                {
+                    "value": "https://rdap.zdnsgtld.com/top/domain/scuffersoutlet.top",
+                    "rel": "self",
+                    "href": "https://rdap.zdnsgtld.com/top/domain/scuffersoutlet.top",
+                    "type": "application/rdap+json"
+                },
+                {
+                    "value": "https://rdap.kphk.rdapwhois.cn/domain/scuffersoutlet.top",
+                    "rel": "related",
+                    "href": "https://rdap.kphk.rdapwhois.cn/domain/scuffersoutlet.top",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "secureDNS": {
+                "delegationSigned": false
+            },
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "NS1.NIKODNS.COM"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "NS2.NIKODNS.COM"
+                }
+            ],
+            "rdapConformance": [
+                "rdap_level_0",
+                "icann_rdap_technical_implementation_guide_0",
+                "icann_rdap_response_profile_0"
+            ],
+            "notices": [
+                {
+                    "title": "Terms of Use",
+                    "description": [
+                        "Service subject to Terms of Use."
+                    ],
+                    "links": [
+                        {
+                            "href": "https://www.kenpai.net/en/privacyReport.html",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "Status Codes",
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ],
+                    "links": [
+                        {
+                            "href": "https://icann.org/epp",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "RDDS Inaccuracy Complaint Form",
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ],
+                    "links": [
+                        {
+                            "href": "https://icann.org/wicf",
+                            "type": "text/html"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "domain": "scuffersoutlet.top\r"
+}

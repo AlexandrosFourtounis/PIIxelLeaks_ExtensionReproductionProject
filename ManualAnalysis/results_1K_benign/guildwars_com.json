@@ -1,0 +1,241 @@
+{
+    "name": "guildwars.com",
+    "handle": "32948950_DOMAIN_COM-VRSN",
+    "registrationDate": "8/14/2000, 10:38:54 PM GMT+3",
+    "expirationDate": "8/14/2026, 10:38:54 PM GMT+3",
+    "lastChangedDate": "5/14/2026, 3:14:21 AM GMT+3",
+    "lastUpdateDate": "6/23/2026, 2:26:44 PM GMT+3",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "handle": "",
+            "status": [
+                "active"
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "NCsoft Corp."
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "NCsoft Corp."
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "domain@ncsoft.com"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+82.216000020"
+                    ],
+                    [
+                        "adr",
+                        {},
+                        "text",
+                        [
+                            "",
+                            "",
+                            "644-12 Daewangpangyo-ro , Bundang-gu, Seongnam-si,",
+                            "Gyeonggi-do",
+                            "",
+                            "463400",
+                            "KR"
+                        ]
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "",
+            "status": [
+                "active"
+            ],
+            "roles": [
+                "admin"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "NCsoft Corp."
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "NCsoft Corp."
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "domain@ncsoft.com"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+82.216000020"
+                    ],
+                    [
+                        "adr",
+                        {},
+                        "text",
+                        [
+                            "",
+                            "",
+                            "644-12 Daewangpangyo-ro , Bundang-gu, Seongnam-si,",
+                            "Gyeonggi-do",
+                            "",
+                            "463400",
+                            "KR"
+                        ]
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "",
+            "status": [
+                "active"
+            ],
+            "roles": [
+                "technical"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "NCsoft Corp."
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "NCsoft Corp."
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "domain@ncsoft.com"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+82.216000020"
+                    ],
+                    [
+                        "adr",
+                        {},
+                        "text",
+                        [
+                            "",
+                            "",
+                            "644-12 Daewangpangyo-ro , Bundang-gu, Seongnam-si,",
+                            "Gyeonggi-do",
+                            "",
+                            "463400",
+                            "KR"
+                        ]
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "NS-1442.AWSDNS-52.ORG"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "NS-1727.AWSDNS-23.CO.UK"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "NS-465.AWSDNS-58.COM"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "NS-883.AWSDNS-46.NET"
+        },
+        {
+            "rdapConformance": [
+                "rdap_level_0"
+            ],
+            "port43": "whois.co.kr",
+            "lang": "en",
+            "objectClassName": "domain",
+            "ldhName": "guildwars.com",
+            "handle": "32948950_DOMAIN_COM-VRSN",
+            "secureDNS": {
+                "delegationSigned": false
+            },
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "NS-1442.AWSDNS-52.ORG"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "NS-1727.AWSDNS-23.CO.UK"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "NS-465.AWSDNS-58.COM"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "NS-883.AWSDNS-46.NET"
+                }
+            ]
+        }
+    ],
+    "domain": "guildwars.com\r"
+}

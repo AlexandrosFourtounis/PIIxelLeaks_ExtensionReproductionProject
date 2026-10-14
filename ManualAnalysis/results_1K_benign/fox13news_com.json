@@ -1,0 +1,666 @@
+{
+    "name": "fox13news.com",
+    "handle": "1808931_DOMAIN_COM-VRSN",
+    "registrationDate": "12/31/1997, 7:00:00 AM GMT+2",
+    "expirationDate": "12/23/2026, 8:18:36 PM GMT+2",
+    "lastChangedDate": "11/23/2025, 1:00:34 AM GMT+2",
+    "lastUpdateDate": "6/23/2026, 2:41:16 PM GMT+3",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "handle": "fox13newscom-reg",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Domain Administrator"
+                    ],
+                    [
+                        "org",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "Fox Media LLC"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "US"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "10201 West Pico Boulevard",
+                            "Los Angeles",
+                            "CA",
+                            "90035",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+1.3103693620"
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "mailto:foxdomains@fox.com"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2022-08-24T14:06:23Z"
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "fox13newscom-tech",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Domain Administrator"
+                    ],
+                    [
+                        "org",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "Fox Media LLC"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "US"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "10201 West Pico Boulevard",
+                            "Los Angeles",
+                            "CA",
+                            "90035",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+1.3103693620"
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "mailto:foxdomains@fox.com"
+                    ]
+                ]
+            ],
+            "roles": [
+                "technical"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2022-08-24T14:06:23Z"
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+1 (518) 831-5864"
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "abuse@gcd.com"
+                    ]
+                ]
+            ],
+            "roles": [
+                "abuse"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "3786",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "GoDaddy Corporate Domains, LLC"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "US"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "2155 E Godaddy Way",
+                            "Tempe",
+                            "AZ",
+                            "85284",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "abuse@gcd.com"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrar"
+            ],
+            "publicIds": [
+                {
+                    "type": "IANA Registrar ID",
+                    "identifier": "3786"
+                }
+            ],
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                ""
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "voice"
+                                },
+                                "uri",
+                                "tel:+1 (518) 831-5864"
+                            ],
+                            [
+                                "email",
+                                {
+                                    "type": "work"
+                                },
+                                "text",
+                                "abuse@gcd.com"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "abuse"
+                    ]
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.brandsight.com/v1/",
+                    "rel": "about",
+                    "href": "https://gcd.com",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "port43": "whois.brandsight.com"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns01.dns.fox",
+            "status": [
+                "active"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2025-11-22T23:00:34Z"
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns02.dns.fox",
+            "status": [
+                "active"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2025-11-22T23:00:34Z"
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns03.dns.fox",
+            "status": [
+                "active"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2025-11-22T23:00:34Z"
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns04.dns.fox",
+            "status": [
+                "active"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2025-11-22T23:00:34Z"
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns01.foxdoua.com",
+            "status": [
+                "active"
+            ],
+            "ipAddresses": {
+                "v4": [
+                    "45.54.79.1"
+                ],
+                "v6": [
+                    "2607:f740:e645::1"
+                ]
+            },
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2025-11-22T23:00:34Z"
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns02.foxdoua.com",
+            "status": [
+                "active"
+            ],
+            "ipAddresses": {
+                "v4": [
+                    "45.54.79.65"
+                ],
+                "v6": [
+                    "2607:f740:e645:4::1"
+                ]
+            },
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2025-11-22T23:00:34Z"
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns03.foxdoua.com",
+            "status": [
+                "active"
+            ],
+            "ipAddresses": {
+                "v4": [
+                    "45.54.79.129"
+                ],
+                "v6": [
+                    "2607:f740:e645:8::1"
+                ]
+            },
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2025-11-22T23:00:34Z"
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns04.foxdoua.com",
+            "status": [
+                "active"
+            ],
+            "ipAddresses": {
+                "v4": [
+                    "45.54.79.193"
+                ],
+                "v6": [
+                    "2607:f740:e645:c::1"
+                ]
+            },
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2025-11-22T23:00:34Z"
+                }
+            ]
+        },
+        {
+            "objectClassName": "domain",
+            "handle": "1808931_DOMAIN_COM-VRSN",
+            "ldhName": "fox13news.com",
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns01.dns.fox",
+                    "status": [
+                        "active"
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2025-11-22T23:00:34Z"
+                        }
+                    ]
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns02.dns.fox",
+                    "status": [
+                        "active"
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2025-11-22T23:00:34Z"
+                        }
+                    ]
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns03.dns.fox",
+                    "status": [
+                        "active"
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2025-11-22T23:00:34Z"
+                        }
+                    ]
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns04.dns.fox",
+                    "status": [
+                        "active"
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2025-11-22T23:00:34Z"
+                        }
+                    ]
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns01.foxdoua.com",
+                    "status": [
+                        "active"
+                    ],
+                    "ipAddresses": {
+                        "v4": [
+                            "45.54.79.1"
+                        ],
+                        "v6": [
+                            "2607:f740:e645::1"
+                        ]
+                    },
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2025-11-22T23:00:34Z"
+                        }
+                    ]
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns02.foxdoua.com",
+                    "status": [
+                        "active"
+                    ],
+                    "ipAddresses": {
+                        "v4": [
+                            "45.54.79.65"
+                        ],
+                        "v6": [
+                            "2607:f740:e645:4::1"
+                        ]
+                    },
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2025-11-22T23:00:34Z"
+                        }
+                    ]
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns03.foxdoua.com",
+                    "status": [
+                        "active"
+                    ],
+                    "ipAddresses": {
+                        "v4": [
+                            "45.54.79.129"
+                        ],
+                        "v6": [
+                            "2607:f740:e645:8::1"
+                        ]
+                    },
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2025-11-22T23:00:34Z"
+                        }
+                    ]
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns04.foxdoua.com",
+                    "status": [
+                        "active"
+                    ],
+                    "ipAddresses": {
+                        "v4": [
+                            "45.54.79.193"
+                        ],
+                        "v6": [
+                            "2607:f740:e645:c::1"
+                        ]
+                    },
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2025-11-22T23:00:34Z"
+                        }
+                    ]
+                }
+            ],
+            "secureDNS": {
+                "delegationSigned": true,
+                "dsData": [
+                    {
+                        "keyTag": 48553,
+                        "algorithm": 13,
+                        "digest": "2A0CF1881E695E317B2FC6470AC25EEA4FAF29163FFA34D3351CF58BEA0DADB5",
+                        "digestType": 2,
+                        "events": [
+                            {
+                                "eventAction": "last changed",
+                                "eventDate": "2020-11-23T18:44:33Z"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "value": "https://rdap.brandsight.com/v1/domain/fox13news.com",
+                    "rel": "self",
+                    "href": "https://rdap.brandsight.com/v1/domain/fox13news.com",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "notices": [
+                {
+                    "title": "Status Codes",
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.brandsight.com/v1/domain/fox13news.com",
+                            "rel": "glossary",
+                            "href": "https://icann.org/epp",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "RDDS Inaccuracy Complaint Form",
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.brandsight.com/v1/domain/fox13news.com",
+                            "rel": "help",
+                            "href": "https://icann.org/wicf",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "Terms of Use",
+                    "description": [
+                        "By submitting an inquiry, you agree to these Universal Terms of Service",
+                        "and limitations of warranty. In particular, you agree not to use this",
+                        "data to allow, enable, or otherwise make possible, dissemination or",
+                        "collection of this data, in part or in its entirety, for any purpose,",
+                        "such as the transmission of unsolicited advertising and solicitations of",
+                        "any kind, including spam. You further agree not to use this data to enable",
+                        "high volume, automated or robotic electronic processes designed to collect",
+                        "or compile this data for any purpose, including mining this data for your",
+                        "own personal or commercial purposes, or use this data in any way that violates",
+                        "applicable laws and regulations."
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.brandsight.com/v1/domain/fox13news.com",
+                            "rel": "terms-of-service",
+                            "href": "https://www.godaddy.com/agreements/showdoc?pageid=5403",
+                            "type": "text/html"
+                        }
+                    ]
+                }
+            ],
+            "rdapConformance": [
+                "rdap_level_0",
+                "redacted",
+                "icann_rdap_response_profile_1",
+                "icann_rdap_technical_implementation_guide_1"
+            ],
+            "port43": "whois.brandsight.com"
+        }
+    ],
+    "domain": "fox13news.com\r"
+}

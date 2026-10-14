@@ -1,0 +1,372 @@
+{
+    "name": "revitaliseonline.store",
+    "handle": "DO_7996d658e4c206d726554ad4b4280d70-RADIX",
+    "registrationDate": "5/4/2026, 9:06:35 PM GMT+3",
+    "expirationDate": "5/4/2027, 9:06:35 PM GMT+3",
+    "lastChangedDate": "5/4/2026, 9:06:36 PM GMT+3",
+    "lastUpdateDate": "6/16/2026, 5:21:27 PM GMT+3",
+    "rawData": [
+        {
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Quaid Benta"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "US"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            [
+                                "",
+                                "",
+                                "Default Address"
+                            ],
+                            "City",
+                            "State",
+                            "10001",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "quaid.f@hotmail.co.uk"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+1.111111111111"
+                    ]
+                ]
+            ],
+            "handle": "133909973",
+            "status": [
+                "active"
+            ],
+            "roles": [
+                "administrative",
+                "technical"
+            ],
+            "objectClassName": "entity",
+            "lang": "en"
+        },
+        {
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Quaid Benta"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "US"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            [
+                                "",
+                                "",
+                                "Default Address"
+                            ],
+                            "City",
+                            "State",
+                            "10001",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "quaid.f@hotmail.co.uk"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+1.111111111111"
+                    ]
+                ]
+            ],
+            "handle": "133909973",
+            "status": [
+                "active"
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "objectClassName": "entity",
+            "lang": "en"
+        },
+        {
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "Dot Store Inc"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Dot Store Inc"
+                    ]
+                ]
+            ],
+            "status": [
+                "active"
+            ],
+            "roles": [
+                "abuse"
+            ],
+            "objectClassName": "entity",
+            "lang": "en"
+        },
+        {
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "Dot Store Inc"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Dot Store Inc"
+                    ]
+                ]
+            ],
+            "status": [
+                "active"
+            ],
+            "roles": [
+                "registrar"
+            ],
+            "entities": [
+                {
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "org",
+                                {},
+                                "text",
+                                "Dot Store Inc"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Dot Store Inc"
+                            ]
+                        ]
+                    ],
+                    "status": [
+                        "active"
+                    ],
+                    "roles": [
+                        "abuse"
+                    ],
+                    "objectClassName": "entity",
+                    "lang": "en"
+                }
+            ],
+            "publicIds": [
+                {
+                    "type": "IANA Registrar ID",
+                    "identifier": null
+                }
+            ],
+            "objectClassName": "entity",
+            "lang": "en"
+        },
+        {
+            "ldhName": "bysdomains.mars.orderbox-dns.com",
+            "unicodeName": "bysdomains.mars.orderbox-dns.com",
+            "status": [
+                "active"
+            ],
+            "objectClassName": "nameserver",
+            "lang": "en"
+        },
+        {
+            "ldhName": "bysdomains.venus.orderbox-dns.com",
+            "unicodeName": "bysdomains.venus.orderbox-dns.com",
+            "status": [
+                "active"
+            ],
+            "objectClassName": "nameserver",
+            "lang": "en"
+        },
+        {
+            "handle": "DO_7996d658e4c206d726554ad4b4280d70-RADIX",
+            "ldhName": "revitaliseonline.store",
+            "secureDNS": {
+                "delegationSigned": false
+            },
+            "notices": [
+                {
+                    "title": "Data Policy",
+                    "type": "object truncated due to authorization",
+                    "description": [
+                        "The contact information for one or more entities associated with this domain has been redacted in accordance with the entity's disclosure preferences."
+                    ]
+                },
+                {
+                    "title": "Terms of Use",
+                    "links": [
+                        {
+                            "value": "https://rdapserver.net/domain/revitaliseonline.store",
+                            "type": "application/rdap+json",
+                            "rel": "terms-of-service",
+                            "href": "https://rdapserver.net/terms-of-use/"
+                        }
+                    ],
+                    "description": [
+                        "URL for Terms of Use https://rdapserver.net/terms-of-use/"
+                    ]
+                },
+                {
+                    "title": "Status Codes",
+                    "links": [
+                        {
+                            "value": "https://rdapserver.net/domain/revitaliseonline.store",
+                            "type": "application/rdap+json",
+                            "rel": "glossary",
+                            "href": "https://icann.org/epp"
+                        }
+                    ],
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ]
+                },
+                {
+                    "title": "RDDS Inaccuracy Complaint Form",
+                    "links": [
+                        {
+                            "value": "https://rdapserver.net/domain/revitaliseonline.store",
+                            "type": "application/rdap+json",
+                            "rel": "help",
+                            "href": "https://icann.org/wicf"
+                        }
+                    ],
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ]
+                }
+            ],
+            "rdapConformance": [
+                "icann_rdap_response_profile_1",
+                "icann_rdap_technical_implementation_guide_1",
+                "rdap_level_0",
+                "redacted"
+            ],
+            "objectClassName": "domain",
+            "lang": "en",
+            "nameservers": [
+                {
+                    "ldhName": "bysdomains.mars.orderbox-dns.com",
+                    "unicodeName": "bysdomains.mars.orderbox-dns.com",
+                    "status": [
+                        "active"
+                    ],
+                    "objectClassName": "nameserver",
+                    "lang": "en"
+                },
+                {
+                    "ldhName": "bysdomains.venus.orderbox-dns.com",
+                    "unicodeName": "bysdomains.venus.orderbox-dns.com",
+                    "status": [
+                        "active"
+                    ],
+                    "objectClassName": "nameserver",
+                    "lang": "en"
+                }
+            ],
+            "redacted": [
+                {
+                    "name": {
+                        "type": "Registrant Organization"
+                    },
+                    "reason": {
+                        "description": "Data redacted due to Privacy."
+                    },
+                    "method": "removal",
+                    "pathLang": "jsonpath",
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='org')]"
+                }
+            ]
+        }
+    ],
+    "domain": "revitaliseonline.store\r"
+}

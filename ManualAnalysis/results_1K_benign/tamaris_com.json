@@ -1,0 +1,469 @@
+{
+    "name": "tamaris.com",
+    "handle": "4611021_DOMAIN_COM-VRSN",
+    "registrationDate": "3/23/1999, 7:00:00 AM GMT+2",
+    "expirationDate": "3/23/2027, 6:00:00 AM GMT+2",
+    "lastChangedDate": "5/20/2026, 6:31:18 PM GMT+3",
+    "lastUpdateDate": "6/23/2026, 6:05:02 PM GMT+3",
+    "rawData": [
+        {
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "united-domains GmbH"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+49.8151.3686725"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "abuse@united-domains.de"
+                    ]
+                ]
+            ],
+            "roles": [
+                "abuse"
+            ],
+            "objectClassName": "entity"
+        },
+        {
+            "publicIds": [
+                {
+                    "type": "IANA Registrar ID",
+                    "identifier": "1408"
+                }
+            ],
+            "roles": [
+                "registrar"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "united-domains GmbH"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "type": "work",
+                            "cc": "DE"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "Gautingerstraße 10",
+                            "Starnberg",
+                            "",
+                            "82319",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "abuse@united-domains.de"
+                    ]
+                ]
+            ],
+            "handle": "1408",
+            "objectClassName": "entity",
+            "entities": [
+                {
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "united-domains GmbH"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "voice"
+                                },
+                                "uri",
+                                "tel:+49.8151.3686725"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "abuse@united-domains.de"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "abuse"
+                    ],
+                    "objectClassName": "entity"
+                }
+            ],
+            "links": [
+                {
+                    "href": "https://rdap.udag.net/",
+                    "value": "https://rdap.udag.net/",
+                    "rel": "about",
+                    "type": "application/rdap+json"
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "remarks": [
+                {
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ],
+                    "type": "object truncated due to authorization",
+                    "title": "REDACTED FOR PRIVACY"
+                }
+            ],
+            "handle": "",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        null
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "DE"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            null,
+                            null,
+                            "",
+                            null,
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        null
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "https://www.united-domains.de/domain-inhaber-kontaktieren"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrant"
+            ]
+        },
+        {
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ],
+                    "type": "object truncated due to authorization"
+                }
+            ],
+            "handle": "",
+            "objectClassName": "entity",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        null
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "DE"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            null,
+                            null,
+                            "",
+                            null,
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        null
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "https://www.united-domains.de/domain-inhaber-kontaktieren"
+                    ]
+                ]
+            ],
+            "roles": [
+                "administrative"
+            ]
+        },
+        {
+            "handle": "",
+            "objectClassName": "entity",
+            "roles": [
+                "technical"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Host Master"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "DE"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "Gautinger Str. 10",
+                            "Starnberg",
+                            "",
+                            "82319",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "hostmaster@united-domains.de"
+                    ]
+                ]
+            ]
+        },
+        {
+            "status": [
+                "associated"
+            ],
+            "ldhName": "ns0.dnsmadeeasy.com",
+            "objectClassName": "nameserver"
+        },
+        {
+            "status": [
+                "associated"
+            ],
+            "ldhName": "ns1.dnsmadeeasy.com",
+            "objectClassName": "nameserver"
+        },
+        {
+            "objectClassName": "nameserver",
+            "status": [
+                "associated"
+            ],
+            "ldhName": "ns2.dnsmadeeasy.com"
+        },
+        {
+            "ldhName": "ns3.dnsmadeeasy.com",
+            "status": [
+                "associated"
+            ],
+            "objectClassName": "nameserver"
+        },
+        {
+            "objectClassName": "nameserver",
+            "status": [
+                "associated"
+            ],
+            "ldhName": "ns4.dnsmadeeasy.com"
+        },
+        {
+            "rdapConformance": [
+                "rdap_level_0",
+                "icann_rdap_response_profile_1",
+                "icann_rdap_technical_implementation_guide_1"
+            ],
+            "handle": "4611021_DOMAIN_COM-VRSN",
+            "objectClassName": "domain",
+            "port43": "whois.udag.net",
+            "links": [
+                {
+                    "rel": "about",
+                    "type": "application/rdap+json",
+                    "value": "https://rdap.udag.net/domain/tamaris.com",
+                    "href": "https://rdap.udag.net/domain/tamaris.com"
+                }
+            ],
+            "ldhName": "tamaris.com",
+            "notices": [
+                {
+                    "description": [
+                        "This data is provided by united-domains AG",
+                        "for information purposes, and to assist persons obtaining information",
+                        "about or related to domain name registration records.",
+                        "united-domains AG does not guarantee its accuracy.",
+                        "By submitting a RDAP query, you agree that you will use this data",
+                        "only for lawful purposes and that, under no circumstances, you will",
+                        "use this data to",
+                        "1) allow, enable, or otherwise support the transmission of mass",
+                        "   unsolicited, commercial advertising or solicitations via e-mail",
+                        "   (spam); or",
+                        "2) enable high volume, automated, electronic processes that apply",
+                        "   to this RDAP server.",
+                        "These terms may be changed without prior notice.",
+                        "By submitting this query, you agree to abide by this policy."
+                    ],
+                    "title": "Terms of Use",
+                    "links": [
+                        {
+                            "rel": "self",
+                            "type": "text/html",
+                            "href": "https://www.united-domains.de/whois-suche/",
+                            "value": "https://www.united-domains.de/whois-suche/"
+                        }
+                    ]
+                },
+                {
+                    "title": "Status Codes",
+                    "links": [
+                        {
+                            "type": "text/html",
+                            "rel": "glossary",
+                            "href": "https://icann.org/epp",
+                            "value": "https://icann.org/epp"
+                        }
+                    ],
+                    "description": [
+                        "For more information on domain status codes, please visit https://www.icann.org/epp"
+                    ]
+                },
+                {
+                    "links": [
+                        {
+                            "rel": "help",
+                            "type": "text/html",
+                            "value": "https://icann.org/wicf",
+                            "href": "https://icann.org/wicf"
+                        }
+                    ],
+                    "title": "RDDS Inaccuracy Complaint Form",
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://www.icann.org/wicf"
+                    ]
+                }
+            ],
+            "secureDNS": {
+                "delegationSigned": false
+            },
+            "nameservers": [
+                {
+                    "status": [
+                        "associated"
+                    ],
+                    "ldhName": "ns0.dnsmadeeasy.com",
+                    "objectClassName": "nameserver"
+                },
+                {
+                    "status": [
+                        "associated"
+                    ],
+                    "ldhName": "ns1.dnsmadeeasy.com",
+                    "objectClassName": "nameserver"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "status": [
+                        "associated"
+                    ],
+                    "ldhName": "ns2.dnsmadeeasy.com"
+                },
+                {
+                    "ldhName": "ns3.dnsmadeeasy.com",
+                    "status": [
+                        "associated"
+                    ],
+                    "objectClassName": "nameserver"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "status": [
+                        "associated"
+                    ],
+                    "ldhName": "ns4.dnsmadeeasy.com"
+                }
+            ]
+        }
+    ],
+    "domain": "tamaris.com\r"
+}

@@ -1,0 +1,408 @@
+{
+    "name": "pucsp.br",
+    "handle": "pucsp.br",
+    "registrationDate": "1/1/1996, 2:00:00 PM GMT+2",
+    "expirationDate": null,
+    "lastChangedDate": "7/19/2018, 4:09:37 PM GMT+3",
+    "lastUpdateDate": null,
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "handle": "VEV",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Victor E.J.S. Vicente"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "victor@pucsp.br"
+                    ],
+                    [
+                        "lang",
+                        {},
+                        "language-tag",
+                        "pt"
+                    ],
+                    [
+                        "adr",
+                        {},
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "BR"
+                        ]
+                    ]
+                ]
+            ],
+            "roles": [
+                "administrative"
+            ],
+            "events": [
+                {
+                    "eventAction": "registration",
+                    "eventDate": "1997-12-18T12:00:00Z"
+                },
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2026-03-13T19:31:28Z"
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "60990751000124",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Fundação São Paulo"
+                    ],
+                    [
+                        "adr",
+                        {},
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "BR"
+                        ]
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "publicIds": [
+                {
+                    "type": "cnpj",
+                    "identifier": "60.990.751/0001-24"
+                }
+            ],
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "handle": "VEV",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "kind",
+                                {},
+                                "text",
+                                "individual"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Victor E.J.S. Vicente"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "victor@pucsp.br"
+                            ],
+                            [
+                                "lang",
+                                {},
+                                "language-tag",
+                                "pt"
+                            ],
+                            [
+                                "adr",
+                                {},
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "BR"
+                                ]
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "administrative"
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "1997-12-18T12:00:00Z"
+                        },
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2026-03-13T19:31:28Z"
+                        }
+                    ]
+                }
+            ],
+            "events": [
+                {
+                    "eventAction": "registration",
+                    "eventDate": "1998-03-02T12:00:00Z"
+                },
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2026-03-13T20:56:42Z"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.registro.br/entity/60990751000124",
+                    "rel": "self",
+                    "href": "https://rdap.registro.br/entity/60990751000124",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "legalRepresentative": "Pe. João Julio Farias Junior"
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "NEA55",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "NuCC-Internet Equipe de Administracao"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "ni@fundasp.org.br"
+                    ],
+                    [
+                        "lang",
+                        {},
+                        "language-tag",
+                        "pt"
+                    ],
+                    [
+                        "adr",
+                        {},
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "BR"
+                        ]
+                    ]
+                ]
+            ],
+            "roles": [
+                "technical"
+            ],
+            "events": [
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2003-02-06T12:00:00Z"
+                },
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2024-11-05T13:36:55Z"
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns01.pucsp.br",
+            "ipAddresses": {
+                "v4": [
+                    "200.144.145.9"
+                ]
+            },
+            "events": [
+                {
+                    "eventAction": "delegation check",
+                    "eventDate": "2026-06-19T08:00:23Z",
+                    "status": [
+                        "ns aa"
+                    ]
+                },
+                {
+                    "eventAction": "last correct delegation check",
+                    "eventDate": "2026-06-19T08:00:23Z"
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns02.pucsp.br",
+            "ipAddresses": {
+                "v4": [
+                    "200.144.145.10"
+                ]
+            },
+            "events": [
+                {
+                    "eventAction": "delegation check",
+                    "eventDate": "2026-06-19T08:00:23Z",
+                    "status": [
+                        "ns aa"
+                    ]
+                },
+                {
+                    "eventAction": "last correct delegation check",
+                    "eventDate": "2026-06-19T08:00:23Z"
+                }
+            ]
+        },
+        {
+            "objectClassName": "domain",
+            "handle": "pucsp.br",
+            "ldhName": "pucsp.br",
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns01.pucsp.br",
+                    "ipAddresses": {
+                        "v4": [
+                            "200.144.145.9"
+                        ]
+                    },
+                    "events": [
+                        {
+                            "eventAction": "delegation check",
+                            "eventDate": "2026-06-19T08:00:23Z",
+                            "status": [
+                                "ns aa"
+                            ]
+                        },
+                        {
+                            "eventAction": "last correct delegation check",
+                            "eventDate": "2026-06-19T08:00:23Z"
+                        }
+                    ]
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns02.pucsp.br",
+                    "ipAddresses": {
+                        "v4": [
+                            "200.144.145.10"
+                        ]
+                    },
+                    "events": [
+                        {
+                            "eventAction": "delegation check",
+                            "eventDate": "2026-06-19T08:00:23Z",
+                            "status": [
+                                "ns aa"
+                            ]
+                        },
+                        {
+                            "eventAction": "last correct delegation check",
+                            "eventDate": "2026-06-19T08:00:23Z"
+                        }
+                    ]
+                }
+            ],
+            "secureDNS": {
+                "delegationSigned": false
+            },
+            "links": [
+                {
+                    "value": "https://rdap.registro.br/domain/pucsp.br",
+                    "rel": "self",
+                    "href": "https://rdap.registro.br/domain/pucsp.br",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "notices": [
+                {
+                    "title": "Use and Privacy Policy",
+                    "description": [
+                        "Copyright (c) Nic.br - Use of this data is governed by the Use and Privacy Policy. Distribution, commercialization, reproduction, and use for advertising or similar purposes are expressly prohibited.",
+                        "2026-06-23T10:07:21-03:00 - 139.91.90.27"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.registro.br/domain/pucsp.br",
+                            "rel": "alternate",
+                            "href": "https://registro.br/upp",
+                            "type": "text/html"
+                        }
+                    ]
+                }
+            ],
+            "rdapConformance": [
+                "rdap_level_0",
+                "nicbr_level_0"
+            ],
+            "port43": "whois.registro.br"
+        }
+    ],
+    "domain": "pucsp.br\r"
+}

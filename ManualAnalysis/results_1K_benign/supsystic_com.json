@@ -1,0 +1,458 @@
+{
+    "name": "supsystic.com",
+    "handle": "1701952308_DOMAIN_COM-VRSN",
+    "registrationDate": "2/13/2012, 6:30:35 AM GMT+2",
+    "expirationDate": "2/13/2027, 6:30:35 AM GMT+2",
+    "lastChangedDate": "2/14/2026, 7:45:33 PM GMT+2",
+    "lastUpdateDate": "6/23/2026, 5:27:26 PM GMT+3",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "handle": "supsysticcom-reg",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Registration Private"
+                    ],
+                    [
+                        "org",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "Domains By Proxy, LLC"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "US"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "DomainsByProxy.com 100 S. Mill Ave, Suite 1600",
+                            "Tempe",
+                            "Arizona",
+                            "85281",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+1.4806242599"
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "https://webform.meshdigital.com"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2023-11-09T06:06:25Z"
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "supsysticcom-tech",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Registration Private"
+                    ],
+                    [
+                        "org",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "Domains By Proxy, LLC"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "US"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "DomainsByProxy.com 100 S. Mill Ave, Suite 1600",
+                            "Tempe",
+                            "Arizona",
+                            "85281",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+1.4806242599"
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "https://webform.meshdigital.com"
+                    ]
+                ]
+            ],
+            "roles": [
+                "technical"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2023-11-09T06:06:25Z"
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+1.8779770099"
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "abuse@123-reg.co.uk"
+                    ]
+                ]
+            ],
+            "roles": [
+                "abuse"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "1515",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "123-Reg Limited"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "GB"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "The Old Vinyl Factory, Blyth Road",
+                            "Hayes",
+                            "Middlesex",
+                            "UB3 1HA",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "support@domainbox.com"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrar"
+            ],
+            "publicIds": [
+                {
+                    "type": "IANA Registrar ID",
+                    "identifier": "1515"
+                }
+            ],
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                ""
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "voice"
+                                },
+                                "uri",
+                                "tel:+1.8779770099"
+                            ],
+                            [
+                                "email",
+                                {
+                                    "type": "work"
+                                },
+                                "text",
+                                "abuse@123-reg.co.uk"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "abuse"
+                    ]
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.123-reg.co.uk/v1/",
+                    "rel": "about",
+                    "href": "https://www.123-reg.co.uk",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "port43": "whois.123-reg.co.uk"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "addyson.ns.cloudflare.com",
+            "status": [
+                "active"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2023-11-09T06:06:20Z"
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "armando.ns.cloudflare.com",
+            "status": [
+                "active"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2023-11-09T06:06:20Z"
+                }
+            ]
+        },
+        {
+            "objectClassName": "domain",
+            "handle": "1701952308_DOMAIN_COM-VRSN",
+            "ldhName": "supsystic.com",
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "addyson.ns.cloudflare.com",
+                    "status": [
+                        "active"
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2023-11-09T06:06:20Z"
+                        }
+                    ]
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "armando.ns.cloudflare.com",
+                    "status": [
+                        "active"
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2023-11-09T06:06:20Z"
+                        }
+                    ]
+                }
+            ],
+            "secureDNS": {
+                "delegationSigned": false
+            },
+            "links": [
+                {
+                    "value": "https://rdap.123-reg.co.uk/v1/domain/supsystic.com",
+                    "rel": "self",
+                    "href": "https://rdap.123-reg.co.uk/v1/domain/supsystic.com",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "notices": [
+                {
+                    "title": "Status Codes",
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.123-reg.co.uk/v1/domain/supsystic.com",
+                            "rel": "glossary",
+                            "href": "https://icann.org/epp",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "RDDS Inaccuracy Complaint Form",
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.123-reg.co.uk/v1/domain/supsystic.com",
+                            "rel": "help",
+                            "href": "https://icann.org/wicf",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "Terms of Use",
+                    "description": [
+                        "By submitting an inquiry, you agree to these Universal Terms of Service",
+                        "and limitations of warranty. In particular, you agree not to use this",
+                        "data to allow, enable, or otherwise make possible, dissemination or",
+                        "collection of this data, in part or in its entirety, for any purpose,",
+                        "such as the transmission of unsolicited advertising and solicitations of",
+                        "any kind, including spam. You further agree not to use this data to enable",
+                        "high volume, automated or robotic electronic processes designed to collect",
+                        "or compile this data for any purpose, including mining this data for your",
+                        "own personal or commercial purposes, or use this data in any way that violates",
+                        "applicable laws and regulations."
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.123-reg.co.uk/v1/domain/supsystic.com",
+                            "rel": "terms-of-service",
+                            "href": "https://www.godaddy.com/agreements/showdoc?pageid=5403",
+                            "type": "text/html"
+                        }
+                    ]
+                }
+            ],
+            "rdapConformance": [
+                "rdap_level_0",
+                "redacted",
+                "icann_rdap_response_profile_1",
+                "icann_rdap_technical_implementation_guide_1"
+            ],
+            "port43": "whois.123-reg.co.uk",
+            "redacted": [
+                {
+                    "name": {
+                        "description": "Registrant Email"
+                    },
+                    "method": "replacementValue",
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='email')]",
+                    "replacementPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='contact-uri')]",
+                    "pathLang": "jsonpath",
+                    "reason": {
+                        "description": "Server Policy"
+                    }
+                },
+                {
+                    "name": {
+                        "description": "Technical Email"
+                    },
+                    "method": "replacementValue",
+                    "prePath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='email')]",
+                    "replacementPath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='contact-uri')]",
+                    "pathLang": "jsonpath",
+                    "reason": {
+                        "description": "Server Policy"
+                    }
+                }
+            ]
+        }
+    ],
+    "domain": "supsystic.com\r"
+}

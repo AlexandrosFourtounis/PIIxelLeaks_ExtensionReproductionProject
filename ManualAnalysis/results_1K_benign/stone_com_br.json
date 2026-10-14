@@ -1,0 +1,530 @@
+{
+    "name": "stone.com.br",
+    "handle": "stone.com.br",
+    "registrationDate": "11/25/1998, 2:41:54 PM GMT+2",
+    "expirationDate": "11/25/2027, 2:41:54 PM GMT+2",
+    "lastChangedDate": "6/23/2026, 9:13:03 AM GMT+3",
+    "lastUpdateDate": null,
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "handle": "STPSA5",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "STPAGG PARTICIPAÇÕES S.A."
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "defensivesecurity@stone.com.br"
+                    ],
+                    [
+                        "lang",
+                        {},
+                        "language-tag",
+                        "pt"
+                    ],
+                    [
+                        "adr",
+                        {},
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "BR"
+                        ]
+                    ]
+                ]
+            ],
+            "roles": [
+                "administrative"
+            ],
+            "events": [
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2013-11-22T21:08:55Z"
+                },
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2020-01-31T20:27:46Z"
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "16501555000157",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "STONE INSTITUIÇÃO DE PAGAMENTO S.A."
+                    ],
+                    [
+                        "adr",
+                        {},
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "BR"
+                        ]
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "publicIds": [
+                {
+                    "type": "cnpj",
+                    "identifier": "16.501.555/0001-57"
+                }
+            ],
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "handle": "STPSA5",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "kind",
+                                {},
+                                "text",
+                                "individual"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "STPAGG PARTICIPAÇÕES S.A."
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "defensivesecurity@stone.com.br"
+                            ],
+                            [
+                                "lang",
+                                {},
+                                "language-tag",
+                                "pt"
+                            ],
+                            [
+                                "adr",
+                                {},
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "BR"
+                                ]
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "administrative"
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "2013-11-22T21:08:55Z"
+                        },
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2020-01-31T20:27:46Z"
+                        }
+                    ]
+                }
+            ],
+            "events": [
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2013-01-17T12:44:25Z"
+                },
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2022-01-31T20:26:03Z"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.registro.br/entity/16501555000157",
+                    "rel": "self",
+                    "href": "https://rdap.registro.br/entity/16501555000157",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "legalRepresentative": "STONE INSTITUIÇÃO DE PAGAMENTO S.A."
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "STPSA5",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "STPAGG PARTICIPAÇÕES S.A."
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "defensivesecurity@stone.com.br"
+                    ],
+                    [
+                        "lang",
+                        {},
+                        "language-tag",
+                        "pt"
+                    ],
+                    [
+                        "adr",
+                        {},
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "BR"
+                        ]
+                    ]
+                ]
+            ],
+            "roles": [
+                "technical"
+            ],
+            "events": [
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2013-11-22T21:08:55Z"
+                },
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2020-01-31T20:27:46Z"
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "a1-177.akam.net",
+            "events": [
+                {
+                    "eventAction": "delegation check",
+                    "eventDate": "2026-06-23T06:13:03Z",
+                    "status": [
+                        "ns aa"
+                    ]
+                },
+                {
+                    "eventAction": "last correct delegation check",
+                    "eventDate": "2026-06-23T06:13:03Z"
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "a10-67.akam.net",
+            "events": [
+                {
+                    "eventAction": "delegation check",
+                    "eventDate": "2026-06-23T06:13:03Z",
+                    "status": [
+                        "ns aa"
+                    ]
+                },
+                {
+                    "eventAction": "last correct delegation check",
+                    "eventDate": "2026-06-23T06:13:03Z"
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "a12-66.akam.net",
+            "events": [
+                {
+                    "eventAction": "delegation check",
+                    "eventDate": "2026-06-23T06:13:03Z",
+                    "status": [
+                        "ns aa"
+                    ]
+                },
+                {
+                    "eventAction": "last correct delegation check",
+                    "eventDate": "2026-06-23T06:13:03Z"
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "a14-67.akam.net",
+            "events": [
+                {
+                    "eventAction": "delegation check",
+                    "eventDate": "2026-06-23T06:13:03Z",
+                    "status": [
+                        "ns aa"
+                    ]
+                },
+                {
+                    "eventAction": "last correct delegation check",
+                    "eventDate": "2026-06-23T06:13:03Z"
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "a3-67.akam.net",
+            "events": [
+                {
+                    "eventAction": "delegation check",
+                    "eventDate": "2026-06-23T06:13:03Z",
+                    "status": [
+                        "ns aa"
+                    ]
+                },
+                {
+                    "eventAction": "last correct delegation check",
+                    "eventDate": "2026-06-23T06:13:03Z"
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "a7-66.akam.net",
+            "events": [
+                {
+                    "eventAction": "delegation check",
+                    "eventDate": "2026-06-23T06:13:03Z",
+                    "status": [
+                        "ns aa"
+                    ]
+                },
+                {
+                    "eventAction": "last correct delegation check",
+                    "eventDate": "2026-06-23T06:13:03Z"
+                }
+            ]
+        },
+        {
+            "objectClassName": "domain",
+            "handle": "stone.com.br",
+            "ldhName": "stone.com.br",
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "a1-177.akam.net",
+                    "events": [
+                        {
+                            "eventAction": "delegation check",
+                            "eventDate": "2026-06-23T06:13:03Z",
+                            "status": [
+                                "ns aa"
+                            ]
+                        },
+                        {
+                            "eventAction": "last correct delegation check",
+                            "eventDate": "2026-06-23T06:13:03Z"
+                        }
+                    ]
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "a10-67.akam.net",
+                    "events": [
+                        {
+                            "eventAction": "delegation check",
+                            "eventDate": "2026-06-23T06:13:03Z",
+                            "status": [
+                                "ns aa"
+                            ]
+                        },
+                        {
+                            "eventAction": "last correct delegation check",
+                            "eventDate": "2026-06-23T06:13:03Z"
+                        }
+                    ]
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "a12-66.akam.net",
+                    "events": [
+                        {
+                            "eventAction": "delegation check",
+                            "eventDate": "2026-06-23T06:13:03Z",
+                            "status": [
+                                "ns aa"
+                            ]
+                        },
+                        {
+                            "eventAction": "last correct delegation check",
+                            "eventDate": "2026-06-23T06:13:03Z"
+                        }
+                    ]
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "a14-67.akam.net",
+                    "events": [
+                        {
+                            "eventAction": "delegation check",
+                            "eventDate": "2026-06-23T06:13:03Z",
+                            "status": [
+                                "ns aa"
+                            ]
+                        },
+                        {
+                            "eventAction": "last correct delegation check",
+                            "eventDate": "2026-06-23T06:13:03Z"
+                        }
+                    ]
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "a3-67.akam.net",
+                    "events": [
+                        {
+                            "eventAction": "delegation check",
+                            "eventDate": "2026-06-23T06:13:03Z",
+                            "status": [
+                                "ns aa"
+                            ]
+                        },
+                        {
+                            "eventAction": "last correct delegation check",
+                            "eventDate": "2026-06-23T06:13:03Z"
+                        }
+                    ]
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "a7-66.akam.net",
+                    "events": [
+                        {
+                            "eventAction": "delegation check",
+                            "eventDate": "2026-06-23T06:13:03Z",
+                            "status": [
+                                "ns aa"
+                            ]
+                        },
+                        {
+                            "eventAction": "last correct delegation check",
+                            "eventDate": "2026-06-23T06:13:03Z"
+                        }
+                    ]
+                }
+            ],
+            "secureDNS": {
+                "delegationSigned": false
+            },
+            "links": [
+                {
+                    "value": "https://rdap.registro.br/domain/stone.com.br",
+                    "rel": "self",
+                    "href": "https://rdap.registro.br/domain/stone.com.br",
+                    "type": "application/rdap+json"
+                },
+                {
+                    "value": "https://rdap.registro.br/domain/stone.com.br",
+                    "rel": "archives",
+                    "href": "https://rdap.registro.br/domain/stone.com.br?ticket=128731",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "notices": [
+                {
+                    "title": "Use and Privacy Policy",
+                    "description": [
+                        "Copyright (c) Nic.br - Use of this data is governed by the Use and Privacy Policy. Distribution, commercialization, reproduction, and use for advertising or similar purposes are expressly prohibited.",
+                        "2026-06-23T12:47:24-03:00 - 139.91.90.27"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.registro.br/domain/stone.com.br",
+                            "rel": "alternate",
+                            "href": "https://registro.br/upp",
+                            "type": "text/html"
+                        }
+                    ]
+                }
+            ],
+            "rdapConformance": [
+                "rdap_level_0",
+                "nicbr_level_0"
+            ],
+            "port43": "whois.registro.br"
+        }
+    ],
+    "domain": "stone.com.br\r"
+}

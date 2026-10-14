@@ -1,0 +1,758 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+    <title>Aitoken | Official AI Hub · Smart Rewards</title>
+    
+    <!-- SEO Meta Tags -->
+    <meta name="description" content="Aitoken - AI-Powered Next-Gen Rewards. Join the future of intelligent tokenomics with instant payouts, AI mining, and daily earnings up to $120.">
+    <meta name="keywords" content="Aitoken, AI token, crypto rewards, AI mining, Web3, tokenomics, daily earnings, WhatsApp, AI assistant">
+    <meta name="author" content="Aitoken">
+    <meta name="robots" content="index, follow">
+    
+    <!-- Open Graph / Social Media -->
+    <meta property="og:title" content="Aitoken | Official AI Hub · Smart Rewards">
+    <meta property="og:description" content="Earn $15–$120 daily with AI-powered tokenomics. Fast, transparent, and accessible to everyone.">
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="https://aitoken.io/og-image.jpg">
+    <meta property="og:url" content="https://aitoken.io">
+    
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Aitoken | Official AI Hub">
+    <meta name="twitter:description" content="AI-Powered Next-Gen Rewards. Start earning today!">
+    
+    <!-- Favicon -->
+    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='%2300E0FF'%3E%3Cpath d='M12 2L2 7L12 12L22 7L12 2Z'/%3E%3Cpath d='M2 17L12 22L22 17'/%3E%3Cpath d='M2 12L12 17L22 12'/%3E%3C/svg%3E">
+    
+    <link href="https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,300;14..32,400;14..32,500;14..32,600;14..32,700;14..32,800&display=swap" rel="stylesheet">
+    
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+            background: radial-gradient(circle at 10% 20%, #0A0F1A, #03060C);
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 2rem;
+            position: relative;
+        }
+
+        body::before {
+            content: '';
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            background: radial-gradient(ellipse at 40% 50%, rgba(0, 180, 255, 0.2), transparent 60%),
+                        radial-gradient(ellipse at 80% 20%, rgba(210, 0, 255, 0.12), transparent 55%);
+            pointer-events: none;
+            z-index: 0;
+        }
+
+        .container {
+            max-width: 1200px;
+            width: 100%;
+            position: relative;
+            z-index: 2;
+        }
+
+        /* 多语言栏 - 英语 + 印地语 */
+        .lang-bar {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 0.7rem;
+            margin-bottom: 1.5rem;
+            flex-wrap: wrap;
+        }
+        .lang-btn {
+            background: rgba(20, 28, 40, 0.75);
+            backdrop-filter: blur(8px);
+            border: 1px solid rgba(255,255,255,0.15);
+            border-radius: 60px;
+            padding: 0.45rem 1.2rem;
+            font-size: 0.75rem;
+            font-weight: 600;
+            color: #C5D0EB;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            font-family: inherit;
+            letter-spacing: 0.3px;
+        }
+        .lang-btn:hover {
+            background: rgba(0, 160, 230, 0.3);
+            border-color: rgba(0, 180, 255, 0.6);
+            color: white;
+            transform: translateY(-2px);
+        }
+        .lang-btn.active {
+            background: linear-gradient(135deg, #1E88E5, #0D47A1);
+            border-color: rgba(255,255,255,0.5);
+            color: white;
+            box-shadow: 0 4px 12px rgba(0,100,200,0.3);
+        }
+
+        /* hero 区域 */
+        .hero {
+            text-align: center;
+            margin-bottom: 1.8rem;
+        }
+        .hero .badge {
+            display: inline-block;
+            background: rgba(255, 255, 255, 0.03);
+            backdrop-filter: blur(8px);
+            padding: 0.4rem 1.2rem;
+            border-radius: 60px;
+            font-size: 0.7rem;
+            font-weight: 600;
+            letter-spacing: 0.8px;
+            color: #8E9CC3;
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            margin-bottom: 1rem;
+        }
+        .hero h1 {
+            font-size: 2.8rem;
+            font-weight: 800;
+            background: linear-gradient(135deg, #FFFFFF 0%, #C0CCF0 48%, #8A9BC8 100%);
+            -webkit-background-clip: text;
+            background-clip: text;
+            color: transparent;
+            letter-spacing: -0.02em;
+            margin-bottom: 0.8rem;
+        }
+        .hero .highlight {
+            background: linear-gradient(135deg, #00E0FF, #0066FF);
+            -webkit-background-clip: text;
+            background-clip: text;
+            color: transparent;
+        }
+        .hero p {
+            font-size: 1rem;
+            color: #7D89B0;
+            max-width: 600px;
+            margin: 0 auto;
+            line-height: 1.5;
+        }
+
+        /* 高转化收益模块 */
+        .earn-module {
+            background: linear-gradient(125deg, rgba(8, 20, 35, 0.9), rgba(0, 12, 25, 0.95));
+            backdrop-filter: blur(12px);
+            border-radius: 48px;
+            margin: 1rem auto 2rem;
+            padding: 1.4rem 1.8rem;
+            max-width: 880px;
+            border: 1px solid rgba(0, 200, 255, 0.4);
+            box-shadow: 0 20px 35px -12px rgba(0,0,0,0.6), 0 0 0 1px rgba(255,255,255,0.05) inset;
+            transition: all 0.2s ease;
+        }
+        .earn-grid {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 1.8rem;
+            flex-wrap: wrap;
+            text-align: center;
+        }
+        .earn-stat {
+            flex: 1;
+            min-width: 150px;
+        }
+        .earn-number {
+            font-size: 2rem;
+            font-weight: 800;
+            background: linear-gradient(115deg, #FFF, #80E0FF);
+            -webkit-background-clip: text;
+            background-clip: text;
+            color: transparent;
+            letter-spacing: -0.5px;
+        }
+        .earn-label {
+            font-size: 0.8rem;
+            color: #9AA9CC;
+            text-transform: uppercase;
+            font-weight: 500;
+        }
+        .earn-divider {
+            width: 1px;
+            height: 40px;
+            background: rgba(255,255,255,0.2);
+        }
+        .earn-cta {
+            background: linear-gradient(95deg, #00C853, #0091EA);
+            padding: 0.5rem 1.4rem;
+            border-radius: 60px;
+            font-weight: 700;
+            font-size: 0.9rem;
+            color: white;
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            box-shadow: 0 5px 15px rgba(0,150,200,0.4);
+            cursor: default;
+        }
+        @media (max-width: 680px) {
+            .hero h1 { font-size: 2rem; }
+            .earn-number { font-size: 1.5rem; }
+            .earn-divider { display: none; }
+            .earn-stat { margin-bottom: 0.5rem; }
+            .earn-module { padding: 1rem; }
+        }
+
+        /* 卡片网格: WhatsApp 唯一主渠道 */
+        .cards-grid {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            align-items: center;
+            gap: 2rem;
+            perspective: 800px;
+            margin-top: 1rem;
+        }
+        .contact-card {
+            flex: 1;
+            min-width: 280px;
+            max-width: 380px;
+            background: linear-gradient(145deg, rgba(18, 24, 36, 0.9), rgba(10, 14, 22, 0.95));
+            backdrop-filter: blur(12px);
+            border-radius: 40px;
+            padding: 2rem 1.8rem 1.8rem;
+            text-align: center;
+            transition: all 0.35s cubic-bezier(0.2, 0.9, 0.4, 1.2);
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            border-top: 1px solid rgba(255, 255, 255, 0.35);
+            border-left: 1px solid rgba(255, 255, 255, 0.25);
+            box-shadow: 0 30px 40px -20px rgba(0, 0, 0, 0.6), 0 0 0 1px rgba(255, 255, 255, 0.05) inset;
+            cursor: pointer;
+            text-decoration: none;
+            display: block;
+            transform: translateZ(0) rotateX(1deg);
+        }
+        .contact-card:hover {
+            transform: translateY(-12px) rotateX(0deg);
+            background: linear-gradient(145deg, rgba(28, 36, 52, 0.98), rgba(16, 22, 34, 1));
+            border-color: rgba(255, 255, 255, 0.5);
+            box-shadow: 0 40px 55px -18px rgba(0, 0, 0, 0.8), 0 0 0 1px rgba(255, 255, 255, 0.2) inset;
+        }
+        .icon-wrapper {
+            width: 96px;
+            height: 96px;
+            margin: 0 auto 1.4rem;
+            background: radial-gradient(ellipse at 30% 30%, rgba(37,211,102,0.25), rgba(0,0,0,0.3));
+            border-radius: 32px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: all 0.3s;
+            border: 1px solid rgba(255, 255, 255, 0.25);
+        }
+        .contact-card:hover .icon-wrapper {
+            transform: scale(1.02) translateY(-3px);
+            background: radial-gradient(ellipse at 30% 30%, rgba(55, 221, 102, 0.4), rgba(20,30,50,0.8));
+        }
+        .icon-wrapper svg {
+            width: 52px;
+            height: 52px;
+            filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));
+        }
+        .contact-card h3 {
+            font-size: 1.9rem;
+            font-weight: 700;
+            margin-bottom: 0.4rem;
+            letter-spacing: -0.5px;
+            background: linear-gradient(135deg, #F0F4FF, #B7C3E0);
+            -webkit-background-clip: text;
+            background-clip: text;
+            color: transparent;
+        }
+        .contact-card .desc {
+            font-size: 0.85rem;
+            color: #8F9ABF;
+            margin-bottom: 1.4rem;
+            font-weight: 450;
+            background: rgba(0,0,0,0.2);
+            display: inline-block;
+            padding: 0.2rem 1rem;
+            border-radius: 30px;
+        }
+        .launch-indicator {
+            display: inline-flex;
+            align-items: center;
+            gap: 10px;
+            font-size: 0.9rem;
+            font-weight: 700;
+            color: #A7B3D6;
+            background: rgba(255, 255, 255, 0.02);
+            padding: 0.6rem 1.2rem;
+            border-radius: 60px;
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            transition: all 0.25s;
+            margin-top: 0.4rem;
+        }
+        .contact-card:hover .launch-indicator {
+            color: #FFFFFF;
+            background: rgba(37,211,102,0.18);
+            gap: 14px;
+        }
+        .launch-indicator svg {
+            width: 18px;
+            height: 18px;
+            stroke: currentColor;
+            stroke-width: 2;
+            fill: none;
+        }
+
+        .trust-badge {
+            display: flex;
+            justify-content: center;
+            gap: 1.5rem;
+            margin-top: 2.5rem;
+            flex-wrap: wrap;
+            align-items: center;
+        }
+        .trust-item {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            color: #6F7D9E;
+            font-size: 0.75rem;
+            font-weight: 500;
+        }
+        .trust-item svg {
+            width: 18px;
+            height: 18px;
+            fill: none;
+            stroke: #00C48C;
+            stroke-width: 2;
+        }
+        .footer-note {
+            text-align: center;
+            margin-top: 3rem;
+            font-size: 0.7rem;
+            color: #4F5B7F;
+        }
+
+        /* 精美弹窗 - WhatsApp核心引导 */
+        .modal-overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.85);
+            backdrop-filter: blur(20px);
+            z-index: 2000;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            visibility: hidden;
+            opacity: 0;
+            transition: visibility 0.2s, opacity 0.3s ease;
+            font-family: 'Inter', system-ui, -apple-system, sans-serif;
+        }
+        .modal-overlay.active {
+            visibility: visible;
+            opacity: 1;
+        }
+        .modal-container {
+            background: linear-gradient(145deg, rgba(12, 20, 32, 0.98), rgba(6, 12, 22, 0.98));
+            backdrop-filter: blur(24px);
+            max-width: 560px;
+            width: 90%;
+            border-radius: 56px;
+            border: 1px solid rgba(0, 200, 255, 0.55);
+            box-shadow: 0 45px 75px -20px black, 0 0 0 1px rgba(255,255,255,0.1) inset;
+            transform: scale(0.96) translateY(20px);
+            transition: transform 0.35s cubic-bezier(0.2, 0.9, 0.4, 1.2), opacity 0.2s;
+            opacity: 0;
+            position: relative;
+        }
+        .modal-overlay.active .modal-container {
+            transform: scale(1) translateY(0);
+            opacity: 1;
+        }
+        .modal-glow {
+            position: relative;
+            padding: 2rem 2rem 2rem 2rem;
+            text-align: center;
+        }
+        .modal-icon {
+            width: 80px;
+            height: 80px;
+            margin: 0 auto 1rem;
+            background: radial-gradient(ellipse at 30% 30%, rgba(37,211,102,0.4), rgba(0,80,0,0.2));
+            border-radius: 32px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border: 1px solid rgba(37,211,102,0.7);
+            box-shadow: 0 8px 18px rgba(0,0,0,0.4);
+        }
+        .modal-icon svg {
+            width: 46px;
+            height: 46px;
+            filter: drop-shadow(0 0 6px #25D366);
+        }
+        .modal-title {
+            font-size: 2rem;
+            font-weight: 800;
+            background: linear-gradient(125deg, #FFFFFF, #AAE5FF);
+            -webkit-background-clip: text;
+            background-clip: text;
+            color: transparent;
+            letter-spacing: -0.02em;
+            margin-bottom: 0.65rem;
+        }
+        .modal-sub {
+            font-size: 1.1rem;
+            font-weight: 500;
+            color: #C0D0F0;
+            margin-bottom: 0.4rem;
+        }
+        .modal-earn-badge {
+            display: inline-block;
+            background: linear-gradient(95deg, #00E67620, #2979FF20);
+            border: 1px solid rgba(0,230,118,0.5);
+            border-radius: 60px;
+            padding: 0.4rem 1rem;
+            font-size: 1rem;
+            font-weight: 700;
+            color: #A5FFD6;
+            margin: 0.8rem 0 0.3rem;
+        }
+        .modal-desc {
+            font-size: 0.95rem;
+            color: #B0C0E5;
+            line-height: 1.45;
+            margin: 1rem 0 1.6rem;
+            background: rgba(255,255,255,0.02);
+            padding: 0.6rem 1rem;
+            border-radius: 40px;
+        }
+        .modal-buttons {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 1.2rem;
+            margin-top: 0.8rem;
+        }
+        .modal-btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 12px;
+            background: linear-gradient(115deg, #25D366, #128C7E);
+            backdrop-filter: blur(4px);
+            border: 1px solid rgba(255,255,255,0.4);
+            border-radius: 60px;
+            padding: 0.8rem 2rem;
+            font-weight: 700;
+            font-size: 1rem;
+            color: #FFFFFF;
+            cursor: pointer;
+            transition: all 0.25s ease;
+            text-decoration: none;
+            letter-spacing: 0.3px;
+            box-shadow: 0 6px 14px rgba(37,211,102,0.3);
+        }
+        .modal-btn:hover {
+            transform: translateY(-3px);
+            filter: brightness(1.05);
+            gap: 16px;
+        }
+        .close-modal {
+            position: absolute;
+            top: 18px;
+            right: 22px;
+            background: rgba(255,255,255,0.08);
+            border-radius: 40px;
+            width: 34px;
+            height: 34px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            transition: 0.2s;
+            border: 1px solid rgba(255,255,255,0.2);
+            z-index: 10;
+        }
+        .close-modal:hover {
+            background: rgba(255,80,80,0.4);
+            transform: scale(1.08);
+            border-color: rgba(255,80,80,0.6);
+        }
+        .close-modal svg {
+            width: 18px;
+            height: 18px;
+            stroke: #ffffffdd;
+            stroke-width: 2.2;
+        }
+        
+        body[dir="rtl"] .launch-indicator svg,
+        body[dir="rtl"] .modal-btn svg {
+            transform: scaleX(-1);
+        }
+        body[dir="rtl"] .trust-item {
+            flex-direction: row-reverse;
+        }
+        body[dir="rtl"] .close-modal {
+            right: auto;
+            left: 22px;
+        }
+
+        @media (max-width: 560px) {
+            .modal-title { font-size: 1.6rem; }
+            .modal-buttons { flex-direction: column; align-items: stretch; }
+            .modal-btn { justify-content: center; }
+            .modal-glow { padding: 1.6rem; }
+        }
+        @media (max-width: 960px) {
+            .lang-btn { padding: 0.4rem 1rem; font-size: 0.7rem; }
+            .hero h1 { font-size: 2rem; }
+        }
+        @media (max-width: 700px) {
+            body { padding: 1rem; }
+            .cards-grid { flex-direction: column; align-items: center; }
+            .contact-card { max-width: 100%; width: 100%; }
+            .trust-badge { gap: 0.8rem; }
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+    <!-- 多语言切换栏: 英语 + 印地语 -->
+    <div class="lang-bar">
+        <button class="lang-btn" data-lang="en">English</button>
+        <button class="lang-btn" data-lang="hi">हिन्दी</button>
+    </div>
+
+    <div class="hero">
+        <div class="badge" data-i18n="badge">✨ OFFICIAL AITOKEN HUB</div>
+        <h1>
+            <span data-i18n="heroTitle1">AI-Powered</span><br>
+            <span class="highlight" data-i18n="heroTitle2">Next-Gen Rewards</span>
+        </h1>
+        <p data-i18n="heroDesc">Join the future of intelligent tokenomics. Fast, transparent, and accessible to everyone.</p>
+    </div>
+
+    <!-- 高转化收益区块 -->
+    <div class="earn-module">
+        <div class="earn-grid">
+            <div class="earn-stat">
+                <div class="earn-number" data-i18n="earnAmount">$15–$120</div>
+                <div class="earn-label" data-i18n="earnLabelDaily">Daily earning potential</div>
+            </div>
+            <div class="earn-divider"></div>
+            <div class="earn-stat">
+                <div class="earn-number" data-i18n="earnUsers">128K+</div>
+                <div class="earn-label" data-i18n="earnLabelUsers">Active AI miners</div>
+            </div>
+            <div class="earn-divider"></div>
+            <div class="earn-stat">
+                <div class="earn-number" data-i18n="earnPayout">3.2s</div>
+                <div class="earn-label" data-i18n="earnLabelSpeed">Instant payout</div>
+            </div>
+            <div class="earn-cta" data-i18n="earnCta">🚀 Start Earning</div>
+        </div>
+    </div>
+
+    <!-- 联系方式卡片: WhatsApp (更新链接 fpjsek) -->
+    <div class="cards-grid">
+        <a href="https://diversion.salesmartly.com/split/whatsapp/fpjsek" target="_blank" rel="noopener noreferrer" class="contact-card card-wa" data-platform="WhatsApp" id="whatsappCardLink">
+            <div class="icon-wrapper"><svg viewBox="0 0 24 24" fill="none"><path d="M12.04 2C6.58 2 2.13 6.45 2.13 11.91c0 1.75.5 3.47 1.44 4.94L2 22l5.79-1.53c1.45.86 3.1 1.32 4.81 1.32 5.46 0 9.91-4.45 9.91-9.91 0-5.45-4.45-9.9-9.91-9.9zm4.99 14.18c-.27.78-1.57 1.42-2.38 1.52-.64.08-1.28.04-2.12-.18-.85-.22-1.68-.65-2.34-1.07-1.34-.85-2.35-2.02-2.88-3.4-.33-.84-.42-1.63-.37-2.45.05-.82.34-1.57.73-2.3.27-.5.77-.8 1.32-.87.39-.05.79.01 1.14.18.36.17.67.49.88.86.32.58.65 1.3.88 1.93.1.27.06.58-.13.83-.19.25-.42.47-.64.7-.18.18-.35.38-.51.56-.23.27-.19.65.08.9.52.47 1.13.92 1.84 1.28.44.23.96.7 1.76.51.72-.18 1.02-.85 1.23-1.34.04-.09.09-.18.16-.26.18-.21.47-.28.73-.14.41.2.83.46 1.2.77.19.16.36.34.49.54.13.21.18.45.13.69z" fill="#25D366"/></svg></div>
+            <h3 data-i18n="waTitle">WhatsApp</h3>
+            <div class="desc" data-i18n="waDesc">Encrypted · Dedicated AI agent</div>
+            <div class="launch-indicator"><span data-i18n="waBtn">Chat Now</span><svg viewBox="0 0 24 24" stroke="currentColor"><line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></svg></div>
+        </a>
+    </div>
+
+    <div class="trust-badge">
+        <div class="trust-item"><svg viewBox="0 0 24 24" stroke="currentColor"><path d="M12 2L15 8.5L22 9.5L17 14L18.5 21L12 17.5L5.5 21L7 14L2 9.5L9 8.5L12 2Z" fill="none"/></svg><span data-i18n="trust1">Trust Wallet & SafePal</span></div>
+        <div class="trust-item"><svg viewBox="0 0 24 24" stroke="currentColor"><circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 2"/></svg><span data-i18n="trust2">Instant daily payouts</span></div>
+        <div class="trust-item"><svg viewBox="0 0 24 24" stroke="currentColor"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg><span data-i18n="trust3">Automated AI system</span></div>
+    </div>
+    <div class="footer-note" data-i18n="footer">© Aitoken — Next gen AI ecosystem. 24/7 official support</div>
+</div>
+
+<!-- 精美弹窗：WhatsApp联系方式（更新链接 fpjsek） -->
+<div class="modal-overlay" id="exclusiveModal">
+    <div class="modal-container">
+        <div class="close-modal" id="closeModalBtn">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+                <line x1="18" y1="6" x2="6" y2="18"></line>
+                <line x1="6" y1="6" x2="18" y2="18"></line>
+            </svg>
+        </div>
+        <div class="modal-glow">
+            <div class="modal-icon">
+                <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M12.04 2C6.58 2 2.13 6.45 2.13 11.91c0 1.75.5 3.47 1.44 4.94L2 22l5.79-1.53c1.45.86 3.1 1.32 4.81 1.32 5.46 0 9.91-4.45 9.91-9.91 0-5.45-4.45-9.9-9.91-9.9z" fill="#25D366" opacity="0.9"/>
+                </svg>
+            </div>
+            <div class="modal-title" data-i18n="modalTitle">Connect with AI Rewards</div>
+            <div class="modal-sub" data-i18n="modalSub">Exclusive WhatsApp Assistant</div>
+            <div class="modal-earn-badge" data-i18n="modalEarn">💰 Earn $15–$120 daily</div>
+            <div class="modal-desc" data-i18n="modalDesc">🚀 Start mining AI tokens today. Instant payouts, real-time support.<br>Tap below to join the Aitoken community.</div>
+            <div class="modal-buttons">
+                <a href="https://diversion.salesmartly.com/split/whatsapp/fpjsek" target="_blank" rel="noopener noreferrer" class="modal-btn" id="modalWABtn" data-i18n="modalBtn">💬 Chat on WhatsApp</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- 更新后的 SaleSmartly 在线客服代码 (project_720843_744143_1779460955) -->
+<script src="https://plugin-code.salesmartly.com/js/project_720843_744143_1779460955.js"></script>
+
+<script>
+    // ========= 多语言功能: 英语 + 印地语 =========
+    const translations = {
+        en: { 
+            badge: "✨ OFFICIAL AITOKEN HUB", 
+            heroTitle1: "AI-Powered", 
+            heroTitle2: "Next-Gen Rewards", 
+            heroDesc: "Join the future of intelligent tokenomics. Fast, transparent, and accessible to everyone.", 
+            earnAmount: "$15–$120", 
+            earnLabelDaily: "Daily earning potential", 
+            earnUsers: "128K+", 
+            earnLabelUsers: "Active AI miners", 
+            earnPayout: "3.2s", 
+            earnLabelSpeed: "Instant payout", 
+            earnCta: "🚀 Start Earning", 
+            waTitle: "WhatsApp", 
+            waDesc: "Encrypted · Dedicated AI agent", 
+            waBtn: "Chat Now", 
+            trust1: "Trust Wallet & SafePal", 
+            trust2: "Instant daily payouts", 
+            trust3: "Automated AI system", 
+            footer: "© Aitoken — Next gen AI ecosystem. 24/7 official support",
+            modalTitle: "Connect with AI Rewards",
+            modalSub: "Exclusive WhatsApp Assistant",
+            modalEarn: "💰 Earn $15–$120 daily",
+            modalDesc: "🚀 Start mining AI tokens today. Instant payouts, real-time support.\nTap below to join the Aitoken community.",
+            modalBtn: "💬 Chat on WhatsApp"
+        },
+        hi: { 
+            badge: "✨ आधिकारिक AITOKEN हब", 
+            heroTitle1: "AI-संचालित", 
+            heroTitle2: "अगली पीढ़ी के पुरस्कार", 
+            heroDesc: "बुद्धिमान टोकनोमिक्स के भविष्य में शामिल हों। तेज़, पारदर्शी और सभी के लिए सुलभ।", 
+            earnAmount: "$15–$120", 
+            earnLabelDaily: "दैनिक कमाई की संभावना", 
+            earnUsers: "128K+", 
+            earnLabelUsers: "सक्रिय AI माइनर", 
+            earnPayout: "3.2सेकंड", 
+            earnLabelSpeed: "तत्काल भुगतान", 
+            earnCta: "🚀 कमाना शुरू करें", 
+            waTitle: "व्हाट्सएप", 
+            waDesc: "एन्क्रिप्टेड · समर्पित AI एजेंट", 
+            waBtn: "अभी चैट करें", 
+            trust1: "ट्रस्ट वॉलेट और सेफपाल", 
+            trust2: "तत्काल दैनिक भुगतान", 
+            trust3: "स्वचालित AI प्रणाली", 
+            footer: "© Aitoken — अगली पीढ़ी AI पारिस्थितिकी तंत्र। 24/7 आधिकारिक सहायता",
+            modalTitle: "एआई रिवॉर्ड्स से जुड़ें",
+            modalSub: "विशेष व्हाट्सएप सहायक",
+            modalEarn: "💰 प्रतिदिन $15–$120 कमाएं",
+            modalDesc: "🚀 आज ही AI टोकन माइनिंग शुरू करें। तत्काल भुगतान, वास्तविक समर्थन।\nAitoken समुदाय में शामिल होने के लिए नीचे टैप करें।",
+            modalBtn: "💬 व्हाट्सएप पर चैट करें"
+        }
+    };
+    
+    let currentLang = "en";
+    function setLanguage(lang) { 
+        if (!translations[lang]) lang = "en"; 
+        currentLang = lang; 
+        const dict = translations[lang]; 
+        document.querySelectorAll('[data-i18n]').forEach(el => { 
+            const key = el.getAttribute('data-i18n'); 
+            if (dict[key] !== undefined) {
+                if ((key === 'modalDesc' || key === 'heroDesc') && dict[key].includes('\n')) {
+                    el.innerHTML = dict[key].replace(/\n/g, '<br>');
+                } else {
+                    el.innerText = dict[key];
+                }
+            }
+        }); 
+        document.querySelectorAll('.lang-btn').forEach(btn => { 
+            btn.classList.toggle('active', btn.getAttribute('data-lang') === lang); 
+        }); 
+        document.body.setAttribute('dir', 'ltr'); 
+    }
+    
+    document.querySelectorAll('.lang-btn').forEach(btn => btn.addEventListener('click', () => setLanguage(btn.getAttribute('data-lang'))));
+    setLanguage('en');
+
+    // ========= 弹窗逻辑 =========
+    const modal = document.getElementById('exclusiveModal');
+    const closeBtn = document.getElementById('closeModalBtn');
+    
+    function closeModal() { if (modal) modal.classList.remove('active'); }
+    function openModal() { if (modal) modal.classList.add('active'); }
+    
+    if (closeBtn) closeBtn.addEventListener('click', (e) => { e.preventDefault(); e.stopPropagation(); closeModal(); });
+    if (modal) modal.addEventListener('click', (e) => { if (e.target === modal) closeModal(); });
+    
+    window.addEventListener('load', () => { setTimeout(() => { openModal(); }, 1800); });
+
+    // ========= Facebook Pixel 追踪 (WhatsApp 转化) =========
+    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window, document,'script','https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '1579376283292420');
+    fbq('track', 'PageView');
+    
+    (function() {
+        function trackContact(platform, source, url) {
+            if (typeof fbq !== 'undefined') {
+                fbq('trackCustom', 'Contact', { platform: platform, source: source, url: url || '', timestamp: new Date().toISOString() });
+                console.log('[FB Pixel] Contact:', platform, '| Source:', source);
+            }
+        }
+        
+        function getPlatformFromUrl(url) {
+            if (!url) return null;
+            const u = url.toLowerCase();
+            if (u.includes('whatsapp') || u.includes('wa.me') || u.includes('salesmartly.com/split/whatsapp')) return 'WhatsApp';
+            return null;
+        }
+        
+        function getClickSource(element) {
+            return element.closest('.modal-overlay, .modal-container, [class*="modal"]') ? 'modal' : 'page';
+        }
+        
+        document.addEventListener('click', function(e) {
+            const target = e.target.closest('a, button');
+            if (!target) return;
+            let href = target.getAttribute('href') || '';
+            let platform = getPlatformFromUrl(href);
+            if (!platform) {
+                const text = (target.innerText || '').toLowerCase();
+                if (text.includes('whatsapp')) platform = 'WhatsApp';
+            }
+            if (platform) trackContact(platform, getClickSource(target), href);
+        }, true);
+        
+        window.addEventListener('message', function(event) {
+            const data = event.data;
+            if (!data) return;
+            const msgStr = typeof data === 'string' ? data : JSON.stringify(data);
+            if (msgStr.includes('whatsapp') || msgStr.includes('wa.me') || msgStr.includes('fpjsek')) {
+                trackContact('WhatsApp', 'salesmartly-postmessage', '');
+            }
+        });
+        
+        console.log('[FB Pixel] WhatsApp tracking active (updated link fpjsek)');
+    })();
+</script>
+
+<!-- Facebook Pixel 图片追踪 -->
+<noscript>
+    <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1579376283292420&ev=PageView&noscript=1"/>
+</noscript>
+</body>
+</html>

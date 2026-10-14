@@ -1,0 +1,410 @@
+{
+    "name": "gengarsptcg.com",
+    "handle": "3082309181_DOMAIN_COM-VRSN",
+    "registrationDate": "3/30/2026, 1:20:28 PM GMT+3",
+    "expirationDate": "3/30/2027, 1:20:28 PM GMT+3",
+    "lastChangedDate": "3/30/2026, 9:20:29 AM GMT+3",
+    "lastUpdateDate": "6/16/2026, 1:57:57 PM GMT+3",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object redacted due to authorization",
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ]
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "REDACTED FOR PRIVACY"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "CN"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "REDACTED FOR PRIVACY",
+                            "REDACTED FOR PRIVACY",
+                            "guangdong",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "REDACTED FOR PRIVACY"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "please send email to whois@ordertld.com to request the domain whois"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrant"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object redacted due to authorization",
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ]
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "REDACTED FOR PRIVACY"
+                    ],
+                    [
+                        "adr",
+                        {},
+                        "text",
+                        [
+                            "",
+                            "",
+                            "REDACTED FOR PRIVACY",
+                            "REDACTED FOR PRIVACY",
+                            "REDACTED FOR PRIVACY",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "REDACTED FOR PRIVACY"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "please send email to whois@ordertld.com to request the domain whois"
+                    ]
+                ]
+            ],
+            "roles": [
+                "administrative"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object redacted due to authorization",
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ]
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "REDACTED FOR PRIVACY"
+                    ],
+                    [
+                        "adr",
+                        {},
+                        "text",
+                        [
+                            "",
+                            "",
+                            "REDACTED FOR PRIVACY",
+                            "REDACTED FOR PRIVACY",
+                            "REDACTED FOR PRIVACY",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "REDACTED FOR PRIVACY"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "please send email to whois@ordertld.com to request the domain whois"
+                    ]
+                ]
+            ],
+            "roles": [
+                "technical"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object redacted due to authorization",
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ]
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "REDACTED FOR PRIVACY"
+                    ],
+                    [
+                        "adr",
+                        {},
+                        "text",
+                        [
+                            "",
+                            "",
+                            "REDACTED FOR PRIVACY",
+                            "REDACTED FOR PRIVACY",
+                            "REDACTED FOR PRIVACY",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "REDACTED FOR PRIVACY"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "please send email to whois@ordertld.com to request the domain whois"
+                    ]
+                ]
+            ],
+            "roles": [
+                "billing"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "CNOBIN INFORMATION TECHNOLOGY LIMITED"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "CNOBIN INFORMATION TECHNOLOGY LIMITED"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+85.281926949"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "abuse@ordertld.com"
+                    ]
+                ]
+            ],
+            "roles": [
+                "abuse"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "3254",
+            "roles": [
+                "registrar"
+            ],
+            "publicIds": [
+                {
+                    "type": "IANA Registrar ID",
+                    "identifier": "3254"
+                }
+            ],
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "CNOBIN INFORMATION TECHNOLOGY LIMITED"
+                            ],
+                            [
+                                "org",
+                                {},
+                                "text",
+                                "CNOBIN INFORMATION TECHNOLOGY LIMITED"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "voice"
+                                },
+                                "uri",
+                                "tel:+85.281926949"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "abuse@ordertld.com"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "abuse"
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns3.cnmsn.com"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns4.cnmsn.com"
+        },
+        {
+            "rdapConformance": [
+                "redacted",
+                "rdap_level_0",
+                "icann_rdap_technical_implementation_guide_0",
+                "icann_rdap_response_profile_0"
+            ],
+            "objectClassName": "domain",
+            "notices": [
+                {
+                    "title": "Status Codes",
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://icann.org/epp",
+                            "rel": "help",
+                            "href": "https://icann.org/epp",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "RDDS Inaccuracy Complaint Form",
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://icann.org/wicf",
+                            "rel": "help",
+                            "href": "https://icann.org/wicf",
+                            "type": "text/html"
+                        }
+                    ]
+                }
+            ],
+            "lang": "en-US",
+            "handle": "3082309181_DOMAIN_COM-VRSN",
+            "ldhName": "gengarsptcg.com",
+            "unicodeName": "gengarsptcg.com",
+            "secureDNS": {
+                "delegationSigned": false
+            },
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns3.cnmsn.com"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns4.cnmsn.com"
+                }
+            ]
+        }
+    ],
+    "domain": "gengarsptcg.com\r"
+}

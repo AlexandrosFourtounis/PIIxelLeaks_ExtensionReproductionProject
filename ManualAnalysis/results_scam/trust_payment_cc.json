@@ -1,0 +1,221 @@
+{
+    "name": "trust-payment.cc",
+    "handle": "2057859_DOMAIN",
+    "registrationDate": "4/18/2026, 11:40:12 PM GMT+3",
+    "expirationDate": "4/18/2027, 11:40:12 PM GMT+3",
+    "lastChangedDate": "4/18/2026, 11:40:12 PM GMT+3",
+    "lastUpdateDate": "4/18/2026, 11:40:12 PM GMT+3",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "handle": "1419093_CONTACT",
+            "remarks": [
+                {
+                    "description": [
+                        "Some of the data in this object has been removed."
+                    ],
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object redacted due to authorization"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "REDACTED FOR PRIVACY"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "REDACTED FOR PRIVACY",
+                            "REDACTED FOR PRIVACY",
+                            "HK",
+                            "REDACTED FOR PRIVACY",
+                            "HK"
+                        ]
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "http://whois.nicenic.com/?page=whoisform"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrant",
+                "administrative",
+                "technical",
+                "billing"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "roles": [
+                "abuse"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "NICENIC INTERNATIONAL GROUP CO., LIMITED"
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "abuse@nicenic.net"
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "roles": [
+                "registrar"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "NICENIC INTERNATIONAL GROUP CO., LIMITED"
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "support@nicenic.net"
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "lou.ns.cloudflare.com"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "venus.ns.cloudflare.com"
+        },
+        {
+            "rdapConformance": [
+                "rdap_level_0",
+                "icann_rdap_response_profile_0",
+                "icann_rdap_technical_implementation_guide_0"
+            ],
+            "ldhName": "trust-payment.cc",
+            "handle": "2057859_DOMAIN",
+            "secureDNS": {
+                "delegationSigned": false
+            },
+            "objectClassName": "domain",
+            "port43": "whois.nicenic.com",
+            "notices": [
+                {
+                    "description": [
+                        "Service subject to Terms of Use."
+                    ],
+                    "links": [
+                        {
+                            "rel": "related",
+                            "href": "https://nicenic.com/support/print.php?IDCate=20&IDDoc=803",
+                            "value": "https://nicenic.com/support/print.php?IDCate=20&IDDoc=803"
+                        }
+                    ],
+                    "title": "Terms of Use"
+                },
+                {
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp."
+                    ],
+                    "links": [
+                        {
+                            "rel": "related",
+                            "href": "https://icann.org/epp",
+                            "value": "https://icann.org/epp"
+                        }
+                    ],
+                    "title": "EPP Status Codes"
+                },
+                {
+                    "description": [
+                        "URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf."
+                    ],
+                    "links": [
+                        {
+                            "rel": "related",
+                            "href": "https://www.icann.org/wicf",
+                            "value": "https://www.icann.org/wicf"
+                        }
+                    ],
+                    "title": "Whois Inaccuracy Complaint Form"
+                }
+            ],
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "lou.ns.cloudflare.com"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "venus.ns.cloudflare.com"
+                }
+            ],
+            "links": [
+                {
+                    "title": "Authoritative URL for this resource",
+                    "rel": "self",
+                    "href": "https://rdap.nicenic.com/domain/trust-payment.cc",
+                    "value": "https://rdap.nicenic.com/domain/trust-payment.cc"
+                }
+            ],
+            "lang": "en",
+            "publicIds": [
+                {
+                    "identifier": "3765",
+                    "type": "IANA Registrar ID"
+                }
+            ]
+        }
+    ],
+    "domain": "trust-payment.cc\r"
+}

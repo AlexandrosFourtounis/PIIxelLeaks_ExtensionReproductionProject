@@ -1,0 +1,67 @@
+{
+    "name": null,
+    "handle": null,
+    "registrationDate": null,
+    "expirationDate": null,
+    "lastChangedDate": null,
+    "lastUpdateDate": null,
+    "rawData": [
+        {
+            "rdapConformance": [
+                "icann_rdap_response_profile_1",
+                "icann_rdap_technical_implementation_guide_1",
+                "rdap_level_0"
+            ],
+            "notices": [
+                {
+                    "description": [
+                        "Service subject to Terms of Use."
+                    ],
+                    "title": "Terms of Service",
+                    "links": [
+                        {
+                            "href": "https://www.cira.ca/en/resources/documents/about/website-terms-use",
+                            "value": "https://rdap.ca.fury.ca/rdap/domain/weather.gc.ca",
+                            "rel": "terms-of-service",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ],
+                    "title": "RDDS Inaccuracy Complaint Form",
+                    "links": [
+                        {
+                            "href": "https://icann.org/wicf",
+                            "value": "https://rdap.ca.fury.ca/rdap/domain/weather.gc.ca",
+                            "rel": "help",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "description": [
+                        "\nUse of CIRA's WHOIS service is governed by the Terms of Use in its Legal\nNotice, available at https://www.cira.ca/en/resources/documents/about/website-terms-use\n\n(c) 2026 Canadian Internet Registration Authority, (http://www.cira.ca/)"
+                    ],
+                    "title": "Legal Notice",
+                    "links": [
+                        {
+                            "href": "https://www.cira.ca/en/resources/documents/about/website-terms-use",
+                            "value": "https://rdap.ca.fury.ca/rdap/domain/weather.gc.ca",
+                            "rel": "help",
+                            "type": "text/html"
+                        }
+                    ]
+                }
+            ],
+            "errorCode": 404,
+            "title": "Domain not found",
+            "description": [
+                "Domain not found"
+            ]
+        }
+    ],
+    "domain": "weather.gc.ca\r"
+}

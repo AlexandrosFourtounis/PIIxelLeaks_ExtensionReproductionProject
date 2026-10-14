@@ -1,0 +1,185 @@
+{
+    "name": "bandzone.cz",
+    "handle": "bandzone.cz",
+    "registrationDate": "1/18/2005, 2:35:00 AM GMT+2",
+    "expirationDate": "1/18/2027, 1:00:00 AM GMT+2",
+    "lastChangedDate": "5/2/2023, 4:39:07 PM GMT+3",
+    "lastUpdateDate": null,
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "handle": "MAJKLAC",
+            "roles": [
+                "registrant"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.nic.cz/entity/MAJKLAC",
+                    "rel": "self",
+                    "href": "https://rdap.nic.cz/entity/MAJKLAC",
+                    "type": "application/rdap+json"
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "REG-INTERNET-CZ",
+            "roles": [
+                "registrar"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "MAJKLAC",
+            "roles": [
+                "administrative"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.nic.cz/entity/MAJKLAC",
+                    "rel": "self",
+                    "href": "https://rdap.nic.cz/entity/MAJKLAC",
+                    "type": "application/rdap+json"
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "QUIP",
+            "roles": [
+                "administrative"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.nic.cz/entity/QUIP",
+                    "rel": "self",
+                    "href": "https://rdap.nic.cz/entity/QUIP",
+                    "type": "application/rdap+json"
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "handle": "cecelia.ns.cloudflare.com",
+            "ldhName": "cecelia.ns.cloudflare.com",
+            "links": [
+                {
+                    "value": "https://rdap.nic.cz/nameserver/cecelia.ns.cloudflare.com",
+                    "rel": "self",
+                    "href": "https://rdap.nic.cz/nameserver/cecelia.ns.cloudflare.com",
+                    "type": "application/rdap+json"
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "handle": "jaime.ns.cloudflare.com",
+            "ldhName": "jaime.ns.cloudflare.com",
+            "links": [
+                {
+                    "value": "https://rdap.nic.cz/nameserver/jaime.ns.cloudflare.com",
+                    "rel": "self",
+                    "href": "https://rdap.nic.cz/nameserver/jaime.ns.cloudflare.com",
+                    "type": "application/rdap+json"
+                }
+            ]
+        },
+        {
+            "objectClassName": "domain",
+            "rdapConformance": [
+                "rdap_level_0",
+                "fred_version_0"
+            ],
+            "handle": "bandzone.cz",
+            "ldhName": "bandzone.cz",
+            "links": [
+                {
+                    "value": "https://rdap.nic.cz/domain/bandzone.cz",
+                    "rel": "self",
+                    "href": "https://rdap.nic.cz/domain/bandzone.cz",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "port43": "whois.nic.cz",
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "handle": "cecelia.ns.cloudflare.com",
+                    "ldhName": "cecelia.ns.cloudflare.com",
+                    "links": [
+                        {
+                            "value": "https://rdap.nic.cz/nameserver/cecelia.ns.cloudflare.com",
+                            "rel": "self",
+                            "href": "https://rdap.nic.cz/nameserver/cecelia.ns.cloudflare.com",
+                            "type": "application/rdap+json"
+                        }
+                    ]
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "handle": "jaime.ns.cloudflare.com",
+                    "ldhName": "jaime.ns.cloudflare.com",
+                    "links": [
+                        {
+                            "value": "https://rdap.nic.cz/nameserver/jaime.ns.cloudflare.com",
+                            "rel": "self",
+                            "href": "https://rdap.nic.cz/nameserver/jaime.ns.cloudflare.com",
+                            "type": "application/rdap+json"
+                        }
+                    ]
+                }
+            ],
+            "fred_nsset": {
+                "objectClassName": "fred_nsset",
+                "handle": "BANDZONE-CLOUD",
+                "links": [
+                    {
+                        "value": "https://rdap.nic.cz/fred_nsset/BANDZONE-CLOUD",
+                        "rel": "self",
+                        "href": "https://rdap.nic.cz/fred_nsset/BANDZONE-CLOUD",
+                        "type": "application/rdap+json"
+                    }
+                ],
+                "nameservers": [
+                    {
+                        "objectClassName": "nameserver",
+                        "handle": "cecelia.ns.cloudflare.com",
+                        "ldhName": "cecelia.ns.cloudflare.com",
+                        "links": [
+                            {
+                                "value": "https://rdap.nic.cz/nameserver/cecelia.ns.cloudflare.com",
+                                "rel": "self",
+                                "href": "https://rdap.nic.cz/nameserver/cecelia.ns.cloudflare.com",
+                                "type": "application/rdap+json"
+                            }
+                        ]
+                    },
+                    {
+                        "objectClassName": "nameserver",
+                        "handle": "jaime.ns.cloudflare.com",
+                        "ldhName": "jaime.ns.cloudflare.com",
+                        "links": [
+                            {
+                                "value": "https://rdap.nic.cz/nameserver/jaime.ns.cloudflare.com",
+                                "rel": "self",
+                                "href": "https://rdap.nic.cz/nameserver/jaime.ns.cloudflare.com",
+                                "type": "application/rdap+json"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "notices": [
+                {
+                    "title": "Disclaimer",
+                    "description": [
+                        "(c) 2023 CZ.NIC, z.s.p.o.",
+                        "Intended use of supplied data and information",
+                        "Data contained in the domain name register, as well as information supplied through public information services of CZ.NIC association, are appointed only for purposes connected with Internet network administration and operation, or for the purpose of legal or other similar proceedings, in process as regards a matter connected particularly with holding and using a concrete domain name."
+                    ]
+                }
+            ]
+        }
+    ],
+    "domain": "bandzone.cz\r"
+}

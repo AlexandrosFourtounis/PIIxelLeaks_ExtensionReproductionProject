@@ -1,0 +1,311 @@
+{
+    "name": "soufeel.com.au",
+    "handle": "ef41ca836fea46f398f9b23dfb9ba689-AU",
+    "registrationDate": null,
+    "expirationDate": null,
+    "lastChangedDate": "9/18/2025, 12:28:32 PM GMT+3",
+    "lastUpdateDate": "6/16/2026, 3:54:54 PM GMT+3",
+    "rawData": [
+        {
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+1.4805058800"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "abuse@godaddy.com"
+                    ]
+                ]
+            ],
+            "roles": [
+                "abuse"
+            ],
+            "objectClassName": "entity"
+        },
+        {
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "GoDaddy.com LLC trading as GoDaddy.com"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrar"
+            ],
+            "publicIds": [
+                {
+                    "type": "Registrar ID",
+                    "identifier": "146"
+                }
+            ],
+            "objectClassName": "entity",
+            "handle": "146",
+            "entities": [
+                {
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                ""
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "voice"
+                                },
+                                "uri",
+                                "tel:+1.4805058800"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "abuse@godaddy.com"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "abuse"
+                    ],
+                    "objectClassName": "entity"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.cctld.au/rdap/entity/146",
+                    "rel": "self",
+                    "href": "https://rdap.cctld.au/rdap/entity/146",
+                    "type": "application/rdap+json"
+                },
+                {
+                    "value": "https://www.godaddy.com/en-au/contact-us",
+                    "rel": "related",
+                    "href": "https://www.godaddy.com/en-au/contact-us",
+                    "type": "application/rdap+json"
+                }
+            ]
+        },
+        {
+            "ldhName": "ns77.domaincontrol.com",
+            "unicodeName": "ns77.domaincontrol.com",
+            "objectClassName": "nameserver",
+            "handle": "dabf65bd9ee7451fb7a210a389367c1d-AU",
+            "status": [
+                "associated"
+            ]
+        },
+        {
+            "ldhName": "ns78.domaincontrol.com",
+            "unicodeName": "ns78.domaincontrol.com",
+            "objectClassName": "nameserver",
+            "handle": "40129dbcf0fd413bb6907e12dfc04b00-AU",
+            "status": [
+                "associated"
+            ]
+        },
+        {
+            "rdapConformance": [
+                "rdap_level_0",
+                "auda_rdap_response_profile_0",
+                "auData_level_0",
+                "redacted"
+            ],
+            "notices": [
+                {
+                    "title": "Terms of Service",
+                    "description": [
+                        "Access to RDAP information is provided to assist persons in determining the contents of a domain name registration record in the registry database. The data in this record is provided by Identity Digital Australia Pty Ltd on behalf of .au Domain Administration Limited (auDA) for informational purposes only, and neither Identity Digital nor .au Domain Administration Limited (auDA) guarantee its accuracy. This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to (a) allow, enable, or otherwise support the transmission by e-mail, telephone, facsimile, or any other electronic means of communication, of mass unsolicited communications, including commercial advertising or solicitations to entities other than the data recipient's own existing customers or for the collection of data sets to which the data recipient has no other legal source of access; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Identity Digital, a Registrar, or Registry Operator except as reasonably necessary to register domain names or modify existing registrations. When using the RDAP service, please consider the following: the RDAP service is not a replacement for standard EPP commands to the SRS service. RDAP is not considered authoritative for registered domain objects. The RDAP service may be scheduled for downtime during production or OT&E maintenance periods. Queries to the RDAP services are throttled. If too many queries are received from a single IP address within a specified time, the service will begin to reject further queries for a period of time to prevent disruption of RDAP service access. Abuse of the RDAP system through data mining is mitigated by detecting and limiting bulk query access from single sources. Where applicable, the presence of a [Non-Public Data] tag indicates that such data is not made publicly available due to applicable data privacy laws or requirements. Should you wish to contact the registrant, please refer to the RDAP records available through the registrar URL listed above. Access to non-public data may be provided, upon request, where it can be confirmed that the requester holds a legal entitlement to access the withheld data. The RDAP Service is provided for information purposes only. By using the RDAP Service, you agree to be bound by these terms and conditions. The RDAP Service is operated in accordance with the auDA Policy available at: https://www.auda.org.au/whois-policy"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.cctld.au/rdap/domain/soufeel.com.au",
+                            "rel": "terms-of-service",
+                            "href": "https://www.auda.org.au/whois-policy",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "Status Codes",
+                    "description": [
+                        "For more information on domain status codes, please visit https://www.identitydigital.au/whois-status-codes/"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.cctld.au/rdap/domain/soufeel.com.au",
+                            "rel": "glossary",
+                            "href": "https://www.identitydigital.au/whois-status-codes/",
+                            "type": "application/rdap+json"
+                        }
+                    ]
+                },
+                {
+                    "title": "RDDS Inaccuracy Complaint Form",
+                    "description": [
+                        "URL of the auDA RDDS Inaccuracy Complaint Form: https://www.auda.org.au/au-domain-names/complaints-and-disputes/au-complaints/submit-a-complaint/"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.cctld.au/rdap/domain/soufeel.com.au",
+                            "rel": "help",
+                            "href": "https://www.auda.org.au/au-domain-names/complaints-and-disputes/au-complaints/submit-a-complaint/",
+                            "type": "application/rdap+json"
+                        }
+                    ]
+                }
+            ],
+            "ldhName": "soufeel.com.au",
+            "unicodeName": "soufeel.com.au",
+            "auData_statusReasons": [
+                {
+                    "auData_status": "server renew prohibited",
+                    "auData_statusReason": [
+                        "Not Currently Eligible For Renewal"
+                    ]
+                }
+            ],
+            "auData_eligibility": [
+                {
+                    "name": "registrant name",
+                    "value": "EN LAS NUBES PTY LTD"
+                },
+                {
+                    "name": "registrant id",
+                    "value": "ACN 690474910"
+                },
+                {
+                    "name": "eligibility type",
+                    "value": "Company"
+                }
+            ],
+            "nameservers": [
+                {
+                    "ldhName": "ns77.domaincontrol.com",
+                    "unicodeName": "ns77.domaincontrol.com",
+                    "objectClassName": "nameserver",
+                    "handle": "dabf65bd9ee7451fb7a210a389367c1d-AU",
+                    "status": [
+                        "associated"
+                    ]
+                },
+                {
+                    "ldhName": "ns78.domaincontrol.com",
+                    "unicodeName": "ns78.domaincontrol.com",
+                    "objectClassName": "nameserver",
+                    "handle": "40129dbcf0fd413bb6907e12dfc04b00-AU",
+                    "status": [
+                        "associated"
+                    ]
+                }
+            ],
+            "secureDNS": {
+                "delegationSigned": false,
+                "maxSigLife": 1
+            },
+            "redacted": [
+                {
+                    "name": {
+                        "type": "Registry Domain Registration Date"
+                    },
+                    "prePath": "$.events[?(@.eventAction=='registration')]",
+                    "pathLang": "jsonpath",
+                    "method": "removal"
+                },
+                {
+                    "name": {
+                        "type": "Registry Domain Expiration Date"
+                    },
+                    "prePath": "$.events[?(@.eventAction=='expiration')]",
+                    "pathLang": "jsonpath",
+                    "method": "removal"
+                },
+                {
+                    "name": {
+                        "type": "Registry Domain Transfer Date"
+                    },
+                    "prePath": "$.events[?(@.eventAction=='transfer')]",
+                    "pathLang": "jsonpath",
+                    "method": "removal"
+                },
+                {
+                    "name": {
+                        "description": "Registrant"
+                    },
+                    "method": "removal"
+                },
+                {
+                    "name": {
+                        "description": "Technical Contact"
+                    },
+                    "method": "removal"
+                },
+                {
+                    "name": {
+                        "description": "Administrative Contact"
+                    },
+                    "method": "removal"
+                },
+                {
+                    "name": {
+                        "type": "AU Eligibility Policy Reason"
+                    },
+                    "prePath": "$.auData_eligibility[?(@.name=='policy reason')]",
+                    "pathLang": "jsonpath",
+                    "method": "removal"
+                }
+            ],
+            "objectClassName": "domain",
+            "handle": "ef41ca836fea46f398f9b23dfb9ba689-AU",
+            "links": [
+                {
+                    "value": "https://rdap.cctld.au/rdap/domain/soufeel.com.au",
+                    "rel": "self",
+                    "href": "https://rdap.cctld.au/rdap/domain/soufeel.com.au",
+                    "type": "application/rdap+json"
+                }
+            ]
+        }
+    ],
+    "domain": "soufeel.com.au\r"
+}

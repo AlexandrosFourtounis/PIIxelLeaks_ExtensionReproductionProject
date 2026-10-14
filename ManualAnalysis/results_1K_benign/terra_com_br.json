@@ -1,0 +1,560 @@
+{
+    "name": "terra.com.br",
+    "handle": "terra.com.br",
+    "registrationDate": "11/30/1998, 8:18:23 PM GMT+2",
+    "expirationDate": "11/30/2027, 8:18:23 PM GMT+2",
+    "lastChangedDate": "4/8/2025, 6:04:55 PM GMT+3",
+    "lastUpdateDate": null,
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "handle": "MPL4",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Hostmaster Terra Networks"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "domain@terra.com.br"
+                    ],
+                    [
+                        "lang",
+                        {},
+                        "language-tag",
+                        "pt"
+                    ],
+                    [
+                        "adr",
+                        {},
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "BR"
+                        ]
+                    ]
+                ]
+            ],
+            "roles": [
+                "administrative"
+            ],
+            "events": [
+                {
+                    "eventAction": "registration",
+                    "eventDate": "1998-01-22T12:00:00Z"
+                },
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2022-06-30T17:41:42Z"
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "p83",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        ""
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrar"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.registro.br/entity/91088328000167",
+                    "rel": "related",
+                    "href": "https://rdap.registro.br/entity/p83",
+                    "type": "application/rdap+json"
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "91088328000167",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Terra Networks Brasil S.A."
+                    ],
+                    [
+                        "adr",
+                        {},
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "BR"
+                        ]
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "publicIds": [
+                {
+                    "type": "cnpj",
+                    "identifier": "91.088.328/0001-67"
+                }
+            ],
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "handle": "MPL4",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "kind",
+                                {},
+                                "text",
+                                "individual"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Hostmaster Terra Networks"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "domain@terra.com.br"
+                            ],
+                            [
+                                "lang",
+                                {},
+                                "language-tag",
+                                "pt"
+                            ],
+                            [
+                                "adr",
+                                {},
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "BR"
+                                ]
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "administrative"
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "1998-01-22T12:00:00Z"
+                        },
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2022-06-30T17:41:42Z"
+                        }
+                    ]
+                },
+                {
+                    "objectClassName": "entity",
+                    "handle": "p83",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                ""
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "registrar"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.registro.br/entity/91088328000167",
+                            "rel": "related",
+                            "href": "https://rdap.registro.br/entity/p83",
+                            "type": "application/rdap+json"
+                        }
+                    ]
+                }
+            ],
+            "events": [
+                {
+                    "eventAction": "registration",
+                    "eventDate": "1998-01-22T12:00:00Z"
+                },
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2016-08-26T20:38:24Z"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.registro.br/entity/91088328000167",
+                    "rel": "self",
+                    "href": "https://rdap.registro.br/entity/91088328000167",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "legalRepresentative": "Hostmaster Terra Networks"
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "ALG3",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Hostmaster Terra Networks"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "domain@terra.com.br"
+                    ],
+                    [
+                        "lang",
+                        {},
+                        "language-tag",
+                        "pt"
+                    ],
+                    [
+                        "adr",
+                        {},
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "BR"
+                        ]
+                    ]
+                ]
+            ],
+            "roles": [
+                "technical"
+            ],
+            "events": [
+                {
+                    "eventAction": "registration",
+                    "eventDate": "1997-12-26T12:00:00Z"
+                },
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2025-01-29T18:54:11Z"
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "p83",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "TERRA"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrar"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.registro.br/domain/terra.com.br",
+                    "rel": "related",
+                    "href": "https://rdap.registro.br/entity/p83",
+                    "type": "application/rdap+json"
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "a.dns.terra.com",
+            "events": [
+                {
+                    "eventAction": "delegation check",
+                    "eventDate": "2026-06-21T08:00:25Z",
+                    "status": [
+                        "ns aa"
+                    ]
+                },
+                {
+                    "eventAction": "last correct delegation check",
+                    "eventDate": "2026-06-21T08:00:25Z"
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "b.dns.terra.com.br",
+            "ipAddresses": {
+                "v4": [
+                    "193.108.91.19"
+                ]
+            },
+            "events": [
+                {
+                    "eventAction": "delegation check",
+                    "eventDate": "2026-06-21T08:00:25Z",
+                    "status": [
+                        "ns aa"
+                    ]
+                },
+                {
+                    "eventAction": "last correct delegation check",
+                    "eventDate": "2026-06-21T08:00:25Z"
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "c.dns.terra.com",
+            "events": [
+                {
+                    "eventAction": "delegation check",
+                    "eventDate": "2026-06-21T08:00:25Z",
+                    "status": [
+                        "ns aa"
+                    ]
+                },
+                {
+                    "eventAction": "last correct delegation check",
+                    "eventDate": "2026-06-21T08:00:25Z"
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "d.dns.terra.com.br",
+            "ipAddresses": {
+                "v4": [
+                    "2.16.130.67"
+                ]
+            },
+            "events": [
+                {
+                    "eventAction": "delegation check",
+                    "eventDate": "2026-06-21T08:00:25Z",
+                    "status": [
+                        "ns aa"
+                    ]
+                },
+                {
+                    "eventAction": "last correct delegation check",
+                    "eventDate": "2026-06-21T08:00:25Z"
+                }
+            ]
+        },
+        {
+            "objectClassName": "domain",
+            "handle": "terra.com.br",
+            "ldhName": "terra.com.br",
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "a.dns.terra.com",
+                    "events": [
+                        {
+                            "eventAction": "delegation check",
+                            "eventDate": "2026-06-21T08:00:25Z",
+                            "status": [
+                                "ns aa"
+                            ]
+                        },
+                        {
+                            "eventAction": "last correct delegation check",
+                            "eventDate": "2026-06-21T08:00:25Z"
+                        }
+                    ]
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "b.dns.terra.com.br",
+                    "ipAddresses": {
+                        "v4": [
+                            "193.108.91.19"
+                        ]
+                    },
+                    "events": [
+                        {
+                            "eventAction": "delegation check",
+                            "eventDate": "2026-06-21T08:00:25Z",
+                            "status": [
+                                "ns aa"
+                            ]
+                        },
+                        {
+                            "eventAction": "last correct delegation check",
+                            "eventDate": "2026-06-21T08:00:25Z"
+                        }
+                    ]
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "c.dns.terra.com",
+                    "events": [
+                        {
+                            "eventAction": "delegation check",
+                            "eventDate": "2026-06-21T08:00:25Z",
+                            "status": [
+                                "ns aa"
+                            ]
+                        },
+                        {
+                            "eventAction": "last correct delegation check",
+                            "eventDate": "2026-06-21T08:00:25Z"
+                        }
+                    ]
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "d.dns.terra.com.br",
+                    "ipAddresses": {
+                        "v4": [
+                            "2.16.130.67"
+                        ]
+                    },
+                    "events": [
+                        {
+                            "eventAction": "delegation check",
+                            "eventDate": "2026-06-21T08:00:25Z",
+                            "status": [
+                                "ns aa"
+                            ]
+                        },
+                        {
+                            "eventAction": "last correct delegation check",
+                            "eventDate": "2026-06-21T08:00:25Z"
+                        }
+                    ]
+                }
+            ],
+            "secureDNS": {
+                "delegationSigned": false
+            },
+            "links": [
+                {
+                    "value": "https://rdap.registro.br/domain/terra.com.br",
+                    "rel": "self",
+                    "href": "https://rdap.registro.br/domain/terra.com.br",
+                    "type": "application/rdap+json"
+                },
+                {
+                    "value": "https://rdap.registro.br/domain/terra.com.br",
+                    "rel": "archives",
+                    "href": "https://rdap.registro.br/domain/terra.com.br?ticket=129987",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "notices": [
+                {
+                    "title": "Use and Privacy Policy",
+                    "description": [
+                        "Copyright (c) Nic.br - Use of this data is governed by the Use and Privacy Policy. Distribution, commercialization, reproduction, and use for advertising or similar purposes are expressly prohibited.",
+                        "2026-06-23T10:55:39-03:00 - 139.91.90.27"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.registro.br/domain/terra.com.br",
+                            "rel": "alternate",
+                            "href": "https://registro.br/upp",
+                            "type": "text/html"
+                        }
+                    ]
+                }
+            ],
+            "rdapConformance": [
+                "rdap_level_0",
+                "nicbr_level_0"
+            ],
+            "port43": "whois.registro.br"
+        }
+    ],
+    "domain": "terra.com.br\r"
+}

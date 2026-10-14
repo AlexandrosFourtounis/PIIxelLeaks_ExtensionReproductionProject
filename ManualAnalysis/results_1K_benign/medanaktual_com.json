@@ -1,0 +1,492 @@
+{
+    "name": "medanaktual.com",
+    "handle": "2049872254_DOMAIN_COM-VRSN",
+    "registrationDate": "8/6/2016, 5:12:14 PM GMT+3",
+    "expirationDate": "8/6/2026, 5:12:14 PM GMT+3",
+    "lastChangedDate": null,
+    "lastUpdateDate": "3/2/2026, 8:25:25 PM GMT+2",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        [],
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "CV. Jogjacamp"
+                    ],
+                    [
+                        "org",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        ""
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "faidemplon@gmail.com"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "voice"
+                            ]
+                        },
+                        "uri",
+                        "tel:+62.85761463416"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "type": "work",
+                            "cc": "ID"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "Jl Vanili Raya No 100 Perumnas Simalingkar Medan",
+                            "Medan",
+                            "Sumatera Utara",
+                            "20141",
+                            ""
+                        ]
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object redacted due to authorization",
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        [],
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "CV. Jogjacamp"
+                    ],
+                    [
+                        "org",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        ""
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "faidemplon@gmail.com"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "voice"
+                            ]
+                        },
+                        "uri",
+                        "tel:+62.85761463416"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "type": "work",
+                            "cc": "ID"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "Jl Vanili Raya No 100 Perumnas Simalingkar Medan",
+                            "Medan",
+                            "Sumatera Utara",
+                            "20141",
+                            ""
+                        ]
+                    ]
+                ]
+            ],
+            "roles": [
+                "technical"
+            ],
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object redacted due to authorization",
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        [],
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "CV. Jogjacamp"
+                    ],
+                    [
+                        "org",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        ""
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "voice"
+                            ]
+                        },
+                        "uri",
+                        "tel:+62.85761463416"
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "faidemplon@gmail.com"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "type": "work",
+                            "cc": "ID"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "Jl Vanili Raya No 100 Perumnas Simalingkar Medan",
+                            "Medan",
+                            "Sumatera Utara",
+                            "20141",
+                            ""
+                        ]
+                    ]
+                ]
+            ],
+            "roles": [
+                "administrative"
+            ],
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object redacted due to authorization",
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        [],
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "CV. Jogjacamp"
+                    ],
+                    [
+                        "org",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        ""
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "faidemplon@gmail.com"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "voice"
+                            ]
+                        },
+                        "uri",
+                        "tel:+62.85761463416"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "type": "work",
+                            "cc": "ID"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "Jl Vanili Raya No 100 Perumnas Simalingkar Medan",
+                            "Medan",
+                            "Sumatera Utara",
+                            "20141",
+                            ""
+                        ]
+                    ]
+                ]
+            ],
+            "roles": [
+                "billing"
+            ],
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object redacted due to authorization",
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        [],
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "CV. Jogjacamp"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "voice"
+                            ]
+                        },
+                        "uri",
+                        "tel:+62.82141570000"
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "abuse@resellercamp.com"
+                    ]
+                ]
+            ],
+            "roles": [
+                "abuse"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "1478",
+            "roles": [
+                "registrar"
+            ],
+            "publicIds": [
+                {
+                    "type": "Registrar IANA ID",
+                    "identifier": "1478"
+                }
+            ],
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                [],
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "CV. Jogjacamp"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "voice"
+                                    ]
+                                },
+                                "uri",
+                                "tel:+62.82141570000"
+                            ],
+                            [
+                                "email",
+                                {
+                                    "type": "work"
+                                },
+                                "text",
+                                "abuse@resellercamp.com"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "abuse"
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "NS1.IDWEBHOST.ID"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "NS2.IDWEBHOST.ID"
+        },
+        {
+            "rdapConformance": [
+                "rdap_level_0",
+                "icann_rdap_response_profile_0",
+                "icann_rdap_technical_implementation_guide_0"
+            ],
+            "notices": [
+                {
+                    "title": "Term of Use",
+                    "description": [
+                        "Access to CV. Jogjacamp RDAP information is provided to assist persons in determining the contents of a domain name registration record in the CV. Jogjacamp registrar database. The data in this record is provided by CV. Jogjacamp for informational purposes only, and CV. Jogjacamp does not guarantee its accuracy. This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to(a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registrar except as reasonably necessary to register domain names or modify existing registrations. All rights reserved. CV. Jogjacamp reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy."
+                    ],
+                    "links": [
+                        {
+                            "rel": "alternate",
+                            "href": "https://rdap.liqu.id/terms_of_use",
+                            "type": "text/html",
+                            "value": "https://rdap.liqu.id/terms_of_use"
+                        }
+                    ]
+                },
+                {
+                    "title": "RDDS Inaccuracy Complaint Form",
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ],
+                    "links": [
+                        {
+                            "rel": "related",
+                            "href": "https://icann.org/wicf",
+                            "value": "https://icann.org/wicf",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "Status Codes",
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ],
+                    "links": [
+                        {
+                            "rel": "related",
+                            "href": "https://icann.org/epp",
+                            "type": "text/html",
+                            "value": "https://icann.org/epp"
+                        }
+                    ]
+                }
+            ],
+            "lang": "en",
+            "objectClassName": "domain",
+            "handle": "2049872254_DOMAIN_COM-VRSN",
+            "ldhName": "medanaktual.com",
+            "links": [
+                {
+                    "value": "https://rdap.liqu.id/domain/medanaktual.com",
+                    "rel": "related",
+                    "href": "https://rdap.liqu.id/domain/medanaktual.com",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "NS1.IDWEBHOST.ID"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "NS2.IDWEBHOST.ID"
+                }
+            ],
+            "secureDNS": {
+                "delegationSigned": false
+            }
+        }
+    ],
+    "domain": "medanaktual.com\r"
+}

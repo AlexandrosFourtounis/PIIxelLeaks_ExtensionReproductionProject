@@ -1,0 +1,1212 @@
+[
+  {
+    "index": 1,
+    "original_domain": "ababmall.shop",
+    "base_domain": "ababmall.shop",
+    "final_url": "https://ababmall.shop",
+    "status_code": 200,
+    "redirect_chain": [],
+    "html_file": "html/ababmall.shop.html",
+    "error": null
+  },
+  {
+    "index": 2,
+    "original_domain": "ablemodern.com",
+    "base_domain": "ablemodern.com",
+    "final_url": "https://www.ablemodern.com/",
+    "status_code": 200,
+    "redirect_chain": [
+      {
+        "url": "https://ablemodern.com",
+        "status": 301,
+        "location": "https://www.ablemodern.com/"
+      }
+    ],
+    "html_file": "html/ablemodern.com.html",
+    "error": null
+  },
+  {
+    "index": 3,
+    "original_domain": "abugarciau.com",
+    "base_domain": "abugarciau.com",
+    "final_url": "https://abugarciau.com",
+    "status_code": 200,
+    "redirect_chain": [],
+    "html_file": "html/abugarciau.com.html",
+    "error": null
+  },
+  {
+    "index": 4,
+    "original_domain": "alabamalux.shop",
+    "base_domain": "alabamalux.shop",
+    "final_url": "https://alabamalux.shop",
+    "status_code": 200,
+    "redirect_chain": [],
+    "html_file": "html/alabamalux.shop.html",
+    "error": null
+  },
+  {
+    "index": 5,
+    "original_domain": "alchemise.uk",
+    "base_domain": "alchemise.uk",
+    "final_url": "https://alchemise.uk",
+    "status_code": 200,
+    "redirect_chain": [],
+    "html_file": "html/alchemise.uk.html",
+    "error": null
+  },
+  {
+    "index": 6,
+    "original_domain": "aniechic.shop",
+    "base_domain": "aniechic.shop",
+    "final_url": "https://www.aniechic.shop/",
+    "status_code": 200,
+    "redirect_chain": [
+      {
+        "url": "https://aniechic.shop",
+        "status": 301,
+        "location": "//www.aniechic.shop/"
+      }
+    ],
+    "html_file": "html/aniechic.shop.html",
+    "error": null
+  },
+  {
+    "index": 7,
+    "original_domain": "anitabarcelona.com",
+    "base_domain": "anitabarcelona.com",
+    "final_url": "https://www.anitabarcelona.com/",
+    "status_code": 200,
+    "redirect_chain": [
+      {
+        "url": "https://anitabarcelona.com",
+        "status": 301,
+        "location": "//www.anitabarcelona.com/"
+      }
+    ],
+    "html_file": "html/anitabarcelona.com.html",
+    "error": null
+  },
+  {
+    "index": 8,
+    "original_domain": "apexgoodsonline.com",
+    "base_domain": "apexgoodsonline.com",
+    "final_url": "https://apexgoodsonline.com",
+    "status_code": 200,
+    "redirect_chain": [],
+    "html_file": "html/apexgoodsonline.com.html",
+    "error": null
+  },
+  {
+    "index": 9,
+    "original_domain": "avaroot.com",
+    "base_domain": "avaroot.com",
+    "final_url": "https://avaroot.com",
+    "status_code": 200,
+    "redirect_chain": [],
+    "html_file": "html/avaroot.com.html",
+    "error": null
+  },
+  {
+    "index": 10,
+    "original_domain": "bb-pledge.top",
+    "base_domain": "bb-pledge.top",
+    "final_url": "https://bb-pledge.top",
+    "status_code": 200,
+    "redirect_chain": [],
+    "html_file": "html/bb-pledge.top.html",
+    "error": null
+  },
+  {
+    "index": 11,
+    "original_domain": "berrky.com",
+    "base_domain": "berrky.com",
+    "final_url": null,
+    "status_code": null,
+    "redirect_chain": [],
+    "html_file": null,
+    "error": "Connection error: Cannot connect to host berrky.com:80 ssl:default [Connect call failed ('47.251.117.121', 80)]"
+  },
+  {
+    "index": 12,
+    "original_domain": "bigmaxsale.com",
+    "base_domain": "bigmaxsale.com",
+    "final_url": "https://nexorvella.com/",
+    "status_code": 200,
+    "redirect_chain": [
+      {
+        "url": "https://bigmaxsale.com",
+        "status": 301,
+        "location": "https://nexorvella.com/"
+      }
+    ],
+    "html_file": "html/bigmaxsale.com.html",
+    "error": null
+  },
+  {
+    "index": 13,
+    "original_domain": "boiertimepieces.com",
+    "base_domain": "boiertimepieces.com",
+    "final_url": "https://boiertimepieces.com",
+    "status_code": 200,
+    "redirect_chain": [],
+    "html_file": "html/boiertimepieces.com.html",
+    "error": null
+  },
+  {
+    "index": 14,
+    "original_domain": "chantkit.com",
+    "base_domain": "chantkit.com",
+    "final_url": "https://www.chantkit.com/",
+    "status_code": 200,
+    "redirect_chain": [
+      {
+        "url": "https://chantkit.com",
+        "status": 301,
+        "location": "//www.chantkit.com/"
+      }
+    ],
+    "html_file": "html/chantkit.com.html",
+    "error": null
+  },
+  {
+    "index": 15,
+    "original_domain": "clearmores.com",
+    "base_domain": "clearmores.com",
+    "final_url": "https://clearmores.com",
+    "status_code": 200,
+    "redirect_chain": [],
+    "html_file": "html/clearmores.com.html",
+    "error": null
+  },
+  {
+    "index": 16,
+    "original_domain": "comfortknot.com",
+    "base_domain": "comfortknot.com",
+    "final_url": "https://comfortknot.com",
+    "status_code": 200,
+    "redirect_chain": [],
+    "html_file": "html/comfortknot.com.html",
+    "error": null
+  },
+  {
+    "index": 17,
+    "original_domain": "correctous.com",
+    "base_domain": "correctous.com",
+    "final_url": "https://www.correctous.com/",
+    "status_code": 200,
+    "redirect_chain": [
+      {
+        "url": "https://correctous.com",
+        "status": 301,
+        "location": "https://www.correctous.com/"
+      }
+    ],
+    "html_file": "html/correctous.com.html",
+    "error": null
+  },
+  {
+    "index": 18,
+    "original_domain": "crispisboot.com",
+    "base_domain": "crispisboot.com",
+    "final_url": "https://crispisboot.com",
+    "status_code": 200,
+    "redirect_chain": [],
+    "html_file": "html/crispisboot.com.html",
+    "error": null
+  },
+  {
+    "index": 19,
+    "original_domain": "cryptoinvestvip.vip",
+    "base_domain": "cryptoinvestvip.vip",
+    "final_url": "https://cryptoinvestvip.vip",
+    "status_code": 200,
+    "redirect_chain": [],
+    "html_file": "html/cryptoinvestvip.vip.html",
+    "error": null
+  },
+  {
+    "index": 20,
+    "original_domain": "curamale.com",
+    "base_domain": "curamale.com",
+    "final_url": "https://www.curamale.com/",
+    "status_code": 200,
+    "redirect_chain": [
+      {
+        "url": "https://curamale.com",
+        "status": 301,
+        "location": "https://www.curamale.com/"
+      }
+    ],
+    "html_file": "html/curamale.com.html",
+    "error": null
+  },
+  {
+    "index": 21,
+    "original_domain": "damasoz.cc",
+    "base_domain": "damasoz.cc",
+    "final_url": "https://damasoz.cc",
+    "status_code": 200,
+    "redirect_chain": [],
+    "html_file": "html/damasoz.cc.html",
+    "error": null
+  },
+  {
+    "index": 22,
+    "original_domain": "effortua.net",
+    "base_domain": "effortua.net",
+    "final_url": "https://effortua.net",
+    "status_code": 200,
+    "redirect_chain": [],
+    "html_file": "html/effortua.net.html",
+    "error": null
+  },
+  {
+    "index": 23,
+    "original_domain": "europacustoms.com",
+    "base_domain": "europacustoms.com",
+    "final_url": "https://www.europacustoms.com/",
+    "status_code": 200,
+    "redirect_chain": [
+      {
+        "url": "https://europacustoms.com",
+        "status": 301,
+        "location": "https://www.europacustoms.com/"
+      }
+    ],
+    "html_file": "html/europacustoms.com.html",
+    "error": null
+  },
+  {
+    "index": 24,
+    "original_domain": "exhibitionk.com",
+    "base_domain": "exhibitionk.com",
+    "final_url": "https://www.exhibitionk.com/",
+    "status_code": 200,
+    "redirect_chain": [
+      {
+        "url": "https://exhibitionk.com",
+        "status": 301,
+        "location": "https://www.exhibitionk.com/"
+      }
+    ],
+    "html_file": "html/exhibitionk.com.html",
+    "error": null
+  },
+  {
+    "index": 25,
+    "original_domain": "falowwer.com",
+    "base_domain": "falowwer.com",
+    "final_url": "http://falowwer.com",
+    "status_code": 409,
+    "redirect_chain": [],
+    "html_file": null,
+    "error": null
+  },
+  {
+    "index": 26,
+    "original_domain": "fatemoll.com",
+    "base_domain": "fatemoll.com",
+    "final_url": "https://www.fatemoll.com/",
+    "status_code": 200,
+    "redirect_chain": [
+      {
+        "url": "https://fatemoll.com",
+        "status": 301,
+        "location": "//www.fatemoll.com/"
+      }
+    ],
+    "html_file": "html/fatemoll.com.html",
+    "error": null
+  },
+  {
+    "index": 27,
+    "original_domain": "favorabler.com",
+    "base_domain": "favorabler.com",
+    "final_url": "https://www.favorabler.com/",
+    "status_code": 200,
+    "redirect_chain": [
+      {
+        "url": "https://favorabler.com",
+        "status": 301,
+        "location": "https://www.favorabler.com/"
+      }
+    ],
+    "html_file": "html/favorabler.com.html",
+    "error": null
+  },
+  {
+    "index": 28,
+    "original_domain": "feryna.com",
+    "base_domain": "feryna.com",
+    "final_url": "https://feryna.com",
+    "status_code": 200,
+    "redirect_chain": [],
+    "html_file": "html/feryna.com.html",
+    "error": null
+  },
+  {
+    "index": 29,
+    "original_domain": "festivelook.com",
+    "base_domain": "festivelook.com",
+    "final_url": "https://www.festivelook.com/",
+    "status_code": 200,
+    "redirect_chain": [
+      {
+        "url": "https://festivelook.com",
+        "status": 301,
+        "location": "https://www.festivelook.com/"
+      }
+    ],
+    "html_file": "html/festivelook.com.html",
+    "error": null
+  },
+  {
+    "index": 30,
+    "original_domain": "flagmaxx.com",
+    "base_domain": "flagmaxx.com",
+    "final_url": "https://flagmaxx.com",
+    "status_code": 200,
+    "redirect_chain": [],
+    "html_file": "html/flagmaxx.com.html",
+    "error": null
+  },
+  {
+    "index": 31,
+    "original_domain": "fleexos.online",
+    "base_domain": "fleexos.online",
+    "final_url": "https://www.fleexos.online/",
+    "status_code": 200,
+    "redirect_chain": [
+      {
+        "url": "https://fleexos.online",
+        "status": 301,
+        "location": "https://www.fleexos.online/"
+      }
+    ],
+    "html_file": "html/fleexos.online.html",
+    "error": null
+  },
+  {
+    "index": 32,
+    "original_domain": "funny.so",
+    "base_domain": "funny.so",
+    "final_url": "http://funny.so",
+    "status_code": 200,
+    "redirect_chain": [],
+    "html_file": "html/funny.so.html",
+    "error": null
+  },
+  {
+    "index": 33,
+    "original_domain": "gabrinl.com",
+    "base_domain": "gabrinl.com",
+    "final_url": "https://www.gabrinl.com/",
+    "status_code": 200,
+    "redirect_chain": [
+      {
+        "url": "https://gabrinl.com",
+        "status": 301,
+        "location": "https://www.gabrinl.com/"
+      }
+    ],
+    "html_file": "html/gabrinl.com.html",
+    "error": null
+  },
+  {
+    "index": 34,
+    "original_domain": "guide.menupgame.com",
+    "base_domain": "guide.menupgame.com",
+    "final_url": "https://guide.menupgame.com/coming-soon",
+    "status_code": 200,
+    "redirect_chain": [
+      {
+        "url": "https://guide.menupgame.com",
+        "status": 302,
+        "location": "https://guide.menupgame.com/coming-soon"
+      }
+    ],
+    "html_file": "html/guide.menupgame.com.html",
+    "error": null
+  },
+  {
+    "index": 35,
+    "original_domain": "h5.lushstory.com",
+    "base_domain": "h5.lushstory.com",
+    "final_url": "https://h5.lushstory.com",
+    "status_code": 200,
+    "redirect_chain": [],
+    "html_file": "html/h5.lushstory.com.html",
+    "error": null
+  },
+  {
+    "index": 36,
+    "original_domain": "hanpicked.com",
+    "base_domain": "hanpicked.com",
+    "final_url": "https://hanpicked.com",
+    "status_code": 200,
+    "redirect_chain": [],
+    "html_file": "html/hanpicked.com.html",
+    "error": null
+  },
+  {
+    "index": 37,
+    "original_domain": "hermsjewelry.com",
+    "base_domain": "hermsjewelry.com",
+    "final_url": "https://hermsjewelry.com",
+    "status_code": 200,
+    "redirect_chain": [],
+    "html_file": "html/hermsjewelry.com.html",
+    "error": null
+  },
+  {
+    "index": 38,
+    "original_domain": "hotamsterdam.com",
+    "base_domain": "hotamsterdam.com",
+    "final_url": "https://www.hotamsterdam.com/",
+    "status_code": 200,
+    "redirect_chain": [
+      {
+        "url": "https://hotamsterdam.com",
+        "status": 301,
+        "location": "https://www.hotamsterdam.com/"
+      }
+    ],
+    "html_file": "html/hotamsterdam.com.html",
+    "error": null
+  },
+  {
+    "index": 39,
+    "original_domain": "intimaglow.com",
+    "base_domain": "intimaglow.com",
+    "final_url": "https://www.intimaglow.com/",
+    "status_code": 200,
+    "redirect_chain": [
+      {
+        "url": "https://intimaglow.com",
+        "status": 301,
+        "location": "https://www.intimaglow.com/"
+      }
+    ],
+    "html_file": "html/intimaglow.com.html",
+    "error": null
+  },
+  {
+    "index": 40,
+    "original_domain": "itfortunate.com",
+    "base_domain": "itfortunate.com",
+    "final_url": "https://www.itfortunate.com/",
+    "status_code": 200,
+    "redirect_chain": [
+      {
+        "url": "https://itfortunate.com",
+        "status": 301,
+        "location": "https://www.itfortunate.com/"
+      }
+    ],
+    "html_file": "html/itfortunate.com.html",
+    "error": null
+  },
+  {
+    "index": 41,
+    "original_domain": "jaemsun.com",
+    "base_domain": "jaemsun.com",
+    "final_url": "https://www.jaemsun.com/",
+    "status_code": 200,
+    "redirect_chain": [
+      {
+        "url": "https://jaemsun.com",
+        "status": 301,
+        "location": "https://www.jaemsun.com/"
+      }
+    ],
+    "html_file": "html/jaemsun.com.html",
+    "error": null
+  },
+  {
+    "index": 42,
+    "original_domain": "jhvxginp.cc",
+    "base_domain": "jhvxginp.cc",
+    "final_url": "https://jhvxginp.cc",
+    "status_code": 200,
+    "redirect_chain": [],
+    "html_file": "html/jhvxginp.cc.html",
+    "error": null
+  },
+  {
+    "index": 43,
+    "original_domain": "jwzmj.shop",
+    "base_domain": "jwzmj.shop",
+    "final_url": "https://rjhoz.shop/",
+    "status_code": 200,
+    "redirect_chain": [
+      {
+        "url": "https://jwzmj.shop",
+        "status": 301,
+        "location": "https://rjhoz.shop/"
+      }
+    ],
+    "html_file": "html/jwzmj.shop.html",
+    "error": null
+  },
+  {
+    "index": 44,
+    "original_domain": "kaycenie.com",
+    "base_domain": "kaycenie.com",
+    "final_url": "https://kaycenie.com",
+    "status_code": 200,
+    "redirect_chain": [],
+    "html_file": "html/kaycenie.com.html",
+    "error": null
+  },
+  {
+    "index": 45,
+    "original_domain": "kmartfu.com",
+    "base_domain": "kmartfu.com",
+    "final_url": "https://kmartfu.com",
+    "status_code": 200,
+    "redirect_chain": [],
+    "html_file": "html/kmartfu.com.html",
+    "error": null
+  },
+  {
+    "index": 46,
+    "original_domain": "laudpraise.com",
+    "base_domain": "laudpraise.com",
+    "final_url": "https://www.laudpraise.com/",
+    "status_code": 200,
+    "redirect_chain": [
+      {
+        "url": "https://laudpraise.com",
+        "status": 301,
+        "location": "https://www.laudpraise.com/"
+      }
+    ],
+    "html_file": "html/laudpraise.com.html",
+    "error": null
+  },
+  {
+    "index": 47,
+    "original_domain": "loverlinen.com",
+    "base_domain": "loverlinen.com",
+    "final_url": "https://loverlinen.com",
+    "status_code": 200,
+    "redirect_chain": [],
+    "html_file": "html/loverlinen.com.html",
+    "error": null
+  },
+  {
+    "index": 48,
+    "original_domain": "loveyrose.com",
+    "base_domain": "loveyrose.com",
+    "final_url": "https://www.loveyrose.com/",
+    "status_code": 200,
+    "redirect_chain": [
+      {
+        "url": "https://loveyrose.com",
+        "status": 301,
+        "location": "//www.loveyrose.com/"
+      }
+    ],
+    "html_file": "html/loveyrose.com.html",
+    "error": null
+  },
+  {
+    "index": 49,
+    "original_domain": "luxswatchco.com",
+    "base_domain": "luxswatchco.com",
+    "final_url": "https://luxswatchco.com",
+    "status_code": 200,
+    "redirect_chain": [],
+    "html_file": "html/luxswatchco.com.html",
+    "error": null
+  },
+  {
+    "index": 50,
+    "original_domain": "m.awishday.com",
+    "base_domain": "m.awishday.com",
+    "final_url": "https://m.awishday.com",
+    "status_code": 200,
+    "redirect_chain": [],
+    "html_file": "html/m.awishday.com.html",
+    "error": null
+  },
+  {
+    "index": 51,
+    "original_domain": "mariamraj.com",
+    "base_domain": "mariamraj.com",
+    "final_url": "https://mariamraj.com",
+    "status_code": 200,
+    "redirect_chain": [],
+    "html_file": "html/mariamraj.com.html",
+    "error": null
+  },
+  {
+    "index": 52,
+    "original_domain": "mayochix-vip.shop",
+    "base_domain": "mayochix-vip.shop",
+    "final_url": "https://mayochix-vip.shop",
+    "status_code": 200,
+    "redirect_chain": [],
+    "html_file": "html/mayochix-vip.shop.html",
+    "error": null
+  },
+  {
+    "index": 53,
+    "original_domain": "mb-vision.com",
+    "base_domain": "mb-vision.com",
+    "final_url": "https://mb-vision.com",
+    "status_code": 200,
+    "redirect_chain": [],
+    "html_file": "html/mb-vision.com.html",
+    "error": null
+  },
+  {
+    "index": 54,
+    "original_domain": "melodyclo.com",
+    "base_domain": "melodyclo.com",
+    "final_url": "https://melodyclo.com",
+    "status_code": 200,
+    "redirect_chain": [],
+    "html_file": "html/melodyclo.com.html",
+    "error": null
+  },
+  {
+    "index": 55,
+    "original_domain": "menstrove.com",
+    "base_domain": "menstrove.com",
+    "final_url": "https://www.menstrove.com/",
+    "status_code": 200,
+    "redirect_chain": [
+      {
+        "url": "https://menstrove.com",
+        "status": 301,
+        "location": "https://www.menstrove.com/"
+      }
+    ],
+    "html_file": "html/menstrove.com.html",
+    "error": null
+  },
+  {
+    "index": 56,
+    "original_domain": "mirrorsphere.lat",
+    "base_domain": "mirrorsphere.lat",
+    "final_url": "https://mirrorsphere.lat",
+    "status_code": 522,
+    "redirect_chain": [],
+    "html_file": null,
+    "error": null
+  },
+  {
+    "index": 57,
+    "original_domain": "mmm38.com",
+    "base_domain": "mmm38.com",
+    "final_url": "https://mmm38.com",
+    "status_code": 200,
+    "redirect_chain": [],
+    "html_file": "html/mmm38.com.html",
+    "error": null
+  },
+  {
+    "index": 58,
+    "original_domain": "mominonline.pk",
+    "base_domain": "mominonline.pk",
+    "final_url": "https://www.mominonline.pk/",
+    "status_code": 200,
+    "redirect_chain": [
+      {
+        "url": "https://mominonline.pk",
+        "status": 301,
+        "location": "https://www.mominonline.pk/"
+      }
+    ],
+    "html_file": "html/mominonline.pk.html",
+    "error": null
+  },
+  {
+    "index": 59,
+    "original_domain": "moonx.io",
+    "base_domain": "moonx.io",
+    "final_url": "https://moonx.io",
+    "status_code": 200,
+    "redirect_chain": [],
+    "html_file": "html/moonx.io.html",
+    "error": null
+  },
+  {
+    "index": 60,
+    "original_domain": "newplum.us",
+    "base_domain": "newplum.us",
+    "final_url": "https://newplum.us",
+    "status_code": 200,
+    "redirect_chain": [],
+    "html_file": "html/newplum.us.html",
+    "error": null
+  },
+  {
+    "index": 61,
+    "original_domain": "nezauto.com",
+    "base_domain": "nezauto.com",
+    "final_url": "https://nezauto.com",
+    "status_code": 200,
+    "redirect_chain": [],
+    "html_file": "html/nezauto.com.html",
+    "error": null
+  },
+  {
+    "index": 62,
+    "original_domain": "nigrath.com",
+    "base_domain": "nigrath.com",
+    "final_url": "https://nigrath.com",
+    "status_code": 200,
+    "redirect_chain": [],
+    "html_file": "html/nigrath.com.html",
+    "error": null
+  },
+  {
+    "index": 63,
+    "original_domain": "novea.shop",
+    "base_domain": "novea.shop",
+    "final_url": "https://novea.shop",
+    "status_code": 200,
+    "redirect_chain": [],
+    "html_file": "html/novea.shop.html",
+    "error": null
+  },
+  {
+    "index": 64,
+    "original_domain": "novellyn.com",
+    "base_domain": "novellyn.com",
+    "final_url": "https://novellyn.com",
+    "status_code": 200,
+    "redirect_chain": [],
+    "html_file": "html/novellyn.com.html",
+    "error": null
+  },
+  {
+    "index": 65,
+    "original_domain": "onlinemaketsale-us.com",
+    "base_domain": "onlinemaketsale-us.com",
+    "final_url": null,
+    "status_code": null,
+    "redirect_chain": [],
+    "html_file": null,
+    "error": "DNS_PROBE_FINISHED_NXDOMAIN"
+  },
+  {
+    "index": 66,
+    "original_domain": "originalment.com",
+    "base_domain": "originalment.com",
+    "final_url": "https://www.originalment.com/",
+    "status_code": 200,
+    "redirect_chain": [
+      {
+        "url": "https://originalment.com",
+        "status": 301,
+        "location": "https://www.originalment.com/"
+      }
+    ],
+    "html_file": "html/originalment.com.html",
+    "error": null
+  },
+  {
+    "index": 67,
+    "original_domain": "peffiew.com",
+    "base_domain": "peffiew.com",
+    "final_url": "https://peffiew.com",
+    "status_code": 200,
+    "redirect_chain": [],
+    "html_file": "html/peffiew.com.html",
+    "error": null
+  },
+  {
+    "index": 68,
+    "original_domain": "pepacia.com",
+    "base_domain": "pepacia.com",
+    "final_url": "https://pepacia.com",
+    "status_code": 200,
+    "redirect_chain": [],
+    "html_file": "html/pepacia.com.html",
+    "error": null
+  },
+  {
+    "index": 69,
+    "original_domain": "petalisse.com",
+    "base_domain": "petalisse.com",
+    "final_url": "https://www.petalisse.com/",
+    "status_code": 200,
+    "redirect_chain": [
+      {
+        "url": "https://petalisse.com",
+        "status": 301,
+        "location": "//www.petalisse.com/"
+      }
+    ],
+    "html_file": "html/petalisse.com.html",
+    "error": null
+  },
+  {
+    "index": 70,
+    "original_domain": "popnifty.com",
+    "base_domain": "popnifty.com",
+    "final_url": "https://www.popnifty.com/",
+    "status_code": 200,
+    "redirect_chain": [
+      {
+        "url": "https://popnifty.com",
+        "status": 301,
+        "location": "https://www.popnifty.com/"
+      }
+    ],
+    "html_file": "html/popnifty.com.html",
+    "error": null
+  },
+  {
+    "index": 71,
+    "original_domain": "proundme.com",
+    "base_domain": "proundme.com",
+    "final_url": "https://proundme.com",
+    "status_code": 200,
+    "redirect_chain": [],
+    "html_file": "html/proundme.com.html",
+    "error": null
+  },
+  {
+    "index": 72,
+    "original_domain": "quiz.breathelio.com",
+    "base_domain": "quiz.breathelio.com",
+    "final_url": "https://quiz.breathelio.com",
+    "status_code": 200,
+    "redirect_chain": [],
+    "html_file": "html/quiz.breathelio.com.html",
+    "error": null
+  },
+  {
+    "index": 73,
+    "original_domain": "relestyle.com",
+    "base_domain": "relestyle.com",
+    "final_url": "https://relestyle.com",
+    "status_code": 200,
+    "redirect_chain": [],
+    "html_file": "html/relestyle.com.html",
+    "error": null
+  },
+  {
+    "index": 74,
+    "original_domain": "rhglam.shop",
+    "base_domain": "rhglam.shop",
+    "final_url": "https://rhglam.shop",
+    "status_code": 200,
+    "redirect_chain": [],
+    "html_file": "html/rhglam.shop.html",
+    "error": null
+  },
+  {
+    "index": 75,
+    "original_domain": "shopltu.shop",
+    "base_domain": "shopltu.shop",
+    "final_url": "https://www.shopltu.shop/",
+    "status_code": 200,
+    "redirect_chain": [
+      {
+        "url": "https://shopltu.shop",
+        "status": 301,
+        "location": "//www.shopltu.shop/"
+      }
+    ],
+    "html_file": "html/shopltu.shop.html",
+    "error": null
+  },
+  {
+    "index": 76,
+    "original_domain": "shopwellory.com",
+    "base_domain": "shopwellory.com",
+    "final_url": "https://shopwellory.com",
+    "status_code": 200,
+    "redirect_chain": [],
+    "html_file": "html/shopwellory.com.html",
+    "error": null
+  },
+  {
+    "index": 77,
+    "original_domain": "skinceuticals.de",
+    "base_domain": "skinceuticals.de",
+    "final_url": "https://www.skinceuticals.de/",
+    "status_code": 200,
+    "redirect_chain": [
+      {
+        "url": "https://skinceuticals.de",
+        "status": 301,
+        "location": "https://www.skinceuticals.de/"
+      }
+    ],
+    "html_file": "html/skinceuticals.de.html",
+    "error": null
+  },
+  {
+    "index": 78,
+    "original_domain": "spiderpool.app",
+    "base_domain": "spiderpool.app",
+    "final_url": "https://spiderpool.app",
+    "status_code": 200,
+    "redirect_chain": [],
+    "html_file": "html/spiderpool.app.html",
+    "error": null
+  },
+  {
+    "index": 79,
+    "original_domain": "sportsdirect-outlet.com",
+    "base_domain": "sportsdirect-outlet.com",
+    "final_url": "https://sports-directoutlet.com/",
+    "status_code": 200,
+    "redirect_chain": [
+      {
+        "url": "https://sportsdirect-outlet.com",
+        "status": 301,
+        "location": "https://sports-directoutlet.com/"
+      }
+    ],
+    "html_file": "html/sportsdirect-outlet.com.html",
+    "error": null
+  },
+  {
+    "index": 80,
+    "original_domain": "syrvel.com",
+    "base_domain": "syrvel.com",
+    "final_url": "https://syrvel.com",
+    "status_code": 200,
+    "redirect_chain": [],
+    "html_file": "html/syrvel.com.html",
+    "error": null
+  },
+  {
+    "index": 81,
+    "original_domain": "terzalorao.com",
+    "base_domain": "terzalorao.com",
+    "final_url": "https://terzalorao.com",
+    "status_code": 200,
+    "redirect_chain": [],
+    "html_file": "html/terzalorao.com.html",
+    "error": null
+  },
+  {
+    "index": 82,
+    "original_domain": "trecding.com",
+    "base_domain": "trecding.com",
+    "final_url": "https://www.trecding.com/",
+    "status_code": 200,
+    "redirect_chain": [
+      {
+        "url": "https://trecding.com",
+        "status": 301,
+        "location": "https://www.trecding.com/"
+      }
+    ],
+    "html_file": "html/trecding.com.html",
+    "error": null
+  },
+  {
+    "index": 83,
+    "original_domain": "tryorgatics.com",
+    "base_domain": "tryorgatics.com",
+    "final_url": "https://tryorgatics.com",
+    "status_code": 200,
+    "redirect_chain": [],
+    "html_file": "html/tryorgatics.com.html",
+    "error": null
+  },
+  {
+    "index": 84,
+    "original_domain": "trysaphire.com",
+    "base_domain": "trysaphire.com",
+    "final_url": "https://trysaphire.com",
+    "status_code": 200,
+    "redirect_chain": [],
+    "html_file": "html/trysaphire.com.html",
+    "error": null
+  },
+  {
+    "index": 85,
+    "original_domain": "tryvalisse.com",
+    "base_domain": "tryvalisse.com",
+    "final_url": "https://mylunavelle.com/",
+    "status_code": 200,
+    "redirect_chain": [
+      {
+        "url": "https://tryvalisse.com",
+        "status": 301,
+        "location": "https://mylunavelle.com/"
+      }
+    ],
+    "html_file": "html/tryvalisse.com.html",
+    "error": null
+  },
+  {
+    "index": 86,
+    "original_domain": "umymall.com",
+    "base_domain": "umymall.com",
+    "final_url": "https://umymall.com",
+    "status_code": 200,
+    "redirect_chain": [],
+    "html_file": "html/umymall.com.html",
+    "error": null
+  },
+  {
+    "index": 87,
+    "original_domain": "usapatriotwears.com",
+    "base_domain": "usapatriotwears.com",
+    "final_url": "https://usapatriotwears.com",
+    "status_code": 200,
+    "redirect_chain": [],
+    "html_file": "html/usapatriotwears.com.html",
+    "error": null
+  },
+  {
+    "index": 88,
+    "original_domain": "vapeonline24.com",
+    "base_domain": "vapeonline24.com",
+    "final_url": "https://vapeonline24.com",
+    "status_code": 200,
+    "redirect_chain": [],
+    "html_file": "html/vapeonline24.com.html",
+    "error": null
+  },
+  {
+    "index": 89,
+    "original_domain": "vapeonline365.com",
+    "base_domain": "vapeonline365.com",
+    "final_url": "https://www.vapeonline365.com/",
+    "status_code": 200,
+    "redirect_chain": [
+      {
+        "url": "https://vapeonline365.com",
+        "status": 301,
+        "location": "//www.vapeonline365.com/"
+      }
+    ],
+    "html_file": "html/vapeonline365.com.html",
+    "error": null
+  },
+  {
+    "index": 90,
+    "original_domain": "varaoras.com",
+    "base_domain": "varaoras.com",
+    "final_url": "https://www.varaoras.com/",
+    "status_code": 200,
+    "redirect_chain": [
+      {
+        "url": "https://varaoras.com",
+        "status": 301,
+        "location": "//www.varaoras.com/"
+      }
+    ],
+    "html_file": "html/varaoras.com.html",
+    "error": null
+  },
+  {
+    "index": 91,
+    "original_domain": "varntix.com",
+    "base_domain": "varntix.com",
+    "final_url": "https://varntix.com/en/",
+    "status_code": 200,
+    "redirect_chain": [
+      {
+        "url": "https://varntix.com",
+        "status": 308,
+        "location": "/en/"
+      }
+    ],
+    "html_file": "html/varntix.com.html",
+    "error": null
+  },
+  {
+    "index": 92,
+    "original_domain": "velmiran.shop",
+    "base_domain": "velmiran.shop",
+    "final_url": "https://velmiran.shop",
+    "status_code": 200,
+    "redirect_chain": [],
+    "html_file": "html/velmiran.shop.html",
+    "error": null
+  },
+  {
+    "index": 93,
+    "original_domain": "vorenax.store",
+    "base_domain": "vorenax.store",
+    "final_url": "https://vorenax.store",
+    "status_code": 200,
+    "redirect_chain": [],
+    "html_file": "html/vorenax.store.html",
+    "error": null
+  },
+  {
+    "index": 94,
+    "original_domain": "vorlora.com",
+    "base_domain": "vorlora.com",
+    "final_url": "https://vorlora.com",
+    "status_code": 200,
+    "redirect_chain": [],
+    "html_file": "html/vorlora.com.html",
+    "error": null
+  },
+  {
+    "index": 95,
+    "original_domain": "wanda-tv.vip",
+    "base_domain": "wanda-tv.vip",
+    "final_url": "https://wanda-tv.vip",
+    "status_code": 200,
+    "redirect_chain": [],
+    "html_file": "html/wanda-tv.vip.html",
+    "error": null
+  },
+  {
+    "index": 96,
+    "original_domain": "welcome.romanticalabs.com",
+    "base_domain": "welcome.romanticalabs.com",
+    "final_url": "https://welcome.romanticalabs.com",
+    "status_code": 200,
+    "redirect_chain": [],
+    "html_file": "html/welcome.romanticalabs.com.html",
+    "error": null
+  },
+  {
+    "index": 97,
+    "original_domain": "yorebsv.cc",
+    "base_domain": "yorebsv.cc",
+    "final_url": "https://yorebsv.cc",
+    "status_code": 200,
+    "redirect_chain": [],
+    "html_file": "html/yorebsv.cc.html",
+    "error": null
+  },
+  {
+    "index": 98,
+    "original_domain": "youhnife.cc",
+    "base_domain": "youhnife.cc",
+    "final_url": "https://youhnife.cc",
+    "status_code": 200,
+    "redirect_chain": [],
+    "html_file": "html/youhnife.cc.html",
+    "error": null
+  },
+  {
+    "index": 99,
+    "original_domain": "zalandosales.com",
+    "base_domain": "zalandosales.com",
+    "final_url": "https://zalandosales.com",
+    "status_code": 200,
+    "redirect_chain": [],
+    "html_file": "html/zalandosales.com.html",
+    "error": null
+  },
+  {
+    "index": 100,
+    "original_domain": "zizzisave.shop",
+    "base_domain": "zizzisave.shop",
+    "final_url": "https://zizzisave.shop",
+    "status_code": 200,
+    "redirect_chain": [],
+    "html_file": "html/zizzisave.shop.html",
+    "error": null
+  }
+]

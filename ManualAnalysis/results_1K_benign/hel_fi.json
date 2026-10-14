@@ -1,0 +1,95 @@
+{
+    "name": "hel.fi",
+    "handle": null,
+    "registrationDate": "1/1/1991, 12:00:00 AM GMT+2",
+    "expirationDate": null,
+    "lastChangedDate": null,
+    "lastUpdateDate": null,
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Elisa Oyj"
+                    ],
+                    [
+                        "adr",
+                        {},
+                        "text",
+                        [
+                            null,
+                            null,
+                            "Pohjoisesplanadi 11-13",
+                            null,
+                            null,
+                            null,
+                            "Finland"
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        null
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrant"
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns-se.elisa.net [OK]",
+            "unicodeName": "ns-se.elisa.net [OK]"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns-fi.elisa.net [OK]",
+            "unicodeName": "ns-fi.elisa.net [OK]"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns.hel.fi [137.163.7.4] [OK]",
+            "unicodeName": "ns.hel.fi [137.163.7.4] [OK]"
+        },
+        {
+            "rdapConformance": [
+                "rdap_level_0"
+            ],
+            "objectClassName": "domain",
+            "port43": "whois.nic.fi",
+            "ldhName": "hel.fi",
+            "unicodeName": "hel.fi",
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns-se.elisa.net [OK]",
+                    "unicodeName": "ns-se.elisa.net [OK]"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns-fi.elisa.net [OK]",
+                    "unicodeName": "ns-fi.elisa.net [OK]"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns.hel.fi [137.163.7.4] [OK]",
+                    "unicodeName": "ns.hel.fi [137.163.7.4] [OK]"
+                }
+            ]
+        }
+    ],
+    "domain": "hel.fi\r"
+}

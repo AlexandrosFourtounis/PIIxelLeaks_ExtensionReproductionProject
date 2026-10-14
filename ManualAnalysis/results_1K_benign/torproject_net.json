@@ -1,0 +1,445 @@
+{
+    "name": "torproject.net",
+    "handle": "113",
+    "registrationDate": "10/18/2006, 1:02:59 AM GMT+3",
+    "expirationDate": "10/18/2027, 1:02:59 AM GMT+3",
+    "lastChangedDate": "9/25/2025, 2:28:44 PM GMT+3",
+    "lastUpdateDate": "6/23/2026, 3:33:00 PM GMT+3",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "roles": [
+                "abuse"
+            ],
+            "handle": "113",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "CSL Computer Service Langenbach GmbH d/b/a Joker.com"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+49.21186767447"
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "abuse@joker.com"
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "roles": [
+                "registrar",
+                "sponsor"
+            ],
+            "publicIds": [
+                {
+                    "identifier": "113",
+                    "type": "IANA Registrar ID"
+                }
+            ],
+            "handle": "113",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "CSL Computer Service Langenbach GmbH d/b/a Joker.com"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "DE"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "Hansaallee 191-193",
+                            "Düsseldorf",
+                            "NRW",
+                            "40549",
+                            ""
+                        ]
+                    ]
+                ]
+            ],
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "roles": [
+                        "abuse"
+                    ],
+                    "handle": "113",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "CSL Computer Service Langenbach GmbH d/b/a Joker.com"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "voice"
+                                },
+                                "text",
+                                "+49.21186767447"
+                            ],
+                            [
+                                "email",
+                                {
+                                    "type": "work"
+                                },
+                                "text",
+                                "abuse@joker.com"
+                            ]
+                        ]
+                    ]
+                }
+            ],
+            "links": [
+                {
+                    "rel": "about",
+                    "value": "https://rdap.joker.com/",
+                    "href": "https://rdap.joker.com/"
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "roles": [
+                "registrant"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "US"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "https://csl-registrar.com/contact/torproject.net/owner"
+                    ]
+                ]
+            ],
+            "handle": "REDACTED"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns1.torproject.org",
+            "ipAddresses": {
+                "v4": [
+                    "204.8.99.142"
+                ],
+                "v6": [
+                    "2620:7:6002:0:466:39ff:fecd:dcd9"
+                ]
+            }
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns3.torproject.org",
+            "ipAddresses": {
+                "v4": [
+                    "204.8.99.145"
+                ],
+                "v6": [
+                    "2620:7:6002:0:466:39ff:fe1d:cab5"
+                ]
+            }
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns4.torproject.org",
+            "ipAddresses": {
+                "v4": [
+                    "49.12.57.135"
+                ],
+                "v6": [
+                    "2a01:4f8:fff0:4f:266:37ff:fe7e:28d6"
+                ]
+            }
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns5.torproject.org",
+            "ipAddresses": {
+                "v4": [
+                    "89.47.185.6"
+                ],
+                "v6": [
+                    "2001:6b0:5a:4020::32f"
+                ]
+            }
+        },
+        {
+            "rdapConformance": [
+                "rdap_level_0",
+                "icann_rdap_response_profile_1",
+                "icann_rdap_technical_implementation_guide_1",
+                "redacted"
+            ],
+            "objectClassName": "domain",
+            "ldhName": "torproject.net",
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns1.torproject.org",
+                    "ipAddresses": {
+                        "v4": [
+                            "204.8.99.142"
+                        ],
+                        "v6": [
+                            "2620:7:6002:0:466:39ff:fecd:dcd9"
+                        ]
+                    }
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns3.torproject.org",
+                    "ipAddresses": {
+                        "v4": [
+                            "204.8.99.145"
+                        ],
+                        "v6": [
+                            "2620:7:6002:0:466:39ff:fe1d:cab5"
+                        ]
+                    }
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns4.torproject.org",
+                    "ipAddresses": {
+                        "v4": [
+                            "49.12.57.135"
+                        ],
+                        "v6": [
+                            "2a01:4f8:fff0:4f:266:37ff:fe7e:28d6"
+                        ]
+                    }
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns5.torproject.org",
+                    "ipAddresses": {
+                        "v4": [
+                            "89.47.185.6"
+                        ],
+                        "v6": [
+                            "2001:6b0:5a:4020::32f"
+                        ]
+                    }
+                }
+            ],
+            "secureDNS": {
+                "delegationSigned": true,
+                "dsData": [
+                    {
+                        "algorithm": 8,
+                        "digestType": 2,
+                        "digest": "02F9A2E1590F6542FE19EA3140592A19CC47B904F30861D528506C87B8E4F372",
+                        "keyTag": 41954
+                    },
+                    {
+                        "algorithm": 8,
+                        "digestType": 2,
+                        "digest": "9E92A99BFDEDAE80E36480F74EF6221E3EFA39BC2EF46F6737509A9D92A56DBA",
+                        "keyTag": 17411
+                    }
+                ]
+            },
+            "redacted": [
+                {
+                    "name": {
+                        "type": "Registrant Phone"
+                    },
+                    "method": "removal",
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='tel' && (!@[1].type || @[1].type!='fax'))]"
+                },
+                {
+                    "name": {
+                        "type": "Registrant Organization"
+                    },
+                    "method": "removal",
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='org')]",
+                    "replacementPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='None')]"
+                },
+                {
+                    "name": {
+                        "type": "Registrant Email"
+                    },
+                    "method": "replacementValue",
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='email')]",
+                    "replacementPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='contact-uri')]"
+                },
+                {
+                    "name": {
+                        "type": "Registrant Street"
+                    },
+                    "method": "emptyValue",
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][2]"
+                },
+                {
+                    "name": {
+                        "type": "Registrant City"
+                    },
+                    "method": "emptyValue",
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][3]"
+                },
+                {
+                    "name": {
+                        "type": "Registrant State/Province"
+                    },
+                    "method": "emptyValue",
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][4]"
+                },
+                {
+                    "name": {
+                        "type": "Registrant Postal Code"
+                    },
+                    "method": "emptyValue",
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][5]"
+                },
+                {
+                    "name": {
+                        "type": "Registrant Country"
+                    },
+                    "method": "emptyValue",
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][6]"
+                },
+                {
+                    "name": {
+                        "type": "Registrant Name"
+                    },
+                    "method": "emptyValue",
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='fn')][3]"
+                },
+                {
+                    "name": {
+                        "type": "Registry Domain ID"
+                    },
+                    "method": "removal",
+                    "prePath": "$.handle"
+                }
+            ],
+            "port43": "whois.joker.com",
+            "notices": [
+                {
+                    "title": "Terms of service",
+                    "description": [
+                        "Access to Joker.com RDAP information is provided to assist persons in determining the contents of a domain name registration record in the Joker.com database.\nThe data in this record is provided by Joker.com for informational purposes only, and Joker.com does not guarantee its accuracy. This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to\n(a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or\n(b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Joker.com except as reasonably necessary to register domain names or modify existing registrations.\nAll rights reserved. Joker.com reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy.\n"
+                    ],
+                    "links": [
+                        {
+                            "rel": "terms-of-service",
+                            "type": "text/html",
+                            "href": "https://joker.com/goto/tc",
+                            "value": "https://rdap.joker.com/domain/torproject.net"
+                        }
+                    ]
+                },
+                {
+                    "title": "RDDS Inaccuracy Complaint Form",
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ],
+                    "links": [
+                        {
+                            "rel": "help",
+                            "type": "text/html",
+                            "href": "https://icann.org/wicf",
+                            "value": "https://rdap.joker.com/domain/torproject.net"
+                        }
+                    ]
+                },
+                {
+                    "title": "Status Codes",
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ],
+                    "links": [
+                        {
+                            "rel": "glossary",
+                            "type": "text/html",
+                            "href": "https://icann.org/epp",
+                            "value": "https://rdap.joker.com/domain/torproject.net"
+                        }
+                    ]
+                }
+            ],
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "https://rdap.joker.com/domain/torproject.net",
+                    "value": "https://rdap.joker.com/domain/torproject.net",
+                    "type": "application/rdap+json"
+                }
+            ]
+        }
+    ],
+    "domain": "torproject.net\r"
+}

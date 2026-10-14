@@ -1,0 +1,612 @@
+{
+    "name": "myenergi.net",
+    "handle": "2037826457_DOMAIN_NET-VRSN",
+    "registrationDate": "6/27/2016, 7:46:15 PM GMT+3",
+    "expirationDate": "6/27/2027, 7:46:15 PM GMT+3",
+    "lastChangedDate": "10/8/2025, 5:39:22 PM GMT+3",
+    "lastUpdateDate": "6/23/2026, 4:50:54 PM GMT+3",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "roles": [
+                "registrant"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "https://fasthosts.domains/privacy"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "GB"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "Lincolnshire",
+                            "",
+                            ""
+                        ]
+                    ]
+                ]
+            ],
+            "status": [
+                "removed"
+            ],
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object redacted due to authorization",
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ]
+                },
+                {
+                    "title": "EMAIL REDACTED FOR PRIVACY",
+                    "type": "object redacted due to authorization",
+                    "description": [
+                        "This email has been redacted for privacy. You could use the 'contact-uri' to contact the registrant of the domain."
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "roles": [
+                "abuse"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "IONOS SE"
+                    ],
+                    [
+                        "org",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "IONOS SE"
+                    ],
+                    [
+                        "url",
+                        {},
+                        "uri",
+                        "https://www.ionos.com"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "abuse@ionos.com"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+1.8774612631"
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "roles": [
+                "abuse"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Fasthosts Internet Limited"
+                    ],
+                    [
+                        "org",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "Fasthosts Internet Limited"
+                    ],
+                    [
+                        "url",
+                        {},
+                        "uri",
+                        "https://www.fasthosts.co.uk"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "misuse@fasthosts.com"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+44.3330142700"
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "roles": [
+                "reseller"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Fasthosts Internet Limited"
+                    ],
+                    [
+                        "org",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "Fasthosts Internet Limited"
+                    ],
+                    [
+                        "url",
+                        {},
+                        "uri",
+                        "https://www.fasthosts.co.uk"
+                    ]
+                ]
+            ],
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "roles": [
+                        "abuse"
+                    ],
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Fasthosts Internet Limited"
+                            ],
+                            [
+                                "org",
+                                {
+                                    "type": "work"
+                                },
+                                "text",
+                                "Fasthosts Internet Limited"
+                            ],
+                            [
+                                "url",
+                                {},
+                                "uri",
+                                "https://www.fasthosts.co.uk"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "misuse@fasthosts.com"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "voice"
+                                },
+                                "uri",
+                                "tel:+44.3330142700"
+                            ]
+                        ]
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "83",
+            "roles": [
+                "registrar"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "IONOS SE"
+                    ],
+                    [
+                        "org",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "IONOS SE"
+                    ],
+                    [
+                        "url",
+                        {},
+                        "uri",
+                        "https://www.ionos.com"
+                    ]
+                ]
+            ],
+            "publicIds": [
+                {
+                    "identifier": "83",
+                    "type": "IANA Registrar ID"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.ionos.com/",
+                    "rel": "about",
+                    "href": "https://www.ionos.com",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "roles": [
+                        "abuse"
+                    ],
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "IONOS SE"
+                            ],
+                            [
+                                "org",
+                                {
+                                    "type": "work"
+                                },
+                                "text",
+                                "IONOS SE"
+                            ],
+                            [
+                                "url",
+                                {},
+                                "uri",
+                                "https://www.ionos.com"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "abuse@ionos.com"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "voice"
+                                },
+                                "uri",
+                                "tel:+1.8774612631"
+                            ]
+                        ]
+                    ]
+                },
+                {
+                    "objectClassName": "entity",
+                    "roles": [
+                        "reseller"
+                    ],
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Fasthosts Internet Limited"
+                            ],
+                            [
+                                "org",
+                                {
+                                    "type": "work"
+                                },
+                                "text",
+                                "Fasthosts Internet Limited"
+                            ],
+                            [
+                                "url",
+                                {},
+                                "uri",
+                                "https://www.fasthosts.co.uk"
+                            ]
+                        ]
+                    ],
+                    "entities": [
+                        {
+                            "objectClassName": "entity",
+                            "roles": [
+                                "abuse"
+                            ],
+                            "vcardArray": [
+                                "vcard",
+                                [
+                                    [
+                                        "version",
+                                        {},
+                                        "text",
+                                        "4.0"
+                                    ],
+                                    [
+                                        "fn",
+                                        {},
+                                        "text",
+                                        "Fasthosts Internet Limited"
+                                    ],
+                                    [
+                                        "org",
+                                        {
+                                            "type": "work"
+                                        },
+                                        "text",
+                                        "Fasthosts Internet Limited"
+                                    ],
+                                    [
+                                        "url",
+                                        {},
+                                        "uri",
+                                        "https://www.fasthosts.co.uk"
+                                    ],
+                                    [
+                                        "email",
+                                        {},
+                                        "text",
+                                        "misuse@fasthosts.com"
+                                    ],
+                                    [
+                                        "tel",
+                                        {
+                                            "type": "voice"
+                                        },
+                                        "uri",
+                                        "tel:+44.3330142700"
+                                    ]
+                                ]
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "lee.ns.cloudflare.com"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "pat.ns.cloudflare.com"
+        },
+        {
+            "objectClassName": "domain",
+            "ldhName": "myenergi.net",
+            "handle": "2037826457_DOMAIN_NET-VRSN",
+            "port43": "whois.ionos.com",
+            "lang": "en",
+            "remarks": [
+                {
+                    "title": "REGISTRATION SERVICE PROVIDER",
+                    "description": [
+                        "Fasthosts Internet Limited",
+                        "domains@fasthosts.co.uk",
+                        "+44.3330142700",
+                        "https://www.fasthosts.co.uk",
+                        "https://fasthosts.domains/home",
+                        "Abuse Contact: misuse@fasthosts.com"
+                    ]
+                }
+            ],
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "lee.ns.cloudflare.com"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "pat.ns.cloudflare.com"
+                }
+            ],
+            "secureDNS": {
+                "delegationSigned": false
+            },
+            "rdapConformance": [
+                "rdap_level_0",
+                "icann_rdap_response_profile_1",
+                "icann_rdap_technical_implementation_guide_1",
+                "redacted"
+            ],
+            "notices": [
+                {
+                    "title": "Status Codes",
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.ionos.com/domain/myenergi.net",
+                            "rel": "glossary",
+                            "href": "https://icann.org/epp",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "RDDS Inaccuracy Complaint Form",
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.ionos.com/domain/myenergi.net",
+                            "rel": "help",
+                            "href": "https://icann.org/wicf",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "Terms of Service",
+                    "description": [
+                        "Terms of service for the RDAP service."
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.ionos.com/domain/myenergi.net",
+                            "rel": "terms-of-service",
+                            "href": "https://rdap.ionos.com/tos",
+                            "type": "text/html"
+                        }
+                    ]
+                }
+            ],
+            "redacted": [
+                {
+                    "name": {
+                        "type": "Registry Registrant ID"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].handle",
+                    "method": "removal"
+                },
+                {
+                    "name": {
+                        "type": "Registrant Name"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='fn')][1]",
+                    "method": "emptyValue"
+                },
+                {
+                    "name": {
+                        "type": "Registrant Street"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][:3]",
+                    "method": "emptyValue"
+                },
+                {
+                    "name": {
+                        "type": "Registrant City"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][3]",
+                    "method": "emptyValue"
+                },
+                {
+                    "name": {
+                        "type": "Registrant Postal Code"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][5]",
+                    "method": "emptyValue"
+                },
+                {
+                    "name": {
+                        "type": "Registrant Organization"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='org')]",
+                    "method": "removal"
+                },
+                {
+                    "name": {
+                        "type": "Registrant Phone"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[1].type=='voice')]",
+                    "method": "removal"
+                },
+                {
+                    "name": {
+                        "type": "Registrant Email"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='email')]",
+                    "replacementPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='contact-uri')]",
+                    "method": "replacementValue"
+                }
+            ]
+        }
+    ],
+    "domain": "myenergi.net\r"
+}

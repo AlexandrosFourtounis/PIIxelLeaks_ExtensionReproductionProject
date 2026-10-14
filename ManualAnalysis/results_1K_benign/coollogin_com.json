@@ -1,0 +1,229 @@
+{
+    "name": "coollogin.com",
+    "handle": "90836156_DOMAIN_COM-VRSN",
+    "registrationDate": "10/2/2002, 7:00:00 AM GMT+3",
+    "expirationDate": "9/30/2026, 7:00:00 AM GMT+3",
+    "lastChangedDate": "11/21/2025, 5:16:35 PM GMT+2",
+    "lastUpdateDate": "9/30/2026, 7:00:00 AM GMT+3",
+    "rawData": [
+        {
+            "handle": "abuse",
+            "objectClassName": "entity",
+            "roles": [
+                "abuse"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Abuse Department"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+1-908-722-2211"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "abuse@007names.com"
+                    ]
+                ]
+            ]
+        },
+        {
+            "entities": [
+                {
+                    "handle": "abuse",
+                    "objectClassName": "entity",
+                    "roles": [
+                        "abuse"
+                    ],
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Abuse Department"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "voice"
+                                },
+                                "uri",
+                                "tel:+1-908-722-2211"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "abuse@007names.com"
+                            ]
+                        ]
+                    ]
+                }
+            ],
+            "handle": "91",
+            "links": [
+                {
+                    "href": "https://rdap.007names.net/entity/91",
+                    "rel": "self",
+                    "type": "application/rdap+json",
+                    "value": "https://rdap.007names.net/entity/91"
+                }
+            ],
+            "objectClassName": "entity",
+            "publicIds": [
+                {
+                    "identifier": "91",
+                    "type": "IANA Registrar ID"
+                }
+            ],
+            "rdapConformance": [
+                "rdap_level_0",
+                "icann_rdap_profile_1",
+                "icann_rdap_technical_implementation_guide_0",
+                "icann_rdap_response_profile_0"
+            ],
+            "roles": [
+                "registrar"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "007Names, Inc."
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+1-908-722-2211"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "support@007names.com"
+                    ]
+                ]
+            ]
+        },
+        {
+            "eventsResults": null,
+            "handle": "90836156_DOMAIN_COM-VRSN",
+            "ldhName": "coollogin.com",
+            "links": [
+                {
+                    "href": "https://rdap.007names.net/domain/coollogin.com",
+                    "hreflang": [],
+                    "rel": "self",
+                    "title": "Domain Information",
+                    "type": "application/rdap+json",
+                    "value": "https://rdap.007names.net/domain/coollogin.com"
+                },
+                {
+                    "href": "https://icann.org/epp#active",
+                    "rel": "related",
+                    "title": "EPP Status: active",
+                    "type": "text/html",
+                    "value": "https://icann.org/epp#active"
+                }
+            ],
+            "nameserverSearchResults": null,
+            "nameservers": [],
+            "notices": [
+                {
+                    "description": [],
+                    "links": [
+                        {
+                            "href": "https://icann.org/rdap-tos",
+                            "rel": "terms-of-service",
+                            "type": "text/html"
+                        }
+                    ],
+                    "title": "RDAP Terms of Service"
+                },
+                {
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ],
+                    "links": [
+                        {
+                            "href": "https://icann.org/epp",
+                            "type": "text/html"
+                        }
+                    ],
+                    "title": "Status Codes"
+                },
+                {
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ],
+                    "links": [
+                        {
+                            "href": "https://icann.org/wicf",
+                            "type": "text/html"
+                        }
+                    ],
+                    "title": "RDDS Inaccuracy Complaint Form"
+                }
+            ],
+            "objectClassName": "domain",
+            "port43": "whois.007names.com",
+            "rdapConformance": [
+                "rdap_level_0",
+                "icann_rdap_profile_1",
+                "icann_rdap_technical_implementation_guide_0",
+                "icann_rdap_response_profile_0"
+            ],
+            "registryDomainId": "90836156_DOMAIN_COM-VRSN",
+            "remarks": [],
+            "secureDNS": {
+                "delegationSigned": false
+            },
+            "unicodeName": "coollogin.com",
+            "variants": []
+        }
+    ],
+    "domain": "coollogin.com\r"
+}

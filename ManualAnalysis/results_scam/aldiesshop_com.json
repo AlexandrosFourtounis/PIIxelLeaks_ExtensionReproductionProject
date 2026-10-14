@@ -1,0 +1,486 @@
+{
+    "name": "aldiesshop.com",
+    "handle": "3083493222_DOMAIN_COM-VRSN",
+    "registrationDate": "4/2/2026, 4:01:43 PM GMT+3",
+    "expirationDate": "4/2/2027, 4:01:43 PM GMT+3",
+    "lastChangedDate": "4/3/2026, 2:38:06 PM GMT+3",
+    "lastUpdateDate": "6/16/2026, 3:58:37 PM GMT+3",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "roles": [
+                "abuse"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Cosmotown Abuse Contact"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "voice",
+                                "work"
+                            ]
+                        },
+                        "uri",
+                        "tel:+1.6503198930"
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "abuse@cosmotown.com"
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "1509",
+            "roles": [
+                "registrar"
+            ],
+            "publicIds": [
+                {
+                    "type": "IANA Registrar ID",
+                    "identifier": "1509"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Cosmotown, Inc."
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "voice",
+                                "work"
+                            ]
+                        },
+                        "uri",
+                        "tel:+1.6503198930"
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "support@cosmotown.com"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "US"
+                        },
+                        "text",
+                        [
+                            "",
+                            "Ste 100C",
+                            "1040 Noel Dr",
+                            "Menlo Park",
+                            "CA",
+                            "94025",
+                            ""
+                        ]
+                    ]
+                ]
+            ],
+            "links": [
+                {
+                    "rel": "about",
+                    "href": "https://www.cosmotown.com",
+                    "value": "https://rdap.cosmotown.com/v1/",
+                    "type": "text/html"
+                }
+            ],
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "roles": [
+                        "abuse"
+                    ],
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Cosmotown Abuse Contact"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "voice",
+                                        "work"
+                                    ]
+                                },
+                                "uri",
+                                "tel:+1.6503198930"
+                            ],
+                            [
+                                "email",
+                                {
+                                    "type": "work"
+                                },
+                                "text",
+                                "abuse@cosmotown.com"
+                            ]
+                        ]
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "aldiesshopcom-regi",
+            "roles": [
+                "registrant"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "support@cosmotown.com"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "US"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "ca",
+                            "",
+                            ""
+                        ]
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "aldiesshopcom-tech",
+            "roles": [
+                "technical"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "support@cosmotown.com"
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "lloyd.ns.cloudflare.com"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "gail.ns.cloudflare.com"
+        },
+        {
+            "objectClassName": "domain",
+            "handle": "3083493222_DOMAIN_COM-VRSN",
+            "ldhName": "aldiesshop.com",
+            "unicodeName": "aldiesshop.com",
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "lloyd.ns.cloudflare.com"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "gail.ns.cloudflare.com"
+                }
+            ],
+            "secureDNS": {
+                "delegationSigned": false
+            },
+            "rdapConformance": [
+                "rdap_level_0",
+                "icann_rdap_response_profile_1",
+                "icann_rdap_technical_implementation_guide_1",
+                "redacted"
+            ],
+            "notices": [
+                {
+                    "title": "RDDS Inaccuracy Complaint Form",
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.cosmotown.com/v1/domain/aldiesshop.com",
+                            "rel": "help",
+                            "href": "https://icann.org/wicf",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "Terms of Use",
+                    "description": [
+                        "Service subject to Terms of Use."
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.cosmotown.com/v1/domain/aldiesshop.com",
+                            "href": "https://portal.cosmotown.com//terms-of-service/rdap",
+                            "rel": "terms-of-service",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "Status Codes",
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.cosmotown.com/v1/domain/aldiesshop.com",
+                            "href": "https://icann.org/epp",
+                            "rel": "glossary",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "IANA RDAP Bootstrap",
+                    "description": [
+                        "Refer to the IANA bootstrap service for authoritative registry RDAP endpoints."
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.cosmotown.com/v1/domain/aldiesshop.com",
+                            "href": "https://data.iana.org/rdap/",
+                            "rel": "alternate",
+                            "type": "application/json"
+                        }
+                    ]
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.cosmotown.com/v1/domain/aldiesshop.com",
+                    "rel": "self",
+                    "href": "https://rdap.cosmotown.com/v1/domain/aldiesshop.com",
+                    "type": "application/rdap+json"
+                },
+                {
+                    "value": "https://rdap.cosmotown.com/domain/aldiesshop.com",
+                    "rel": "alternate",
+                    "href": "https://rdap.cosmotown.com/domain/aldiesshop.com",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "redacted": [
+                {
+                    "name": {
+                        "type": "Registrant Name"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='fn')][3]",
+                    "pathLang": "jsonpath",
+                    "method": "emptyValue",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "type": "Registrant Organization"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='org')]",
+                    "pathLang": "jsonpath",
+                    "method": "removal",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "type": "Registrant Street"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][2]",
+                    "pathLang": "jsonpath",
+                    "method": "emptyValue",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "type": "Registrant City"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][3]",
+                    "pathLang": "jsonpath",
+                    "method": "emptyValue",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "type": "Registrant Postal Code"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][5]",
+                    "pathLang": "jsonpath",
+                    "method": "emptyValue",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "type": "Registrant Email"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='email')][3]",
+                    "pathLang": "jsonpath",
+                    "method": "replacementValue"
+                },
+                {
+                    "name": {
+                        "type": "Registrant Phone"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='tel')]",
+                    "method": "removal",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "type": "Technical Name"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='fn')][3]",
+                    "method": "emptyValue",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "type": "Technical Email"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='email')][3]",
+                    "method": "replacementValue",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "type": "Technical Phone"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='tel')]",
+                    "method": "removal",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "type": "Technical Fax"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[1].type=='fax')]",
+                    "method": "removal",
+                    "reason": {
+                        "description": "Client request"
+                    }
+                },
+                {
+                    "name": {
+                        "type": "Administrative Contact"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='administrative')]",
+                    "method": "removal",
+                    "reason": {
+                        "description": "Refer to the technical contact"
+                    }
+                },
+                {
+                    "name": {
+                        "type": "Billing Contact"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='billing')]",
+                    "method": "removal",
+                    "reason": {
+                        "description": "Refer to the registrant contact"
+                    }
+                }
+            ]
+        }
+    ],
+    "domain": "aldiesshop.com\r"
+}

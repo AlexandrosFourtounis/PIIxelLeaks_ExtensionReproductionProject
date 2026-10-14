@@ -1,0 +1,642 @@
+{
+    "name": "NETFLIXCASINO.WIKI",
+    "handle": "WNC2030370T",
+    "registrationDate": "3/20/2026, 8:24:53 PM GMT+2",
+    "expirationDate": "3/20/2027, 8:24:53 PM GMT+2",
+    "lastChangedDate": "3/21/2026, 10:00:33 PM GMT+2",
+    "lastUpdateDate": "6/14/2026, 8:00:00 PM GMT+3",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "lang": "en",
+            "handle": "WNC2030370T",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "n",
+                        {},
+                        "text",
+                        [
+                            "",
+                            "Domain Admin",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Domain Admin"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "MY"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "Lot 2-1, Incubator 1, Technology Park Malaysia, Bukit Jalil",
+                            "Kuala Lumpur",
+                            "Wilayah Persekutuan",
+                            "57000",
+                            ""
+                        ]
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "Whoisprotection.cc"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+60.389966788"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "uri",
+                        "tel:+60.389966788"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "REG_WD884936@whoisprotection.cc"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrant"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "lang": "en",
+            "handle": "WNC2030370T",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "n",
+                        {},
+                        "text",
+                        [
+                            "",
+                            "Domain Admin",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Domain Admin"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "MY"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "Lot 2-1, Incubator 1, Technology Park Malaysia, Bukit Jalil",
+                            "Kuala Lumpur",
+                            "Wilayah Persekutuan",
+                            "57000",
+                            ""
+                        ]
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "Whoisprotection.cc"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+60.389966788"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "uri",
+                        "tel:+60.389966788"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "ADM_WD884936@whoisprotection.cc"
+                    ]
+                ]
+            ],
+            "roles": [
+                "administrative"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "lang": "en",
+            "handle": "WNC2030370T",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "n",
+                        {},
+                        "text",
+                        [
+                            "",
+                            "Domain Admin",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Domain Admin"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "MY"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "Lot 2-1, Incubator 1, Technology Park Malaysia, Bukit Jalil",
+                            "Kuala Lumpur",
+                            "Wilayah Persekutuan",
+                            "57000",
+                            ""
+                        ]
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "Whoisprotection.cc"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+60.389966788"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "uri",
+                        "tel:+60.389966788"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "TEC_WD884936@whoisprotection.cc"
+                    ]
+                ]
+            ],
+            "roles": [
+                "technical"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "lang": "en",
+            "handle": "WNC2030370T",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "n",
+                        {},
+                        "text",
+                        [
+                            "",
+                            "Domain Admin",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Domain Admin"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "MY"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "Lot 2-1, Incubator 1, Technology Park Malaysia, Bukit Jalil",
+                            "Kuala Lumpur",
+                            "Wilayah Persekutuan",
+                            "57000",
+                            ""
+                        ]
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "Whoisprotection.cc"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+60.389966788"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "uri",
+                        "tel:+60.389966788"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "BIL_WD884936@whoisprotection.cc"
+                    ]
+                ]
+            ],
+            "roles": [
+                "billing"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "lang": "en",
+            "status": [
+                "active"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "n",
+                        {},
+                        "text",
+                        [
+                            "",
+                            "WebNIC",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "WebNIC"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "Web Commerce Communications Limited dba WebNic.cc"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+60.389966799"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "uri",
+                        "tel:+60.389966788"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "compliance_abuse@webnic.cc"
+                    ]
+                ]
+            ],
+            "roles": [
+                "abuse"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "links": [
+                {
+                    "value": "https://rdap.webnic.cc/",
+                    "rel": "about",
+                    "href": "https://rdap.webnic.cc/",
+                    "title": "Registrar RDAP Base URL",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "lang": "en",
+            "status": [
+                "active"
+            ],
+            "handle": "460",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "n",
+                        {},
+                        "text",
+                        [
+                            "",
+                            "WebNIC",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "WebNIC"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "Web Commerce Communications Limited dba WebNic.cc"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+60.389966799"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "uri",
+                        "tel:+60.389966788"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "support@webnic.cc"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrar"
+            ],
+            "publicIds": [
+                {
+                    "type": "IANA Registrar ID",
+                    "identifier": "460"
+                }
+            ],
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "lang": "en",
+                    "status": [
+                        "active"
+                    ],
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "n",
+                                {},
+                                "text",
+                                [
+                                    "",
+                                    "WebNIC",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "WebNIC"
+                            ],
+                            [
+                                "org",
+                                {},
+                                "text",
+                                "Web Commerce Communications Limited dba WebNic.cc"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "voice"
+                                },
+                                "uri",
+                                "tel:+60.389966799"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "fax"
+                                },
+                                "uri",
+                                "tel:+60.389966788"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "compliance_abuse@webnic.cc"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "abuse"
+                    ]
+                }
+            ]
+        },
+        {
+            "rdapConformance": [
+                "redacted",
+                "rdap_level_0",
+                "icann_rdap_technical_implementation_guide_1",
+                "icann_rdap_response_profile_1"
+            ],
+            "objectClassName": "domain",
+            "links": [
+                {
+                    "value": "https://rdap.webnic.cc/domain/netflixcasino.wiki",
+                    "rel": "self",
+                    "href": "https://rdap.webnic.cc/domain/netflixcasino.wiki",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "notices": [
+                {
+                    "title": "Terms of Use",
+                    "description": [
+                        "By submitting an inquiry, you agree to these Universal Terms of Service",
+                        "and limitations of warranty. In particular, you agree not to use this",
+                        "data to allow, enable, or otherwise make possible, dissemination or",
+                        "collection of this data, in part or in its entirety, for any purpose,",
+                        "such as the transmission of unsolicited advertising and solicitations of",
+                        "any kind, including spam. You further agree not to use this data to enable",
+                        "high volume, automated or robotic electronic processes designed to collect",
+                        "or compile this data for any purpose, including mining this data for your",
+                        "own personal or commercial purposes, or use this data in any way that violates",
+                        "applicable laws and regulations."
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.webnic.cc/domain/netflixcasino.wiki",
+                            "rel": "terms-of-service",
+                            "href": "https://webnic.cc/policy-agreement/#acceptable-use-policy",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "Status Codes",
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.webnic.cc/domain/netflixcasino.wiki",
+                            "rel": "glossary",
+                            "href": "https://icann.org/epp",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "RDDS Inaccuracy Complaint Form",
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.webnic.cc/domain/netflixcasino.wiki",
+                            "rel": "help",
+                            "href": "https://icann.org/wicf",
+                            "type": "text/html"
+                        }
+                    ]
+                }
+            ],
+            "port43": "netflixcasino.wiki",
+            "ldhName": "netflixcasino.wiki",
+            "unicodeName": "NETFLIXCASINO.WIKI",
+            "secureDNS": {
+                "delegationSigned": false
+            },
+            "nameServers": [
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "dawn.ns.cloudflare.com",
+                    "unicodeName": "dawn.ns.cloudflare.com"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "hank.ns.cloudflare.com",
+                    "unicodeName": "hank.ns.cloudflare.com"
+                }
+            ]
+        }
+    ],
+    "domain": "netflixcasino.wiki\r"
+}

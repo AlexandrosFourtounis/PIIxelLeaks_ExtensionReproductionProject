@@ -1,0 +1,749 @@
+{
+    "name": "sanook.com",
+    "handle": "4255032_DOMAIN_COM-VRSN",
+    "registrationDate": "1/14/1997, 7:00:00 AM GMT+2",
+    "expirationDate": "1/13/2027, 7:00:00 AM GMT+2",
+    "lastChangedDate": "6/9/2025, 11:08:25 AM GMT+3",
+    "lastUpdateDate": "6/9/2025, 11:08:25 AM GMT+3",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "roles": [
+                "abuse"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Network Solutions, LLC"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "domain.operations@web.com"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+1.8777228662"
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "2",
+            "links": [
+                {
+                    "value": "https://rdap.networksolutions.com/rdap/",
+                    "rel": "about",
+                    "href": "https://www.networksolutions.com",
+                    "type": "text/html"
+                }
+            ],
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "roles": [
+                        "abuse"
+                    ],
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Network Solutions, LLC"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "domain.operations@web.com"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "voice"
+                                },
+                                "text",
+                                "+1.8777228662"
+                            ]
+                        ]
+                    ]
+                }
+            ],
+            "roles": [
+                "registrar"
+            ],
+            "publicIds": [
+                {
+                    "type": "IANA Registrar ID",
+                    "identifier": "2"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Network Solutions, LLC"
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ],
+                    "type": "object truncated due to authorization"
+                }
+            ],
+            "roles": [
+                "administrative"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "dataprotected@maskeddetails.com"
+                    ],
+                    [
+                        "adr",
+                        {},
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ],
+                    "type": "object truncated due to authorization"
+                }
+            ],
+            "roles": [
+                "technical"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "dataprotected@maskeddetails.com"
+                    ],
+                    [
+                        "adr",
+                        {},
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ],
+                    "type": "object truncated due to authorization"
+                }
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "dataprotected@maskeddetails.com"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "TH"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "Bangkok",
+                            "",
+                            ""
+                        ]
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "NS-731.AWSDNS-27.NET",
+            "unicodeName": "NS-731.AWSDNS-27.NET"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "NS-113.AWSDNS-14.COM",
+            "unicodeName": "NS-113.AWSDNS-14.COM"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "NS-1078.AWSDNS-06.ORG",
+            "unicodeName": "NS-1078.AWSDNS-06.ORG"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "NS-1845.AWSDNS-38.CO.UK",
+            "unicodeName": "NS-1845.AWSDNS-38.CO.UK"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "NS01.SANOOKONLINE.NET",
+            "unicodeName": "NS01.SANOOKONLINE.NET"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "NS02.SANOOKONLINE.NET",
+            "unicodeName": "NS02.SANOOKONLINE.NET"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "NS03.SANOOKONLINE.NET",
+            "unicodeName": "NS03.SANOOKONLINE.NET"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "NS04.SANOOKONLINE.NET",
+            "unicodeName": "NS04.SANOOKONLINE.NET"
+        },
+        {
+            "rdapConformance": [
+                "rdap_level_0",
+                "icann_rdap_response_profile_1",
+                "icann_rdap_technical_implementation_guide_1",
+                "redacted"
+            ],
+            "notices": [
+                {
+                    "title": "Status Codes",
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.networksolutions.com/rdap/domain/SANOOK.COM",
+                            "rel": "glossary",
+                            "href": "https://icann.org/epp",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "RDDS Inaccuracy Complaint Form",
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.networksolutions.com/rdap/domain/SANOOK.COM",
+                            "rel": "help",
+                            "href": "https://icann.org/wicf",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "Terms of Service",
+                    "description": [
+                        "The data provided by the Registration Data Access Protocol (“RDAP”) and use of our RDAP service is governed by the RDAP terms below. We reserve the right to modify these RDAP terms at any time.",
+                        "The information in the RDAP database is provided to you for informational purposes only, on an \"as is\" basis without any guarantee of accuracy.",
+                        "By submitting a query, you certify that you have a legitimate purpose for requesting the data, that you will only use this data for lawful purposes and delete the data immediately when the data is no longer necessary for your lawful or legitimate purpose, and that, under no circumstances, will you use this data to: a) allow, enable, or otherwise support the transmission of unsolicited, commercial advertising or solicitations; or (b) enable high volume, automated electronic processes that send queries or data to the systems of any registry operator or ICANN-accredited registrar, except as reasonably necessary to register domain names or modify existing registrations.",
+                        "The compilation, repackaging, dissemination, or other use of this data is expressly prohibited.",
+                        "We reserve the right to restrict or terminate access to the database at any time in our sole discretion including, without limitation, for excessive querying of the database or for failure to otherwise abide by these RDAP terms.",
+                        "Your IP address, the queried domain, the response, and a timestamp is stored for the purposes of maintaining the RDAP service and to ensure adherence with these RDAP terms.",
+                        "By submitting this query, you agree to these RDAP terms.",
+                        "NOTE: THIS RDAP DATABASE IS A CONTACT DATABASE ONLY. LACK OF A DOMAIN RECORD DOES NOT SIGNIFY DOMAIN AVAILABILITY."
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.networksolutions.com/rdap/domain/SANOOK.COM",
+                            "rel": "terms-of-service",
+                            "href": "https://legal.newfold.com",
+                            "type": "text/html"
+                        }
+                    ]
+                }
+            ],
+            "objectClassName": "domain",
+            "handle": "4255032_DOMAIN_COM-VRSN",
+            "remarks": [
+                {
+                    "title": "Terms of Use",
+                    "description": [
+                        "The data in Networksolutions.com's WHOIS database is provided to you byNetworksolutions.com for information purposes only, that is, to assist you in\nobtaining information about or related to a domain name registration\nrecord. Networksolutions.com makes this information available \"as is,\" and\ndoes not guarantee its accuracy. By submitting a WHOIS query, you\nagree that you will use this data only for lawful purposes and that,\nunder no circumstances will you use this data to: (1) allow, enable,\nor otherwise support the transmission of mass unsolicited, commercial\nadvertising or solicitations via direct mail, electronic mail, or by\ntelephone; or (2) enable high volume, automated, electronic processes\nthat apply to Networksolutions.com  (or its systems). The compilation,\nrepackaging, dissemination or other use of this data is expressly\nprohibited without the prior written consent of Networksolutions.com.\nNetworksolutions.com reserves the right to modify these terms at any time.\nBy submitting this query, you agree to abide by these terms.\nFor more information on Whois status codes, please visit\nhttps://www.icann.org/resources/pages/epp-status-codes-2014-06-16-en."
+                    ]
+                },
+                {
+                    "title": "ICANN WHOIS Data Inaccuracy",
+                    "description": [
+                        "URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/"
+                    ],
+                    "links": [
+                        {
+                            "value": "http://wdprs.internic.net/",
+                            "rel": "related",
+                            "href": "http://wdprs.internic.net/",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "Whois status codes",
+                    "description": [
+                        "For more information on Whois status codes, please visit https://www.icann.org/resources/pages/epp-status-codes-2014-06-16-en"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://www.icann.org/resources/pages/epp-status-codes-2014-06-16-en",
+                            "rel": "related",
+                            "href": "https://www.icann.org/resources/pages/epp-status-codes-2014-06-16-en",
+                            "type": "text/html"
+                        }
+                    ]
+                }
+            ],
+            "links": [
+                {
+                    "value": "http://rdap.networksolutions.com/rdap/domain/sanook.com.",
+                    "rel": "self",
+                    "href": "http://rdap.networksolutions.com/rdap/domain/sanook.com.",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "port43": "whois.networksolutions.com",
+            "lang": "en",
+            "ldhName": "sanook.com",
+            "unicodeName": "sanook.com",
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "NS-731.AWSDNS-27.NET",
+                    "unicodeName": "NS-731.AWSDNS-27.NET"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "NS-113.AWSDNS-14.COM",
+                    "unicodeName": "NS-113.AWSDNS-14.COM"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "NS-1078.AWSDNS-06.ORG",
+                    "unicodeName": "NS-1078.AWSDNS-06.ORG"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "NS-1845.AWSDNS-38.CO.UK",
+                    "unicodeName": "NS-1845.AWSDNS-38.CO.UK"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "NS01.SANOOKONLINE.NET",
+                    "unicodeName": "NS01.SANOOKONLINE.NET"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "NS02.SANOOKONLINE.NET",
+                    "unicodeName": "NS02.SANOOKONLINE.NET"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "NS03.SANOOKONLINE.NET",
+                    "unicodeName": "NS03.SANOOKONLINE.NET"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "NS04.SANOOKONLINE.NET",
+                    "unicodeName": "NS04.SANOOKONLINE.NET"
+                }
+            ],
+            "secureDNS": {
+                "delegationSigned": false
+            },
+            "redacted": [
+                {
+                    "name": {
+                        "type": "Registry Admin ID"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='administrative')].handle",
+                    "pathLang": "jsonpath",
+                    "method": "removal",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "description": "Admin Name"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='administrative')].vcardArray[1][?(@[0]=='fn')][3]",
+                    "pathLang": "jsonpath",
+                    "method": "emptyValue",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "description": "Admin Phone"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='administrative')].vcardArray[1][?(@[1].type=='voice')]",
+                    "pathLang": "jsonpath",
+                    "method": "removal",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "description": "Admin Organization"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='administrative')].vcardArray[1][?(@[0]=='org')]",
+                    "pathLang": "jsonpath",
+                    "method": "removal",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "description": "Admin Email"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='administrative')].vcardArray[1][?(@[0]=='email')]",
+                    "pathLang": "jsonpath",
+                    "method": "replacementValue"
+                },
+                {
+                    "name": {
+                        "description": "Admin Street"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='administrative')].vcardArray[1][?(@[0]=='adr')][3][:3]",
+                    "pathLang": "jsonpath",
+                    "method": "emptyValue",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "description": "Admin City"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='administrative')].vcardArray[1][?(@[0]=='adr')][3][3]",
+                    "pathLang": "jsonpath",
+                    "method": "emptyValue",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "description": "Admin State/Province"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='administrative')].vcardArray[1][?(@[0]=='adr')][3][4]",
+                    "pathLang": "jsonpath",
+                    "method": "emptyValue",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "description": "Admin Postal Code"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='administrative')].vcardArray[1][?(@[0]=='adr')][3][5]",
+                    "pathLang": "jsonpath",
+                    "method": "emptyValue",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "type": "Registry Tech ID"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='technical')].handle",
+                    "pathLang": "jsonpath",
+                    "method": "removal",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "description": "Tech Name"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='fn')][3]",
+                    "pathLang": "jsonpath",
+                    "method": "emptyValue",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "description": "Tech Phone"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[1].type=='voice')]",
+                    "pathLang": "jsonpath",
+                    "method": "removal",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "description": "Tech Organization"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='org')]",
+                    "pathLang": "jsonpath",
+                    "method": "removal",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "description": "Tech Email"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='email')]",
+                    "pathLang": "jsonpath",
+                    "method": "replacementValue"
+                },
+                {
+                    "name": {
+                        "description": "Tech Street"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='adr')][3][:3]",
+                    "pathLang": "jsonpath",
+                    "method": "emptyValue",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "description": "Tech City"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='adr')][3][3]",
+                    "pathLang": "jsonpath",
+                    "method": "emptyValue",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "description": "Tech State/Province"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='adr')][3][4]",
+                    "pathLang": "jsonpath",
+                    "method": "emptyValue",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "description": "Tech Postal Code"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='adr')][3][5]",
+                    "pathLang": "jsonpath",
+                    "method": "emptyValue",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "type": "Registry Registrant ID"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].handle",
+                    "pathLang": "jsonpath",
+                    "method": "removal",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "description": "Registrant Name"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='fn')][3]",
+                    "pathLang": "jsonpath",
+                    "method": "emptyValue",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "description": "Registrant Phone"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[1].type=='voice')]",
+                    "pathLang": "jsonpath",
+                    "method": "removal",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "description": "Registrant Organization"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='org')]",
+                    "pathLang": "jsonpath",
+                    "method": "removal",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "description": "Registrant Email"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='email')]",
+                    "pathLang": "jsonpath",
+                    "method": "replacementValue"
+                },
+                {
+                    "name": {
+                        "description": "Registrant Street"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][:3]",
+                    "pathLang": "jsonpath",
+                    "method": "emptyValue",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "description": "Registrant City"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][3]",
+                    "pathLang": "jsonpath",
+                    "method": "emptyValue",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "description": "Registrant State/Province"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][4]",
+                    "pathLang": "jsonpath",
+                    "method": "emptyValue",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "description": "Registrant Postal Code"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][5]",
+                    "pathLang": "jsonpath",
+                    "method": "emptyValue",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                }
+            ]
+        }
+    ],
+    "domain": "sanook.com\r"
+}

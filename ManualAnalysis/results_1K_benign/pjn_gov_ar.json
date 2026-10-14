@@ -1,0 +1,145 @@
+{
+    "name": "pjn.gov.ar",
+    "handle": "pjn.gov.ar",
+    "registrationDate": "1/1/1996, 2:00:00 AM GMT+2",
+    "expirationDate": "1/31/2027, 12:00:00 PM GMT+2",
+    "lastChangedDate": "11/30/2019, 11:04:03 AM GMT+2",
+    "lastUpdateDate": null,
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "handle": "34546671471",
+            "links": [
+                {
+                    "href": "https://rdap.nic.ar/entity/34546671471",
+                    "type": "application/rdap+json",
+                    "rel": "self",
+                    "value": "https://rdap.nic.ar/entity/34546671471"
+                }
+            ],
+            "roles": [
+                "registrant"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "nicar",
+            "roles": [
+                "registrar"
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "handle": "dns1.pjn.gob.ar",
+            "links": [
+                {
+                    "href": "https://rdap.nic.ar/nameserver/dns1.pjn.gob.ar",
+                    "type": "application/rdap+json",
+                    "rel": "self",
+                    "value": "https://rdap.nic.ar/nameserver/dns1.pjn.gob.ar"
+                }
+            ],
+            "ldhName": "dns1.pjn.gob.ar"
+        },
+        {
+            "objectClassName": "nameserver",
+            "handle": "dns2.pjn.gob.ar",
+            "links": [
+                {
+                    "href": "https://rdap.nic.ar/nameserver/dns2.pjn.gob.ar",
+                    "type": "application/rdap+json",
+                    "rel": "self",
+                    "value": "https://rdap.nic.ar/nameserver/dns2.pjn.gob.ar"
+                }
+            ],
+            "ldhName": "dns2.pjn.gob.ar"
+        },
+        {
+            "fred_nsset": {
+                "nameservers": [
+                    {
+                        "objectClassName": "nameserver",
+                        "handle": "dns1.pjn.gob.ar",
+                        "links": [
+                            {
+                                "href": "https://rdap.nic.ar/nameserver/dns1.pjn.gob.ar",
+                                "type": "application/rdap+json",
+                                "rel": "self",
+                                "value": "https://rdap.nic.ar/nameserver/dns1.pjn.gob.ar"
+                            }
+                        ],
+                        "ldhName": "dns1.pjn.gob.ar"
+                    },
+                    {
+                        "objectClassName": "nameserver",
+                        "handle": "dns2.pjn.gob.ar",
+                        "links": [
+                            {
+                                "href": "https://rdap.nic.ar/nameserver/dns2.pjn.gob.ar",
+                                "type": "application/rdap+json",
+                                "rel": "self",
+                                "value": "https://rdap.nic.ar/nameserver/dns2.pjn.gob.ar"
+                            }
+                        ],
+                        "ldhName": "dns2.pjn.gob.ar"
+                    }
+                ],
+                "objectClassName": "fred_nsset",
+                "handle": "46761167430174",
+                "links": [
+                    {
+                        "href": "https://rdap.nic.ar/fred_nsset/46761167430174",
+                        "type": "application/rdap+json",
+                        "rel": "self",
+                        "value": "https://rdap.nic.ar/fred_nsset/46761167430174"
+                    }
+                ]
+            },
+            "handle": "pjn.gov.ar",
+            "links": [
+                {
+                    "href": "https://rdap.nic.ar/domain/pjn.gov.ar",
+                    "type": "application/rdap+json",
+                    "rel": "self",
+                    "value": "https://rdap.nic.ar/domain/pjn.gov.ar"
+                }
+            ],
+            "port43": "",
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "handle": "dns1.pjn.gob.ar",
+                    "links": [
+                        {
+                            "href": "https://rdap.nic.ar/nameserver/dns1.pjn.gob.ar",
+                            "type": "application/rdap+json",
+                            "rel": "self",
+                            "value": "https://rdap.nic.ar/nameserver/dns1.pjn.gob.ar"
+                        }
+                    ],
+                    "ldhName": "dns1.pjn.gob.ar"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "handle": "dns2.pjn.gob.ar",
+                    "links": [
+                        {
+                            "href": "https://rdap.nic.ar/nameserver/dns2.pjn.gob.ar",
+                            "type": "application/rdap+json",
+                            "rel": "self",
+                            "value": "https://rdap.nic.ar/nameserver/dns2.pjn.gob.ar"
+                        }
+                    ],
+                    "ldhName": "dns2.pjn.gob.ar"
+                }
+            ],
+            "ldhName": "pjn.gov.ar",
+            "rdapConformance": [
+                "rdap_level_0",
+                "fred_version_0"
+            ],
+            "objectClassName": "domain"
+        }
+    ],
+    "domain": "pjn.gov.ar\r"
+}

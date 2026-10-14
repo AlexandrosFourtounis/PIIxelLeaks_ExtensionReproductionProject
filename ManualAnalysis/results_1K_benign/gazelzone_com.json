@@ -1,0 +1,202 @@
+{
+    "name": "GAZELZONE.COM",
+    "handle": "1963036471_DOMAIN_COM-VRSN",
+    "registrationDate": "9/24/2015, 1:29:18 PM GMT+3",
+    "expirationDate": "9/24/2027, 1:29:18 PM GMT+3",
+    "lastChangedDate": null,
+    "lastUpdateDate": "6/22/2023, 7:00:22 PM GMT+3",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "roles": [
+                "abuse"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "tel"
+                        },
+                        "uri",
+                        "tel:+82.25938320"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "Abuse@ksidc.net"
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "1542",
+            "roles": [
+                "registrar"
+            ],
+            "publicIds": [
+                {
+                    "type": "IANA Registrar ID",
+                    "identifier": "1542"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "KOREA SERVER HOSTING INC."
+                    ]
+                ]
+            ],
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "roles": [
+                        "abuse"
+                    ],
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                ""
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "tel"
+                                },
+                                "uri",
+                                "tel:+82.25938320"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "Abuse@ksidc.net"
+                            ]
+                        ]
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "NS1.GAZELZONE.COM"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "NS2.GAZELZONE.COM"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "NS3.GAZELZONE.COM"
+        },
+        {
+            "objectClassName": "domain",
+            "handle": "1963036471_DOMAIN_COM-VRSN",
+            "ldhName": "GAZELZONE.COM",
+            "links": [
+                {
+                    "value": "https://rdap.ksdom.kr/domain/GAZELZONE.COM",
+                    "rel": "self",
+                    "href": "https://rdap.ksdom.kr/domain/GAZELZONE.COM",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "secureDNS": {
+                "delegationSigned": false
+            },
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "NS1.GAZELZONE.COM"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "NS2.GAZELZONE.COM"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "NS3.GAZELZONE.COM"
+                }
+            ],
+            "rdapConformance": [
+                "rdap_level_0",
+                "icann_rdap_technical_implementation_guide_0",
+                "icann_rdap_response_profile_0"
+            ],
+            "notices": [
+                {
+                    "title": "Terms of Use",
+                    "description": [
+                        "Service subject to Terms of Use."
+                    ],
+                    "links": [
+                        {
+                            "href": "https://www.verisign.com/domain-names/registration-data-access-protocol/terms-service/index.xhtml",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "Status Codes",
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ],
+                    "links": [
+                        {
+                            "href": "https://icann.org/epp",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "RDDS Inaccuracy Complaint Form",
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ],
+                    "links": [
+                        {
+                            "href": "https://icann.org/wicf",
+                            "type": "text/html"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "domain": "gazelzone.com\r"
+}

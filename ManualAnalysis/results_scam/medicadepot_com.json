@@ -1,0 +1,431 @@
+{
+    "name": "medicadepot.com",
+    "handle": "847934954_DOMAIN_COM-VRSN",
+    "registrationDate": "3/2/2007, 12:03:56 AM GMT+2",
+    "expirationDate": "8/1/2026, 3:00:00 AM GMT+3",
+    "lastChangedDate": null,
+    "lastUpdateDate": null,
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "roles": [
+                "abuse"
+            ],
+            "lang": "en-US",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "abuse@storkregistry.com"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "pref": "1",
+                            "type": [
+                                "work",
+                                "voice"
+                            ]
+                        },
+                        "uri",
+                        "tel:+38637773032"
+                    ]
+                ]
+            ]
+        },
+        {
+            "publicIds": {
+                "identifier": "1724",
+                "type": "IANA Registrar ID"
+            },
+            "objectClassName": "entity",
+            "port43": "whois.storkregistry.com",
+            "roles": [
+                "registrar"
+            ],
+            "lang": "en-US",
+            "links": [
+                {
+                    "title": "Registrar URL",
+                    "href": "https://storkr.si"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "STORK REGISTRY INC."
+                    ],
+                    [
+                        "adr",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "Rimske terase 43",
+                            "Polzela",
+                            "",
+                            "3313",
+                            "SI"
+                        ]
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "info@storkregistry.com"
+                    ]
+                ]
+            ],
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "roles": [
+                        "abuse"
+                    ],
+                    "lang": "en-US",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "email",
+                                {
+                                    "type": "work"
+                                },
+                                "text",
+                                "abuse@storkregistry.com"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "pref": "1",
+                                    "type": [
+                                        "work",
+                                        "voice"
+                                    ]
+                                },
+                                "uri",
+                                "tel:+38637773032"
+                            ]
+                        ]
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "roles": [
+                "registrant"
+            ],
+            "lang": "en-US",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "WhoisGuard Masked"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "WhoisGuard Masked",
+                            "WhoisGuard Masked",
+                            "ONTARIO",
+                            "WhoisGuard Masked",
+                            "CA"
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "pref": "1",
+                            "type": [
+                                "work",
+                                "voice"
+                            ]
+                        },
+                        "uri",
+                        "tel:WhoisGuard Masked"
+                    ]
+                ]
+            ],
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object redacted due to authorization",
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "roles": [
+                "administrative"
+            ],
+            "lang": "en-US",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "WhoisGuard Masked"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "WhoisGuard Masked",
+                            "WhoisGuard Masked",
+                            "WhoisGuard Masked",
+                            "WhoisGuard Masked",
+                            "WhoisGuard Masked"
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "pref": "1",
+                            "type": [
+                                "work",
+                                "voice"
+                            ]
+                        },
+                        "uri",
+                        "tel:WhoisGuard Masked"
+                    ]
+                ]
+            ],
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object redacted due to authorization",
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "roles": [
+                "technical"
+            ],
+            "lang": "en-US",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "WhoisGuard Masked"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "WhoisGuard Masked",
+                            "WhoisGuard Masked",
+                            "WhoisGuard Masked",
+                            "WhoisGuard Masked",
+                            "WhoisGuard Masked"
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "pref": "1",
+                            "type": [
+                                "work",
+                                "voice"
+                            ]
+                        },
+                        "uri",
+                        "tel:WhoisGuard Masked"
+                    ]
+                ]
+            ],
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object redacted due to authorization",
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "lars.ns.cloudflare.com",
+            "status": [
+                "active"
+            ],
+            "lang": "en-US",
+            "events": [
+                {
+                    "eventAction": "last update",
+                    "eventDate": "2023-12-20T09:53:37Z"
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "blair.ns.cloudflare.com",
+            "status": [
+                "active"
+            ],
+            "lang": "en-US",
+            "events": [
+                {
+                    "eventAction": "last update",
+                    "eventDate": "2023-12-20T09:53:37Z"
+                }
+            ]
+        },
+        {
+            "objectClassName": "domain",
+            "port43": "whois.storkregistry.com",
+            "name": "medicadepot.com",
+            "ldhName": "medicadepot.com",
+            "handle": "847934954_DOMAIN_COM-VRSN",
+            "rdapConformance": [
+                "rdap_level_0",
+                "rdap_objectTag_level_0",
+                "rdap_openidc_level_0"
+            ],
+            "secureDNS": {
+                "secureDNS": {
+                    "delegationSigned": false
+                }
+            },
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "lars.ns.cloudflare.com",
+                    "status": [
+                        "active"
+                    ],
+                    "lang": "en-US",
+                    "events": [
+                        {
+                            "eventAction": "last update",
+                            "eventDate": "2023-12-20T09:53:37Z"
+                        }
+                    ]
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "blair.ns.cloudflare.com",
+                    "status": [
+                        "active"
+                    ],
+                    "lang": "en-US",
+                    "events": [
+                        {
+                            "eventAction": "last update",
+                            "eventDate": "2023-12-20T09:53:37Z"
+                        }
+                    ]
+                }
+            ],
+            "notices": [
+                {
+                    "title": "Status codes",
+                    "description": "For more information on domain status codes, please visit https://icann.org/epp",
+                    "links": {
+                        "title": "More information on status codes",
+                        "href": "https://icann.org/epp"
+                    }
+                },
+                {
+                    "title": "ICANN RDAP inacuracy complaint form",
+                    "description": "To report inacuracy in RDAP data, please visit https://icann.org/wicf/",
+                    "links": {
+                        "title": "ICANN RDAP inacuracy complaint form",
+                        "href": "https://icann.org/wicf/"
+                    }
+                },
+                {
+                    "title": "Terms of use",
+                    "links": {
+                        "title": "Terms of use",
+                        "href": "https://rdap.storkregistry.com/terms-of-use"
+                    }
+                }
+            ]
+        }
+    ],
+    "domain": "medicadepot.com\r"
+}

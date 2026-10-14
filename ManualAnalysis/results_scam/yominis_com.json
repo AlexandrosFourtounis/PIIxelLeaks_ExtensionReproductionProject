@@ -1,0 +1,465 @@
+{
+    "name": "yominis.com",
+    "handle": "2975560881_DOMAIN_COM-VRSN",
+    "registrationDate": "4/16/2025, 11:48:32 AM GMT+3 (by hcdzct)",
+    "expirationDate": "4/16/2027, 11:48:32 AM GMT+3",
+    "lastChangedDate": "3/23/2026, 3:48:52 AM GMT+2 (by hcdzct)",
+    "lastUpdateDate": "4/16/2025, 11:48:33 AM GMT+3",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Redacted for Privacy"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "org",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "Redacted for Privacy"
+                    ],
+                    [
+                        "adr",
+                        {},
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "陕西",
+                            "",
+                            "CN"
+                        ]
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "https://whois.aliyun.com/whois/whoisForm"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "handle": "1",
+            "remarks": [
+                {
+                    "description": [
+                        "Some of the data in this object has been removed."
+                    ],
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object truncated due to authorization"
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Redacted for Privacy"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "org",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "Redacted for Privacy"
+                    ],
+                    [
+                        "adr",
+                        {},
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "陕西",
+                            "",
+                            "CN"
+                        ]
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "https://whois.aliyun.com/whois/whoisForm"
+                    ]
+                ]
+            ],
+            "roles": [
+                "administrative"
+            ],
+            "handle": "2",
+            "remarks": [
+                {
+                    "description": [
+                        "Some of the data in this object has been removed."
+                    ],
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object truncated due to authorization"
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Redacted for Privacy"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "org",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "Redacted for Privacy"
+                    ],
+                    [
+                        "adr",
+                        {},
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "陕西",
+                            "",
+                            "CN"
+                        ]
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "https://whois.aliyun.com/whois/whoisForm"
+                    ]
+                ]
+            ],
+            "roles": [
+                "technical"
+            ],
+            "handle": "3",
+            "remarks": [
+                {
+                    "description": [
+                        "Some of the data in this object has been removed."
+                    ],
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object truncated due to authorization"
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Redacted for Privacy"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "org",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "Redacted for Privacy"
+                    ],
+                    [
+                        "adr",
+                        {},
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "陕西",
+                            "",
+                            "CN"
+                        ]
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "https://whois.aliyun.com/whois/whoisForm"
+                    ]
+                ]
+            ],
+            "roles": [
+                "billing"
+            ],
+            "handle": "4",
+            "remarks": [
+                {
+                    "description": [
+                        "Some of the data in this object has been removed."
+                    ],
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object truncated due to authorization"
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+86.95187"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "DomainAbuse@service.aliyun.com"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        ""
+                    ]
+                ]
+            ],
+            "roles": [
+                "abuse"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "publicIds": [
+                {
+                    "identifier": "1599",
+                    "type": "IANA Registrar ID"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn)"
+                    ]
+                ]
+            ],
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "voice"
+                                },
+                                "uri",
+                                "tel:+86.95187"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "DomainAbuse@service.aliyun.com"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                ""
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "abuse"
+                    ]
+                }
+            ],
+            "roles": [
+                "registrar"
+            ],
+            "handle": "1599"
+        },
+        {
+            "objectClassName": "nameserver",
+            "lang": "en",
+            "unicodeName": "dns23.hichina.com",
+            "ldhName": "dns23.hichina.com"
+        },
+        {
+            "objectClassName": "nameserver",
+            "lang": "en",
+            "unicodeName": "dns24.hichina.com",
+            "ldhName": "dns24.hichina.com"
+        },
+        {
+            "rdapConformance": [
+                "rdap_level_0",
+                "icann_rdap_response_profile_0",
+                "icann_rdap_technical_implementation_guide_0"
+            ],
+            "handle": "2975560881_DOMAIN_COM-VRSN",
+            "secureDNS": {
+                "delegationSigned": false
+            },
+            "unicodeName": "yominis.com",
+            "notices": [
+                {
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp."
+                    ],
+                    "links": [
+                        {
+                            "rel": "related",
+                            "href": "https://icann.org/epp",
+                            "type": "text/html",
+                            "value": "https://icann.org/epp"
+                        }
+                    ],
+                    "title": "Epp Status Codes"
+                },
+                {
+                    "description": [
+                        "URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf."
+                    ],
+                    "links": [
+                        {
+                            "rel": "related",
+                            "href": "https://www.icann.org/wicf",
+                            "type": "text/html",
+                            "value": "https://www.icann.org/wicf"
+                        }
+                    ],
+                    "title": "Whois Inaccuracy Complaint Form"
+                }
+            ],
+            "port43": "grs-whois.hichina.com",
+            "objectClassName": "domain",
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "lang": "en",
+                    "unicodeName": "dns23.hichina.com",
+                    "ldhName": "dns23.hichina.com"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "lang": "en",
+                    "unicodeName": "dns24.hichina.com",
+                    "ldhName": "dns24.hichina.com"
+                }
+            ],
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "https://whois.aliyun.com/rdap/domain/yominis.com",
+                    "type": "application/rdap+json",
+                    "value": "https://whois.aliyun.com/rdap/domain/yominis.com"
+                }
+            ],
+            "lang": "en",
+            "ldhName": "yominis.com"
+        }
+    ],
+    "domain": "yominis.com\r"
+}

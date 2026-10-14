@@ -1,0 +1,528 @@
+{
+    "name": "thevault-spa.com",
+    "handle": "2978031259_DOMAIN_COM-VRSN",
+    "registrationDate": "4/25/2025, 2:56:48 PM GMT+3",
+    "expirationDate": "4/25/2027, 2:56:48 PM GMT+3",
+    "lastChangedDate": "8/6/2025, 11:50:09 AM GMT+3",
+    "lastUpdateDate": "6/23/2026, 2:30:31 PM GMT+3",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "handle": "thevault_spacom-reg",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "DE"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "https://webform.meshdigital.com"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2025-08-06T08:50:09Z"
+                }
+            ],
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object truncated due to authorization",
+                    "description": [
+                        "Some of the data in this object has been removed."
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+1.8779770099"
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "abuse@domainbox.com"
+                    ]
+                ]
+            ],
+            "roles": [
+                "abuse"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "1390",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "MESH DIGITAL LIMITED"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "GB"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "The Old Vinyl Factory, Blyth Road",
+                            "Hayes",
+                            "Middlesex",
+                            "UB3 1HA",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "support@domainbox.com"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrar"
+            ],
+            "publicIds": [
+                {
+                    "type": "IANA Registrar ID",
+                    "identifier": "1390"
+                }
+            ],
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                ""
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "voice"
+                                },
+                                "uri",
+                                "tel:+1.8779770099"
+                            ],
+                            [
+                                "email",
+                                {
+                                    "type": "work"
+                                },
+                                "text",
+                                "abuse@domainbox.com"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "abuse"
+                    ]
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.meshdigital.com/v1/",
+                    "rel": "about",
+                    "href": "https://www.domainbox.com",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "port43": "whois.meshdigital.com"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns-574.awsdns-07.net",
+            "status": [
+                "active"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2025-08-06T08:50:09Z"
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns-1651.awsdns-14.co.uk",
+            "status": [
+                "active"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2025-08-06T08:50:09Z"
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns-290.awsdns-36.com",
+            "status": [
+                "active"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2025-08-06T08:50:09Z"
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns-1342.awsdns-39.org",
+            "status": [
+                "active"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2025-08-06T08:50:09Z"
+                }
+            ]
+        },
+        {
+            "objectClassName": "domain",
+            "handle": "2978031259_DOMAIN_COM-VRSN",
+            "ldhName": "thevault-spa.com",
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns-574.awsdns-07.net",
+                    "status": [
+                        "active"
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2025-08-06T08:50:09Z"
+                        }
+                    ]
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns-1651.awsdns-14.co.uk",
+                    "status": [
+                        "active"
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2025-08-06T08:50:09Z"
+                        }
+                    ]
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns-290.awsdns-36.com",
+                    "status": [
+                        "active"
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2025-08-06T08:50:09Z"
+                        }
+                    ]
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns-1342.awsdns-39.org",
+                    "status": [
+                        "active"
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2025-08-06T08:50:09Z"
+                        }
+                    ]
+                }
+            ],
+            "secureDNS": {
+                "delegationSigned": false
+            },
+            "links": [
+                {
+                    "value": "https://rdap.meshdigital.com/v1/domain/thevault-spa.com",
+                    "rel": "self",
+                    "href": "https://rdap.meshdigital.com/v1/domain/thevault-spa.com",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "notices": [
+                {
+                    "title": "Status Codes",
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.meshdigital.com/v1/domain/thevault-spa.com",
+                            "rel": "glossary",
+                            "href": "https://icann.org/epp",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "RDDS Inaccuracy Complaint Form",
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.meshdigital.com/v1/domain/thevault-spa.com",
+                            "rel": "help",
+                            "href": "https://icann.org/wicf",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "Terms of Use",
+                    "description": [
+                        "By submitting an inquiry, you agree to these Universal Terms of Service",
+                        "and limitations of warranty. In particular, you agree not to use this",
+                        "data to allow, enable, or otherwise make possible, dissemination or",
+                        "collection of this data, in part or in its entirety, for any purpose,",
+                        "such as the transmission of unsolicited advertising and solicitations of",
+                        "any kind, including spam. You further agree not to use this data to enable",
+                        "high volume, automated or robotic electronic processes designed to collect",
+                        "or compile this data for any purpose, including mining this data for your",
+                        "own personal or commercial purposes, or use this data in any way that violates",
+                        "applicable laws and regulations."
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.meshdigital.com/v1/domain/thevault-spa.com",
+                            "rel": "terms-of-service",
+                            "href": "https://www.godaddy.com/agreements/showdoc?pageid=5403",
+                            "type": "text/html"
+                        }
+                    ]
+                }
+            ],
+            "rdapConformance": [
+                "rdap_level_0",
+                "redacted",
+                "icann_rdap_response_profile_1",
+                "icann_rdap_technical_implementation_guide_1"
+            ],
+            "port43": "whois.meshdigital.com",
+            "redacted": [
+                {
+                    "name": {
+                        "description": "Registrant Organization"
+                    },
+                    "method": "emptyValue",
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='org')]",
+                    "pathLang": "jsonpath",
+                    "reason": {
+                        "description": "Server Policy"
+                    }
+                },
+                {
+                    "name": {
+                        "description": "Registrant Name"
+                    },
+                    "method": "emptyValue",
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='fn')][3]",
+                    "pathLang": "jsonpath",
+                    "reason": {
+                        "description": "Server Policy"
+                    }
+                },
+                {
+                    "name": {
+                        "description": "Registrant Street"
+                    },
+                    "method": "emptyValue",
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][:3]",
+                    "pathLang": "jsonpath",
+                    "reason": {
+                        "description": "Server Policy"
+                    }
+                },
+                {
+                    "name": {
+                        "description": "Registrant Email"
+                    },
+                    "method": "replacementValue",
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='email')]",
+                    "replacementPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='contact-uri')]",
+                    "pathLang": "jsonpath",
+                    "reason": {
+                        "description": "Server Policy"
+                    }
+                },
+                {
+                    "name": {
+                        "description": "Registrant City"
+                    },
+                    "method": "emptyValue",
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][3]",
+                    "pathLang": "jsonpath",
+                    "reason": {
+                        "description": "Server Policy"
+                    }
+                },
+                {
+                    "name": {
+                        "description": "Registrant Postal Code"
+                    },
+                    "method": "emptyValue",
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][5]",
+                    "pathLang": "jsonpath",
+                    "reason": {
+                        "description": "Server Policy"
+                    }
+                },
+                {
+                    "name": {
+                        "description": "Registrant Phone"
+                    },
+                    "method": "emptyValue",
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='voice')]",
+                    "pathLang": "jsonpath",
+                    "reason": {
+                        "description": "Server Policy"
+                    }
+                },
+                {
+                    "name": {
+                        "description": "Registrant Fax"
+                    },
+                    "method": "emptyValue",
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='fax')][3]",
+                    "pathLang": "jsonpath",
+                    "reason": {
+                        "description": "Server Policy"
+                    }
+                },
+                {
+                    "name": {
+                        "description": "Technical Name"
+                    },
+                    "method": "emptyValue",
+                    "postPath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='fn')][3]",
+                    "pathLang": "jsonpath",
+                    "reason": {
+                        "description": "Server Policy"
+                    }
+                },
+                {
+                    "name": {
+                        "description": "Technical Phone"
+                    },
+                    "method": "emptyValue",
+                    "postPath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='voice')]",
+                    "pathLang": "jsonpath",
+                    "reason": {
+                        "description": "Server Policy"
+                    }
+                },
+                {
+                    "name": {
+                        "description": "Technical Email"
+                    },
+                    "method": "replacementValue",
+                    "prePath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='email')]",
+                    "replacementPath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='contact-uri')]",
+                    "pathLang": "jsonpath",
+                    "reason": {
+                        "description": "Server Policy"
+                    }
+                }
+            ]
+        }
+    ],
+    "domain": "thevault-spa.com\r"
+}

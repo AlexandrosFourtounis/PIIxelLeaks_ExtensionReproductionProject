@@ -1,0 +1,1407 @@
+{
+    "name": "univ-paris8.fr",
+    "handle": "DOM000000017672-FRNIC",
+    "registrationDate": "1/1/1995, 1:00:00 AM GMT+2",
+    "expirationDate": "1/1/2027, 1:00:00 AM GMT+2",
+    "lastChangedDate": "2/1/2026, 1:05:07 AM GMT+2",
+    "lastUpdateDate": "6/23/2026, 3:26:50 PM GMT+3",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "handle": "RAR06-FRNIC",
+            "publicIds": [
+                {
+                    "type": "IANA Registrar ID",
+                    "identifier": ""
+                }
+            ],
+            "status": [
+                "active"
+            ],
+            "events": [
+                {
+                    "eventAction": "registration",
+                    "eventDate": "1997-12-29T00:00:00Z"
+                },
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2026-02-04T10:29:44.703808Z"
+                }
+            ],
+            "links": [
+                {
+                    "href": "https://rdap.nic.fr/entity/RAR06-FRNIC",
+                    "value": "https://rdap.nic.fr/entity/RAR06-FRNIC",
+                    "rel": "self"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "GIP RENATER"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+33.153942030"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "uri",
+                        "tel:+33.153942031"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "domaine@renater.fr"
+                    ],
+                    [
+                        "url",
+                        {},
+                        "uri",
+                        "http://www.renater.fr"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "FR"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "Array",
+                            "PARIS",
+                            "",
+                            "75013",
+                            ""
+                        ]
+                    ]
+                ]
+            ],
+            "roles": [
+                "sponsor",
+                "registrar"
+            ],
+            "remarks": [
+                {
+                    "type": "registrar restricted publication",
+                    "description": [
+                        "No"
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "UPH1-FRNIC",
+            "status": [
+                "associated",
+                "active"
+            ],
+            "events": [
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2008-10-09T00:00:00Z"
+                },
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2024-03-20T07:07:28.098152Z"
+                }
+            ],
+            "links": [
+                {
+                    "href": "https://rdap.nic.fr/entity/UPH1-FRNIC",
+                    "value": "https://rdap.nic.fr/entity/UPH1-FRNIC",
+                    "rel": "self"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Universite Paris 8"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "Univ. Paris 8"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "FR"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "2, rue de la Liberte",
+                            "Saint Denis",
+                            "",
+                            "93526",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "dsi.secretariat@univ-paris8.fr"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+33.149407026"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "remarks": [
+                {
+                    "type": "contact restricted publication",
+                    "description": [
+                        "NO"
+                    ]
+                },
+                {
+                    "type": "contact obsolete",
+                    "description": [
+                        "NO"
+                    ]
+                },
+                {
+                    "type": "contact type",
+                    "description": [
+                        "ORGANIZATION"
+                    ]
+                },
+                {
+                    "type": "reachable",
+                    "description": [
+                        "NO"
+                    ]
+                },
+                {
+                    "type": "eligibility status",
+                    "description": [
+                        "NotIdentified"
+                    ]
+                },
+                {
+                    "type": "registrar name",
+                    "description": [
+                        "GIP RENATER"
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "ANO00-FRNIC",
+            "status": [
+                "associated",
+                "active"
+            ],
+            "events": [
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2024-03-20T07:07:51.613277Z"
+                },
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2026-05-11T16:03:06.594191Z"
+                }
+            ],
+            "links": [
+                {
+                    "href": "https://rdap.nic.fr/entity/ANO00-FRNIC",
+                    "value": "https://rdap.nic.fr/entity/ANO00-FRNIC",
+                    "rel": "self"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Ano Nymous"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "adr",
+                        {},
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ]
+                ]
+            ],
+            "roles": [
+                "administrative"
+            ],
+            "remarks": [
+                {
+                    "type": "contact restricted publication",
+                    "description": [
+                        "YES"
+                    ]
+                },
+                {
+                    "type": "contact obsolete",
+                    "description": [
+                        "NO"
+                    ]
+                },
+                {
+                    "type": "contact type",
+                    "description": [
+                        "PERSON"
+                    ]
+                },
+                {
+                    "type": "contact remark privacy",
+                    "description": [
+                        "-------------- WARNING --------------",
+                        "While the registrar knows him/her,",
+                        "this person chose to restrict access",
+                        "to his/her personal data. So PLEASE,",
+                        "don't send emails to Ano Nymous. This",
+                        "address is bogus and there is no hope",
+                        "of a reply.",
+                        "-------------- WARNING --------------"
+                    ]
+                },
+                {
+                    "type": "reach medium",
+                    "description": [
+                        "EMAIL"
+                    ]
+                },
+                {
+                    "type": "reach date",
+                    "description": [
+                        "2024-03-20T07:07:51.613279Z"
+                    ]
+                },
+                {
+                    "type": "reach source",
+                    "description": [
+                        "REGISTRAR"
+                    ]
+                },
+                {
+                    "type": "reachable",
+                    "description": [
+                        "YES"
+                    ]
+                },
+                {
+                    "type": "eligibility status",
+                    "description": [
+                        "NotIdentified"
+                    ]
+                },
+                {
+                    "type": "registrar name",
+                    "description": [
+                        "GIP RENATER"
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "CTC3167397-FRNIC",
+            "status": [
+                "associated",
+                "active"
+            ],
+            "events": [
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2024-03-20T07:08:19.284268Z"
+                },
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2026-05-11T16:03:06.604163Z"
+                }
+            ],
+            "links": [
+                {
+                    "href": "https://rdap.nic.fr/entity/CTC3167397-FRNIC",
+                    "value": "https://rdap.nic.fr/entity/CTC3167397-FRNIC",
+                    "rel": "self"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Jérôme TISSET"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "Université de Paris 8"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "FR"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "2, rue de la Liberté",
+                            "Saint Denis",
+                            "",
+                            "93526",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "jerome.tisset@univ-paris8.fr"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+33.149407026;ext=33"
+                    ]
+                ]
+            ],
+            "roles": [
+                "technical"
+            ],
+            "remarks": [
+                {
+                    "type": "contact restricted publication",
+                    "description": [
+                        "NO"
+                    ]
+                },
+                {
+                    "type": "contact obsolete",
+                    "description": [
+                        "NO"
+                    ]
+                },
+                {
+                    "type": "contact type",
+                    "description": [
+                        "PERSON"
+                    ]
+                },
+                {
+                    "type": "reach medium",
+                    "description": [
+                        "EMAIL"
+                    ]
+                },
+                {
+                    "type": "reach date",
+                    "description": [
+                        "2024-03-20T07:08:19.284269Z"
+                    ]
+                },
+                {
+                    "type": "reach source",
+                    "description": [
+                        "REGISTRAR"
+                    ]
+                },
+                {
+                    "type": "reachable",
+                    "description": [
+                        "YES"
+                    ]
+                },
+                {
+                    "type": "eligibility status",
+                    "description": [
+                        "NotIdentified"
+                    ]
+                },
+                {
+                    "type": "registrar name",
+                    "description": [
+                        "GIP RENATER"
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "CTC3167398-FRNIC",
+            "status": [
+                "associated",
+                "active"
+            ],
+            "events": [
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2024-03-20T07:08:37.325167Z"
+                },
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2026-05-11T16:03:06.599168Z"
+                }
+            ],
+            "links": [
+                {
+                    "href": "https://rdap.nic.fr/entity/CTC3167398-FRNIC",
+                    "value": "https://rdap.nic.fr/entity/CTC3167398-FRNIC",
+                    "rel": "self"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Valerian MILLET"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "Université de Paris 8"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "FR"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "2, rue de la Liberté",
+                            "Saint Denis",
+                            "",
+                            "93526",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "valerian.millet02@univ-paris8.fr"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+33.149407026;ext=33"
+                    ]
+                ]
+            ],
+            "roles": [
+                "technical"
+            ],
+            "remarks": [
+                {
+                    "type": "contact restricted publication",
+                    "description": [
+                        "NO"
+                    ]
+                },
+                {
+                    "type": "contact obsolete",
+                    "description": [
+                        "NO"
+                    ]
+                },
+                {
+                    "type": "contact type",
+                    "description": [
+                        "PERSON"
+                    ]
+                },
+                {
+                    "type": "reach medium",
+                    "description": [
+                        "EMAIL"
+                    ]
+                },
+                {
+                    "type": "reach date",
+                    "description": [
+                        "2024-03-20T07:08:37.325169Z"
+                    ]
+                },
+                {
+                    "type": "reach source",
+                    "description": [
+                        "REGISTRAR"
+                    ]
+                },
+                {
+                    "type": "reachable",
+                    "description": [
+                        "YES"
+                    ]
+                },
+                {
+                    "type": "eligibility status",
+                    "description": [
+                        "NotIdentified"
+                    ]
+                },
+                {
+                    "type": "registrar name",
+                    "description": [
+                        "GIP RENATER"
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "RAR06-FRNIC",
+            "publicIds": [
+                {
+                    "type": "IANA Registrar ID",
+                    "identifier": ""
+                }
+            ],
+            "status": [
+                "active"
+            ],
+            "events": [
+                {
+                    "eventAction": "registration",
+                    "eventDate": "1997-12-29T00:00:00Z"
+                },
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2026-02-04T10:29:44.703808Z"
+                }
+            ],
+            "links": [
+                {
+                    "href": "https://rdap.nic.fr/entity/RAR06-FRNIC",
+                    "value": "https://rdap.nic.fr/entity/RAR06-FRNIC",
+                    "rel": "self"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "GIP RENATER"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+33.153942030"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "uri",
+                        "tel:+33.153942031"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "domaine@renater.fr"
+                    ],
+                    [
+                        "url",
+                        {},
+                        "uri",
+                        "http://www.renater.fr"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "FR"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "Array",
+                            "PARIS",
+                            "",
+                            "75013",
+                            ""
+                        ]
+                    ]
+                ]
+            ],
+            "roles": [
+                "sponsor",
+                "registrar"
+            ],
+            "remarks": [
+                {
+                    "type": "registrar restricted publication",
+                    "description": [
+                        "No"
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "handle": "HOST5936-FRNIC",
+            "ldhName": "ns.univ-paris8.fr",
+            "status": [
+                "associated",
+                "active"
+            ],
+            "ipAddresses": {
+                "v4": [
+                    "193.54.155.1"
+                ]
+            },
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "handle": "RAR06-FRNIC",
+                    "publicIds": [
+                        {
+                            "type": "IANA Registrar ID",
+                            "identifier": ""
+                        }
+                    ],
+                    "status": [
+                        "active"
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "1997-12-29T00:00:00Z"
+                        },
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2026-02-04T10:29:44.703808Z"
+                        }
+                    ],
+                    "links": [
+                        {
+                            "href": "https://rdap.nic.fr/entity/RAR06-FRNIC",
+                            "value": "https://rdap.nic.fr/entity/RAR06-FRNIC",
+                            "rel": "self"
+                        }
+                    ],
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "GIP RENATER"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "voice"
+                                },
+                                "uri",
+                                "tel:+33.153942030"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "fax"
+                                },
+                                "uri",
+                                "tel:+33.153942031"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "domaine@renater.fr"
+                            ],
+                            [
+                                "url",
+                                {},
+                                "uri",
+                                "http://www.renater.fr"
+                            ],
+                            [
+                                "adr",
+                                {
+                                    "cc": "FR"
+                                },
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "Array",
+                                    "PARIS",
+                                    "",
+                                    "75013",
+                                    ""
+                                ]
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "sponsor",
+                        "registrar"
+                    ],
+                    "remarks": [
+                        {
+                            "type": "registrar restricted publication",
+                            "description": [
+                                "No"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "links": [
+                {
+                    "href": "https://rdap.nic.fr/nameserver/ns.univ-paris8.fr",
+                    "value": "https://rdap.nic.fr/nameserver/ns.univ-paris8.fr",
+                    "rel": "self"
+                }
+            ],
+            "remarks": [
+                {
+                    "title": "result set truncated due to authorization",
+                    "description": [
+                        "The list of results does not contain all results due to lack of authorization.",
+                        "This may indicate to some clients that proper authorization will yield a longer result set."
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "RAR06-FRNIC",
+            "publicIds": [
+                {
+                    "type": "IANA Registrar ID",
+                    "identifier": ""
+                }
+            ],
+            "status": [
+                "active"
+            ],
+            "events": [
+                {
+                    "eventAction": "registration",
+                    "eventDate": "1997-12-29T00:00:00Z"
+                },
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2026-02-04T10:29:44.703808Z"
+                }
+            ],
+            "links": [
+                {
+                    "href": "https://rdap.nic.fr/entity/RAR06-FRNIC",
+                    "value": "https://rdap.nic.fr/entity/RAR06-FRNIC",
+                    "rel": "self"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "GIP RENATER"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+33.153942030"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "uri",
+                        "tel:+33.153942031"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "domaine@renater.fr"
+                    ],
+                    [
+                        "url",
+                        {},
+                        "uri",
+                        "http://www.renater.fr"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "FR"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "Array",
+                            "PARIS",
+                            "",
+                            "75013",
+                            ""
+                        ]
+                    ]
+                ]
+            ],
+            "roles": [
+                "sponsor",
+                "registrar"
+            ],
+            "remarks": [
+                {
+                    "type": "registrar restricted publication",
+                    "description": [
+                        "No"
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "handle": "HOST5937-FRNIC",
+            "ldhName": "ns2.univ-paris8.fr",
+            "status": [
+                "associated",
+                "active"
+            ],
+            "ipAddresses": {
+                "v4": [
+                    "193.54.174.1"
+                ]
+            },
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "handle": "RAR06-FRNIC",
+                    "publicIds": [
+                        {
+                            "type": "IANA Registrar ID",
+                            "identifier": ""
+                        }
+                    ],
+                    "status": [
+                        "active"
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "1997-12-29T00:00:00Z"
+                        },
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2026-02-04T10:29:44.703808Z"
+                        }
+                    ],
+                    "links": [
+                        {
+                            "href": "https://rdap.nic.fr/entity/RAR06-FRNIC",
+                            "value": "https://rdap.nic.fr/entity/RAR06-FRNIC",
+                            "rel": "self"
+                        }
+                    ],
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "GIP RENATER"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "voice"
+                                },
+                                "uri",
+                                "tel:+33.153942030"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "fax"
+                                },
+                                "uri",
+                                "tel:+33.153942031"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "domaine@renater.fr"
+                            ],
+                            [
+                                "url",
+                                {},
+                                "uri",
+                                "http://www.renater.fr"
+                            ],
+                            [
+                                "adr",
+                                {
+                                    "cc": "FR"
+                                },
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "Array",
+                                    "PARIS",
+                                    "",
+                                    "75013",
+                                    ""
+                                ]
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "sponsor",
+                        "registrar"
+                    ],
+                    "remarks": [
+                        {
+                            "type": "registrar restricted publication",
+                            "description": [
+                                "No"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "links": [
+                {
+                    "href": "https://rdap.nic.fr/nameserver/ns2.univ-paris8.fr",
+                    "value": "https://rdap.nic.fr/nameserver/ns2.univ-paris8.fr",
+                    "rel": "self"
+                }
+            ],
+            "remarks": [
+                {
+                    "title": "result set truncated due to authorization",
+                    "description": [
+                        "The list of results does not contain all results due to lack of authorization.",
+                        "This may indicate to some clients that proper authorization will yield a longer result set."
+                    ]
+                }
+            ]
+        },
+        {
+            "rdapConformance": [
+                "rdap_level_0",
+                "icann_rdap_technical_implementation_guide_1",
+                "icann_rdap_response_profile_1"
+            ],
+            "objectClassName": "domain",
+            "handle": "DOM000000017672-FRNIC",
+            "ldhName": "univ-paris8.fr",
+            "whoisStatus": "ACTIVE",
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "handle": "HOST5936-FRNIC",
+                    "ldhName": "ns.univ-paris8.fr",
+                    "status": [
+                        "associated",
+                        "active"
+                    ],
+                    "ipAddresses": {
+                        "v4": [
+                            "193.54.155.1"
+                        ]
+                    },
+                    "entities": [
+                        {
+                            "objectClassName": "entity",
+                            "handle": "RAR06-FRNIC",
+                            "publicIds": [
+                                {
+                                    "type": "IANA Registrar ID",
+                                    "identifier": ""
+                                }
+                            ],
+                            "status": [
+                                "active"
+                            ],
+                            "events": [
+                                {
+                                    "eventAction": "registration",
+                                    "eventDate": "1997-12-29T00:00:00Z"
+                                },
+                                {
+                                    "eventAction": "last changed",
+                                    "eventDate": "2026-02-04T10:29:44.703808Z"
+                                }
+                            ],
+                            "links": [
+                                {
+                                    "href": "https://rdap.nic.fr/entity/RAR06-FRNIC",
+                                    "value": "https://rdap.nic.fr/entity/RAR06-FRNIC",
+                                    "rel": "self"
+                                }
+                            ],
+                            "vcardArray": [
+                                "vcard",
+                                [
+                                    [
+                                        "version",
+                                        {},
+                                        "text",
+                                        "4.0"
+                                    ],
+                                    [
+                                        "fn",
+                                        {},
+                                        "text",
+                                        "GIP RENATER"
+                                    ],
+                                    [
+                                        "tel",
+                                        {
+                                            "type": "voice"
+                                        },
+                                        "uri",
+                                        "tel:+33.153942030"
+                                    ],
+                                    [
+                                        "tel",
+                                        {
+                                            "type": "fax"
+                                        },
+                                        "uri",
+                                        "tel:+33.153942031"
+                                    ],
+                                    [
+                                        "email",
+                                        {},
+                                        "text",
+                                        "domaine@renater.fr"
+                                    ],
+                                    [
+                                        "url",
+                                        {},
+                                        "uri",
+                                        "http://www.renater.fr"
+                                    ],
+                                    [
+                                        "adr",
+                                        {
+                                            "cc": "FR"
+                                        },
+                                        "text",
+                                        [
+                                            "",
+                                            "",
+                                            "Array",
+                                            "PARIS",
+                                            "",
+                                            "75013",
+                                            ""
+                                        ]
+                                    ]
+                                ]
+                            ],
+                            "roles": [
+                                "sponsor",
+                                "registrar"
+                            ],
+                            "remarks": [
+                                {
+                                    "type": "registrar restricted publication",
+                                    "description": [
+                                        "No"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "links": [
+                        {
+                            "href": "https://rdap.nic.fr/nameserver/ns.univ-paris8.fr",
+                            "value": "https://rdap.nic.fr/nameserver/ns.univ-paris8.fr",
+                            "rel": "self"
+                        }
+                    ],
+                    "remarks": [
+                        {
+                            "title": "result set truncated due to authorization",
+                            "description": [
+                                "The list of results does not contain all results due to lack of authorization.",
+                                "This may indicate to some clients that proper authorization will yield a longer result set."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "handle": "HOST5937-FRNIC",
+                    "ldhName": "ns2.univ-paris8.fr",
+                    "status": [
+                        "associated",
+                        "active"
+                    ],
+                    "ipAddresses": {
+                        "v4": [
+                            "193.54.174.1"
+                        ]
+                    },
+                    "entities": [
+                        {
+                            "objectClassName": "entity",
+                            "handle": "RAR06-FRNIC",
+                            "publicIds": [
+                                {
+                                    "type": "IANA Registrar ID",
+                                    "identifier": ""
+                                }
+                            ],
+                            "status": [
+                                "active"
+                            ],
+                            "events": [
+                                {
+                                    "eventAction": "registration",
+                                    "eventDate": "1997-12-29T00:00:00Z"
+                                },
+                                {
+                                    "eventAction": "last changed",
+                                    "eventDate": "2026-02-04T10:29:44.703808Z"
+                                }
+                            ],
+                            "links": [
+                                {
+                                    "href": "https://rdap.nic.fr/entity/RAR06-FRNIC",
+                                    "value": "https://rdap.nic.fr/entity/RAR06-FRNIC",
+                                    "rel": "self"
+                                }
+                            ],
+                            "vcardArray": [
+                                "vcard",
+                                [
+                                    [
+                                        "version",
+                                        {},
+                                        "text",
+                                        "4.0"
+                                    ],
+                                    [
+                                        "fn",
+                                        {},
+                                        "text",
+                                        "GIP RENATER"
+                                    ],
+                                    [
+                                        "tel",
+                                        {
+                                            "type": "voice"
+                                        },
+                                        "uri",
+                                        "tel:+33.153942030"
+                                    ],
+                                    [
+                                        "tel",
+                                        {
+                                            "type": "fax"
+                                        },
+                                        "uri",
+                                        "tel:+33.153942031"
+                                    ],
+                                    [
+                                        "email",
+                                        {},
+                                        "text",
+                                        "domaine@renater.fr"
+                                    ],
+                                    [
+                                        "url",
+                                        {},
+                                        "uri",
+                                        "http://www.renater.fr"
+                                    ],
+                                    [
+                                        "adr",
+                                        {
+                                            "cc": "FR"
+                                        },
+                                        "text",
+                                        [
+                                            "",
+                                            "",
+                                            "Array",
+                                            "PARIS",
+                                            "",
+                                            "75013",
+                                            ""
+                                        ]
+                                    ]
+                                ]
+                            ],
+                            "roles": [
+                                "sponsor",
+                                "registrar"
+                            ],
+                            "remarks": [
+                                {
+                                    "type": "registrar restricted publication",
+                                    "description": [
+                                        "No"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "links": [
+                        {
+                            "href": "https://rdap.nic.fr/nameserver/ns2.univ-paris8.fr",
+                            "value": "https://rdap.nic.fr/nameserver/ns2.univ-paris8.fr",
+                            "rel": "self"
+                        }
+                    ],
+                    "remarks": [
+                        {
+                            "title": "result set truncated due to authorization",
+                            "description": [
+                                "The list of results does not contain all results due to lack of authorization.",
+                                "This may indicate to some clients that proper authorization will yield a longer result set."
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "links": [
+                {
+                    "href": "https://rdap.nic.fr/domain/univ-paris8.fr",
+                    "value": "https://rdap.nic.fr/domain/univ-paris8.fr",
+                    "rel": "self"
+                }
+            ]
+        }
+    ],
+    "domain": "univ-paris8.fr\r"
+}

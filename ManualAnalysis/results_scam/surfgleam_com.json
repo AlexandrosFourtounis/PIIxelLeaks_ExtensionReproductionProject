@@ -1,0 +1,341 @@
+{
+    "name": "surfgleam.com",
+    "handle": "431",
+    "registrationDate": "10/29/2024, 8:42:00 AM GMT+2",
+    "expirationDate": "10/29/2026, 8:42:45 AM GMT+2",
+    "lastChangedDate": "9/27/2025, 11:11:55 AM GMT+3",
+    "lastUpdateDate": "6/16/2026, 1:11:32 PM GMT+3",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Proxy Protection LLC"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "lang",
+                        {},
+                        "language-tag",
+                        "en"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "Proxy Protection LLC"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "US"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            [
+                                "417 Associated Rd #327",
+                                "C/O surfgleam.com"
+                            ],
+                            "Brea",
+                            "CA",
+                            "92821",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "voice"
+                            ]
+                        },
+                        "uri",
+                        "tel:+1.7147064182"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "wsz38hwz3ujnfrr@proxy.dreamhost.com"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrant"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "lang",
+                        {},
+                        "language-tag",
+                        "en"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "voice"
+                            ]
+                        },
+                        "uri",
+                        "tel:+1.7148729370"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "DOMAIN-ABUSE@DREAMHOST.COM"
+                    ]
+                ]
+            ],
+            "roles": [
+                "abuse"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "431",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "DREAMHOST"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "lang",
+                        {},
+                        "language-tag",
+                        "en"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrar"
+            ],
+            "publicIds": [
+                {
+                    "type": "IANA Registrar ID",
+                    "identifier": "431"
+                }
+            ],
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                ""
+                            ],
+                            [
+                                "kind",
+                                {},
+                                "text",
+                                "individual"
+                            ],
+                            [
+                                "lang",
+                                {},
+                                "language-tag",
+                                "en"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "voice"
+                                    ]
+                                },
+                                "uri",
+                                "tel:+1.7148729370"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "DOMAIN-ABUSE@DREAMHOST.COM"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "abuse"
+                    ]
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://dreamhost.rdap.tucows.com/",
+                    "rel": "about",
+                    "href": "https://www.dreamhost.com"
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "MARGE.NS.CLOUDFLARE.COM",
+            "unicodeName": "MARGE.NS.CLOUDFLARE.COM",
+            "lang": "en"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "TIM.NS.CLOUDFLARE.COM",
+            "unicodeName": "TIM.NS.CLOUDFLARE.COM",
+            "lang": "en"
+        },
+        {
+            "rdapConformance": [
+                "rdap_level_0",
+                "icann_rdap_technical_implementation_guide_1",
+                "icann_rdap_response_profile_1",
+                "redacted"
+            ],
+            "objectClassName": "domain",
+            "ldhName": "surfgleam.com",
+            "unicodeName": "surfgleam.com",
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "MARGE.NS.CLOUDFLARE.COM",
+                    "unicodeName": "MARGE.NS.CLOUDFLARE.COM",
+                    "lang": "en"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "TIM.NS.CLOUDFLARE.COM",
+                    "unicodeName": "TIM.NS.CLOUDFLARE.COM",
+                    "lang": "en"
+                }
+            ],
+            "secureDNS": {
+                "zoneSigned": false,
+                "delegationSigned": false
+            },
+            "notices": [
+                {
+                    "title": "Status Codes",
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://dreamhost.rdap.tucows.com/domain/surfgleam.com",
+                            "rel": "glossary",
+                            "href": "https://icann.org/epp",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "RDDS Inaccuracy Complaint Form",
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://dreamhost.rdap.tucows.com/domain/surfgleam.com",
+                            "rel": "help",
+                            "href": "https://icann.org/wicf",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "Terms of Service",
+                    "description": [
+                        "The data provided by the Registration Data Access Protocol (“RDAP” or “Whois”) is provided to you by Tucows for information purposes only and may be used to assist you in obtaining information about or related to a domain name's registration record. These terms govern your use of this service and access to this database. We reserve the right to modify these terms at any time.",
+                        "This information is provided \"as is\" and does not guarantee its accuracy.",
+                        "By submitting a query, you certify that you have a legitimate purpose for requesting the data, that you will use this data only for lawful purposes and delete the data immediately when the data are no longer necessary for your lawful or legitimate purpose, and that, under no circumstances, will you use this data to: a) allow, enable, or otherwise support the transmission of mass, unsolicited, commercial advertising, or solicitations to entities other than the data recipient’s own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of any registry operator or ICANN-accredited registrar, except as reasonably necessary to register domain names or modify existing registrations.",
+                        "The compilation, repackaging, dissemination, or other use of these data is expressly prohibited.",
+                        "Your access to the database may be terminated at any time in our sole discretion including, without limitation, for excessive querying of the database or for failure to otherwise abide by this policy.",
+                        "Your IP address, the queried domain, the response, and a timestamp is stored for the purposes of maintaining the service and to ensure adherence with these terms.",
+                        "By submitting this query, you agree to these terms.",
+                        "NOTE: THIS DATABASE IS A CONTACT DATABASE ONLY.  LACK OF A DOMAIN RECORD DOES NOT SIGNIFY DOMAIN AVAILABILITY."
+                    ],
+                    "links": [
+                        {
+                            "value": "https://dreamhost.rdap.tucows.com/domain/surfgleam.com",
+                            "rel": "terms-of-service",
+                            "href": "http://www.tucowsdomains.com/rdap/tos",
+                            "type": "text/html"
+                        }
+                    ]
+                }
+            ],
+            "redacted": [
+                {
+                    "name": {
+                        "type": "Registry Domain ID"
+                    },
+                    "method": "removal",
+                    "reason": {}
+                }
+            ]
+        }
+    ],
+    "domain": "surfgleam.com\r"
+}

@@ -1,0 +1,23 @@
+{
+    "name": null,
+    "handle": null,
+    "registrationDate": null,
+    "expirationDate": null,
+    "lastChangedDate": null,
+    "lastUpdateDate": null,
+    "rawData": [
+        {
+            "rdapConformance": [
+                "rdap_level_0",
+                "icann_rdap_response_profile_1",
+                "icann_rdap_technical_implementation_guide_1"
+            ],
+            "errorCode": "404",
+            "title": "Object not found",
+            "description": [
+                "No match for \"SIGNATURESAFARI.COM\".: "
+            ]
+        }
+    ],
+    "domain": "signaturesafari.com\r"
+}

@@ -1,0 +1,509 @@
+{
+    "name": "bizkaia.eus",
+    "handle": "D116-EUS",
+    "registrationDate": "11/25/2014, 5:37:06 PM GMT+2",
+    "expirationDate": "11/25/2026, 5:37:06 PM GMT+2",
+    "lastChangedDate": "10/29/2025, 4:47:14 PM GMT+2",
+    "lastUpdateDate": "6/23/2026, 4:31:29 PM GMT+3",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "handle": "ento0069491",
+            "roles": [
+                "registrant"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "REDACTED FOR PRIVACY"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "REDACTED FOR PRIVACY"
+                    ]
+                ]
+            ],
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ],
+                    "type": "object redacted due to authorization"
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "ento0400830",
+            "roles": [
+                "technical"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "REDACTED FOR PRIVACY"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "REDACTED FOR PRIVACY"
+                    ]
+                ]
+            ],
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ],
+                    "type": "object redacted due to authorization"
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "ento0071248",
+            "roles": [
+                "administrative"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "REDACTED FOR PRIVACY"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "REDACTED FOR PRIVACY"
+                    ]
+                ]
+            ],
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ],
+                    "type": "object redacted due to authorization"
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "ento0400832",
+            "roles": [
+                "billing"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "REDACTED FOR PRIVACY"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "REDACTED FOR PRIVACY"
+                    ]
+                ]
+            ],
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ],
+                    "type": "object redacted due to authorization"
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "abuse",
+            "roles": [
+                "abuse"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Entorno Digital"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "Entorno Digital"
+                    ],
+                    [
+                        "url",
+                        {},
+                        "uri",
+                        "https://www.entorno.es"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "abuse@entorno.es"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+34.935942101"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "text",
+                        "+34.935921445"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "ES"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "Santa Anna, 32",
+                            "Cerdanyola del Valles",
+                            "Barcelona",
+                            "08290",
+                            ""
+                        ]
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "696",
+            "roles": [
+                "registrar"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Entorno Digital"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "Entorno Digital"
+                    ],
+                    [
+                        "url",
+                        {},
+                        "uri",
+                        "https://www.entorno.es"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "nic@entorno.es"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+34.935942101"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "text",
+                        "+34.935921445"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "ES"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "Santa Anna, 32",
+                            "Cerdanyola del Valles",
+                            "Barcelona",
+                            "08290",
+                            ""
+                        ]
+                    ]
+                ]
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.entorno.es/",
+                    "rel": "about",
+                    "href": "https://rdap.entorno.es/",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "publicIds": [
+                {
+                    "type": "IANA Registrar ID",
+                    "identifier": "696"
+                }
+            ],
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "handle": "abuse",
+                    "roles": [
+                        "abuse"
+                    ],
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Entorno Digital"
+                            ],
+                            [
+                                "org",
+                                {},
+                                "text",
+                                "Entorno Digital"
+                            ],
+                            [
+                                "url",
+                                {},
+                                "uri",
+                                "https://www.entorno.es"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "abuse@entorno.es"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "voice"
+                                },
+                                "text",
+                                "+34.935942101"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "fax"
+                                },
+                                "text",
+                                "+34.935921445"
+                            ],
+                            [
+                                "adr",
+                                {
+                                    "cc": "ES"
+                                },
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "Santa Anna, 32",
+                                    "Cerdanyola del Valles",
+                                    "Barcelona",
+                                    "08290",
+                                    ""
+                                ]
+                            ]
+                        ]
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns.bizkaia.net",
+            "unicodeName": "ns.bizkaia.net"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "dns2.cloudunificado.com",
+            "unicodeName": "dns2.cloudunificado.com"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "dns1.cloudunificado.com",
+            "unicodeName": "dns1.cloudunificado.com"
+        },
+        {
+            "rdapConformance": [
+                "rdap_level_0",
+                "icann_rdap_response_profile_1",
+                "icann_rdap_technical_implementation_guide_1"
+            ],
+            "notices": [
+                {
+                    "title": "Terms of Service",
+                    "description": [
+                        "Entorno Digital's RDAP database is only for information purposes.",
+                        "Entorno Digital does not guarantee the accuracy of the information contained in the RDAP database.",
+                        "Entorno Digital allows the use of the information only for lawful purposes, under no circumstances this data will be used for: (a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial  advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated,  electronic processes that send queries or data to the systems of Registry Operator or any ICANN-Accredited Registrar, except as  reasonably necessary to register domain names or modify existing registrations.",
+                        "By sending this query, you agree to acomplish this policy"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.entorno.es/domain/bizkaia.eus",
+                            "rel": "terms-of-service",
+                            "href": "https://www.entorno.com/en/legal-notice",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "Status Codes",
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.entorno.es/domain/bizkaia.eus",
+                            "rel": "glossary",
+                            "href": "https://icann.org/epp",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "RDDS Inaccuracy Complaint Form",
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.entorno.es/domain/bizkaia.eus",
+                            "rel": "help",
+                            "href": "https://icann.org/wicf",
+                            "type": "text/html"
+                        }
+                    ]
+                }
+            ],
+            "objectClassName": "domain",
+            "handle": "D116-EUS",
+            "links": [
+                {
+                    "value": "https://rdap.entorno.es/domain/bizkaia.eus",
+                    "rel": "self",
+                    "href": "https://rdap.entorno.es/domain/bizkaia.eus",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "port43": "whois.entorno.com",
+            "lang": "en",
+            "ldhName": "bizkaia.eus",
+            "unicodeName": "bizkaia.eus",
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns.bizkaia.net",
+                    "unicodeName": "ns.bizkaia.net"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "dns2.cloudunificado.com",
+                    "unicodeName": "dns2.cloudunificado.com"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "dns1.cloudunificado.com",
+                    "unicodeName": "dns1.cloudunificado.com"
+                }
+            ],
+            "secureDNS": {
+                "delegationSigned": false,
+                "zoneSigned": false
+            }
+        }
+    ],
+    "domain": "bizkaia.eus\r"
+}

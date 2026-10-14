@@ -1,0 +1,333 @@
+{
+    "name": "briskteaching.com",
+    "handle": "2751911721_DOMAIN_COM-VRSN",
+    "registrationDate": "1/17/2023, 7:03:59 AM GMT+2",
+    "expirationDate": "1/17/2027, 7:03:59 AM GMT+2",
+    "lastChangedDate": "4/24/2026, 9:09:03 PM GMT+3",
+    "lastUpdateDate": "4/24/2026, 9:09:03 PM GMT+3",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "handle": "1-NAME",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Redacted For Privacy"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "Domain Protection Services, Inc."
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "US"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "PO Box 1769",
+                            "Denver",
+                            "CO",
+                            "80201",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "voice"
+                            ]
+                        },
+                        "uri",
+                        "tel:+1-7208009072"
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "https://www.name.com/contact-domain-whois/briskteaching.com"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrant"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "NAMECOM-ABUSE",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        ""
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "voice"
+                            ]
+                        },
+                        "uri",
+                        "tel:+1-720-310-1849"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "abuse@name.com"
+                    ]
+                ]
+            ],
+            "roles": [
+                "abuse"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "625",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Name.com, Inc"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "US"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "Denver",
+                            "CO",
+                            "80202",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "abuse@name.com"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrar"
+            ],
+            "publicIds": [
+                {
+                    "type": "IANA Registrar ID",
+                    "identifier": "625"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://namerdap.systems/",
+                    "rel": "about",
+                    "href": "https://namerdap.systems/",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "handle": "NAMECOM-ABUSE",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {
+                                    "type": "work"
+                                },
+                                "text",
+                                ""
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "voice"
+                                    ]
+                                },
+                                "uri",
+                                "tel:+1-720-310-1849"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "abuse@name.com"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "abuse"
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns1.vercel-dns.com",
+            "unicodeName": "ns1.vercel-dns.com",
+            "status": [
+                "associated"
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns2.vercel-dns.com",
+            "unicodeName": "ns2.vercel-dns.com",
+            "status": [
+                "associated"
+            ]
+        },
+        {
+            "ldhName": "briskteaching.com",
+            "objectClassName": "domain",
+            "secureDNS": {
+                "delegationSigned": false
+            },
+            "handle": "2751911721_DOMAIN_COM-VRSN",
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns1.vercel-dns.com",
+                    "unicodeName": "ns1.vercel-dns.com",
+                    "status": [
+                        "associated"
+                    ]
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns2.vercel-dns.com",
+                    "unicodeName": "ns2.vercel-dns.com",
+                    "status": [
+                        "associated"
+                    ]
+                }
+            ],
+            "notices": [
+                {
+                    "title": "Status Codes",
+                    "description": [
+                        "For more information on Whois status codes, please visit https://icann.org/epp",
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://namerdap.systems/domain/briskteaching.com",
+                            "rel": "glossary",
+                            "href": "https://icann.org/epp",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "RDDS Inaccuracy Complaint Form",
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://namerdap.systems/domain/briskteaching.com",
+                            "rel": "help",
+                            "href": "https://icann.org/wicf",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "Terms of Use",
+                    "description": [
+                        "The data in the Name.com, Inc. RDAP database is provided by Name.com, Inc. for information purposes, and to assist persons in obtaining information about or related to a domain name registration record.",
+                        "Name.com, Inc. does not guarantee its accuracy. Users accessing the Name.com, Inc. RDAP service agree to use the data only for lawful purposes, and under no circumstances may this data be used to:",
+                        "a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the registrar's own existing customers and ",
+                        "b) enable high volume, automated, electronic processes that send queries or data to the systems of Name.com, Inc., except as reasonably necessary to register domain names or modify existing registrations.",
+                        "When using the Name.com, Inc. RDAP service, please consider the following: the RDAP service is not a replacement for standard EPP commands to the SRS service.",
+                        "RDAP is not considered authoritative for registered domain objects. The RDAP service may be scheduled for downtime during production or OT&E maintenance periods.",
+                        "Where applicable, the presence of a [Redacted for Privacy] tag indicates that such data is not made publicly available due to applicable data privacy laws or requirements.",
+                        "Access to Redacted for Privacy may be provided, upon request, where it can be reasonably confirmed that the requester holds a specific legitimate interest and a proper legal basis, for accessing the withheld data.",
+                        "Access to this data can be requested by submitting a request via the form found at https://www.name.com/layered-access-request.",
+                        "Name.com, Inc. reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy."
+                    ],
+                    "links": [
+                        {
+                            "value": "https://namerdap.systems/domain/briskteaching.com",
+                            "rel": "terms-of-service",
+                            "href": "https://namerdap.systems/domain/briskteaching.com",
+                            "type": "application/rdap+json"
+                        }
+                    ]
+                }
+            ],
+            "publicIds": [
+                {
+                    "type": "IANA Registrar ID",
+                    "identifier": "625"
+                }
+            ],
+            "port43": "whois.name.com",
+            "rdapConformance": [
+                "rdap_level_0",
+                "icann_rdap_response_profile_1",
+                "icann_rdap_technical_implementation_guide_1"
+            ]
+        }
+    ],
+    "domain": "briskteaching.com\r"
+}

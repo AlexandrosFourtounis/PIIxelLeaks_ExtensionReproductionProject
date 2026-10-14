@@ -1,0 +1,1769 @@
+{
+  "generated_at": "2026-05-29T11:01:16.157756+00:00",
+  "source_summary": "/mnt/c/Users/amakridou/Desktop/PIIxel_Leaks/CrawlerOutputs/crawler_output_active_domains/validation/pixel_usage_summary.json",
+  "summary": {
+    "total_domains": 79,
+    "cluster_count": 14,
+    "clustered_domains": 64,
+    "clustered_domain_pct": 81.01,
+    "cluster_size_histogram": {
+      "2": 7,
+      "3": 1,
+      "5": 1,
+      "6": 2,
+      "8": 1,
+      "10": 1,
+      "12": 1
+    },
+    "shared_registrar_clusters": 5,
+    "shared_nameserver_clusters": 0,
+    "shared_asn_clusters": 12
+  },
+  "clusters": [
+    {
+      "cluster_id": 1,
+      "domains": [
+        "vsb46.sbs",
+        "vsb47.sbs",
+        "vsb49.sbs",
+        "vsb50.sbs",
+        "vsb51.sbs",
+        "vsb52.sbs",
+        "vsb53.sbs",
+        "vsb54.sbs",
+        "vsb55.sbs",
+        "vsb56.sbs",
+        "vsb57.sbs",
+        "vsb59.sbs"
+      ],
+      "domain_count": 12,
+      "registrars": [
+        "Dynadot LLC"
+      ],
+      "shared_registrar": true,
+      "nameservers": [
+        "kira.ns.cloudflare.com",
+        "micah.ns.cloudflare.com"
+      ],
+      "shared_nameservers": false,
+      "ips": [
+        "104.21.11.34",
+        "104.21.16.96",
+        "104.21.22.109",
+        "104.21.23.27",
+        "104.21.42.6",
+        "104.21.61.206",
+        "104.21.61.27",
+        "104.21.69.177",
+        "104.21.69.32",
+        "104.21.76.83",
+        "104.21.80.105",
+        "104.21.91.30",
+        "172.67.165.28",
+        "172.67.165.92",
+        "172.67.167.52",
+        "172.67.178.112",
+        "172.67.191.109",
+        "172.67.197.225",
+        "172.67.203.153",
+        "172.67.204.100",
+        "172.67.205.100",
+        "172.67.208.116",
+        "172.67.211.1",
+        "172.67.214.139",
+        "2606:4700:3030::6815:5b1e",
+        "2606:4700:3031::6815:171b",
+        "2606:4700:3032::ac43:a51c",
+        "2606:4700:3032::ac43:a734",
+        "2606:4700:3033::6815:2a06",
+        "2606:4700:3033::6815:5069",
+        "2606:4700:3033::ac43:b270",
+        "2606:4700:3033::ac43:bf6d",
+        "2606:4700:3033::ac43:cd64",
+        "2606:4700:3033::ac43:d074",
+        "2606:4700:3034::6815:166d",
+        "2606:4700:3034::ac43:cc64",
+        "2606:4700:3035::6815:45b1",
+        "2606:4700:3036::6815:1060",
+        "2606:4700:3036::6815:3d1b",
+        "2606:4700:3036::6815:4c53",
+        "2606:4700:3036::ac43:a55c",
+        "2606:4700:3036::ac43:d301",
+        "2606:4700:3037::6815:3dce",
+        "2606:4700:3037::6815:4520",
+        "2606:4700:3037::6815:b22",
+        "2606:4700:3037::ac43:c5e1",
+        "2606:4700:3037::ac43:cb99",
+        "2606:4700:3037::ac43:d68b"
+      ],
+      "asns": [
+        "13335"
+      ],
+      "shared_asn": true,
+      "asn_holders": [
+        "CLOUDFLARENET - Cloudflare, Inc."
+      ],
+      "domain_records": [
+        {
+          "domain": "vsb46.sbs",
+          "registrar": "Dynadot LLC",
+          "nameservers": [
+            "kira.ns.cloudflare.com",
+            "micah.ns.cloudflare.com"
+          ],
+          "creation_date": "2025-09-07T11:57:25.0Z",
+          "expiry_date": "2026-09-07T23:59:59.0Z",
+          "updated_date": "2025-10-17T22:53:06.0Z",
+          "status": [
+            "client transfer prohibited"
+          ],
+          "ips": [
+            "104.21.16.96",
+            "172.67.167.52",
+            "2606:4700:3032::ac43:a734",
+            "2606:4700:3036::6815:1060"
+          ],
+          "rdap_error": null
+        },
+        {
+          "domain": "vsb47.sbs",
+          "registrar": "Dynadot LLC",
+          "nameservers": [
+            "kira.ns.cloudflare.com",
+            "micah.ns.cloudflare.com"
+          ],
+          "creation_date": "2025-09-07T11:57:25.0Z",
+          "expiry_date": "2026-09-07T23:59:59.0Z",
+          "updated_date": "2025-10-17T22:53:06.0Z",
+          "status": [
+            "client transfer prohibited"
+          ],
+          "ips": [
+            "104.21.11.34",
+            "172.67.165.28",
+            "2606:4700:3032::ac43:a51c",
+            "2606:4700:3037::6815:b22"
+          ],
+          "rdap_error": null
+        },
+        {
+          "domain": "vsb49.sbs",
+          "registrar": "Dynadot LLC",
+          "nameservers": [
+            "kira.ns.cloudflare.com",
+            "micah.ns.cloudflare.com"
+          ],
+          "creation_date": "2025-09-07T11:57:25.0Z",
+          "expiry_date": "2026-09-07T23:59:59.0Z",
+          "updated_date": "2025-10-17T22:53:06.0Z",
+          "status": [
+            "client transfer prohibited"
+          ],
+          "ips": [
+            "104.21.69.32",
+            "172.67.203.153",
+            "2606:4700:3037::ac43:cb99",
+            "2606:4700:3037::6815:4520"
+          ],
+          "rdap_error": null
+        },
+        {
+          "domain": "vsb50.sbs",
+          "registrar": "Dynadot LLC",
+          "nameservers": [
+            "kira.ns.cloudflare.com",
+            "micah.ns.cloudflare.com"
+          ],
+          "creation_date": "2025-09-07T11:57:25.0Z",
+          "expiry_date": "2026-09-07T23:59:59.0Z",
+          "updated_date": "2025-10-17T22:53:06.0Z",
+          "status": [
+            "client transfer prohibited"
+          ],
+          "ips": [
+            "172.67.214.139",
+            "104.21.61.206",
+            "2606:4700:3037::6815:3dce",
+            "2606:4700:3037::ac43:d68b"
+          ],
+          "rdap_error": null
+        },
+        {
+          "domain": "vsb51.sbs",
+          "registrar": "Dynadot LLC",
+          "nameservers": [
+            "kira.ns.cloudflare.com",
+            "micah.ns.cloudflare.com"
+          ],
+          "creation_date": "2025-09-07T11:57:25.0Z",
+          "expiry_date": "2026-09-07T23:59:59.0Z",
+          "updated_date": "2025-10-17T22:53:06.0Z",
+          "status": [
+            "client transfer prohibited"
+          ],
+          "ips": [
+            "104.21.91.30",
+            "172.67.165.92",
+            "2606:4700:3036::ac43:a55c",
+            "2606:4700:3030::6815:5b1e"
+          ],
+          "rdap_error": null
+        },
+        {
+          "domain": "vsb52.sbs",
+          "registrar": "Dynadot LLC",
+          "nameservers": [
+            "kira.ns.cloudflare.com",
+            "micah.ns.cloudflare.com"
+          ],
+          "creation_date": "2025-09-07T11:57:25.0Z",
+          "expiry_date": "2026-09-07T23:59:59.0Z",
+          "updated_date": "2025-10-17T22:53:06.0Z",
+          "status": [
+            "client transfer prohibited"
+          ],
+          "ips": [
+            "172.67.197.225",
+            "104.21.42.6",
+            "2606:4700:3037::ac43:c5e1",
+            "2606:4700:3033::6815:2a06"
+          ],
+          "rdap_error": null
+        },
+        {
+          "domain": "vsb53.sbs",
+          "registrar": "Dynadot LLC",
+          "nameservers": [
+            "kira.ns.cloudflare.com",
+            "micah.ns.cloudflare.com"
+          ],
+          "creation_date": "2025-09-07T11:57:25.0Z",
+          "expiry_date": "2026-09-07T23:59:59.0Z",
+          "updated_date": "2025-10-17T22:53:06.0Z",
+          "status": [
+            "client transfer prohibited"
+          ],
+          "ips": [
+            "104.21.23.27",
+            "172.67.208.116",
+            "2606:4700:3033::ac43:d074",
+            "2606:4700:3031::6815:171b"
+          ],
+          "rdap_error": null
+        },
+        {
+          "domain": "vsb54.sbs",
+          "registrar": "Dynadot LLC",
+          "nameservers": [
+            "kira.ns.cloudflare.com",
+            "micah.ns.cloudflare.com"
+          ],
+          "creation_date": "2025-09-07T11:57:25.0Z",
+          "expiry_date": "2026-09-07T23:59:59.0Z",
+          "updated_date": "2025-10-17T22:53:06.0Z",
+          "status": [
+            "client transfer prohibited"
+          ],
+          "ips": [
+            "172.67.178.112",
+            "104.21.80.105",
+            "2606:4700:3033::ac43:b270",
+            "2606:4700:3033::6815:5069"
+          ],
+          "rdap_error": null
+        },
+        {
+          "domain": "vsb55.sbs",
+          "registrar": "Dynadot LLC",
+          "nameservers": [
+            "kira.ns.cloudflare.com",
+            "micah.ns.cloudflare.com"
+          ],
+          "creation_date": "2025-09-07T11:57:25.0Z",
+          "expiry_date": "2026-09-07T23:59:59.0Z",
+          "updated_date": "2025-10-17T22:53:06.0Z",
+          "status": [
+            "client transfer prohibited"
+          ],
+          "ips": [
+            "104.21.22.109",
+            "172.67.204.100",
+            "2606:4700:3034::6815:166d",
+            "2606:4700:3034::ac43:cc64"
+          ],
+          "rdap_error": null
+        },
+        {
+          "domain": "vsb56.sbs",
+          "registrar": "Dynadot LLC",
+          "nameservers": [
+            "kira.ns.cloudflare.com",
+            "micah.ns.cloudflare.com"
+          ],
+          "creation_date": "2025-09-07T11:57:26.0Z",
+          "expiry_date": "2026-09-07T23:59:59.0Z",
+          "updated_date": "2025-10-17T22:53:06.0Z",
+          "status": [
+            "client transfer prohibited"
+          ],
+          "ips": [
+            "104.21.69.177",
+            "172.67.211.1",
+            "2606:4700:3036::ac43:d301",
+            "2606:4700:3035::6815:45b1"
+          ],
+          "rdap_error": null
+        },
+        {
+          "domain": "vsb57.sbs",
+          "registrar": "Dynadot LLC",
+          "nameservers": [
+            "kira.ns.cloudflare.com",
+            "micah.ns.cloudflare.com"
+          ],
+          "creation_date": "2025-09-07T11:57:26.0Z",
+          "expiry_date": "2026-09-07T23:59:59.0Z",
+          "updated_date": "2025-10-17T22:53:06.0Z",
+          "status": [
+            "client transfer prohibited"
+          ],
+          "ips": [
+            "104.21.76.83",
+            "172.67.191.109",
+            "2606:4700:3036::6815:4c53",
+            "2606:4700:3033::ac43:bf6d"
+          ],
+          "rdap_error": null
+        },
+        {
+          "domain": "vsb59.sbs",
+          "registrar": "Dynadot LLC",
+          "nameservers": [
+            "kira.ns.cloudflare.com",
+            "micah.ns.cloudflare.com"
+          ],
+          "creation_date": "2025-09-07T11:57:26.0Z",
+          "expiry_date": "2026-09-07T23:59:59.0Z",
+          "updated_date": "2025-10-17T22:53:06.0Z",
+          "status": [
+            "client transfer prohibited"
+          ],
+          "ips": [
+            "172.67.205.100",
+            "104.21.61.27",
+            "2606:4700:3033::ac43:cd64",
+            "2606:4700:3036::6815:3d1b"
+          ],
+          "rdap_error": null
+        }
+      ]
+    },
+    {
+      "cluster_id": 2,
+      "domains": [
+        "refpa02350.top",
+        "refpa09208.top",
+        "refpa31055.top",
+        "refpa48185.top",
+        "refpa48633.top",
+        "refpa50514.top",
+        "refpa50715.top",
+        "refpa58036.top",
+        "refpa6130888.top",
+        "spinrush88.life"
+      ],
+      "domain_count": 10,
+      "registrars": [
+        "Porkbun LLC",
+        "URL Solutions, Inc."
+      ],
+      "shared_registrar": false,
+      "nameservers": [
+        "beau.ns.cloudflare.com.",
+        "brenda.ns.cloudflare.com.",
+        "clara.ns.cloudflare.com.",
+        "leia.ns.cloudflare.com",
+        "osmar.ns.cloudflare.com",
+        "yoxall.ns.cloudflare.com."
+      ],
+      "shared_nameservers": false,
+      "ips": [
+        "104.21.14.33",
+        "104.21.27.213",
+        "104.21.33.179",
+        "104.21.37.93",
+        "104.21.45.72",
+        "104.21.49.68",
+        "104.21.78.115",
+        "104.21.83.20",
+        "104.21.88.243",
+        "172.67.147.174",
+        "172.67.157.174",
+        "172.67.159.238",
+        "172.67.167.82",
+        "172.67.169.193",
+        "172.67.187.68",
+        "172.67.206.217",
+        "172.67.211.17",
+        "172.67.220.156",
+        "194.67.193.1",
+        "2606:4700:3031::6815:21b3",
+        "2606:4700:3031::6815:2d48",
+        "2606:4700:3031::6815:58f3",
+        "2606:4700:3031::ac43:9fee",
+        "2606:4700:3031::ac43:dc9c",
+        "2606:4700:3033::ac43:93ae",
+        "2606:4700:3033::ac43:d311",
+        "2606:4700:3034::ac43:ced9",
+        "2606:4700:3035::6815:4e73",
+        "2606:4700:3035::ac43:a9c1",
+        "2606:4700:3035::ac43:bb44",
+        "2606:4700:3036::6815:e21",
+        "2606:4700:3036::ac43:9dae",
+        "2606:4700:3036::ac43:a752",
+        "2606:4700:3037::6815:1bd5",
+        "2606:4700:3037::6815:255d",
+        "2606:4700:3037::6815:3144",
+        "2606:4700:3037::6815:5314"
+      ],
+      "asns": [
+        "13335",
+        "211072"
+      ],
+      "shared_asn": false,
+      "asn_holders": [
+        "CLOUDFLARENET - Cloudflare, Inc.",
+        "MFI-AS MFI INVESTMENTS LIMITED"
+      ],
+      "domain_records": [
+        {
+          "domain": "refpa02350.top",
+          "registrar": "Porkbun LLC",
+          "nameservers": [
+            "beau.ns.cloudflare.com.",
+            "clara.ns.cloudflare.com."
+          ],
+          "creation_date": "2025-11-04T18:58:53.0Z",
+          "expiry_date": "2026-11-04T18:58:53.0Z",
+          "updated_date": "2025-11-05T08:00:37.0Z",
+          "status": [
+            "client transfer prohibited",
+            "client delete prohibited"
+          ],
+          "ips": [
+            "104.21.83.20",
+            "172.67.167.82",
+            "2606:4700:3036::ac43:a752",
+            "2606:4700:3037::6815:5314"
+          ],
+          "rdap_error": null
+        },
+        {
+          "domain": "refpa09208.top",
+          "registrar": "Porkbun LLC",
+          "nameservers": [
+            "brenda.ns.cloudflare.com.",
+            "yoxall.ns.cloudflare.com."
+          ],
+          "creation_date": "2025-10-16T20:17:12.0Z",
+          "expiry_date": "2026-10-16T20:17:12.0Z",
+          "updated_date": "2025-10-17T15:12:49.0Z",
+          "status": [
+            "client transfer prohibited",
+            "client delete prohibited"
+          ],
+          "ips": [
+            "172.67.147.174",
+            "104.21.33.179",
+            "2606:4700:3033::ac43:93ae",
+            "2606:4700:3031::6815:21b3"
+          ],
+          "rdap_error": null
+        },
+        {
+          "domain": "refpa31055.top",
+          "registrar": "Porkbun LLC",
+          "nameservers": [
+            "brenda.ns.cloudflare.com.",
+            "yoxall.ns.cloudflare.com."
+          ],
+          "creation_date": "2025-10-16T20:33:32.0Z",
+          "expiry_date": "2026-10-16T20:33:32.0Z",
+          "updated_date": "2025-10-18T08:23:24.0Z",
+          "status": [
+            "client transfer prohibited",
+            "client delete prohibited"
+          ],
+          "ips": [
+            "172.67.159.238",
+            "104.21.49.68",
+            "2606:4700:3031::ac43:9fee",
+            "2606:4700:3037::6815:3144"
+          ],
+          "rdap_error": null
+        },
+        {
+          "domain": "refpa48185.top",
+          "registrar": "Porkbun LLC",
+          "nameservers": [
+            "beau.ns.cloudflare.com.",
+            "clara.ns.cloudflare.com."
+          ],
+          "creation_date": "2025-10-13T06:18:16.0Z",
+          "expiry_date": "2026-10-13T06:18:16.0Z",
+          "updated_date": "2025-10-13T06:22:47.0Z",
+          "status": [
+            "client transfer prohibited",
+            "client delete prohibited"
+          ],
+          "ips": [
+            "104.21.78.115",
+            "172.67.220.156",
+            "2606:4700:3035::6815:4e73",
+            "2606:4700:3031::ac43:dc9c"
+          ],
+          "rdap_error": null
+        },
+        {
+          "domain": "refpa48633.top",
+          "registrar": "Porkbun LLC",
+          "nameservers": [
+            "beau.ns.cloudflare.com.",
+            "clara.ns.cloudflare.com."
+          ],
+          "creation_date": "2025-10-13T06:18:15.0Z",
+          "expiry_date": "2026-10-13T06:18:15.0Z",
+          "updated_date": "2025-10-13T06:22:44.0Z",
+          "status": [
+            "client transfer prohibited",
+            "client delete prohibited"
+          ],
+          "ips": [
+            "104.21.27.213",
+            "172.67.169.193",
+            "2606:4700:3035::ac43:a9c1",
+            "2606:4700:3037::6815:1bd5"
+          ],
+          "rdap_error": null
+        },
+        {
+          "domain": "refpa50514.top",
+          "registrar": "Porkbun LLC",
+          "nameservers": [
+            "brenda.ns.cloudflare.com.",
+            "yoxall.ns.cloudflare.com."
+          ],
+          "creation_date": "2025-10-16T20:17:11.0Z",
+          "expiry_date": "2026-10-16T20:17:11.0Z",
+          "updated_date": "2025-10-17T15:12:40.0Z",
+          "status": [
+            "client transfer prohibited",
+            "client delete prohibited"
+          ],
+          "ips": [
+            "104.21.14.33",
+            "172.67.157.174",
+            "2606:4700:3036::ac43:9dae",
+            "2606:4700:3036::6815:e21"
+          ],
+          "rdap_error": null
+        },
+        {
+          "domain": "refpa50715.top",
+          "registrar": "Porkbun LLC",
+          "nameservers": [
+            "brenda.ns.cloudflare.com.",
+            "yoxall.ns.cloudflare.com."
+          ],
+          "creation_date": "2025-10-16T20:17:09.0Z",
+          "expiry_date": "2026-10-16T20:17:09.0Z",
+          "updated_date": "2025-10-17T15:12:22.0Z",
+          "status": [
+            "client transfer prohibited",
+            "client delete prohibited"
+          ],
+          "ips": [
+            "104.21.45.72",
+            "172.67.211.17",
+            "2606:4700:3033::ac43:d311",
+            "2606:4700:3031::6815:2d48"
+          ],
+          "rdap_error": null
+        },
+        {
+          "domain": "refpa58036.top",
+          "registrar": "Porkbun LLC",
+          "nameservers": [
+            "brenda.ns.cloudflare.com.",
+            "yoxall.ns.cloudflare.com."
+          ],
+          "creation_date": "2025-10-16T20:17:13.0Z",
+          "expiry_date": "2026-10-16T20:17:13.0Z",
+          "updated_date": "2025-10-17T15:12:52.0Z",
+          "status": [
+            "client transfer prohibited",
+            "client delete prohibited"
+          ],
+          "ips": [
+            "104.21.37.93",
+            "172.67.206.217",
+            "2606:4700:3037::6815:255d",
+            "2606:4700:3034::ac43:ced9"
+          ],
+          "rdap_error": null
+        },
+        {
+          "domain": "refpa6130888.top",
+          "registrar": "Porkbun LLC",
+          "nameservers": [
+            "brenda.ns.cloudflare.com.",
+            "yoxall.ns.cloudflare.com."
+          ],
+          "creation_date": "2025-10-18T21:21:15.0Z",
+          "expiry_date": "2026-10-18T21:21:15.0Z",
+          "updated_date": "2025-10-19T09:40:23.0Z",
+          "status": [
+            "client transfer prohibited",
+            "client delete prohibited"
+          ],
+          "ips": [
+            "172.67.187.68",
+            "104.21.88.243",
+            "2606:4700:3035::ac43:bb44",
+            "2606:4700:3031::6815:58f3"
+          ],
+          "rdap_error": null
+        },
+        {
+          "domain": "spinrush88.life",
+          "registrar": "URL Solutions, Inc.",
+          "nameservers": [
+            "leia.ns.cloudflare.com",
+            "osmar.ns.cloudflare.com"
+          ],
+          "creation_date": "2025-11-07T15:01:47.515Z",
+          "expiry_date": "2026-11-07T15:01:47.515Z",
+          "updated_date": "2025-11-12T15:01:57.423Z",
+          "status": [
+            "client transfer prohibited"
+          ],
+          "ips": [
+            "194.67.193.1"
+          ],
+          "rdap_error": null
+        }
+      ]
+    },
+    {
+      "cluster_id": 3,
+      "domains": [
+        "30bet.top",
+        "93bet.top",
+        "bet17.top",
+        "bet31.top",
+        "bet54.top",
+        "bet70.top",
+        "bet85.top",
+        "bet90.top"
+      ],
+      "domain_count": 8,
+      "registrars": [
+        "Gname.com Pte. Ltd."
+      ],
+      "shared_registrar": true,
+      "nameservers": [
+        "ns3.afternic.com.",
+        "ns4.afternic.com."
+      ],
+      "shared_nameservers": false,
+      "ips": [
+        "13.248.169.48",
+        "76.223.54.146"
+      ],
+      "asns": [
+        "16509"
+      ],
+      "shared_asn": true,
+      "asn_holders": [
+        "AMAZON-02 - Amazon.com, Inc."
+      ],
+      "domain_records": [
+        {
+          "domain": "30bet.top",
+          "registrar": "Gname.com Pte. Ltd.",
+          "nameservers": [
+            "ns3.afternic.com.",
+            "ns4.afternic.com."
+          ],
+          "creation_date": "2025-10-21T15:29:01.0Z",
+          "expiry_date": "2026-10-21T15:29:01.0Z",
+          "updated_date": "2026-01-19T09:33:57.0Z",
+          "status": [
+            "client transfer prohibited"
+          ],
+          "ips": [
+            "76.223.54.146",
+            "13.248.169.48"
+          ],
+          "rdap_error": null
+        },
+        {
+          "domain": "93bet.top",
+          "registrar": "Gname.com Pte. Ltd.",
+          "nameservers": [
+            "ns3.afternic.com.",
+            "ns4.afternic.com."
+          ],
+          "creation_date": "2025-10-21T15:29:01.0Z",
+          "expiry_date": "2026-10-21T15:29:01.0Z",
+          "updated_date": "2026-01-19T09:33:57.0Z",
+          "status": [
+            "client transfer prohibited"
+          ],
+          "ips": [
+            "13.248.169.48",
+            "76.223.54.146"
+          ],
+          "rdap_error": null
+        },
+        {
+          "domain": "bet17.top",
+          "registrar": "Gname.com Pte. Ltd.",
+          "nameservers": [
+            "ns3.afternic.com.",
+            "ns4.afternic.com."
+          ],
+          "creation_date": "2025-10-21T15:29:15.0Z",
+          "expiry_date": "2026-10-21T15:29:15.0Z",
+          "updated_date": "2026-01-19T09:33:59.0Z",
+          "status": [
+            "client transfer prohibited"
+          ],
+          "ips": [
+            "76.223.54.146",
+            "13.248.169.48"
+          ],
+          "rdap_error": null
+        },
+        {
+          "domain": "bet31.top",
+          "registrar": "Gname.com Pte. Ltd.",
+          "nameservers": [
+            "ns3.afternic.com.",
+            "ns4.afternic.com."
+          ],
+          "creation_date": "2025-10-21T15:29:16.0Z",
+          "expiry_date": "2026-10-21T15:29:16.0Z",
+          "updated_date": "2026-01-19T09:33:59.0Z",
+          "status": [
+            "client transfer prohibited"
+          ],
+          "ips": [
+            "13.248.169.48",
+            "76.223.54.146"
+          ],
+          "rdap_error": null
+        },
+        {
+          "domain": "bet54.top",
+          "registrar": "Gname.com Pte. Ltd.",
+          "nameservers": [
+            "ns3.afternic.com.",
+            "ns4.afternic.com."
+          ],
+          "creation_date": "2025-10-21T15:29:08.0Z",
+          "expiry_date": "2026-10-21T15:29:08.0Z",
+          "updated_date": "2026-01-19T09:33:59.0Z",
+          "status": [
+            "client transfer prohibited"
+          ],
+          "ips": [
+            "76.223.54.146",
+            "13.248.169.48"
+          ],
+          "rdap_error": null
+        },
+        {
+          "domain": "bet70.top",
+          "registrar": "Gname.com Pte. Ltd.",
+          "nameservers": [
+            "ns3.afternic.com.",
+            "ns4.afternic.com."
+          ],
+          "creation_date": "2025-10-21T15:29:04.0Z",
+          "expiry_date": "2026-10-21T15:29:04.0Z",
+          "updated_date": "2026-01-19T09:33:56.0Z",
+          "status": [
+            "client transfer prohibited"
+          ],
+          "ips": [
+            "13.248.169.48",
+            "76.223.54.146"
+          ],
+          "rdap_error": null
+        },
+        {
+          "domain": "bet85.top",
+          "registrar": "Gname.com Pte. Ltd.",
+          "nameservers": [
+            "ns3.afternic.com.",
+            "ns4.afternic.com."
+          ],
+          "creation_date": "2025-10-21T15:29:01.0Z",
+          "expiry_date": "2026-10-21T15:29:01.0Z",
+          "updated_date": "2026-01-19T09:33:56.0Z",
+          "status": [
+            "client transfer prohibited"
+          ],
+          "ips": [
+            "13.248.169.48",
+            "76.223.54.146"
+          ],
+          "rdap_error": null
+        },
+        {
+          "domain": "bet90.top",
+          "registrar": "Gname.com Pte. Ltd.",
+          "nameservers": [
+            "ns3.afternic.com.",
+            "ns4.afternic.com."
+          ],
+          "creation_date": "2025-10-21T15:29:04.0Z",
+          "expiry_date": "2026-10-21T15:29:04.0Z",
+          "updated_date": "2026-01-19T09:33:57.0Z",
+          "status": [
+            "client transfer prohibited"
+          ],
+          "ips": [
+            "76.223.54.146",
+            "13.248.169.48"
+          ],
+          "rdap_error": null
+        }
+      ]
+    },
+    {
+      "cluster_id": 4,
+      "domains": [
+        "apktohir78-a11.store",
+        "apktohir78-a13.store",
+        "apktohir78-a14.store",
+        "apktohir78-a15.store",
+        "apktohir78-a18.store",
+        "apktohir78-a19.store"
+      ],
+      "domain_count": 6,
+      "registrars": [],
+      "shared_registrar": false,
+      "nameservers": [],
+      "shared_nameservers": false,
+      "ips": [
+        "104.21.10.2",
+        "104.21.25.97",
+        "104.21.42.225",
+        "104.21.5.86",
+        "104.21.63.116",
+        "104.21.70.61",
+        "172.67.133.250",
+        "172.67.133.56",
+        "172.67.145.115",
+        "172.67.161.203",
+        "172.67.167.34",
+        "172.67.220.169"
+      ],
+      "asns": [
+        "13335"
+      ],
+      "shared_asn": true,
+      "asn_holders": [
+        "CLOUDFLARENET - Cloudflare, Inc."
+      ],
+      "domain_records": [
+        {
+          "domain": "apktohir78-a11.store",
+          "registrar": null,
+          "nameservers": [],
+          "creation_date": null,
+          "expiry_date": null,
+          "updated_date": null,
+          "status": [],
+          "ips": [
+            "104.21.25.97",
+            "172.67.133.250"
+          ],
+          "rdap_error": "rdap_domain_failed: HTTP Error 403: Forbidden"
+        },
+        {
+          "domain": "apktohir78-a13.store",
+          "registrar": null,
+          "nameservers": [],
+          "creation_date": null,
+          "expiry_date": null,
+          "updated_date": null,
+          "status": [],
+          "ips": [
+            "172.67.167.34",
+            "104.21.42.225"
+          ],
+          "rdap_error": "rdap_domain_failed: HTTP Error 403: Forbidden"
+        },
+        {
+          "domain": "apktohir78-a14.store",
+          "registrar": null,
+          "nameservers": [],
+          "creation_date": null,
+          "expiry_date": null,
+          "updated_date": null,
+          "status": [],
+          "ips": [
+            "104.21.70.61",
+            "172.67.220.169"
+          ],
+          "rdap_error": "rdap_domain_failed: HTTP Error 403: Forbidden"
+        },
+        {
+          "domain": "apktohir78-a15.store",
+          "registrar": null,
+          "nameservers": [],
+          "creation_date": null,
+          "expiry_date": null,
+          "updated_date": null,
+          "status": [],
+          "ips": [
+            "172.67.145.115",
+            "104.21.63.116"
+          ],
+          "rdap_error": "rdap_domain_failed: HTTP Error 403: Forbidden"
+        },
+        {
+          "domain": "apktohir78-a18.store",
+          "registrar": null,
+          "nameservers": [],
+          "creation_date": null,
+          "expiry_date": null,
+          "updated_date": null,
+          "status": [],
+          "ips": [
+            "104.21.5.86",
+            "172.67.133.56"
+          ],
+          "rdap_error": "rdap_domain_failed: HTTP Error 403: Forbidden"
+        },
+        {
+          "domain": "apktohir78-a19.store",
+          "registrar": null,
+          "nameservers": [],
+          "creation_date": null,
+          "expiry_date": null,
+          "updated_date": null,
+          "status": [],
+          "ips": [
+            "172.67.161.203",
+            "104.21.10.2"
+          ],
+          "rdap_error": "rdap_domain_failed: HTTP Error 403: Forbidden"
+        }
+      ]
+    },
+    {
+      "cluster_id": 5,
+      "domains": [
+        "cincin3.sbs",
+        "dingin2.sbs",
+        "kumpul1.sbs",
+        "kumpul3.sbs",
+        "ngopi1.sbs",
+        "sendal1.sbs"
+      ],
+      "domain_count": 6,
+      "registrars": [
+        "Dynadot LLC"
+      ],
+      "shared_registrar": true,
+      "nameservers": [
+        "ns1.dyna-ns.net",
+        "ns2.dyna-ns.net"
+      ],
+      "shared_nameservers": false,
+      "ips": [
+        "54.215.31.113"
+      ],
+      "asns": [
+        "16509"
+      ],
+      "shared_asn": true,
+      "asn_holders": [
+        "AMAZON-02 - Amazon.com, Inc."
+      ],
+      "domain_records": [
+        {
+          "domain": "cincin3.sbs",
+          "registrar": "Dynadot LLC",
+          "nameservers": [
+            "ns1.dyna-ns.net",
+            "ns2.dyna-ns.net"
+          ],
+          "creation_date": "2025-10-10T16:12:48.0Z",
+          "expiry_date": "2026-10-10T23:59:59.0Z",
+          "updated_date": "2025-11-21T04:43:05.0Z",
+          "status": [
+            "client transfer prohibited"
+          ],
+          "ips": [
+            "54.215.31.113"
+          ],
+          "rdap_error": null
+        },
+        {
+          "domain": "dingin2.sbs",
+          "registrar": "Dynadot LLC",
+          "nameservers": [
+            "ns1.dyna-ns.net",
+            "ns2.dyna-ns.net"
+          ],
+          "creation_date": "2025-10-10T16:12:48.0Z",
+          "expiry_date": "2026-10-10T23:59:59.0Z",
+          "updated_date": "2025-11-21T04:43:05.0Z",
+          "status": [
+            "client transfer prohibited"
+          ],
+          "ips": [
+            "54.215.31.113"
+          ],
+          "rdap_error": null
+        },
+        {
+          "domain": "kumpul1.sbs",
+          "registrar": "Dynadot LLC",
+          "nameservers": [
+            "ns1.dyna-ns.net",
+            "ns2.dyna-ns.net"
+          ],
+          "creation_date": "2025-10-10T16:12:48.0Z",
+          "expiry_date": "2026-10-10T23:59:59.0Z",
+          "updated_date": "2025-11-21T04:43:05.0Z",
+          "status": [
+            "client transfer prohibited"
+          ],
+          "ips": [
+            "54.215.31.113"
+          ],
+          "rdap_error": null
+        },
+        {
+          "domain": "kumpul3.sbs",
+          "registrar": "Dynadot LLC",
+          "nameservers": [
+            "ns1.dyna-ns.net",
+            "ns2.dyna-ns.net"
+          ],
+          "creation_date": "2025-10-10T16:12:48.0Z",
+          "expiry_date": "2026-10-10T23:59:59.0Z",
+          "updated_date": "2025-11-21T04:43:05.0Z",
+          "status": [
+            "client transfer prohibited"
+          ],
+          "ips": [
+            "54.215.31.113"
+          ],
+          "rdap_error": null
+        },
+        {
+          "domain": "ngopi1.sbs",
+          "registrar": "Dynadot LLC",
+          "nameservers": [
+            "ns1.dyna-ns.net",
+            "ns2.dyna-ns.net"
+          ],
+          "creation_date": "2025-10-10T16:12:48.0Z",
+          "expiry_date": "2026-10-10T23:59:59.0Z",
+          "updated_date": "2025-11-21T04:43:05.0Z",
+          "status": [
+            "client transfer prohibited"
+          ],
+          "ips": [
+            "54.215.31.113"
+          ],
+          "rdap_error": null
+        },
+        {
+          "domain": "sendal1.sbs",
+          "registrar": "Dynadot LLC",
+          "nameservers": [
+            "ns1.dyna-ns.net",
+            "ns2.dyna-ns.net"
+          ],
+          "creation_date": "2025-11-07T13:24:33.0Z",
+          "expiry_date": "2026-11-07T23:59:59.0Z",
+          "updated_date": "2025-12-22T07:58:33.0Z",
+          "status": [
+            "client transfer prohibited"
+          ],
+          "ips": [
+            "54.215.31.113"
+          ],
+          "rdap_error": null
+        }
+      ]
+    },
+    {
+      "cluster_id": 6,
+      "domains": [
+        "1001bet.top",
+        "1881bet.top",
+        "33rr.top",
+        "9111bet.top",
+        "9998bet.top"
+      ],
+      "domain_count": 5,
+      "registrars": [
+        "Gname.com Pte. Ltd."
+      ],
+      "shared_registrar": true,
+      "nameservers": [
+        "aliza.ns.cloudflare.com.",
+        "jarred.ns.cloudflare.com."
+      ],
+      "shared_nameservers": false,
+      "ips": [
+        "104.21.34.62",
+        "104.21.4.172",
+        "104.21.54.100",
+        "104.21.55.165",
+        "104.21.87.70",
+        "172.67.132.75",
+        "172.67.142.47",
+        "172.67.168.109",
+        "172.67.171.171",
+        "172.67.199.16",
+        "2606:4700:3030::ac43:a86d",
+        "2606:4700:3031::6815:3664",
+        "2606:4700:3031::ac43:abab",
+        "2606:4700:3031::ac43:c710",
+        "2606:4700:3032::6815:223e",
+        "2606:4700:3033::ac43:8e2f",
+        "2606:4700:3035::6815:37a5",
+        "2606:4700:3036::6815:4ac",
+        "2606:4700:3036::6815:5746",
+        "2606:4700:3037::ac43:844b"
+      ],
+      "asns": [
+        "13335"
+      ],
+      "shared_asn": true,
+      "asn_holders": [
+        "CLOUDFLARENET - Cloudflare, Inc."
+      ],
+      "domain_records": [
+        {
+          "domain": "1001bet.top",
+          "registrar": null,
+          "nameservers": [],
+          "creation_date": null,
+          "expiry_date": null,
+          "updated_date": null,
+          "status": [],
+          "ips": [
+            "172.67.142.47",
+            "104.21.87.70",
+            "2606:4700:3033::ac43:8e2f",
+            "2606:4700:3036::6815:5746"
+          ],
+          "rdap_error": "rdap_domain_failed: HTTP Error 429: "
+        },
+        {
+          "domain": "1881bet.top",
+          "registrar": "Gname.com Pte. Ltd.",
+          "nameservers": [
+            "aliza.ns.cloudflare.com.",
+            "jarred.ns.cloudflare.com."
+          ],
+          "creation_date": "2025-09-09T10:27:54.0Z",
+          "expiry_date": "2026-09-09T10:27:54.0Z",
+          "updated_date": "2025-09-25T16:58:59.0Z",
+          "status": [
+            "client transfer prohibited"
+          ],
+          "ips": [
+            "104.21.55.165",
+            "172.67.171.171",
+            "2606:4700:3035::6815:37a5",
+            "2606:4700:3031::ac43:abab"
+          ],
+          "rdap_error": null
+        },
+        {
+          "domain": "33rr.top",
+          "registrar": null,
+          "nameservers": [],
+          "creation_date": null,
+          "expiry_date": null,
+          "updated_date": null,
+          "status": [],
+          "ips": [
+            "172.67.199.16",
+            "104.21.34.62",
+            "2606:4700:3032::6815:223e",
+            "2606:4700:3031::ac43:c710"
+          ],
+          "rdap_error": "rdap_domain_failed: HTTP Error 429: "
+        },
+        {
+          "domain": "9111bet.top",
+          "registrar": null,
+          "nameservers": [],
+          "creation_date": null,
+          "expiry_date": null,
+          "updated_date": null,
+          "status": [],
+          "ips": [
+            "104.21.54.100",
+            "172.67.168.109",
+            "2606:4700:3030::ac43:a86d",
+            "2606:4700:3031::6815:3664"
+          ],
+          "rdap_error": "rdap_domain_failed: HTTP Error 429: "
+        },
+        {
+          "domain": "9998bet.top",
+          "registrar": null,
+          "nameservers": [],
+          "creation_date": null,
+          "expiry_date": null,
+          "updated_date": null,
+          "status": [],
+          "ips": [
+            "104.21.4.172",
+            "172.67.132.75",
+            "2606:4700:3037::ac43:844b",
+            "2606:4700:3036::6815:4ac"
+          ],
+          "rdap_error": "rdap_domain_failed: HTTP Error 429: "
+        }
+      ]
+    },
+    {
+      "cluster_id": 7,
+      "domains": [
+        "dealmaxlog1.store",
+        "dealmaxlog2.store",
+        "dealmaxlog3.store"
+      ],
+      "domain_count": 3,
+      "registrars": [],
+      "shared_registrar": false,
+      "nameservers": [],
+      "shared_nameservers": false,
+      "ips": [
+        "104.21.38.219",
+        "104.21.61.113",
+        "104.21.78.196",
+        "172.67.136.165",
+        "172.67.139.84",
+        "172.67.209.154",
+        "2606:4700:3032::ac43:88a5",
+        "2606:4700:3035::6815:4ec4",
+        "2606:4700:3036::6815:3d71",
+        "2606:4700:3036::ac43:8b54",
+        "2606:4700:3037::6815:26db",
+        "2606:4700:3037::ac43:d19a"
+      ],
+      "asns": [
+        "13335"
+      ],
+      "shared_asn": true,
+      "asn_holders": [
+        "CLOUDFLARENET - Cloudflare, Inc."
+      ],
+      "domain_records": [
+        {
+          "domain": "dealmaxlog1.store",
+          "registrar": null,
+          "nameservers": [],
+          "creation_date": null,
+          "expiry_date": null,
+          "updated_date": null,
+          "status": [],
+          "ips": [
+            "172.67.139.84",
+            "104.21.38.219",
+            "2606:4700:3036::ac43:8b54",
+            "2606:4700:3037::6815:26db"
+          ],
+          "rdap_error": "rdap_domain_failed: HTTP Error 403: Forbidden"
+        },
+        {
+          "domain": "dealmaxlog2.store",
+          "registrar": null,
+          "nameservers": [],
+          "creation_date": null,
+          "expiry_date": null,
+          "updated_date": null,
+          "status": [],
+          "ips": [
+            "104.21.78.196",
+            "172.67.136.165",
+            "2606:4700:3035::6815:4ec4",
+            "2606:4700:3032::ac43:88a5"
+          ],
+          "rdap_error": "rdap_domain_failed: HTTP Error 403: Forbidden"
+        },
+        {
+          "domain": "dealmaxlog3.store",
+          "registrar": null,
+          "nameservers": [],
+          "creation_date": null,
+          "expiry_date": null,
+          "updated_date": null,
+          "status": [],
+          "ips": [
+            "104.21.61.113",
+            "172.67.209.154",
+            "2606:4700:3036::6815:3d71",
+            "2606:4700:3037::ac43:d19a"
+          ],
+          "rdap_error": "rdap_domain_failed: HTTP Error 403: Forbidden"
+        }
+      ]
+    },
+    {
+      "cluster_id": 8,
+      "domains": [
+        "aarab2.sbs",
+        "aarab9.sbs"
+      ],
+      "domain_count": 2,
+      "registrars": [
+        "Namecheap"
+      ],
+      "shared_registrar": true,
+      "nameservers": [
+        "darl.ns.cloudflare.com",
+        "rosa.ns.cloudflare.com"
+      ],
+      "shared_nameservers": false,
+      "ips": [
+        "104.21.45.18",
+        "104.21.78.96",
+        "172.67.207.204",
+        "172.67.219.239",
+        "2606:4700:3030::6815:4e60",
+        "2606:4700:3032::ac43:dbef",
+        "2606:4700:3034::6815:2d12",
+        "2606:4700:3035::ac43:cfcc"
+      ],
+      "asns": [
+        "13335"
+      ],
+      "shared_asn": true,
+      "asn_holders": [
+        "CLOUDFLARENET - Cloudflare, Inc."
+      ],
+      "domain_records": [
+        {
+          "domain": "aarab2.sbs",
+          "registrar": "Namecheap",
+          "nameservers": [
+            "darl.ns.cloudflare.com",
+            "rosa.ns.cloudflare.com"
+          ],
+          "creation_date": "2025-10-10T02:50:16.0Z",
+          "expiry_date": "2026-10-10T23:59:59.0Z",
+          "updated_date": "2025-11-01T14:17:41.0Z",
+          "status": [
+            "client transfer prohibited"
+          ],
+          "ips": [
+            "104.21.78.96",
+            "172.67.219.239",
+            "2606:4700:3030::6815:4e60",
+            "2606:4700:3032::ac43:dbef"
+          ],
+          "rdap_error": null
+        },
+        {
+          "domain": "aarab9.sbs",
+          "registrar": "Namecheap",
+          "nameservers": [
+            "darl.ns.cloudflare.com",
+            "rosa.ns.cloudflare.com"
+          ],
+          "creation_date": "2025-10-16T13:58:44.0Z",
+          "expiry_date": "2026-10-16T23:59:59.0Z",
+          "updated_date": "2025-11-01T14:25:25.0Z",
+          "status": [
+            "client transfer prohibited"
+          ],
+          "ips": [
+            "104.21.45.18",
+            "172.67.207.204",
+            "2606:4700:3035::ac43:cfcc",
+            "2606:4700:3034::6815:2d12"
+          ],
+          "rdap_error": null
+        }
+      ]
+    },
+    {
+      "cluster_id": 9,
+      "domains": [
+        "alexisgg-hoki3.top",
+        "alexisgg-hoki6.top"
+      ],
+      "domain_count": 2,
+      "registrars": [],
+      "shared_registrar": false,
+      "nameservers": [],
+      "shared_nameservers": false,
+      "ips": [
+        "104.21.16.45",
+        "104.21.48.95",
+        "172.67.166.28",
+        "172.67.183.65",
+        "2606:4700:3030::ac43:a61c",
+        "2606:4700:3031::6815:102d",
+        "2606:4700:3036::ac43:b741",
+        "2606:4700:3037::6815:305f"
+      ],
+      "asns": [
+        "13335"
+      ],
+      "shared_asn": true,
+      "asn_holders": [
+        "CLOUDFLARENET - Cloudflare, Inc."
+      ],
+      "domain_records": [
+        {
+          "domain": "alexisgg-hoki3.top",
+          "registrar": null,
+          "nameservers": [],
+          "creation_date": null,
+          "expiry_date": null,
+          "updated_date": null,
+          "status": [],
+          "ips": [
+            "104.21.48.95",
+            "172.67.183.65",
+            "2606:4700:3036::ac43:b741",
+            "2606:4700:3037::6815:305f"
+          ],
+          "rdap_error": "rdap_domain_failed: HTTP Error 429: "
+        },
+        {
+          "domain": "alexisgg-hoki6.top",
+          "registrar": null,
+          "nameservers": [],
+          "creation_date": null,
+          "expiry_date": null,
+          "updated_date": null,
+          "status": [],
+          "ips": [
+            "104.21.16.45",
+            "172.67.166.28",
+            "2606:4700:3031::6815:102d",
+            "2606:4700:3030::ac43:a61c"
+          ],
+          "rdap_error": "rdap_domain_failed: HTTP Error 429: "
+        }
+      ]
+    },
+    {
+      "cluster_id": 10,
+      "domains": [
+        "flixindo10411.top",
+        "flixindo20813.top"
+      ],
+      "domain_count": 2,
+      "registrars": [],
+      "shared_registrar": false,
+      "nameservers": [],
+      "shared_nameservers": false,
+      "ips": [
+        "104.21.18.253",
+        "104.21.55.102",
+        "172.67.147.118",
+        "172.67.184.73",
+        "2606:4700:3031::6815:3766",
+        "2606:4700:3035::6815:12fd",
+        "2606:4700:3036::ac43:9376",
+        "2606:4700:3036::ac43:b849"
+      ],
+      "asns": [
+        "13335"
+      ],
+      "shared_asn": true,
+      "asn_holders": [
+        "CLOUDFLARENET - Cloudflare, Inc."
+      ],
+      "domain_records": [
+        {
+          "domain": "flixindo10411.top",
+          "registrar": null,
+          "nameservers": [],
+          "creation_date": null,
+          "expiry_date": null,
+          "updated_date": null,
+          "status": [],
+          "ips": [
+            "104.21.55.102",
+            "172.67.147.118",
+            "2606:4700:3031::6815:3766",
+            "2606:4700:3036::ac43:9376"
+          ],
+          "rdap_error": "rdap_domain_failed: HTTP Error 429: "
+        },
+        {
+          "domain": "flixindo20813.top",
+          "registrar": null,
+          "nameservers": [],
+          "creation_date": null,
+          "expiry_date": null,
+          "updated_date": null,
+          "status": [],
+          "ips": [
+            "172.67.184.73",
+            "104.21.18.253",
+            "2606:4700:3036::ac43:b849",
+            "2606:4700:3035::6815:12fd"
+          ],
+          "rdap_error": "rdap_domain_failed: HTTP Error 429: "
+        }
+      ]
+    },
+    {
+      "cluster_id": 11,
+      "domains": [
+        "gameempire321.top",
+        "shopchallenge777.top"
+      ],
+      "domain_count": 2,
+      "registrars": [],
+      "shared_registrar": false,
+      "nameservers": [],
+      "shared_nameservers": false,
+      "ips": [
+        "104.21.47.76",
+        "104.21.80.39",
+        "172.67.170.195",
+        "172.67.174.14",
+        "2606:4700:3030::6815:5027",
+        "2606:4700:3033::6815:2f4c",
+        "2606:4700:3034::ac43:aac3",
+        "2606:4700:3035::ac43:ae0e"
+      ],
+      "asns": [
+        "13335"
+      ],
+      "shared_asn": true,
+      "asn_holders": [
+        "CLOUDFLARENET - Cloudflare, Inc."
+      ],
+      "domain_records": [
+        {
+          "domain": "gameempire321.top",
+          "registrar": null,
+          "nameservers": [],
+          "creation_date": null,
+          "expiry_date": null,
+          "updated_date": null,
+          "status": [],
+          "ips": [
+            "172.67.174.14",
+            "104.21.80.39",
+            "2606:4700:3030::6815:5027",
+            "2606:4700:3035::ac43:ae0e"
+          ],
+          "rdap_error": "rdap_domain_failed: HTTP Error 429: "
+        },
+        {
+          "domain": "shopchallenge777.top",
+          "registrar": null,
+          "nameservers": [],
+          "creation_date": null,
+          "expiry_date": null,
+          "updated_date": null,
+          "status": [],
+          "ips": [
+            "104.21.47.76",
+            "172.67.170.195",
+            "2606:4700:3034::ac43:aac3",
+            "2606:4700:3033::6815:2f4c"
+          ],
+          "rdap_error": "rdap_domain_failed: HTTP Error 429: "
+        }
+      ]
+    },
+    {
+      "cluster_id": 12,
+      "domains": [
+        "keris34dnitcstope.top",
+        "killbrostk3.top"
+      ],
+      "domain_count": 2,
+      "registrars": [],
+      "shared_registrar": false,
+      "nameservers": [],
+      "shared_nameservers": false,
+      "ips": [
+        "104.21.66.132",
+        "104.21.80.134",
+        "172.67.160.98",
+        "172.67.183.125",
+        "2606:4700:3030::6815:4284",
+        "2606:4700:3030::6815:5086",
+        "2606:4700:3035::ac43:a062",
+        "2606:4700:3037::ac43:b77d"
+      ],
+      "asns": [
+        "13335"
+      ],
+      "shared_asn": true,
+      "asn_holders": [
+        "CLOUDFLARENET - Cloudflare, Inc."
+      ],
+      "domain_records": [
+        {
+          "domain": "keris34dnitcstope.top",
+          "registrar": null,
+          "nameservers": [],
+          "creation_date": null,
+          "expiry_date": null,
+          "updated_date": null,
+          "status": [],
+          "ips": [
+            "104.21.80.134",
+            "172.67.183.125",
+            "2606:4700:3037::ac43:b77d",
+            "2606:4700:3030::6815:5086"
+          ],
+          "rdap_error": "rdap_domain_failed: HTTP Error 429: "
+        },
+        {
+          "domain": "killbrostk3.top",
+          "registrar": null,
+          "nameservers": [],
+          "creation_date": null,
+          "expiry_date": null,
+          "updated_date": null,
+          "status": [],
+          "ips": [
+            "172.67.160.98",
+            "104.21.66.132",
+            "2606:4700:3035::ac43:a062",
+            "2606:4700:3030::6815:4284"
+          ],
+          "rdap_error": "rdap_domain_failed: HTTP Error 429: "
+        }
+      ]
+    },
+    {
+      "cluster_id": 13,
+      "domains": [
+        "melbet-162423.top",
+        "melbet-707338.top"
+      ],
+      "domain_count": 2,
+      "registrars": [],
+      "shared_registrar": false,
+      "nameservers": [],
+      "shared_nameservers": false,
+      "ips": [
+        "101.99.94.36"
+      ],
+      "asns": [],
+      "shared_asn": false,
+      "asn_holders": [],
+      "domain_records": [
+        {
+          "domain": "melbet-162423.top",
+          "registrar": null,
+          "nameservers": [],
+          "creation_date": null,
+          "expiry_date": null,
+          "updated_date": null,
+          "status": [],
+          "ips": [
+            "101.99.94.36"
+          ],
+          "rdap_error": "rdap_domain_failed: HTTP Error 429: "
+        },
+        {
+          "domain": "melbet-707338.top",
+          "registrar": null,
+          "nameservers": [],
+          "creation_date": null,
+          "expiry_date": null,
+          "updated_date": null,
+          "status": [],
+          "ips": [
+            "101.99.94.36"
+          ],
+          "rdap_error": "rdap_domain_failed: HTTP Error 429: "
+        }
+      ]
+    },
+    {
+      "cluster_id": 14,
+      "domains": [
+        "starlink4d888.top",
+        "starlink4d999.top"
+      ],
+      "domain_count": 2,
+      "registrars": [],
+      "shared_registrar": false,
+      "nameservers": [],
+      "shared_nameservers": false,
+      "ips": [
+        "104.21.36.7",
+        "104.21.7.194",
+        "172.67.182.173",
+        "172.67.187.252",
+        "2606:4700:3031::6815:2407",
+        "2606:4700:3031::ac43:b6ad",
+        "2606:4700:3032::6815:7c2",
+        "2606:4700:3032::ac43:bbfc"
+      ],
+      "asns": [
+        "13335"
+      ],
+      "shared_asn": true,
+      "asn_holders": [
+        "CLOUDFLARENET - Cloudflare, Inc."
+      ],
+      "domain_records": [
+        {
+          "domain": "starlink4d888.top",
+          "registrar": null,
+          "nameservers": [],
+          "creation_date": null,
+          "expiry_date": null,
+          "updated_date": null,
+          "status": [],
+          "ips": [
+            "172.67.182.173",
+            "104.21.36.7",
+            "2606:4700:3031::6815:2407",
+            "2606:4700:3031::ac43:b6ad"
+          ],
+          "rdap_error": "rdap_domain_failed: HTTP Error 429: "
+        },
+        {
+          "domain": "starlink4d999.top",
+          "registrar": null,
+          "nameservers": [],
+          "creation_date": null,
+          "expiry_date": null,
+          "updated_date": null,
+          "status": [],
+          "ips": [
+            "104.21.7.194",
+            "172.67.187.252",
+            "2606:4700:3032::ac43:bbfc",
+            "2606:4700:3032::6815:7c2"
+          ],
+          "rdap_error": "rdap_domain_failed: HTTP Error 429: "
+        }
+      ]
+    }
+  ]
+}

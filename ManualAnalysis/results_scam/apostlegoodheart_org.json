@@ -1,0 +1,439 @@
+{
+    "name": "apostlegoodheart.org",
+    "handle": "e1fdc66314b443728054f6afc32b40b8-LROR",
+    "registrationDate": "11/9/2025, 6:55:18 AM GMT+2",
+    "expirationDate": "11/9/2026, 6:55:18 AM GMT+2",
+    "lastChangedDate": "1/9/2026, 4:15:35 AM GMT+2",
+    "lastUpdateDate": "6/16/2026, 4:43:27 PM GMT+3",
+    "rawData": [
+        {
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Rhogic Tech"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "NG"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            [
+                                "",
+                                "",
+                                "13 David Mark Street Durimi"
+                            ],
+                            "Abuja",
+                            "Abuja",
+                            "110001",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "rhogictech@gmail.com"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+234.8036321271"
+                    ]
+                ]
+            ],
+            "handle": "132066819",
+            "status": [
+                "active"
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "objectClassName": "entity",
+            "lang": "en"
+        },
+        {
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Rhogic Tech"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "NG"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            [
+                                "",
+                                "",
+                                "13 David Mark Street Durimi"
+                            ],
+                            "Abuja",
+                            "Abuja",
+                            "110001",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "rhogictech@gmail.com"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+234.8036321271"
+                    ]
+                ]
+            ],
+            "handle": "132066817",
+            "status": [
+                "active"
+            ],
+            "roles": [
+                "technical"
+            ],
+            "objectClassName": "entity",
+            "lang": "en"
+        },
+        {
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Rhogic Tech"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "NG"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            [
+                                "",
+                                "",
+                                "13 David Mark Street Durimi"
+                            ],
+                            "Abuja",
+                            "Abuja",
+                            "110001",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "rhogictech@gmail.com"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+234.8036321271"
+                    ]
+                ]
+            ],
+            "handle": "132066816",
+            "status": [
+                "active"
+            ],
+            "roles": [
+                "administrative"
+            ],
+            "objectClassName": "entity",
+            "lang": "en"
+        },
+        {
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "Whogohost"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Whogohost"
+                    ]
+                ]
+            ],
+            "status": [
+                "active"
+            ],
+            "roles": [
+                "abuse"
+            ],
+            "objectClassName": "entity",
+            "lang": "en"
+        },
+        {
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "Whogohost"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Whogohost"
+                    ]
+                ]
+            ],
+            "status": [
+                "active"
+            ],
+            "roles": [
+                "registrar"
+            ],
+            "entities": [
+                {
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "org",
+                                {},
+                                "text",
+                                "Whogohost"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Whogohost"
+                            ]
+                        ]
+                    ],
+                    "status": [
+                        "active"
+                    ],
+                    "roles": [
+                        "abuse"
+                    ],
+                    "objectClassName": "entity",
+                    "lang": "en"
+                }
+            ],
+            "publicIds": [
+                {
+                    "type": "IANA Registrar ID",
+                    "identifier": null
+                }
+            ],
+            "objectClassName": "entity",
+            "lang": "en"
+        },
+        {
+            "ldhName": "ns1.dns-parking.com",
+            "unicodeName": "ns1.dns-parking.com",
+            "status": [
+                "active"
+            ],
+            "objectClassName": "nameserver",
+            "lang": "en"
+        },
+        {
+            "ldhName": "ns2.dns-parking.com",
+            "unicodeName": "ns2.dns-parking.com",
+            "status": [
+                "active"
+            ],
+            "objectClassName": "nameserver",
+            "lang": "en"
+        },
+        {
+            "handle": "e1fdc66314b443728054f6afc32b40b8-LROR",
+            "ldhName": "apostlegoodheart.org",
+            "secureDNS": {
+                "delegationSigned": false
+            },
+            "notices": [
+                {
+                    "title": "Data Policy",
+                    "type": "object truncated due to authorization",
+                    "description": [
+                        "The contact information for one or more entities associated with this domain has been redacted in accordance with the entity's disclosure preferences."
+                    ]
+                },
+                {
+                    "title": "Terms of Use",
+                    "links": [
+                        {
+                            "value": "https://rdapserver.net/domain/apostlegoodheart.org",
+                            "type": "application/rdap+json",
+                            "rel": "terms-of-service",
+                            "href": "https://rdapserver.net/terms-of-use/"
+                        }
+                    ],
+                    "description": [
+                        "URL for Terms of Use https://rdapserver.net/terms-of-use/"
+                    ]
+                },
+                {
+                    "title": "Status Codes",
+                    "links": [
+                        {
+                            "value": "https://rdapserver.net/domain/apostlegoodheart.org",
+                            "type": "application/rdap+json",
+                            "rel": "glossary",
+                            "href": "https://icann.org/epp"
+                        }
+                    ],
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ]
+                },
+                {
+                    "title": "RDDS Inaccuracy Complaint Form",
+                    "links": [
+                        {
+                            "value": "https://rdapserver.net/domain/apostlegoodheart.org",
+                            "type": "application/rdap+json",
+                            "rel": "help",
+                            "href": "https://icann.org/wicf"
+                        }
+                    ],
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ]
+                }
+            ],
+            "rdapConformance": [
+                "icann_rdap_response_profile_1",
+                "icann_rdap_technical_implementation_guide_1",
+                "rdap_level_0",
+                "redacted"
+            ],
+            "objectClassName": "domain",
+            "lang": "en",
+            "nameservers": [
+                {
+                    "ldhName": "ns1.dns-parking.com",
+                    "unicodeName": "ns1.dns-parking.com",
+                    "status": [
+                        "active"
+                    ],
+                    "objectClassName": "nameserver",
+                    "lang": "en"
+                },
+                {
+                    "ldhName": "ns2.dns-parking.com",
+                    "unicodeName": "ns2.dns-parking.com",
+                    "status": [
+                        "active"
+                    ],
+                    "objectClassName": "nameserver",
+                    "lang": "en"
+                }
+            ],
+            "redacted": [
+                {
+                    "name": {
+                        "type": "Registrant Organization"
+                    },
+                    "reason": {
+                        "description": "Data redacted due to Privacy."
+                    },
+                    "method": "removal",
+                    "pathLang": "jsonpath",
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='org')]"
+                }
+            ]
+        }
+    ],
+    "domain": "apostlegoodheart.org\r"
+}

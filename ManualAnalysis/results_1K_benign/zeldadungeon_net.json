@@ -1,0 +1,198 @@
+{
+    "name": "ZELDADUNGEON.NET",
+    "handle": "109942215_DOMAIN_NET-VRSN",
+    "registrationDate": "1/15/2004, 3:34:40 PM GMT+2",
+    "expirationDate": "1/15/2029, 3:34:40 PM GMT+2",
+    "lastChangedDate": "4/26/2020, 6:51:00 PM GMT+3",
+    "lastUpdateDate": "6/23/2026, 3:31:14 PM GMT+3",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "roles": [
+                "abuse"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+1.8776951790"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "abuse@gkg.net"
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "93",
+            "roles": [
+                "registrar"
+            ],
+            "publicIds": [
+                {
+                    "type": "IANA Registrar ID",
+                    "identifier": "93"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "GKG.Net, Inc."
+                    ]
+                ]
+            ],
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "roles": [
+                        "abuse"
+                    ],
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                ""
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "voice"
+                                },
+                                "uri",
+                                "tel:+1.8776951790"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "abuse@gkg.net"
+                            ]
+                        ]
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "KAREEM.NS.CLOUDFLARE.COM"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "MALAVIKA.NS.CLOUDFLARE.COM"
+        },
+        {
+            "objectClassName": "domain",
+            "handle": "109942215_DOMAIN_NET-VRSN",
+            "ldhName": "ZELDADUNGEON.NET",
+            "links": [
+                {
+                    "value": "https://rdap.verisign.com/net/v1/domain/ZELDADUNGEON.NET",
+                    "rel": "self",
+                    "href": "https://rdap.verisign.com/net/v1/domain/ZELDADUNGEON.NET",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "secureDNS": {
+                "delegationSigned": false
+            },
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "KAREEM.NS.CLOUDFLARE.COM"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "MALAVIKA.NS.CLOUDFLARE.COM"
+                }
+            ],
+            "rdapConformance": [
+                "rdap_level_0",
+                "icann_rdap_technical_implementation_guide_1",
+                "icann_rdap_response_profile_1"
+            ],
+            "notices": [
+                {
+                    "title": "Terms of Service",
+                    "description": [
+                        "Service subject to Terms of Use."
+                    ],
+                    "links": [
+                        {
+                            "href": "https://www.verisign.com/domain-names/registration-data-access-protocol/terms-service/index.xhtml",
+                            "type": "text/html",
+                            "value": "https://rdap.verisign.com/net/v1/domain/zeldadungeon.net?jscard=1",
+                            "rel": "terms-of-service"
+                        }
+                    ]
+                },
+                {
+                    "title": "Status Codes",
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ],
+                    "links": [
+                        {
+                            "href": "https://icann.org/epp",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "RDDS Inaccuracy Complaint Form",
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ],
+                    "links": [
+                        {
+                            "href": "https://icann.org/wicf",
+                            "type": "text/html",
+                            "value": "https://rdap.verisign.com/net/v1/domain/zeldadungeon.net?jscard=1",
+                            "rel": "help"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "domain": "zeldadungeon.net\r"
+}

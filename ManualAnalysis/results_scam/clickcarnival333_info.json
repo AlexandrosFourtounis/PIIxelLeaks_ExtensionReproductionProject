@@ -1,0 +1,68 @@
+{
+    "name": null,
+    "handle": null,
+    "registrationDate": null,
+    "expirationDate": null,
+    "lastChangedDate": null,
+    "lastUpdateDate": null,
+    "rawData": [
+        {
+            "rdapConformance": [
+                "rdap_level_0",
+                "icann_rdap_response_profile_1",
+                "icann_rdap_technical_implementation_guide_1",
+                "redacted"
+            ],
+            "notices": [
+                {
+                    "title": "Status Codes",
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ],
+                    "links": [
+                        {
+                            "rel": "glossary",
+                            "value": "https://rdap.dynadot.com/domain/clickcarnival333.info",
+                            "href": "https://icann.org/epp",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "RDDS Inaccuracy Complaint Form",
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ],
+                    "links": [
+                        {
+                            "rel": "help",
+                            "value": "https://rdap.dynadot.com/domain/clickcarnival333.info",
+                            "href": "https://icann.org/wicf",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "Terms of Service",
+                    "description": [
+                        "URL of the Dynadot terms of service: https://www.dynadot.com/registration_agreement.html"
+                    ],
+                    "links": [
+                        {
+                            "rel": "terms-of-service",
+                            "value": "https://rdap.dynadot.com/domain/clickcarnival333.info",
+                            "href": "https://www.dynadot.com/registration_agreement.html",
+                            "type": "text/html"
+                        }
+                    ]
+                }
+            ],
+            "errorCode": 429,
+            "title": "Error in processing the request",
+            "description": [
+                "Too many requests. Please try again later."
+            ]
+        }
+    ],
+    "domain": "clickcarnival333.info\r"
+}

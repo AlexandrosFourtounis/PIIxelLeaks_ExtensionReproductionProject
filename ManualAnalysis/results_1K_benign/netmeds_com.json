@@ -1,0 +1,512 @@
+{
+    "name": "netmeds.com",
+    "handle": "111812039_DOMAIN_COM-VRSN",
+    "registrationDate": "2/11/2015, 2:06:33 PM GMT+2",
+    "expirationDate": "2/13/2030, 9:23:54 PM GMT+2",
+    "lastChangedDate": "1/2/2024, 8:33:31 PM GMT+2",
+    "lastUpdateDate": "6/23/2026, 4:11:19 PM GMT+3",
+    "rawData": [
+        {
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "NETMEDS MARKETPLACE LIMITED"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "IN"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            [
+                                "",
+                                "",
+                                "250 Lloyds Road,Royapettah"
+                            ],
+                            "Chennai",
+                            "Tamil Nadu",
+                            "600014",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "infosec@vitalicindia.com"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+91.9840633688"
+                    ]
+                ]
+            ],
+            "handle": "110459475",
+            "status": [
+                "active"
+            ],
+            "roles": [
+                "technical"
+            ],
+            "objectClassName": "entity",
+            "lang": "en"
+        },
+        {
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "NETMEDS MARKETPLACE LIMITED"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "IN"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            [
+                                "",
+                                "",
+                                "250 Lloyds Road,Royapettah"
+                            ],
+                            "Chennai",
+                            "Tamil Nadu",
+                            "600014",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "adminhelpdesk@netmeds.com"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+91.9840633688"
+                    ]
+                ]
+            ],
+            "handle": "110459472",
+            "status": [
+                "active"
+            ],
+            "roles": [
+                "administrative"
+            ],
+            "objectClassName": "entity",
+            "lang": "en"
+        },
+        {
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "NETMEDS MARKETPLACE LIMITED"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "IN"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            [
+                                "",
+                                "",
+                                "250 Lloyds Road,Royapettah"
+                            ],
+                            "Chennai",
+                            "Tamil Nadu",
+                            "600014",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "pradeep@pdgoc.com"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+91.9840633688"
+                    ]
+                ]
+            ],
+            "handle": "110459399",
+            "status": [
+                "active"
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "objectClassName": "entity",
+            "lang": "en"
+        },
+        {
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "BigRock Solutions Ltd."
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "tel:+1-415-349-0015"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "abuse@bigrock.com"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "BigRock Solutions Ltd."
+                    ]
+                ]
+            ],
+            "status": [
+                "active"
+            ],
+            "roles": [
+                "abuse"
+            ],
+            "objectClassName": "entity",
+            "lang": "en"
+        },
+        {
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "BigRock Solutions Ltd."
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "BigRock Solutions Ltd."
+                    ]
+                ]
+            ],
+            "handle": "1495",
+            "status": [
+                "active"
+            ],
+            "roles": [
+                "registrar"
+            ],
+            "entities": [
+                {
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "org",
+                                {},
+                                "text",
+                                "BigRock Solutions Ltd."
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "voice"
+                                },
+                                "text",
+                                "tel:+1-415-349-0015"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "abuse@bigrock.com"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "BigRock Solutions Ltd."
+                            ]
+                        ]
+                    ],
+                    "status": [
+                        "active"
+                    ],
+                    "roles": [
+                        "abuse"
+                    ],
+                    "objectClassName": "entity",
+                    "lang": "en"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdapserver.net/",
+                    "type": "application/rdap+json",
+                    "rel": "about",
+                    "href": "https://www.bigrock.com"
+                }
+            ],
+            "publicIds": [
+                {
+                    "type": "IANA Registrar ID",
+                    "identifier": "1495"
+                }
+            ],
+            "objectClassName": "entity",
+            "lang": "en"
+        },
+        {
+            "ldhName": "ns-cloud-c1.googledomains.com",
+            "unicodeName": "ns-cloud-c1.googledomains.com",
+            "status": [
+                "active"
+            ],
+            "objectClassName": "nameserver",
+            "lang": "en"
+        },
+        {
+            "ldhName": "ns-cloud-c2.googledomains.com",
+            "unicodeName": "ns-cloud-c2.googledomains.com",
+            "status": [
+                "active"
+            ],
+            "objectClassName": "nameserver",
+            "lang": "en"
+        },
+        {
+            "ldhName": "ns-cloud-c3.googledomains.com",
+            "unicodeName": "ns-cloud-c3.googledomains.com",
+            "status": [
+                "active"
+            ],
+            "objectClassName": "nameserver",
+            "lang": "en"
+        },
+        {
+            "ldhName": "ns-cloud-c4.googledomains.com",
+            "unicodeName": "ns-cloud-c4.googledomains.com",
+            "status": [
+                "active"
+            ],
+            "objectClassName": "nameserver",
+            "lang": "en"
+        },
+        {
+            "handle": "111812039_DOMAIN_COM-VRSN",
+            "ldhName": "netmeds.com",
+            "secureDNS": {
+                "delegationSigned": false
+            },
+            "notices": [
+                {
+                    "title": "Data Policy",
+                    "type": "object truncated due to authorization",
+                    "description": [
+                        "The contact information for one or more entities associated with this domain has been redacted in accordance with the entity's disclosure preferences."
+                    ]
+                },
+                {
+                    "title": "Terms of Use",
+                    "links": [
+                        {
+                            "value": "https://rdapserver.net/domain/netmeds.com",
+                            "type": "application/rdap+json",
+                            "rel": "terms-of-service",
+                            "href": "https://rdapserver.net/terms-of-use/"
+                        }
+                    ],
+                    "description": [
+                        "URL for Terms of Use https://rdapserver.net/terms-of-use/"
+                    ]
+                },
+                {
+                    "title": "Status Codes",
+                    "links": [
+                        {
+                            "value": "https://rdapserver.net/domain/netmeds.com",
+                            "type": "application/rdap+json",
+                            "rel": "glossary",
+                            "href": "https://icann.org/epp"
+                        }
+                    ],
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ]
+                },
+                {
+                    "title": "RDDS Inaccuracy Complaint Form",
+                    "links": [
+                        {
+                            "value": "https://rdapserver.net/domain/netmeds.com",
+                            "type": "application/rdap+json",
+                            "rel": "help",
+                            "href": "https://icann.org/wicf"
+                        }
+                    ],
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ]
+                }
+            ],
+            "rdapConformance": [
+                "icann_rdap_response_profile_1",
+                "icann_rdap_technical_implementation_guide_1",
+                "rdap_level_0",
+                "redacted"
+            ],
+            "objectClassName": "domain",
+            "lang": "en",
+            "nameservers": [
+                {
+                    "ldhName": "ns-cloud-c1.googledomains.com",
+                    "unicodeName": "ns-cloud-c1.googledomains.com",
+                    "status": [
+                        "active"
+                    ],
+                    "objectClassName": "nameserver",
+                    "lang": "en"
+                },
+                {
+                    "ldhName": "ns-cloud-c2.googledomains.com",
+                    "unicodeName": "ns-cloud-c2.googledomains.com",
+                    "status": [
+                        "active"
+                    ],
+                    "objectClassName": "nameserver",
+                    "lang": "en"
+                },
+                {
+                    "ldhName": "ns-cloud-c3.googledomains.com",
+                    "unicodeName": "ns-cloud-c3.googledomains.com",
+                    "status": [
+                        "active"
+                    ],
+                    "objectClassName": "nameserver",
+                    "lang": "en"
+                },
+                {
+                    "ldhName": "ns-cloud-c4.googledomains.com",
+                    "unicodeName": "ns-cloud-c4.googledomains.com",
+                    "status": [
+                        "active"
+                    ],
+                    "objectClassName": "nameserver",
+                    "lang": "en"
+                }
+            ],
+            "redacted": [
+                {
+                    "name": {
+                        "type": "Registrant Organization"
+                    },
+                    "reason": {
+                        "description": "Data redacted due to Privacy."
+                    },
+                    "method": "removal",
+                    "pathLang": "jsonpath",
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='org')]"
+                }
+            ]
+        }
+    ],
+    "domain": "netmeds.com\r"
+}

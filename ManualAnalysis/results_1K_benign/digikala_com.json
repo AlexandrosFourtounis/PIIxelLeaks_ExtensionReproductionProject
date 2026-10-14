@@ -1,0 +1,314 @@
+{
+    "name": "digikala.com",
+    "handle": "661060741_DOMAIN_COM-VRSN",
+    "registrationDate": "11/7/2006, 8:59:04 AM GMT+2",
+    "expirationDate": "11/7/2029, 8:59:04 AM GMT+2",
+    "lastChangedDate": "1/26/2022, 8:38:12 AM GMT+2",
+    "lastUpdateDate": "6/23/2026, 2:08:00 PM GMT+3",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "roles": [
+                "abuse"
+            ],
+            "handle": "113",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "CSL Computer Service Langenbach GmbH d/b/a Joker.com"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+49.21186767447"
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "abuse@joker.com"
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "roles": [
+                "registrar",
+                "sponsor"
+            ],
+            "publicIds": [
+                {
+                    "identifier": "113",
+                    "type": "IANA Registrar ID"
+                }
+            ],
+            "handle": "113",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "CSL Computer Service Langenbach GmbH d/b/a Joker.com"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "DE"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "Hansaallee 191-193",
+                            "Düsseldorf",
+                            "NRW",
+                            "40549",
+                            ""
+                        ]
+                    ]
+                ]
+            ],
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "roles": [
+                        "abuse"
+                    ],
+                    "handle": "113",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "CSL Computer Service Langenbach GmbH d/b/a Joker.com"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "voice"
+                                },
+                                "text",
+                                "+49.21186767447"
+                            ],
+                            [
+                                "email",
+                                {
+                                    "type": "work"
+                                },
+                                "text",
+                                "abuse@joker.com"
+                            ]
+                        ]
+                    ]
+                }
+            ],
+            "links": [
+                {
+                    "rel": "about",
+                    "value": "https://rdap.joker.com/",
+                    "href": "https://rdap.joker.com/"
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "roles": [
+                "registrant"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Digikala"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "No Avaran-e Fanavaze"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "IR"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "No 28 , South Gandhi street",
+                            "Tehran",
+                            "Tehran",
+                            "15875-3469",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+98.2161930000"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "domainholder@digikala.com"
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "f.ns1.digikalacloud.com",
+            "ipAddresses": {
+                "v4": [
+                    "185.188.104.10"
+                ],
+                "v6": []
+            }
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "u.ns2.digikalacloud.com",
+            "ipAddresses": {
+                "v4": [
+                    "185.188.105.11"
+                ],
+                "v6": []
+            }
+        },
+        {
+            "rdapConformance": [
+                "rdap_level_0",
+                "icann_rdap_response_profile_1",
+                "icann_rdap_technical_implementation_guide_1"
+            ],
+            "objectClassName": "domain",
+            "ldhName": "digikala.com",
+            "handle": "661060741_DOMAIN_COM-VRSN",
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "f.ns1.digikalacloud.com",
+                    "ipAddresses": {
+                        "v4": [
+                            "185.188.104.10"
+                        ],
+                        "v6": []
+                    }
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "u.ns2.digikalacloud.com",
+                    "ipAddresses": {
+                        "v4": [
+                            "185.188.105.11"
+                        ],
+                        "v6": []
+                    }
+                }
+            ],
+            "secureDNS": {
+                "delegationSigned": false
+            },
+            "port43": "whois.joker.com",
+            "notices": [
+                {
+                    "title": "Terms of service",
+                    "description": [
+                        "Access to Joker.com RDAP information is provided to assist persons in determining the contents of a domain name registration record in the Joker.com database.\nThe data in this record is provided by Joker.com for informational purposes only, and Joker.com does not guarantee its accuracy. This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to\n(a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or\n(b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Joker.com except as reasonably necessary to register domain names or modify existing registrations.\nAll rights reserved. Joker.com reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy.\n"
+                    ],
+                    "links": [
+                        {
+                            "rel": "terms-of-service",
+                            "type": "text/html",
+                            "href": "https://joker.com/goto/tc",
+                            "value": "https://rdap.joker.com/domain/digikala.com"
+                        }
+                    ]
+                },
+                {
+                    "title": "RDDS Inaccuracy Complaint Form",
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ],
+                    "links": [
+                        {
+                            "rel": "help",
+                            "type": "text/html",
+                            "href": "https://icann.org/wicf",
+                            "value": "https://rdap.joker.com/domain/digikala.com"
+                        }
+                    ]
+                },
+                {
+                    "title": "Status Codes",
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ],
+                    "links": [
+                        {
+                            "rel": "glossary",
+                            "type": "text/html",
+                            "href": "https://icann.org/epp",
+                            "value": "https://rdap.joker.com/domain/digikala.com"
+                        }
+                    ]
+                }
+            ],
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "https://rdap.joker.com/domain/digikala.com",
+                    "value": "https://rdap.joker.com/domain/digikala.com",
+                    "type": "application/rdap+json"
+                }
+            ]
+        }
+    ],
+    "domain": "digikala.com\r"
+}

@@ -1,0 +1,26 @@
+{
+    "name": null,
+    "handle": null,
+    "registrationDate": null,
+    "expirationDate": null,
+    "lastChangedDate": null,
+    "lastUpdateDate": null,
+    "rawData": [
+        {
+            "lang": "en-US",
+            "errorCode": 404,
+            "title": "Error processing request",
+            "description": [
+                "Not found"
+            ],
+            "rdapConformance": [
+                "rdap_level_0",
+                "icann_rdap_technical_implementation_guide_0",
+                "icann_rdap_technical_implementation_guide_1",
+                "icann_rdap_response_profile_0",
+                "icann_rdap_response_profile_1"
+            ]
+        }
+    ],
+    "domain": "llnwi.net\r"
+}

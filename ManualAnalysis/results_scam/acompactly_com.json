@@ -1,0 +1,548 @@
+{
+    "name": "acompactly.com",
+    "handle": "3013628715_DOMAIN_COM-VRSN",
+    "registrationDate": "8/26/2025, 5:20:13 AM GMT+3 (by SYSTEM)",
+    "expirationDate": "8/26/2026, 5:20:14 AM GMT+3 (by SYSTEM)",
+    "lastChangedDate": null,
+    "lastUpdateDate": "6/10/2026, 7:00:00 PM GMT+3 (by SYSTEM)",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "lang": "en",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "CN"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "guangdongsheng",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "https://whois.xinnet.com/sendemail/acompactly.com"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrant"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "links": [
+                {
+                    "value": "https://www.iana.org/assignments/registrar-ids/120",
+                    "rel": "self",
+                    "href": "https://www.xinnet.com",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "lang": "en",
+            "handle": "LOCAL-ABUSE-39285424",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Abuse Contact"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+86.1087127926"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "supervision@xinnet.com"
+                    ]
+                ]
+            ],
+            "roles": [
+                "abuse"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "links": [
+                {
+                    "value": "https://rdap.xinnet.com/rdap/",
+                    "rel": "about",
+                    "href": "https://www.xinnet.com",
+                    "type": "text/html"
+                }
+            ],
+            "lang": "en",
+            "handle": "120",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Xin Net Technology Corporation"
+                    ],
+                    [
+                        "adr",
+                        {},
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+86.1087127926"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrar"
+            ],
+            "publicIds": [
+                {
+                    "type": "IANA Registrar ID",
+                    "identifier": "120"
+                }
+            ],
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "links": [
+                        {
+                            "value": "https://www.iana.org/assignments/registrar-ids/120",
+                            "rel": "self",
+                            "href": "https://www.xinnet.com",
+                            "type": "application/rdap+json"
+                        }
+                    ],
+                    "lang": "en",
+                    "handle": "LOCAL-ABUSE-39285424",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Abuse Contact"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "voice"
+                                },
+                                "uri",
+                                "tel:+86.1087127926"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "supervision@xinnet.com"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "abuse"
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "lang": "en",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "https://whois.xinnet.com/sendemail/acompactly.com"
+                    ]
+                ]
+            ],
+            "roles": [
+                "technical"
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "status": [
+                "active"
+            ],
+            "ldhName": "dns15.hichina.com",
+            "ipAddresses": {
+                "v4": [
+                    "139.224.142.122",
+                    "39.96.153.42",
+                    "39.96.153.52",
+                    "47.118.199.202",
+                    "139.224.142.112",
+                    "120.76.107.42",
+                    "120.76.107.52",
+                    "47.118.199.212"
+                ],
+                "v6": [
+                    "2408:4009:501:0:0:0:0:23"
+                ]
+            }
+        },
+        {
+            "objectClassName": "nameserver",
+            "status": [
+                "active"
+            ],
+            "ldhName": "dns16.hichina.com",
+            "ipAddresses": {
+                "v4": [
+                    "139.224.142.111",
+                    "139.224.142.121",
+                    "120.76.107.41",
+                    "39.96.153.41",
+                    "120.76.107.51",
+                    "39.96.153.51",
+                    "47.118.199.211",
+                    "47.118.199.201"
+                ],
+                "v6": [
+                    "2408:4009:501:0:0:0:0:24"
+                ]
+            }
+        },
+        {
+            "rdapConformance": [
+                "redacted",
+                "rdap_level_0",
+                "icann_rdap_technical_implementation_guide_1",
+                "icann_rdap_response_profile_1"
+            ],
+            "objectClassName": "domain",
+            "links": [
+                {
+                    "value": "https://rdap.xinnet.com/rdap/domain/acompactly.com",
+                    "rel": "self",
+                    "href": "https://rdap.xinnet.com/rdap/domain/acompactly.com",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "notices": [
+                {
+                    "title": "Status Codes",
+                    "type": "object redacted due to authorization",
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.xinnet.com/rdap/domain/acompactly.com",
+                            "rel": "glossary",
+                            "href": "https://icann.org/epp",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "RDDS Inaccuracy Complaint Form",
+                    "type": "object redacted due to authorization",
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.xinnet.com/rdap/domain/acompactly.com",
+                            "rel": "help",
+                            "href": "https://icann.org/wicf",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "Terms of Service",
+                    "type": "object redacted due to authorization",
+                    "description": [
+                        "URL of ICANN RDAP Terms of Service: https://www.xinnet.com/views/agreement/domain_agreement.html"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.xinnet.com/rdap/domain/acompactly.com",
+                            "rel": "terms-of-service",
+                            "href": "https://rdap.xinnet.com/terms",
+                            "type": "text/html"
+                        }
+                    ]
+                }
+            ],
+            "lang": "en-US",
+            "port43": "whois.paycenter.com.cn",
+            "handle": "3013628715_DOMAIN_COM-VRSN",
+            "ldhName": "acompactly.com",
+            "unicodeName": "acompactly.com",
+            "secureDNS": {
+                "delegationSigned": false
+            },
+            "publicIds": [
+                {
+                    "type": "IANA Registrar ID",
+                    "identifier": "120"
+                }
+            ],
+            "redacted": [
+                {
+                    "name": {
+                        "description": "Registrant Name",
+                        "type": "Registrant Name"
+                    },
+                    "reason": {
+                        "description": "Data redacted for privacy per ICANN RDAP profile"
+                    },
+                    "method": "emptyValue",
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='fn')][3]",
+                    "pathLang": "jsonpath"
+                },
+                {
+                    "name": {
+                        "description": "Registrant Phone",
+                        "type": "Registrant Phone"
+                    },
+                    "reason": {
+                        "description": "Data redacted for privacy per ICANN RDAP profile"
+                    },
+                    "method": "removal",
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='tel')]",
+                    "pathLang": "jsonpath"
+                },
+                {
+                    "name": {
+                        "description": "Registrant Email",
+                        "type": "Registrant Email"
+                    },
+                    "reason": {
+                        "description": "Data redacted for privacy per ICANN RDAP profile"
+                    },
+                    "method": "replacementValue",
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='email')]",
+                    "replacementPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='contact-uri')][3]",
+                    "pathLang": "jsonpath"
+                },
+                {
+                    "name": {
+                        "description": "Registrant Street",
+                        "type": "Registrant Street"
+                    },
+                    "reason": {
+                        "description": "Data redacted for privacy per ICANN RDAP profile"
+                    },
+                    "method": "emptyValue",
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][2]",
+                    "pathLang": "jsonpath"
+                },
+                {
+                    "name": {
+                        "description": "Registrant City",
+                        "type": "Registrant City"
+                    },
+                    "reason": {
+                        "description": "Data redacted for privacy per ICANN RDAP profile"
+                    },
+                    "method": "emptyValue",
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][3]",
+                    "pathLang": "jsonpath"
+                },
+                {
+                    "name": {
+                        "description": "Registrant Postal Code",
+                        "type": "Registrant Postal Code"
+                    },
+                    "reason": {
+                        "description": "Data redacted for privacy per ICANN RDAP profile"
+                    },
+                    "method": "emptyValue",
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][5]",
+                    "pathLang": "jsonpath"
+                },
+                {
+                    "name": {
+                        "description": "Registry Registrant ID",
+                        "type": "Registry Registrant ID"
+                    },
+                    "reason": {
+                        "description": "Data redacted for privacy per ICANN RDAP profile"
+                    },
+                    "method": "removal",
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].handle",
+                    "pathLang": "jsonpath"
+                },
+                {
+                    "name": {
+                        "description": "Registry Tech ID",
+                        "type": "Registry Tech ID"
+                    },
+                    "reason": {
+                        "description": "Data redacted for privacy per ICANN RDAP profile"
+                    },
+                    "method": "removal",
+                    "prePath": "$.entities[?(@.roles[0]=='technical')].handle",
+                    "pathLang": "jsonpath"
+                },
+                {
+                    "name": {
+                        "description": "Tech Name",
+                        "type": "Tech Name"
+                    },
+                    "reason": {
+                        "description": "Data redacted for privacy per ICANN RDAP profile"
+                    },
+                    "method": "emptyValue",
+                    "postPath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='fn')][3]",
+                    "pathLang": "jsonpath"
+                },
+                {
+                    "name": {
+                        "description": "Tech Phone",
+                        "type": "Tech Phone"
+                    },
+                    "reason": {
+                        "description": "Data redacted for privacy per ICANN RDAP profile"
+                    },
+                    "method": "removal",
+                    "prePath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='tel')]",
+                    "pathLang": "jsonpath"
+                },
+                {
+                    "name": {
+                        "description": "Tech Email",
+                        "type": "Tech Email"
+                    },
+                    "reason": {
+                        "description": "Data redacted for privacy per ICANN RDAP profile"
+                    },
+                    "method": "replacementValue",
+                    "prePath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='email')]",
+                    "replacementPath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='contact-uri')][3]",
+                    "pathLang": "jsonpath"
+                }
+            ],
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "status": [
+                        "active"
+                    ],
+                    "ldhName": "dns15.hichina.com",
+                    "ipAddresses": {
+                        "v4": [
+                            "139.224.142.122",
+                            "39.96.153.42",
+                            "39.96.153.52",
+                            "47.118.199.202",
+                            "139.224.142.112",
+                            "120.76.107.42",
+                            "120.76.107.52",
+                            "47.118.199.212"
+                        ],
+                        "v6": [
+                            "2408:4009:501:0:0:0:0:23"
+                        ]
+                    }
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "status": [
+                        "active"
+                    ],
+                    "ldhName": "dns16.hichina.com",
+                    "ipAddresses": {
+                        "v4": [
+                            "139.224.142.111",
+                            "139.224.142.121",
+                            "120.76.107.41",
+                            "39.96.153.41",
+                            "120.76.107.51",
+                            "39.96.153.51",
+                            "47.118.199.211",
+                            "47.118.199.201"
+                        ],
+                        "v6": [
+                            "2408:4009:501:0:0:0:0:24"
+                        ]
+                    }
+                }
+            ]
+        }
+    ],
+    "domain": "acompactly.com\r"
+}

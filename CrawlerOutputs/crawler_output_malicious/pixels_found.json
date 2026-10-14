@@ -1,0 +1,3705 @@
+{
+    "1001bet.top": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "1001bet.top",
+                    "init": [],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                }
+            ],
+            "lightweight": [
+                [
+                    "190635510426764",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=190635510426764&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "0gbg.top": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "0gbg.top",
+                    "init": [],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                }
+            ],
+            "lightweight": null
+        }
+    },
+    "1881bet.top": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "1881bet.top",
+                    "init": [],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                }
+            ],
+            "lightweight": [
+                [
+                    "190635510426764",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=190635510426764&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "33rr.top": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "33rr.top",
+                    "init": [],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                }
+            ],
+            "lightweight": [
+                [
+                    "190635510426764",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=190635510426764&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "3pastix500.store": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "3pastix500.store",
+                    "init": [
+                        "2062476424363299"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "3pastix500.store",
+                    "init": [
+                        "1513816623652033"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                }
+            ],
+            "lightweight": [
+                [
+                    "2062476424363299",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=2062476424363299&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "1513816623652033",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=1513816623652033&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "5gbg.top": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "5gbg.top",
+                    "init": [],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                }
+            ],
+            "lightweight": null
+        }
+    },
+    "7gbg.top": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "7gbg.top",
+                    "init": [],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                }
+            ],
+            "lightweight": null
+        }
+    },
+    "9111bet.top": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "9111bet.top",
+                    "init": [],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                }
+            ],
+            "lightweight": [
+                [
+                    "190635510426764",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=190635510426764&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "9998bet.top": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "9998bet.top",
+                    "init": [],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                }
+            ],
+            "lightweight": [
+                [
+                    "190635510426764",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=190635510426764&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "aarab2.sbs": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "aarab2.sbs",
+                    "init": [
+                        "1301140500959381"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "aarab2.sbs",
+                    "init": [
+                        "1333519337865465"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                }
+            ],
+            "lightweight": [
+                [
+                    "1301140500959381",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=1301140500959381&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "1333519337865465",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=1333519337865465&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "aarab9.sbs": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "aarab9.sbs",
+                    "init": [
+                        "1301140500959381"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "aarab9.sbs",
+                    "init": [
+                        "1333519337865465"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                }
+            ],
+            "lightweight": [
+                [
+                    "1301140500959381",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=1301140500959381&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "1333519337865465",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=1333519337865465&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "alexisgg-hoki3.top": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "alexisgg-hoki3.top",
+                    "init": [
+                        "2399920917159559"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "alexisgg-hoki3.top",
+                    "init": [
+                        "974147422059401"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                }
+            ],
+            "lightweight": [
+                [
+                    "2399920917159559",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=2399920917159559&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "974147422059401",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=974147422059401&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "alexisgg-hoki6.top": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "alexisgg-hoki6.top",
+                    "init": [
+                        "2399920917159559"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "alexisgg-hoki6.top",
+                    "init": [
+                        "974147422059401"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                }
+            ],
+            "lightweight": [
+                [
+                    "2399920917159559",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=2399920917159559&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "974147422059401",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=974147422059401&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "apktohir78-a14.store": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "apktohir78-a14.store",
+                    "init": [
+                        "968258418919494"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a14.store",
+                    "init": [
+                        "2193508854799229"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a14.store",
+                    "init": [
+                        "2218030488730615"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a14.store",
+                    "init": [
+                        "1541268864671468"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a14.store",
+                    "init": [
+                        "1437438444528200"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a14.store",
+                    "init": [
+                        "2842233629455957"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a14.store",
+                    "init": [
+                        "936184946003582"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a14.store",
+                    "init": [
+                        "2027431357855948"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a14.store",
+                    "init": [
+                        "1308533474511302"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a14.store",
+                    "init": [
+                        "1274767361506777"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a14.store",
+                    "init": [
+                        "961746862917392"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a14.store",
+                    "init": [
+                        "967878819103138"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a14.store",
+                    "init": [
+                        "1088496246823205"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a14.store",
+                    "init": [
+                        "964183099447392"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a14.store",
+                    "init": [
+                        "1099682829002949"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a14.store",
+                    "init": [
+                        "1653095665705936"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a14.store",
+                    "init": [
+                        "1295175892471697"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a14.store",
+                    "init": [
+                        "1657758595671844"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a14.store",
+                    "init": [
+                        "1707733177635868"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a14.store",
+                    "init": [
+                        "25767184296314185"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a14.store",
+                    "init": [
+                        "2385258498616241"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a14.store",
+                    "init": [
+                        "1515464630582101"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a14.store",
+                    "init": [
+                        "1711168080244919"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a14.store",
+                    "init": [
+                        "949454860995320"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a14.store",
+                    "init": [
+                        "3820091528300450"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a14.store",
+                    "init": [
+                        "1640915937083311"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a14.store",
+                    "init": [
+                        "968258418919494",
+                        "2193508854799229",
+                        "2218030488730615",
+                        "1541268864671468",
+                        "1437438444528200",
+                        "2842233629455957",
+                        "936184946003582",
+                        "2027431357855948",
+                        "1308533474511302",
+                        "1274767361506777",
+                        "961746862917392",
+                        "967878819103138",
+                        "1088496246823205",
+                        "964183099447392",
+                        "1099682829002949",
+                        "1653095665705936",
+                        "1295175892471697",
+                        "1657758595671844",
+                        "1707733177635868",
+                        "25767184296314185",
+                        "2385258498616241",
+                        "1515464630582101",
+                        "1711168080244919",
+                        "949454860995320",
+                        "3820091528300450",
+                        "1640915937083311",
+                        "968258418919494",
+                        "2193508854799229",
+                        "2218030488730615",
+                        "1541268864671468",
+                        "1437438444528200",
+                        "2842233629455957",
+                        "936184946003582",
+                        "2027431357855948",
+                        "1308533474511302",
+                        "1274767361506777",
+                        "961746862917392",
+                        "967878819103138",
+                        "1088496246823205",
+                        "964183099447392",
+                        "1099682829002949",
+                        "1653095665705936",
+                        "1295175892471697",
+                        "1657758595671844",
+                        "1707733177635868",
+                        "25767184296314185",
+                        "2385258498616241",
+                        "1515464630582101",
+                        "1711168080244919",
+                        "949454860995320",
+                        "3820091528300450",
+                        "1640915937083311"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');"
+                    ]
+                }
+            ],
+            "lightweight": [
+                [
+                    "968258418919494",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=968258418919494&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "2193508854799229",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=2193508854799229&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "2218030488730615",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=2218030488730615&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "1541268864671468",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=1541268864671468&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "1437438444528200",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=1437438444528200&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "2842233629455957",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=2842233629455957&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "936184946003582",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=936184946003582&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "2027431357855948",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=2027431357855948&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "1308533474511302",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=1308533474511302&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "1274767361506777",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=1274767361506777&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "961746862917392",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=961746862917392&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "967878819103138",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=967878819103138&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "1088496246823205",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=1088496246823205&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "964183099447392",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=964183099447392&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "1099682829002949",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=1099682829002949&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "1653095665705936",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=1653095665705936&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "1295175892471697",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=1295175892471697&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "1657758595671844",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=1657758595671844&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "1707733177635868",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=1707733177635868&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "25767184296314185",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=25767184296314185&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "2385258498616241",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=2385258498616241&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "1515464630582101",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=1515464630582101&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "1711168080244919",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=1711168080244919&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "949454860995320",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=949454860995320&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "3820091528300450",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=3820091528300450&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "1640915937083311",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=1640915937083311&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "apktohir78-a13.store": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "apktohir78-a13.store",
+                    "init": [
+                        "968258418919494"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a13.store",
+                    "init": [
+                        "2193508854799229"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a13.store",
+                    "init": [
+                        "2218030488730615"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a13.store",
+                    "init": [
+                        "1541268864671468"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a13.store",
+                    "init": [
+                        "1437438444528200"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a13.store",
+                    "init": [
+                        "2842233629455957"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a13.store",
+                    "init": [
+                        "936184946003582"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a13.store",
+                    "init": [
+                        "2027431357855948"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a13.store",
+                    "init": [
+                        "1308533474511302"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a13.store",
+                    "init": [
+                        "1274767361506777"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a13.store",
+                    "init": [
+                        "961746862917392"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a13.store",
+                    "init": [
+                        "967878819103138"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a13.store",
+                    "init": [
+                        "1088496246823205"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a13.store",
+                    "init": [
+                        "964183099447392"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a13.store",
+                    "init": [
+                        "1099682829002949"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a13.store",
+                    "init": [
+                        "1653095665705936"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a13.store",
+                    "init": [
+                        "1295175892471697"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a13.store",
+                    "init": [
+                        "1657758595671844"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a13.store",
+                    "init": [
+                        "1707733177635868"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a13.store",
+                    "init": [
+                        "25767184296314185"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a13.store",
+                    "init": [
+                        "2385258498616241"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a13.store",
+                    "init": [
+                        "1515464630582101"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a13.store",
+                    "init": [
+                        "1711168080244919"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a13.store",
+                    "init": [
+                        "949454860995320"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a13.store",
+                    "init": [
+                        "3820091528300450"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a13.store",
+                    "init": [
+                        "1640915937083311"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a13.store",
+                    "init": [
+                        "968258418919494",
+                        "2193508854799229",
+                        "2218030488730615",
+                        "1541268864671468",
+                        "1437438444528200",
+                        "2842233629455957",
+                        "936184946003582",
+                        "2027431357855948",
+                        "1308533474511302",
+                        "1274767361506777",
+                        "961746862917392",
+                        "967878819103138",
+                        "1088496246823205",
+                        "964183099447392",
+                        "1099682829002949",
+                        "1653095665705936",
+                        "1295175892471697",
+                        "1657758595671844",
+                        "1707733177635868",
+                        "25767184296314185",
+                        "2385258498616241",
+                        "1515464630582101",
+                        "1711168080244919",
+                        "949454860995320",
+                        "3820091528300450",
+                        "1640915937083311",
+                        "968258418919494",
+                        "2193508854799229",
+                        "2218030488730615",
+                        "1541268864671468",
+                        "1437438444528200",
+                        "2842233629455957",
+                        "936184946003582",
+                        "2027431357855948",
+                        "1308533474511302",
+                        "1274767361506777",
+                        "961746862917392",
+                        "967878819103138",
+                        "1088496246823205",
+                        "964183099447392",
+                        "1099682829002949",
+                        "1653095665705936",
+                        "1295175892471697",
+                        "1657758595671844",
+                        "1707733177635868",
+                        "25767184296314185",
+                        "2385258498616241",
+                        "1515464630582101",
+                        "1711168080244919",
+                        "949454860995320",
+                        "3820091528300450",
+                        "1640915937083311"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');"
+                    ]
+                }
+            ],
+            "lightweight": [
+                [
+                    "968258418919494",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=968258418919494&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "2193508854799229",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=2193508854799229&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "2218030488730615",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=2218030488730615&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "1541268864671468",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=1541268864671468&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "1437438444528200",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=1437438444528200&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "2842233629455957",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=2842233629455957&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "936184946003582",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=936184946003582&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "2027431357855948",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=2027431357855948&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "1308533474511302",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=1308533474511302&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "1274767361506777",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=1274767361506777&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "961746862917392",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=961746862917392&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "967878819103138",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=967878819103138&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "1088496246823205",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=1088496246823205&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "964183099447392",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=964183099447392&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "1099682829002949",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=1099682829002949&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "1653095665705936",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=1653095665705936&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "1295175892471697",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=1295175892471697&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "1657758595671844",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=1657758595671844&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "1707733177635868",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=1707733177635868&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "25767184296314185",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=25767184296314185&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "2385258498616241",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=2385258498616241&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "1515464630582101",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=1515464630582101&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "1711168080244919",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=1711168080244919&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "949454860995320",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=949454860995320&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "3820091528300450",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=3820091528300450&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "1640915937083311",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=1640915937083311&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "apktohir78-a15.store": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "apktohir78-a15.store",
+                    "init": [
+                        "968258418919494"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a15.store",
+                    "init": [
+                        "2193508854799229"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a15.store",
+                    "init": [
+                        "2218030488730615"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a15.store",
+                    "init": [
+                        "1541268864671468"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a15.store",
+                    "init": [
+                        "1437438444528200"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a15.store",
+                    "init": [
+                        "2842233629455957"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a15.store",
+                    "init": [
+                        "936184946003582"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a15.store",
+                    "init": [
+                        "2027431357855948"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a15.store",
+                    "init": [
+                        "1308533474511302"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a15.store",
+                    "init": [
+                        "1274767361506777"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a15.store",
+                    "init": [
+                        "961746862917392"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a15.store",
+                    "init": [
+                        "967878819103138"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a15.store",
+                    "init": [
+                        "1088496246823205"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a15.store",
+                    "init": [
+                        "964183099447392"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a15.store",
+                    "init": [
+                        "1099682829002949"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a15.store",
+                    "init": [
+                        "1653095665705936"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a15.store",
+                    "init": [
+                        "1295175892471697"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a15.store",
+                    "init": [
+                        "1657758595671844"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a15.store",
+                    "init": [
+                        "1707733177635868"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a15.store",
+                    "init": [
+                        "25767184296314185"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a15.store",
+                    "init": [
+                        "2385258498616241"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a15.store",
+                    "init": [
+                        "1515464630582101"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a15.store",
+                    "init": [
+                        "1711168080244919"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a15.store",
+                    "init": [
+                        "949454860995320"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a15.store",
+                    "init": [
+                        "3820091528300450"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a15.store",
+                    "init": [
+                        "1640915937083311"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a15.store",
+                    "init": [
+                        "968258418919494",
+                        "2193508854799229",
+                        "2218030488730615",
+                        "1541268864671468",
+                        "1437438444528200",
+                        "2842233629455957",
+                        "936184946003582",
+                        "2027431357855948",
+                        "1308533474511302",
+                        "1274767361506777",
+                        "961746862917392",
+                        "967878819103138",
+                        "1088496246823205",
+                        "964183099447392",
+                        "1099682829002949",
+                        "1653095665705936",
+                        "1295175892471697",
+                        "1657758595671844",
+                        "1707733177635868",
+                        "25767184296314185",
+                        "2385258498616241",
+                        "1515464630582101",
+                        "1711168080244919",
+                        "949454860995320",
+                        "3820091528300450",
+                        "1640915937083311",
+                        "968258418919494",
+                        "2193508854799229",
+                        "2218030488730615",
+                        "1541268864671468",
+                        "1437438444528200",
+                        "2842233629455957",
+                        "936184946003582",
+                        "2027431357855948",
+                        "1308533474511302",
+                        "1274767361506777",
+                        "961746862917392",
+                        "967878819103138",
+                        "1088496246823205",
+                        "964183099447392",
+                        "1099682829002949",
+                        "1653095665705936",
+                        "1295175892471697",
+                        "1657758595671844",
+                        "1707733177635868",
+                        "25767184296314185",
+                        "2385258498616241",
+                        "1515464630582101",
+                        "1711168080244919",
+                        "949454860995320",
+                        "3820091528300450",
+                        "1640915937083311"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');"
+                    ]
+                }
+            ],
+            "lightweight": [
+                [
+                    "968258418919494",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=968258418919494&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "2193508854799229",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=2193508854799229&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "2218030488730615",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=2218030488730615&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "1541268864671468",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=1541268864671468&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "1437438444528200",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=1437438444528200&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "2842233629455957",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=2842233629455957&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "936184946003582",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=936184946003582&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "2027431357855948",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=2027431357855948&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "1308533474511302",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=1308533474511302&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "1274767361506777",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=1274767361506777&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "961746862917392",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=961746862917392&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "967878819103138",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=967878819103138&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "1088496246823205",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=1088496246823205&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "964183099447392",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=964183099447392&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "1099682829002949",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=1099682829002949&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "1653095665705936",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=1653095665705936&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "1295175892471697",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=1295175892471697&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "1657758595671844",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=1657758595671844&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "1707733177635868",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=1707733177635868&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "25767184296314185",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=25767184296314185&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "2385258498616241",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=2385258498616241&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "1515464630582101",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=1515464630582101&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "1711168080244919",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=1711168080244919&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "949454860995320",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=949454860995320&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "3820091528300450",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=3820091528300450&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "1640915937083311",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=1640915937083311&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "apktohir78-a11.store": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "apktohir78-a11.store",
+                    "init": [
+                        "968258418919494"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a11.store",
+                    "init": [
+                        "2193508854799229"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a11.store",
+                    "init": [
+                        "2218030488730615"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a11.store",
+                    "init": [
+                        "1541268864671468"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a11.store",
+                    "init": [
+                        "1437438444528200"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a11.store",
+                    "init": [
+                        "2842233629455957"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a11.store",
+                    "init": [
+                        "936184946003582"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a11.store",
+                    "init": [
+                        "2027431357855948"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a11.store",
+                    "init": [
+                        "1308533474511302"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a11.store",
+                    "init": [
+                        "1274767361506777"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a11.store",
+                    "init": [
+                        "961746862917392"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a11.store",
+                    "init": [
+                        "967878819103138"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a11.store",
+                    "init": [
+                        "1088496246823205"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a11.store",
+                    "init": [
+                        "964183099447392"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a11.store",
+                    "init": [
+                        "1099682829002949"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a11.store",
+                    "init": [
+                        "1653095665705936"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a11.store",
+                    "init": [
+                        "1295175892471697"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a11.store",
+                    "init": [
+                        "1657758595671844"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a11.store",
+                    "init": [
+                        "1707733177635868"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a11.store",
+                    "init": [
+                        "25767184296314185"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a11.store",
+                    "init": [
+                        "2385258498616241"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a11.store",
+                    "init": [
+                        "1515464630582101"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a11.store",
+                    "init": [
+                        "1711168080244919"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a11.store",
+                    "init": [
+                        "949454860995320"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a11.store",
+                    "init": [
+                        "3820091528300450"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a11.store",
+                    "init": [
+                        "1640915937083311"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a11.store",
+                    "init": [
+                        "968258418919494",
+                        "2193508854799229",
+                        "2218030488730615",
+                        "1541268864671468",
+                        "1437438444528200",
+                        "2842233629455957",
+                        "936184946003582",
+                        "2027431357855948",
+                        "1308533474511302",
+                        "1274767361506777",
+                        "961746862917392",
+                        "967878819103138",
+                        "1088496246823205",
+                        "964183099447392",
+                        "1099682829002949",
+                        "1653095665705936",
+                        "1295175892471697",
+                        "1657758595671844",
+                        "1707733177635868",
+                        "25767184296314185",
+                        "2385258498616241",
+                        "1515464630582101",
+                        "1711168080244919",
+                        "949454860995320",
+                        "3820091528300450",
+                        "1640915937083311",
+                        "968258418919494",
+                        "2193508854799229",
+                        "2218030488730615",
+                        "1541268864671468",
+                        "1437438444528200",
+                        "2842233629455957",
+                        "936184946003582",
+                        "2027431357855948",
+                        "1308533474511302",
+                        "1274767361506777",
+                        "961746862917392",
+                        "967878819103138",
+                        "1088496246823205",
+                        "964183099447392",
+                        "1099682829002949",
+                        "1653095665705936",
+                        "1295175892471697",
+                        "1657758595671844",
+                        "1707733177635868",
+                        "25767184296314185",
+                        "2385258498616241",
+                        "1515464630582101",
+                        "1711168080244919",
+                        "949454860995320",
+                        "3820091528300450",
+                        "1640915937083311"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');"
+                    ]
+                }
+            ],
+            "lightweight": [
+                [
+                    "968258418919494",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=968258418919494&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "2193508854799229",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=2193508854799229&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "2218030488730615",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=2218030488730615&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "1541268864671468",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=1541268864671468&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "1437438444528200",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=1437438444528200&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "2842233629455957",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=2842233629455957&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "936184946003582",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=936184946003582&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "2027431357855948",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=2027431357855948&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "1308533474511302",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=1308533474511302&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "1274767361506777",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=1274767361506777&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "961746862917392",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=961746862917392&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "967878819103138",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=967878819103138&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "1088496246823205",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=1088496246823205&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "964183099447392",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=964183099447392&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "1099682829002949",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=1099682829002949&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "1653095665705936",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=1653095665705936&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "1295175892471697",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=1295175892471697&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "1657758595671844",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=1657758595671844&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "1707733177635868",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=1707733177635868&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "25767184296314185",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=25767184296314185&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "2385258498616241",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=2385258498616241&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "1515464630582101",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=1515464630582101&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "1711168080244919",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=1711168080244919&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "949454860995320",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=949454860995320&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "3820091528300450",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=3820091528300450&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "1640915937083311",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=1640915937083311&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "apktohir78-a18.store": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "apktohir78-a18.store",
+                    "init": [
+                        "968258418919494"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a18.store",
+                    "init": [
+                        "2193508854799229"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a18.store",
+                    "init": [
+                        "2218030488730615"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a18.store",
+                    "init": [
+                        "1541268864671468"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a18.store",
+                    "init": [
+                        "1437438444528200"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a18.store",
+                    "init": [
+                        "2842233629455957"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a18.store",
+                    "init": [
+                        "936184946003582"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a18.store",
+                    "init": [
+                        "2027431357855948"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a18.store",
+                    "init": [
+                        "1308533474511302"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a18.store",
+                    "init": [
+                        "1274767361506777"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a18.store",
+                    "init": [
+                        "961746862917392"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a18.store",
+                    "init": [
+                        "967878819103138"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a18.store",
+                    "init": [
+                        "1088496246823205"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a18.store",
+                    "init": [
+                        "964183099447392"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a18.store",
+                    "init": [
+                        "1099682829002949"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a18.store",
+                    "init": [
+                        "1653095665705936"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a18.store",
+                    "init": [
+                        "1295175892471697"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a18.store",
+                    "init": [
+                        "1657758595671844"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a18.store",
+                    "init": [
+                        "1707733177635868"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a18.store",
+                    "init": [
+                        "25767184296314185"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a18.store",
+                    "init": [
+                        "2385258498616241"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a18.store",
+                    "init": [
+                        "1515464630582101"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a18.store",
+                    "init": [
+                        "1711168080244919"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a18.store",
+                    "init": [
+                        "949454860995320"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a18.store",
+                    "init": [
+                        "3820091528300450"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a18.store",
+                    "init": [
+                        "1640915937083311"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a18.store",
+                    "init": [
+                        "968258418919494",
+                        "2193508854799229",
+                        "2218030488730615",
+                        "1541268864671468",
+                        "1437438444528200",
+                        "2842233629455957",
+                        "936184946003582",
+                        "2027431357855948",
+                        "1308533474511302",
+                        "1274767361506777",
+                        "961746862917392",
+                        "967878819103138",
+                        "1088496246823205",
+                        "964183099447392",
+                        "1099682829002949",
+                        "1653095665705936",
+                        "1295175892471697",
+                        "1657758595671844",
+                        "1707733177635868",
+                        "25767184296314185",
+                        "2385258498616241",
+                        "1515464630582101",
+                        "1711168080244919",
+                        "949454860995320",
+                        "3820091528300450",
+                        "1640915937083311",
+                        "968258418919494",
+                        "2193508854799229",
+                        "2218030488730615",
+                        "1541268864671468",
+                        "1437438444528200",
+                        "2842233629455957",
+                        "936184946003582",
+                        "2027431357855948",
+                        "1308533474511302",
+                        "1274767361506777",
+                        "961746862917392",
+                        "967878819103138",
+                        "1088496246823205",
+                        "964183099447392",
+                        "1099682829002949",
+                        "1653095665705936",
+                        "1295175892471697",
+                        "1657758595671844",
+                        "1707733177635868",
+                        "25767184296314185",
+                        "2385258498616241",
+                        "1515464630582101",
+                        "1711168080244919",
+                        "949454860995320",
+                        "3820091528300450",
+                        "1640915937083311"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');"
+                    ]
+                }
+            ],
+            "lightweight": [
+                [
+                    "968258418919494",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=968258418919494&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "2193508854799229",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=2193508854799229&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "2218030488730615",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=2218030488730615&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "1541268864671468",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=1541268864671468&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "1437438444528200",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=1437438444528200&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "2842233629455957",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=2842233629455957&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "936184946003582",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=936184946003582&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "2027431357855948",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=2027431357855948&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "1308533474511302",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=1308533474511302&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "1274767361506777",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=1274767361506777&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "961746862917392",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=961746862917392&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "967878819103138",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=967878819103138&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "1088496246823205",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=1088496246823205&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "964183099447392",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=964183099447392&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "1099682829002949",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=1099682829002949&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "1653095665705936",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=1653095665705936&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "1295175892471697",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=1295175892471697&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "1657758595671844",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=1657758595671844&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "1707733177635868",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=1707733177635868&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "25767184296314185",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=25767184296314185&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "2385258498616241",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=2385258498616241&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "1515464630582101",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=1515464630582101&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "1711168080244919",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=1711168080244919&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "949454860995320",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=949454860995320&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "3820091528300450",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=3820091528300450&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "1640915937083311",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=1640915937083311&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "apktohir78-a19.store": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "apktohir78-a19.store",
+                    "init": [
+                        "968258418919494"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a19.store",
+                    "init": [
+                        "2193508854799229"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a19.store",
+                    "init": [
+                        "2218030488730615"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a19.store",
+                    "init": [
+                        "1541268864671468"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a19.store",
+                    "init": [
+                        "1437438444528200"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a19.store",
+                    "init": [
+                        "2842233629455957"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a19.store",
+                    "init": [
+                        "936184946003582"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a19.store",
+                    "init": [
+                        "2027431357855948"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a19.store",
+                    "init": [
+                        "1308533474511302"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a19.store",
+                    "init": [
+                        "1274767361506777"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a19.store",
+                    "init": [
+                        "961746862917392"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a19.store",
+                    "init": [
+                        "967878819103138"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a19.store",
+                    "init": [
+                        "1088496246823205"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a19.store",
+                    "init": [
+                        "964183099447392"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a19.store",
+                    "init": [
+                        "1099682829002949"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a19.store",
+                    "init": [
+                        "1653095665705936"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a19.store",
+                    "init": [
+                        "1295175892471697"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a19.store",
+                    "init": [
+                        "1657758595671844"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a19.store",
+                    "init": [
+                        "1707733177635868"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a19.store",
+                    "init": [
+                        "25767184296314185"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a19.store",
+                    "init": [
+                        "2385258498616241"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a19.store",
+                    "init": [
+                        "1515464630582101"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a19.store",
+                    "init": [
+                        "1711168080244919"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a19.store",
+                    "init": [
+                        "949454860995320"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a19.store",
+                    "init": [
+                        "3820091528300450"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a19.store",
+                    "init": [
+                        "1640915937083311"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "apktohir78-a19.store",
+                    "init": [
+                        "968258418919494",
+                        "2193508854799229",
+                        "2218030488730615",
+                        "1541268864671468",
+                        "1437438444528200",
+                        "2842233629455957",
+                        "936184946003582",
+                        "2027431357855948",
+                        "1308533474511302",
+                        "1274767361506777",
+                        "961746862917392",
+                        "967878819103138",
+                        "1088496246823205",
+                        "964183099447392",
+                        "1099682829002949",
+                        "1653095665705936",
+                        "1295175892471697",
+                        "1657758595671844",
+                        "1707733177635868",
+                        "25767184296314185",
+                        "2385258498616241",
+                        "1515464630582101",
+                        "1711168080244919",
+                        "949454860995320",
+                        "3820091528300450",
+                        "1640915937083311",
+                        "968258418919494",
+                        "2193508854799229",
+                        "2218030488730615",
+                        "1541268864671468",
+                        "1437438444528200",
+                        "2842233629455957",
+                        "936184946003582",
+                        "2027431357855948",
+                        "1308533474511302",
+                        "1274767361506777",
+                        "961746862917392",
+                        "967878819103138",
+                        "1088496246823205",
+                        "964183099447392",
+                        "1099682829002949",
+                        "1653095665705936",
+                        "1295175892471697",
+                        "1657758595671844",
+                        "1707733177635868",
+                        "25767184296314185",
+                        "2385258498616241",
+                        "1515464630582101",
+                        "1711168080244919",
+                        "949454860995320",
+                        "3820091528300450",
+                        "1640915937083311"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');",
+                        "fbq('track', 'PageView');"
+                    ]
+                }
+            ],
+            "lightweight": [
+                [
+                    "968258418919494",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=968258418919494&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "2193508854799229",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=2193508854799229&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "2218030488730615",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=2218030488730615&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "1541268864671468",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=1541268864671468&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "1437438444528200",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=1437438444528200&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "2842233629455957",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=2842233629455957&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "936184946003582",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=936184946003582&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "2027431357855948",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=2027431357855948&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "1308533474511302",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=1308533474511302&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "1274767361506777",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=1274767361506777&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "961746862917392",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=961746862917392&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "967878819103138",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=967878819103138&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "1088496246823205",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=1088496246823205&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "964183099447392",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=964183099447392&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "1099682829002949",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=1099682829002949&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "1653095665705936",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=1653095665705936&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "1295175892471697",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=1295175892471697&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "1657758595671844",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=1657758595671844&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "1707733177635868",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=1707733177635868&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "25767184296314185",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=25767184296314185&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "2385258498616241",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=2385258498616241&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "1515464630582101",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=1515464630582101&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "1711168080244919",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=1711168080244919&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "949454860995320",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=949454860995320&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "3820091528300450",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=3820091528300450&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "1640915937083311",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=1640915937083311&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "clickcraze123.top": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "clickcraze123.top",
+                    "init": [],
+                    "track": [
+                        "fbq(\"track\", \"PageView\", { external_id: \"019ec591-461a-74dd-87b0-8961a7981dd9\" });"
+                    ]
+                }
+            ],
+            "lightweight": null
+        }
+    },
+    "clickcraze345.top": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "clickcraze345.top",
+                    "init": [],
+                    "track": [
+                        "fbq(\"track\", \"PageView\", { external_id: \"019ec591-46eb-789e-a0d2-8023a9d0ecc9\" });"
+                    ]
+                }
+            ],
+            "lightweight": null
+        }
+    },
+    "clickgenius888.top": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "clickgenius888.top",
+                    "init": [],
+                    "track": [
+                        "fbq(\"track\", \"PageView\", { external_id: \"019ec591-48e4-73a6-a1e5-fbca653288d3\" });"
+                    ]
+                }
+            ],
+            "lightweight": null
+        }
+    },
+    "clickgenius321.top": {
+        "PIXEL_GTM": {
+            "clickgenius321.top": {
+                "found_flag": 1,
+                "base_code_gtm": {
+                    "GTM-W4DZP5": [
+                        "534530363346991",
+                        "614683010534006"
+                    ]
+                },
+                "base_code_type": "basic",
+                "lightweight_gtm": {},
+                "light_code_type": ""
+            }
+        }
+    },
+    "clickingempire123.top": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "clickingempire123.top",
+                    "init": [],
+                    "track": [
+                        "fbq(\"track\", \"PageView\", { external_id: \"019ec591-536d-79d8-acc7-9e09ac79ed5a\" });"
+                    ]
+                }
+            ],
+            "lightweight": null
+        }
+    },
+    "clickhype345.top": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "clickhype345.top",
+                    "init": [],
+                    "track": [
+                        "fbq(\"track\", \"PageView\", { external_id: \"019ec591-550b-7c15-a595-2060dfb06df8\" });"
+                    ]
+                }
+            ],
+            "lightweight": null
+        }
+    },
+    "clickmania776.top": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "clickmania776.top",
+                    "init": [],
+                    "track": [
+                        "fbq(\"track\", \"PageView\", { external_id: \"019ec591-59c1-76d1-a125-9b0c2b7d53cb\" });"
+                    ]
+                }
+            ],
+            "lightweight": null
+        }
+    },
+    "clickmaster654.top": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "clickmaster654.top",
+                    "init": [],
+                    "track": [
+                        "fbq(\"track\", \"PageView\", { external_id: \"019ec591-5ab9-7d58-b1af-d6b8a1f6ce73\" });"
+                    ]
+                }
+            ],
+            "lightweight": null
+        }
+    },
+    "clicksensation456.top": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "clicksensation456.top",
+                    "init": [],
+                    "track": [
+                        "fbq(\"track\", \"PageView\", { external_id: \"019ec591-6238-71a0-b32e-7214c7e8aff5\" });"
+                    ]
+                }
+            ],
+            "lightweight": null
+        }
+    },
+    "clicksensation123.top": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "clicksensation123.top",
+                    "init": [],
+                    "track": [
+                        "fbq(\"track\", \"PageView\", { external_id: \"019ec591-657c-7b89-8731-faca17e4ef92\" });"
+                    ]
+                }
+            ],
+            "lightweight": null
+        }
+    },
+    "clickquest111.top": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "clickquest111.top",
+                    "init": [],
+                    "track": [
+                        "fbq(\"track\", \"PageView\", { external_id: \"019ec591-67ed-7f2a-8e2f-dc0cbff6dc51\" });"
+                    ]
+                }
+            ],
+            "lightweight": null
+        }
+    },
+    "clickquest123.top": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "clickquest123.top",
+                    "init": [],
+                    "track": [
+                        "fbq(\"track\", \"PageView\", { external_id: \"019ec591-6ef2-760c-8812-72928a9795d9\" });"
+                    ]
+                }
+            ],
+            "lightweight": null
+        }
+    },
+    "dangky-hoivien-km99k.top": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "dangky-hoivien-km99k.top",
+                    "init": [
+                        "455688898949692"
+                    ],
+                    "track": [
+                        "fbq(\"track\",\"PageView\");"
+                    ]
+                },
+                {
+                    "domain": "dangky-hoivien-km99k.top",
+                    "init": [
+                        "455688898949692"
+                    ],
+                    "track": []
+                }
+            ],
+            "lightweight": [
+                [
+                    "1264832718555575",
+                    "<img alt=\"\" height=\"1\" src=\"https://www.facebook.com/tr?id=1264832718555575&amp;ev=PageView&amp;noscript=1&amp;cd%5Bpage_title%5D=V%C6%B0%E1%BB%9Dn+Hoa+T%C6%B0%C6%A1i+Shop+Hoa+T%C6%B0%C6%A1i+%C4%90%E1%BA%B7t+Hoa+Online+Giao+Hoa+T%E1%BA%ADn+N%C6%A1i+Mi%E1%BB%85n+Ph%C3%AD&amp;cd%5Bpost_type%5D=page&amp;cd%5Bpost_id%5D=97&amp;cd%5Bplugin%5D=PixelYourSite&amp;cd%5Buser_role%5D=guest&amp;cd%5Bevent_url%5D=vuonhoatuoi.vn%2F\" style=\"display: none;\" width=\"1\"/>"
+                ],
+                [
+                    "455688898949692",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=455688898949692&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "455688898949692",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=455688898949692&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "fh01.sbs": {
+        "PIXEL_CORE": {
+            "base_code": null,
+            "lightweight": [
+                [
+                    "1860798041478412",
+                    "<img alt=\"\" height=\"1\" src=\"https://www.facebook.com/tr?id=1860798041478412&amp;ev=PageView&amp;noscript=1&amp;cd%5Bpost_category%5D=Uncategorized&amp;cd%5Bpage_title%5D=fh01.sbs&amp;cd%5Bpost_type%5D=page&amp;cd%5Bplugin%5D=PixelYourSite&amp;cd%5Buser_role%5D=guest&amp;cd%5Bevent_url%5D=fh01.sbs%2F\" style=\"display: none;\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "flixindo10411.top": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "flixindo10411.top",
+                    "init": [
+                        "1776485009663929"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                }
+            ],
+            "lightweight": [
+                [
+                    "1776485009663929",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=1776485009663929&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "funclicksters111.top": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "funclicksters111.top",
+                    "init": [],
+                    "track": [
+                        "fbq(\"track\", \"PageView\", { external_id: \"019ec596-eee8-7076-af2c-13a3515b71ad\" });"
+                    ]
+                }
+            ],
+            "lightweight": null
+        }
+    },
+    "funclicksters543.top": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "funclicksters543.top",
+                    "init": [],
+                    "track": [
+                        "fbq(\"track\", \"PageView\", { external_id: \"019ec596-f05c-71d4-a217-482d19532cf5\" });"
+                    ]
+                }
+            ],
+            "lightweight": null
+        }
+    },
+    "fungamingclicks123.top": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "fungamingclicks123.top",
+                    "init": [],
+                    "track": [
+                        "fbq(\"track\", \"PageView\", { external_id: \"019ec596-f698-7d30-b01d-c879c038bde0\" });"
+                    ]
+                }
+            ],
+            "lightweight": null
+        }
+    },
+    "gameblast250.top": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "gameblast250.top",
+                    "init": [],
+                    "track": [
+                        "fbq(\"track\", \"PageView\", { external_id: \"019ec597-e0de-70e8-830c-6873f2e5d407\" });"
+                    ]
+                }
+            ],
+            "lightweight": null
+        }
+    },
+    "gameclickers2027.top": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "gameclickers2027.top",
+                    "init": [],
+                    "track": [
+                        "fbq(\"track\", \"PageView\", { external_id: \"019ec597-e15a-7772-80a8-cc10a1106720\" });"
+                    ]
+                }
+            ],
+            "lightweight": null
+        }
+    },
+    "gamefrenzy345.top": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "gamefrenzy345.top",
+                    "init": [],
+                    "track": [
+                        "fbq(\"track\", \"PageView\", { external_id: \"019ec597-f613-7816-9ba7-18d28ac11a51\" });"
+                    ]
+                }
+            ],
+            "lightweight": null
+        }
+    },
+    "gamehaven500.top": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "gamehaven500.top",
+                    "init": [],
+                    "track": [
+                        "fbq(\"track\", \"PageView\", { external_id: \"019ec597-fc8d-7d1b-b485-f56fd53c3b75\" });"
+                    ]
+                }
+            ],
+            "lightweight": null
+        }
+    },
+    "gamemaster654.top": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "gamemaster654.top",
+                    "init": [],
+                    "track": [
+                        "fbq(\"track\", \"PageView\", { external_id: \"019ec597-fd50-7b1a-9af8-2b34a17d90e6\" });"
+                    ]
+                }
+            ],
+            "lightweight": null
+        }
+    },
+    "gamemania678.top": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "gamemania678.top",
+                    "init": [],
+                    "track": [
+                        "fbq(\"track\", \"PageView\", { external_id: \"019ec597-fe49-7944-b418-36ae2507f306\" });"
+                    ]
+                }
+            ],
+            "lightweight": null
+        }
+    },
+    "gameriot369.top": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "gameriot369.top",
+                    "init": [],
+                    "track": [
+                        "fbq(\"track\", \"PageView\", { external_id: \"019ec598-04e7-7e4a-b3e2-42bbedaeb235\" });"
+                    ]
+                }
+            ],
+            "lightweight": null
+        }
+    },
+    "gameempire321.top": {
+        "PIXEL_IN_OTHER_TP": {
+            "url": "https://gameempire321.top",
+            "implementations": [
+                {
+                    "pixel_id": "384508932290228",
+                    "implementation_type": "third-party",
+                    "script_url": "https://www.swissinfo.ch/eng/wp-content/client-mu-plugins/vendor/inpsyde/swissinfo-linked-data/assets/tag-commander/tc_SWI_15.js?v=30.03",
+                    "script_content": "/*\n * tagContainer Generator v101.0\n * Copyright Commanders Act\n * https://www.commandersact.com/fr/\n * Generated: 2026-03-24 12:24:56 Europe/Paris\n * ---\n * Version\t: 30.03\n * IDTC \t: 15\n * IDS\t\t: 3670\n */\n/*!compressed by terser*/ \"undefined\"==typeof tC&&(void 0!==document.domain&&void 0!==document.referrer||(document=window.document),function(e,t){var n,i=e.document,o=(e.location,e.navigator,e.tC,e.$,Array.prototype.push,Array.prototype.slice,Array.prototype.indexOf,Object.prototype.toString),c=(Object.prototype.hasOwnProperty,String.prototype.trim,function(e,t){return new c.fn.init(e,t,n)}),a=/^(?:[^#<]*(<[\\w\\W]+>)[^>]*$|#([\\w\\-]*)$)/,r=/^<(\\w+)\\s*\\/?>(?:<\\/\\1>|)$/,s={};c.fn=c.prototype={constructor:c,init:function(e,t,n){var o,s,d;if(!e)return this;if(e.nodeType)return this.context=this[0]=e,this.length=1,this;if(\"string\"==typeof e){if(!(o=\"<\"===e.charAt(0)&&\">\"===e.charAt(e.length-1)&&e.length>=3?[null,e,null]:a.exec(e))||!o[1]&&t)return!t||t.tC?(t||n).find(e):this.constructor(t)",
+                    "context": "Before(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');fbq('init','384508932290228');fbq('track','PageView');tC.launchTag(214,'floodlight - Config',2586,3670,15,31);if(typeof gtag===",
+                    "custom_config": {
+                        "custom_events": [
+                            "vents);var cact_event_attrs=cact_event.target||{};fbq('track','email');}});tC.extend({executeTag215_3670_15:function(el,p){if(!el||!el.target){el={type:\"no_event\",target:{}}};if(typeof p==\"undefined\"){p={};}\ntc_",
+                            "vents);var cact_event_attrs=cact_event.target||{};fbq('track','telefon');}});tC.extend({executeTag216_3670_15:function(el,p){if(!el||!el.target){el={type:\"no_event\",target:{}}};if(typeof p==\"undefined\"){p={};}\nt",
+                            "vents);var cact_event_attrs=cact_event.target||{};fbq('track','link_click');}});tC.extend({executeTag217_3670_15:function(el,p){if(!el||!el.target){el={type:\"no_event\",target:{}}};if(typeof p==\"undefined\"){p={};",
+                            "vents);var cact_event_attrs=cact_event.target||{};fbq('track','download');}});tC.extend({executeTag218_3670_15:function(el,p){if(!el||!el.target){el={type:\"no_event\",target:{}}};if(typeof p==\"undefined\"){p={};}\n",
+                            "vents);var cact_event_attrs=cact_event.target||{};fbq('track','social');}});tC.extend({executeTag219_3670_15:function(el,p){if(!el||!el.target){el={type:\"no_event\",target:{}}};if(typeof p==\"undefined\"){p={};}\ntc",
+                            "vents);var cact_event_attrs=cact_event.target||{};fbq('track','newsletter_subscription');}});tC.extend({executeTag220_3670_15:function(el,p){if(!el||!el.target){el={type:\"no_event\",target:{}}};if(typeof p==\"unde",
+                            "en_US/fbevents.js');fbq('init','384508932290228');fbq('track','PageView');tC.launchTag(214,'floodlight - Config',2586,3670,15,31);if(typeof gtag===\"undefined\"){tC.script.add(\"//www.googletagmanager.com/gtag/js?i",
+                            "0);tC.launchTag(212,'meta - ???',1264,3670,15,71);fbq('track','social');tC.onDomReady(function(){tC.container_3670_15.eventlisteners();tC.eventTarget.dispatchEvent('container-ready');tC.eventTarget.dispatchEvent"
+                        ]
+                    }
+                }
+            ],
+            "total_implementations": 1,
+            "unique_pixels": 1
+        }
+    },
+    "gamestorm111.top": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "gamestorm111.top",
+                    "init": [],
+                    "track": [
+                        "fbq(\"track\", \"PageView\", { external_id: \"019ec598-0d8e-7d9b-bef9-712a19c5f424\" });"
+                    ]
+                }
+            ],
+            "lightweight": null
+        }
+    },
+    "playtopia890.top": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "playtopia890.top",
+                    "init": [],
+                    "track": [
+                        "fbq(\"track\", \"PageView\", { external_id: \"019ec59e-6ef0-7118-872f-dd5da5ae22cc\" });"
+                    ]
+                }
+            ],
+            "lightweight": null
+        }
+    },
+    "quickclicks200.top": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "quickclicks200.top",
+                    "init": [],
+                    "track": [
+                        "fbq(\"track\", \"PageView\", { external_id: \"019ec5a0-1e57-761a-93c1-b096612c85b0\" });"
+                    ]
+                }
+            ],
+            "lightweight": null
+        }
+    },
+    "shopgameboom123.top": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "shopgameboom123.top",
+                    "init": [],
+                    "track": [
+                        "fbq(\"track\", \"PageView\", { external_id: \"019ec5a3-0e7e-7c6e-82d4-3bb7785af10c\" });"
+                    ]
+                }
+            ],
+            "lightweight": null
+        }
+    },
+    "shopchallenge777.top": {
+        "PIXEL_IN_OTHER_TP": {
+            "url": "https://shopchallenge777.top",
+            "implementations": [
+                {
+                    "pixel_id": "384508932290228",
+                    "implementation_type": "third-party",
+                    "script_url": "https://www.swissinfo.ch/eng/wp-content/client-mu-plugins/vendor/inpsyde/swissinfo-linked-data/assets/tag-commander/tc_SWI_15.js?v=30.03",
+                    "script_content": "/*\n * tagContainer Generator v101.0\n * Copyright Commanders Act\n * https://www.commandersact.com/fr/\n * Generated: 2026-03-24 12:24:56 Europe/Paris\n * ---\n * Version\t: 30.03\n * IDTC \t: 15\n * IDS\t\t: 3670\n */\n/*!compressed by terser*/ \"undefined\"==typeof tC&&(void 0!==document.domain&&void 0!==document.referrer||(document=window.document),function(e,t){var n,i=e.document,o=(e.location,e.navigator,e.tC,e.$,Array.prototype.push,Array.prototype.slice,Array.prototype.indexOf,Object.prototype.toString),c=(Object.prototype.hasOwnProperty,String.prototype.trim,function(e,t){return new c.fn.init(e,t,n)}),a=/^(?:[^#<]*(<[\\w\\W]+>)[^>]*$|#([\\w\\-]*)$)/,r=/^<(\\w+)\\s*\\/?>(?:<\\/\\1>|)$/,s={};c.fn=c.prototype={constructor:c,init:function(e,t,n){var o,s,d;if(!e)return this;if(e.nodeType)return this.context=this[0]=e,this.length=1,this;if(\"string\"==typeof e){if(!(o=\"<\"===e.charAt(0)&&\">\"===e.charAt(e.length-1)&&e.length>=3?[null,e,null]:a.exec(e))||!o[1]&&t)return!t||t.tC?(t||n).find(e):this.constructor(t)",
+                    "context": "Before(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');fbq('init','384508932290228');fbq('track','PageView');tC.launchTag(214,'floodlight - Config',2586,3670,15,31);if(typeof gtag===",
+                    "custom_config": {
+                        "custom_events": [
+                            "vents);var cact_event_attrs=cact_event.target||{};fbq('track','email');}});tC.extend({executeTag215_3670_15:function(el,p){if(!el||!el.target){el={type:\"no_event\",target:{}}};if(typeof p==\"undefined\"){p={};}\ntc_",
+                            "vents);var cact_event_attrs=cact_event.target||{};fbq('track','telefon');}});tC.extend({executeTag216_3670_15:function(el,p){if(!el||!el.target){el={type:\"no_event\",target:{}}};if(typeof p==\"undefined\"){p={};}\nt",
+                            "vents);var cact_event_attrs=cact_event.target||{};fbq('track','link_click');}});tC.extend({executeTag217_3670_15:function(el,p){if(!el||!el.target){el={type:\"no_event\",target:{}}};if(typeof p==\"undefined\"){p={};",
+                            "vents);var cact_event_attrs=cact_event.target||{};fbq('track','download');}});tC.extend({executeTag218_3670_15:function(el,p){if(!el||!el.target){el={type:\"no_event\",target:{}}};if(typeof p==\"undefined\"){p={};}\n",
+                            "vents);var cact_event_attrs=cact_event.target||{};fbq('track','social');}});tC.extend({executeTag219_3670_15:function(el,p){if(!el||!el.target){el={type:\"no_event\",target:{}}};if(typeof p==\"undefined\"){p={};}\ntc",
+                            "vents);var cact_event_attrs=cact_event.target||{};fbq('track','newsletter_subscription');}});tC.extend({executeTag220_3670_15:function(el,p){if(!el||!el.target){el={type:\"no_event\",target:{}}};if(typeof p==\"unde",
+                            "en_US/fbevents.js');fbq('init','384508932290228');fbq('track','PageView');tC.launchTag(214,'floodlight - Config',2586,3670,15,31);if(typeof gtag===\"undefined\"){tC.script.add(\"//www.googletagmanager.com/gtag/js?i",
+                            "0);tC.launchTag(212,'meta - ???',1264,3670,15,71);fbq('track','social');tC.onDomReady(function(){tC.container_3670_15.eventlisteners();tC.eventTarget.dispatchEvent('container-ready');tC.eventTarget.dispatchEvent"
+                        ]
+                    }
+                }
+            ],
+            "total_implementations": 1,
+            "unique_pixels": 1
+        }
+    },
+    "shopgamemaster247.top": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "shopgamemaster247.top",
+                    "init": [],
+                    "track": [
+                        "fbq(\"track\", \"PageView\", { external_id: \"019ec5a3-1957-71d8-b06e-ca589efd1de5\" });"
+                    ]
+                }
+            ],
+            "lightweight": null
+        }
+    },
+    "shopgaming321.top": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "shopgaming321.top",
+                    "init": [],
+                    "track": [
+                        "fbq(\"track\", \"PageView\", { external_id: \"019ec5a3-1981-7166-a6f6-13a56cd5c85c\" });"
+                    ]
+                }
+            ],
+            "lightweight": null
+        }
+    },
+    "shopmystery888.top": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "shopmystery888.top",
+                    "init": [],
+                    "track": [
+                        "fbq(\"track\", \"PageView\", { external_id: \"019ec5a3-1b7d-7ef5-b168-0e387acff637\" });"
+                    ]
+                }
+            ],
+            "lightweight": null
+        }
+    },
+    "shopgaming123.top": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "shopgaming123.top",
+                    "init": [],
+                    "track": [
+                        "fbq(\"track\", \"PageView\", { external_id: \"019ec5a3-1ff8-7677-ae2b-17513024c4bf\" });"
+                    ]
+                }
+            ],
+            "lightweight": null
+        }
+    },
+    "soicau3.top": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "soicau3.top",
+                    "init": [
+                        "842635648011813"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "soicau3.top",
+                    "init": [
+                        "529777519918062"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                }
+            ],
+            "lightweight": [
+                [
+                    "842635648011813",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=842635648011813&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "529777519918062",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=529777519918062&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "soicau8.top": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "soicau8.top",
+                    "init": [
+                        "1111583543112937"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "soicau8.top",
+                    "init": [
+                        "2744258599037787"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "soicau8.top",
+                    "init": [
+                        "870656070986782"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                },
+                {
+                    "domain": "soicau8.top",
+                    "init": [
+                        "852993455861073"
+                    ],
+                    "track": [
+                        "fbq('track', 'PageView');"
+                    ]
+                }
+            ],
+            "lightweight": [
+                [
+                    "1111583543112937",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=1111583543112937&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "2744258599037787",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=2744258599037787&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "870656070986782",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=870656070986782&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ],
+                [
+                    "852993455861073",
+                    "<img height=\"1\" src=\"https://www.facebook.com/tr?id=852993455861073&amp;ev=PageView&amp;noscript=1\" style=\"display:none\" width=\"1\"/>"
+                ]
+            ]
+        }
+    },
+    "topgameclickers789.top": {
+        "PIXEL_CORE": {
+            "base_code": [
+                {
+                    "domain": "topgameclickers789.top",
+                    "init": [],
+                    "track": [
+                        "fbq(\"track\", \"PageView\", { external_id: \"019ec5a5-0521-7daf-8ffe-ce9463635745\" });"
+                    ]
+                }
+            ],
+            "lightweight": null
+        }
+    }
+}

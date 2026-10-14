@@ -1,0 +1,555 @@
+{
+    "name": "ouigo.com",
+    "handle": "1618292274_DOMAIN_COM-VRSN",
+    "registrationDate": "9/30/2010, 10:02:50 PM GMT+3",
+    "expirationDate": "9/30/2026, 10:02:50 PM GMT+3",
+    "lastChangedDate": "11/20/2025, 9:22:55 PM GMT+2",
+    "lastUpdateDate": "6/23/2026, 3:53:05 PM GMT+3",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "roles": [
+                "abuse"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "http://www.report-abuse.online"
+                    ]
+                ]
+            ]
+        },
+        {
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "roles": [
+                        "abuse"
+                    ],
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                ""
+                            ],
+                            [
+                                "contact-uri",
+                                {},
+                                "uri",
+                                "http://www.report-abuse.online"
+                            ]
+                        ]
+                    ]
+                }
+            ],
+            "handle": "1290",
+            "lang": "en-US",
+            "links": [
+                {
+                    "href": "",
+                    "rel": "about",
+                    "type": "application/rdap+json",
+                    "value": "https://rdap.safebrands.com/"
+                }
+            ],
+            "objectClassName": "entity",
+            "publicIds": [
+                {
+                    "identifier": "1290",
+                    "type": "IANA Registrar ID"
+                }
+            ],
+            "roles": [
+                "registrar"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "SafeBrands SAS"
+                    ]
+                ]
+            ]
+        },
+        {
+            "lang": "en-US",
+            "objectClassName": "entity",
+            "remarks": [
+                {
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ],
+                    "type": "object redacted due to authorization"
+                }
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "FR",
+                            "type": ""
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": ""
+                        },
+                        "text",
+                        "info@domain-contact.org"
+                    ]
+                ]
+            ]
+        },
+        {
+            "lang": "en-US",
+            "objectClassName": "entity",
+            "remarks": [
+                {
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ],
+                    "type": "object redacted due to authorization"
+                }
+            ],
+            "roles": [
+                "technical"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Master Host"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "SafeBrands"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "FR",
+                            "type": ""
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "Pole Media de la Belle de Mai",
+                            "Marseille cedex 03",
+                            "",
+                            "13356",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+33.488662222"
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": ""
+                        },
+                        "text",
+                        "clientele@safebrands.com"
+                    ]
+                ]
+            ]
+        },
+        {
+            "ipAddresses": {
+                "v4": [
+                    "193.227.117.17"
+                ],
+                "v6": [
+                    "2a04:2b00:14cc:0:0:0:0:17"
+                ]
+            },
+            "lang": "en-US",
+            "ldhName": "ns1.safebrands.fr",
+            "objectClassName": "nameserver",
+            "status": [
+                "active"
+            ],
+            "unicodeName": "ns1.safebrands.fr"
+        },
+        {
+            "ipAddresses": {
+                "v4": [
+                    "194.50.187.18"
+                ],
+                "v6": [
+                    "2a04:2b00:14dd:0:0:0:0:18"
+                ]
+            },
+            "lang": "en-US",
+            "ldhName": "ns2.safebrands.eu",
+            "objectClassName": "nameserver",
+            "status": [
+                "active"
+            ],
+            "unicodeName": "ns2.safebrands.eu"
+        },
+        {
+            "ipAddresses": {
+                "v4": [
+                    "194.0.182.19"
+                ],
+                "v6": [
+                    "2a04:2b00:14ee:0:0:0:0:19"
+                ]
+            },
+            "lang": "en-US",
+            "ldhName": "ns3.safebrands.com",
+            "objectClassName": "nameserver",
+            "status": [
+                "active"
+            ],
+            "unicodeName": "ns3.safebrands.com"
+        },
+        {
+            "ipAddresses": {
+                "v4": [
+                    "193.227.117.20"
+                ],
+                "v6": [
+                    "2a04:2b00:14cc:0:0:0:0:20"
+                ]
+            },
+            "lang": "en-US",
+            "ldhName": "ns4.safebrands.org",
+            "objectClassName": "nameserver",
+            "status": [
+                "active"
+            ],
+            "unicodeName": "ns4.safebrands.org"
+        },
+        {
+            "ipAddresses": {
+                "v4": [
+                    "194.50.187.21"
+                ],
+                "v6": [
+                    "2a04:2b00:14dd:0:0:0:0:21"
+                ]
+            },
+            "lang": "en-US",
+            "ldhName": "ns5.safebrands.tech",
+            "objectClassName": "nameserver",
+            "status": [
+                "active"
+            ],
+            "unicodeName": "ns5.safebrands.tech"
+        },
+        {
+            "handle": "1618292274_DOMAIN_COM-VRSN",
+            "ldhName": "ouigo.com",
+            "nameservers": [
+                {
+                    "ipAddresses": {
+                        "v4": [
+                            "193.227.117.17"
+                        ],
+                        "v6": [
+                            "2a04:2b00:14cc:0:0:0:0:17"
+                        ]
+                    },
+                    "lang": "en-US",
+                    "ldhName": "ns1.safebrands.fr",
+                    "objectClassName": "nameserver",
+                    "status": [
+                        "active"
+                    ],
+                    "unicodeName": "ns1.safebrands.fr"
+                },
+                {
+                    "ipAddresses": {
+                        "v4": [
+                            "194.50.187.18"
+                        ],
+                        "v6": [
+                            "2a04:2b00:14dd:0:0:0:0:18"
+                        ]
+                    },
+                    "lang": "en-US",
+                    "ldhName": "ns2.safebrands.eu",
+                    "objectClassName": "nameserver",
+                    "status": [
+                        "active"
+                    ],
+                    "unicodeName": "ns2.safebrands.eu"
+                },
+                {
+                    "ipAddresses": {
+                        "v4": [
+                            "194.0.182.19"
+                        ],
+                        "v6": [
+                            "2a04:2b00:14ee:0:0:0:0:19"
+                        ]
+                    },
+                    "lang": "en-US",
+                    "ldhName": "ns3.safebrands.com",
+                    "objectClassName": "nameserver",
+                    "status": [
+                        "active"
+                    ],
+                    "unicodeName": "ns3.safebrands.com"
+                },
+                {
+                    "ipAddresses": {
+                        "v4": [
+                            "193.227.117.20"
+                        ],
+                        "v6": [
+                            "2a04:2b00:14cc:0:0:0:0:20"
+                        ]
+                    },
+                    "lang": "en-US",
+                    "ldhName": "ns4.safebrands.org",
+                    "objectClassName": "nameserver",
+                    "status": [
+                        "active"
+                    ],
+                    "unicodeName": "ns4.safebrands.org"
+                },
+                {
+                    "ipAddresses": {
+                        "v4": [
+                            "194.50.187.21"
+                        ],
+                        "v6": [
+                            "2a04:2b00:14dd:0:0:0:0:21"
+                        ]
+                    },
+                    "lang": "en-US",
+                    "ldhName": "ns5.safebrands.tech",
+                    "objectClassName": "nameserver",
+                    "status": [
+                        "active"
+                    ],
+                    "unicodeName": "ns5.safebrands.tech"
+                }
+            ],
+            "notices": [
+                {
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ],
+                    "links": [
+                        {
+                            "href": "https://icann.org/epp",
+                            "rel": "glossary",
+                            "title": "More information on domain status codes",
+                            "type": "application/rdap+json",
+                            "value": "https://rdap.safebrands.com/domain/ouigo.com"
+                        }
+                    ],
+                    "title": "Status Codes"
+                },
+                {
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ],
+                    "links": [
+                        {
+                            "href": "https://icann.org/wicf",
+                            "rel": "help",
+                            "type": "application/rdap+json",
+                            "value": "https://rdap.safebrands.com/domain/ouigo.com"
+                        }
+                    ],
+                    "title": "RDDS Inaccuracy Complaint Form"
+                },
+                {
+                    "description": [
+                        "The data in the RDAP database of SafeBrands SAS is provided by",
+                        "SafeBrands SAS for information purposes, and to assist persons in",
+                        "obtaining information about or related to domain name registration",
+                        "records. SafeBrands SAS does not guarantee its accuracy.",
+                        "By submitting a RDAP query, you agree that you will use this data",
+                        "only for lawful purposes and that, under no circumstances, you will",
+                        "use this data to",
+                        "1) allow, enable, or otherwise support the transmission of mass",
+                        "   unsolicited, commercial advertising or solicitations via E-mail",
+                        "   (spam); or",
+                        "2) enable high volume, automated, electronic processes that apply",
+                        "   to SafeBrands SAS or its systems.",
+                        "SafeBrands SAS reserves the right to modify these terms.",
+                        "By submitting this query, you agree to abide by this policy."
+                    ],
+                    "links": [
+                        {
+                            "href": "https://www.key-systems.net/en/legal/terms-conditions",
+                            "rel": "terms-of-service",
+                            "title": "Terms & Conditions",
+                            "value": "https://rdap.safebrands.com/domain/ouigo.com"
+                        }
+                    ],
+                    "title": "Terms of Use"
+                }
+            ],
+            "objectClassName": "domain",
+            "rdapConformance": [
+                "rdap_level_0",
+                "icann_rdap_response_profile_1",
+                "icann_rdap_technical_implementation_guide_1",
+                "redacted"
+            ],
+            "redacted": [
+                {
+                    "method": "emptyValue",
+                    "name": {
+                        "type": "Registrant City"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][3]"
+                },
+                {
+                    "method": "replacementValue",
+                    "name": {
+                        "type": "Registrant Email"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='email')]"
+                },
+                {
+                    "method": "removal",
+                    "name": {
+                        "type": "Registrant Fax"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[1].type=='fax')]"
+                },
+                {
+                    "method": "emptyValue",
+                    "name": {
+                        "type": "Registrant Name"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='fn')][3]"
+                },
+                {
+                    "method": "removal",
+                    "name": {
+                        "type": "Registrant Organization"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='org')]"
+                },
+                {
+                    "method": "removal",
+                    "name": {
+                        "type": "Registrant Phone"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[1].type=='voice')]"
+                },
+                {
+                    "method": "emptyValue",
+                    "name": {
+                        "type": "Registrant Street"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][:3]"
+                },
+                {
+                    "method": "emptyValue",
+                    "name": {
+                        "type": "Registrant Postal Code"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][5]"
+                },
+                {
+                    "method": "removal",
+                    "name": {
+                        "type": "Registry Registrant ID"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].handle"
+                },
+                {
+                    "method": "removal",
+                    "name": {
+                        "type": "Registry Tech ID"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='tech')].handle"
+                }
+            ],
+            "secureDNS": {
+                "delegationSigned": false
+            },
+            "unicodeName": "ouigo.com"
+        }
+    ],
+    "domain": "ouigo.com\r"
+}

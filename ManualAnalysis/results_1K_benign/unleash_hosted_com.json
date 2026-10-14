@@ -1,0 +1,370 @@
+{
+    "name": "UNLEASH-HOSTED.COM",
+    "handle": "2371850146_DOMAIN_COM-VRSN",
+    "registrationDate": "3/22/2019, 10:05:03 AM GMT+2",
+    "expirationDate": "3/22/2027, 10:05:03 AM GMT+2",
+    "lastChangedDate": "6/22/2026, 8:10:08 PM GMT+3",
+    "lastUpdateDate": "6/23/2026, 3:24:34 AM GMT+3",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "roles": [
+                "abuse"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Domeneshop Abuse Team"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+4722943333"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "abuse@domainnameshop.com"
+                    ]
+                ]
+            ]
+        },
+        {
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "roles": [
+                        "abuse"
+                    ],
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Domeneshop Abuse Team"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "voice"
+                                },
+                                "uri",
+                                "tel:+4722943333"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "abuse@domainnameshop.com"
+                            ]
+                        ]
+                    ]
+                }
+            ],
+            "handle": "1001",
+            "links": [
+                {
+                    "href": "https://domainnameshop.com",
+                    "rel": "self",
+                    "type": "text/html",
+                    "value": "https://domainnameshop.com"
+                }
+            ],
+            "objectClassName": "entity",
+            "publicIds": [
+                {
+                    "identifier": "1001",
+                    "type": "IANA Registrar ID"
+                }
+            ],
+            "roles": [
+                "registrar"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Domeneshop AS dba domainnameshop.com"
+                    ]
+                ]
+            ]
+        },
+        {
+            "handle": "",
+            "objectClassName": "entity",
+            "remarks": [
+                {
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ],
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object truncated due to authorization"
+                }
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "BRICKS SOFTWARE AS"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "NO"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "mailto:qhjugfjty5hy@privacy-protection.email"
+                    ]
+                ]
+            ]
+        },
+        {
+            "handle": "",
+            "objectClassName": "entity",
+            "remarks": [
+                {
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ],
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object truncated due to authorization"
+                }
+            ],
+            "roles": [
+                "administrative"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "mailto:wf4j53eiqcxx@privacy-protection.email"
+                    ]
+                ]
+            ]
+        },
+        {
+            "handle": "",
+            "objectClassName": "entity",
+            "remarks": [
+                {
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ],
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object truncated due to authorization"
+                }
+            ],
+            "roles": [
+                "technical"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "mailto:hostmaster@domeneshop.no"
+                    ]
+                ]
+            ]
+        },
+        {
+            "ldhName": "ns1.hyp.net",
+            "objectClassName": "nameserver"
+        },
+        {
+            "ldhName": "ns2.hyp.net",
+            "objectClassName": "nameserver"
+        },
+        {
+            "ldhName": "ns3.hyp.net",
+            "objectClassName": "nameserver"
+        },
+        {
+            "handle": "2371850146_DOMAIN_COM-VRSN",
+            "ldhName": "UNLEASH-HOSTED.COM",
+            "links": [
+                {
+                    "href": "https://rdap.domeneshop.no/domain/UNLEASH-HOSTED.COM",
+                    "rel": "self",
+                    "type": "application/rdap+json",
+                    "value": "https://rdap.domeneshop.no/domain/UNLEASH-HOSTED.COM"
+                }
+            ],
+            "nameservers": [
+                {
+                    "ldhName": "ns1.hyp.net",
+                    "objectClassName": "nameserver"
+                },
+                {
+                    "ldhName": "ns2.hyp.net",
+                    "objectClassName": "nameserver"
+                },
+                {
+                    "ldhName": "ns3.hyp.net",
+                    "objectClassName": "nameserver"
+                }
+            ],
+            "notices": [
+                {
+                    "description": [
+                        "The data contained in this RDAP database is provided to you for information purposes only, and may be used to assist you in obtaining information about a domain name registration record.  The information is provided \"as is\", with no guarantee or warranties regarding its accuracy.  By submitting a RDAP query, you agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via e-mail, postal mail, telephone, facsimile, SMS or any other media.  The compilation, repackaging, dissemination or other use of this data is expressly prohibited without prior written consent from us.  You agree not to use high-volume, automated, electronic processes to access or query the RDAP database.  We reserve the right to terminate your access to the RDAP database at our sole discretion, including without limitation, for excessive querying of the RDAP database or for failure to otherwise abide by this policy.  We reserve the right to modify these terms at any time.  By submitting this query, you agree to these terms of usage and limitations of warranty."
+                    ],
+                    "links": [
+                        {
+                            "href": "https://domainnameshop.com/rdap",
+                            "rel": "self",
+                            "type": "text/html",
+                            "value": "https://domainnameshop.com/rdap"
+                        }
+                    ],
+                    "title": "Terms of Use"
+                },
+                {
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ],
+                    "links": [
+                        {
+                            "href": "https://icann.org/epp",
+                            "rel": "glossary",
+                            "type": "text/html",
+                            "value": "https://icann.org/epp"
+                        }
+                    ],
+                    "title": "Status Codes"
+                },
+                {
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ],
+                    "links": [
+                        {
+                            "href": "https://icann.org/wicf",
+                            "rel": "help",
+                            "type": "text/html",
+                            "value": "https://icann.org/wicf"
+                        }
+                    ],
+                    "title": "RDDS Inaccuracy Complaint Form"
+                }
+            ],
+            "objectClassName": "domain",
+            "port43": "whois.domainnameshop.com",
+            "rdapConformance": [
+                "rdap_level_0",
+                "icann_rdap_response_profile_1",
+                "icann_rdap_technical_implementation_guide_1"
+            ],
+            "secureDNS": {
+                "delegationSigned": true,
+                "dsData": [
+                    {
+                        "algorithm": 15,
+                        "digest": "E1E982D24254E3D99F233E66C071E9BE696DD562013216428E5ABD348D25518BE429980591C1277DEA54115109FFEFC5",
+                        "digestType": 4,
+                        "keyTag": 38366
+                    },
+                    {
+                        "algorithm": 15,
+                        "digest": "75552F1E11C11D54B974DEA7FF6BE82511B3C89BC9E9AAEB1F265B34DB7B9564",
+                        "digestType": 2,
+                        "keyTag": 38366
+                    }
+                ]
+            }
+        }
+    ],
+    "domain": "unleash-hosted.com\r"
+}

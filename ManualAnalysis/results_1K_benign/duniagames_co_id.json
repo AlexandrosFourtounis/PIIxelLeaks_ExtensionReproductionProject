@@ -1,0 +1,281 @@
+{
+    "name": "DUNIAGAMES.CO.ID",
+    "handle": "163056_DOMAIN_ID-ID",
+    "registrationDate": "12/7/2011, 3:33:08 PM GMT+2",
+    "expirationDate": "12/8/2027, 1:59:59 AM GMT+2",
+    "lastChangedDate": "1/10/2024, 9:26:00 AM GMT+2",
+    "lastUpdateDate": "6/23/2026, 4:54:06 PM GMT+3",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "handle": "1",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "info@digitalregistra.co.id"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "voice"
+                            ]
+                        },
+                        "uri",
+                        "tel:+62274882257"
+                    ]
+                ]
+            ],
+            "roles": [
+                "abuse"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "1",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "PT Digital Registra Indonesia"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "info@digitalregistra.co.id"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "voice"
+                            ]
+                        },
+                        "uri",
+                        "tel:+62274882257"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "ID"
+                        },
+                        "text",
+                        [
+                            "",
+                            "Jl. lempongsari no. 39C",
+                            "Jongkang RT/RW 12/35 Sariharjo ",
+                            "Sleman",
+                            "Yogyakarta",
+                            "55281",
+                            ""
+                        ]
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrar"
+            ],
+            "publicIds": [
+                {
+                    "type": "IANA Registrar ID",
+                    "identifier": "1"
+                },
+                {
+                    "type": "PANDI Registrar ID",
+                    "identifier": "1"
+                }
+            ],
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "handle": "1",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                ""
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "info@digitalregistra.co.id"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "voice"
+                                    ]
+                                },
+                                "uri",
+                                "tel:+62274882257"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "abuse"
+                    ]
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.pandi.id/rdap/entity/1-ID",
+                    "rel": "self",
+                    "href": "https://rdap.pandi.id/rdap/entity/1-ID",
+                    "type": "application/rdap+json"
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "curt.ns.cloudflare.com"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "lila.ns.cloudflare.com"
+        },
+        {
+            "rdapConformance": [
+                "icann_rdap_technical_implementation_guide_1",
+                "icann_rdap_response_profile_1",
+                "redacted"
+            ],
+            "objectClassName": "domain",
+            "handle": "163056_DOMAIN_ID-ID",
+            "ldhName": "DUNIAGAMES.CO.ID",
+            "premiumDomain": false,
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "curt.ns.cloudflare.com"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "lila.ns.cloudflare.com"
+                }
+            ],
+            "secureDNS": {
+                "delegationSigned": false
+            },
+            "links": [
+                {
+                    "value": "https://rdap.pandi.id/rdap/domain/duniagames.co.id",
+                    "rel": "self",
+                    "href": "https://rdap.pandi.id/rdap/domain/duniagames.co.id",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "remarks": [
+                {
+                    "title": "Whois Service",
+                    "description": [
+                        "The port-43 whois service for this TLD is whois.id"
+                    ]
+                },
+                {
+                    "title": "Remark",
+                    "description": [
+                        "Registration information: https://pandi.id/?lang=en"
+                    ]
+                }
+            ],
+            "notices": [
+                {
+                    "title": "Terms of Service",
+                    "description": [
+                        "Use of this RDAP service is subject to the following Terms of Service."
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.pandi.id/rdap/domain/duniagames.co.id",
+                            "rel": "terms-of-service",
+                            "href": "https://pandi.id/privacy/tos",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "Privacy Policy",
+                    "description": [
+                        "Privacy Policy"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://pandi.id/privacy/policy",
+                            "rel": "alternate",
+                            "href": "https://pandi.id/privacy/policy",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "Status Codes",
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.pandi.id/rdap/domain/duniagames.co.id",
+                            "rel": "glossary",
+                            "href": "https://icann.org/epp",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "RDDS Inaccuracy Complaint Form",
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.pandi.id/rdap/domain/duniagames.co.id",
+                            "rel": "help",
+                            "href": "https://icann.org/wicf",
+                            "type": "text/html"
+                        }
+                    ]
+                }
+            ],
+            "lang": "en-US",
+            "port43": "whois.id"
+        }
+    ],
+    "domain": "duniagames.co.id\r"
+}

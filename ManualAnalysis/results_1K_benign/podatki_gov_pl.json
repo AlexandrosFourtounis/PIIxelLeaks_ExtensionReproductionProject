@@ -1,0 +1,286 @@
+{
+    "name": "podatki.gov.pl",
+    "handle": null,
+    "registrationDate": "7/1/2013, 3:00:00 AM GMT+3",
+    "expirationDate": "7/28/2026, 3:00:00 AM GMT+3",
+    "lastChangedDate": "1/7/2025, 10:57:14 AM GMT+2",
+    "lastUpdateDate": "6/23/2026, 6:59:25 PM GMT+3",
+    "rawData": [
+        {
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Centrum Informatyki Resortu Finansów"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "PL"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "ul. Samorządowa 1",
+                            "Radom",
+                            "",
+                            "26-601",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "VOICE"
+                        },
+                        "uri",
+                        "tel:+48.483673600"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object truncated due to authorization",
+                    "description": [
+                        "The object does not contain all data due to lack of authorization."
+                    ]
+                }
+            ],
+            "objectClassName": "entity"
+        },
+        {
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "NASK"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "PL"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "ul. Kolska 12",
+                            "Warszawa",
+                            "",
+                            "01-045",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "VOICE"
+                        },
+                        "uri",
+                        "tel:+48.223808300"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "info@dns.pl"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrar"
+            ],
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object truncated due to authorization",
+                    "description": [
+                        "The object does not contain all data due to lack of authorization."
+                    ]
+                }
+            ],
+            "objectClassName": "entity"
+        },
+        {
+            "ldhName": "ns1.a2.impervasecuredns.net",
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object truncated due to authorization",
+                    "description": [
+                        "The object does not contain all data due to lack of authorization."
+                    ]
+                }
+            ],
+            "objectClassName": "nameserver"
+        },
+        {
+            "ldhName": "ns1.a1.impervasecuredns.net",
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object truncated due to authorization",
+                    "description": [
+                        "The object does not contain all data due to lack of authorization."
+                    ]
+                }
+            ],
+            "objectClassName": "nameserver"
+        },
+        {
+            "ldhName": "ns1.a0.impervasecuredns.net",
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object truncated due to authorization",
+                    "description": [
+                        "The object does not contain all data due to lack of authorization."
+                    ]
+                }
+            ],
+            "objectClassName": "nameserver"
+        },
+        {
+            "rdapConformance": [
+                "rdap_level_0",
+                "nask0"
+            ],
+            "notices": [
+                {
+                    "title": "Domain name life cycle",
+                    "description": [
+                        "For more information on domain name life cycle, please visit https://www.dns.pl/en/domain_name_life_cycle"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://www.dns.pl/en/domain_name_life_cycle",
+                            "rel": "related",
+                            "href": "https://www.dns.pl/en/domain_name_life_cycle",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "Delay in data display",
+                    "description": [
+                        "RDAP displays data with a delay not exceeding 15 minutes in relation to the .pl Registry system. For more information on RDAP in NASK, please visit: https://www.dns.pl/en/RDAP_in_NASK"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://www.dns.pl/en/RDAP_in_NASK",
+                            "rel": "related",
+                            "href": "https://www.dns.pl/en/RDAP_in_NASK",
+                            "type": "text/html"
+                        }
+                    ]
+                }
+            ],
+            "nameservers": [
+                {
+                    "ldhName": "ns1.a2.impervasecuredns.net",
+                    "remarks": [
+                        {
+                            "title": "REDACTED FOR PRIVACY",
+                            "type": "object truncated due to authorization",
+                            "description": [
+                                "The object does not contain all data due to lack of authorization."
+                            ]
+                        }
+                    ],
+                    "objectClassName": "nameserver"
+                },
+                {
+                    "ldhName": "ns1.a1.impervasecuredns.net",
+                    "remarks": [
+                        {
+                            "title": "REDACTED FOR PRIVACY",
+                            "type": "object truncated due to authorization",
+                            "description": [
+                                "The object does not contain all data due to lack of authorization."
+                            ]
+                        }
+                    ],
+                    "objectClassName": "nameserver"
+                },
+                {
+                    "ldhName": "ns1.a0.impervasecuredns.net",
+                    "remarks": [
+                        {
+                            "title": "REDACTED FOR PRIVACY",
+                            "type": "object truncated due to authorization",
+                            "description": [
+                                "The object does not contain all data due to lack of authorization."
+                            ]
+                        }
+                    ],
+                    "objectClassName": "nameserver"
+                }
+            ],
+            "secureDNS": {
+                "delegationSigned": false
+            },
+            "port43": "whois.dns.pl",
+            "ldhName": "podatki.gov.pl",
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object truncated due to authorization",
+                    "description": [
+                        "The object does not contain all data due to lack of authorization."
+                    ]
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.dns.pl/domain/podatki.gov.pl",
+                    "rel": "self",
+                    "href": "https://rdap.dns.pl/domain/podatki.gov.pl",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "objectClassName": "domain",
+            "nask0_state": "registered"
+        }
+    ],
+    "domain": "podatki.gov.pl\r"
+}

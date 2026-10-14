@@ -1,0 +1,409 @@
+{
+    "name": "imusoaaaaa.icu",
+    "handle": "D628565606-CNIC",
+    "registrationDate": "3/25/2026, 2:19:14 PM GMT+2",
+    "expirationDate": "3/26/2027, 1:59:59 AM GMT+2",
+    "lastChangedDate": "5/25/2026, 3:06:42 AM GMT+3",
+    "lastUpdateDate": "6/16/2026, 3:24:10 PM GMT+3",
+    "rawData": [
+        {
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Oleg"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "RU"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            [
+                                "",
+                                "",
+                                "Rublyevka 29"
+                            ],
+                            "Moscow",
+                            "Moskovskaya oblast",
+                            "350000",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "awm.team@yandex.ru"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+7.9999999999"
+                    ]
+                ]
+            ],
+            "handle": "108415856",
+            "status": [
+                "active"
+            ],
+            "roles": [
+                "administrative",
+                "technical"
+            ],
+            "objectClassName": "entity",
+            "lang": "en"
+        },
+        {
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Oleg"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "RU"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            [
+                                "",
+                                "",
+                                "Rublyevka 29"
+                            ],
+                            "Moscow",
+                            "Moskovskaya oblast",
+                            "350000",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "awm.team@yandex.ru"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+7.9999999999"
+                    ]
+                ]
+            ],
+            "handle": "108415856",
+            "status": [
+                "active"
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "objectClassName": "entity",
+            "lang": "en"
+        },
+        {
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "PDR Ltd. d/b/a PublicDomainRegistry.com"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "tel:+1.2013775952"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "abuse-contact@publicdomainregistry.com"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "PDR Ltd. d/b/a PublicDomainRegistry.com"
+                    ]
+                ]
+            ],
+            "status": [
+                "active"
+            ],
+            "roles": [
+                "abuse"
+            ],
+            "objectClassName": "entity",
+            "lang": "en"
+        },
+        {
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "PDR Ltd. d/b/a PublicDomainRegistry.com"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "PDR Ltd. d/b/a PublicDomainRegistry.com"
+                    ]
+                ]
+            ],
+            "handle": "303",
+            "status": [
+                "active"
+            ],
+            "roles": [
+                "registrar"
+            ],
+            "entities": [
+                {
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "org",
+                                {},
+                                "text",
+                                "PDR Ltd. d/b/a PublicDomainRegistry.com"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "voice"
+                                },
+                                "text",
+                                "tel:+1.2013775952"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "abuse-contact@publicdomainregistry.com"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "PDR Ltd. d/b/a PublicDomainRegistry.com"
+                            ]
+                        ]
+                    ],
+                    "status": [
+                        "active"
+                    ],
+                    "roles": [
+                        "abuse"
+                    ],
+                    "objectClassName": "entity",
+                    "lang": "en"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdapserver.net/",
+                    "type": "application/rdap+json",
+                    "rel": "about",
+                    "href": "https://www.publicdomainregistry.com"
+                }
+            ],
+            "publicIds": [
+                {
+                    "type": "IANA Registrar ID",
+                    "identifier": "303"
+                }
+            ],
+            "objectClassName": "entity",
+            "lang": "en"
+        },
+        {
+            "ldhName": "jack.ns.cloudflare.com",
+            "unicodeName": "jack.ns.cloudflare.com",
+            "status": [
+                "active"
+            ],
+            "objectClassName": "nameserver",
+            "lang": "en"
+        },
+        {
+            "ldhName": "tani.ns.cloudflare.com",
+            "unicodeName": "tani.ns.cloudflare.com",
+            "status": [
+                "active"
+            ],
+            "objectClassName": "nameserver",
+            "lang": "en"
+        },
+        {
+            "handle": "D628565606-CNIC",
+            "ldhName": "imusoaaaaa.icu",
+            "secureDNS": {
+                "delegationSigned": false
+            },
+            "notices": [
+                {
+                    "title": "Data Policy",
+                    "type": "object truncated due to authorization",
+                    "description": [
+                        "The contact information for one or more entities associated with this domain has been redacted in accordance with the entity's disclosure preferences."
+                    ]
+                },
+                {
+                    "title": "Terms of Use",
+                    "links": [
+                        {
+                            "value": "https://rdapserver.net/domain/imusoaaaaa.icu",
+                            "type": "application/rdap+json",
+                            "rel": "terms-of-service",
+                            "href": "https://rdapserver.net/terms-of-use/"
+                        }
+                    ],
+                    "description": [
+                        "URL for Terms of Use https://rdapserver.net/terms-of-use/"
+                    ]
+                },
+                {
+                    "title": "Status Codes",
+                    "links": [
+                        {
+                            "value": "https://rdapserver.net/domain/imusoaaaaa.icu",
+                            "type": "application/rdap+json",
+                            "rel": "glossary",
+                            "href": "https://icann.org/epp"
+                        }
+                    ],
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ]
+                },
+                {
+                    "title": "RDDS Inaccuracy Complaint Form",
+                    "links": [
+                        {
+                            "value": "https://rdapserver.net/domain/imusoaaaaa.icu",
+                            "type": "application/rdap+json",
+                            "rel": "help",
+                            "href": "https://icann.org/wicf"
+                        }
+                    ],
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ]
+                }
+            ],
+            "rdapConformance": [
+                "icann_rdap_response_profile_1",
+                "icann_rdap_technical_implementation_guide_1",
+                "rdap_level_0",
+                "redacted"
+            ],
+            "objectClassName": "domain",
+            "lang": "en",
+            "nameservers": [
+                {
+                    "ldhName": "jack.ns.cloudflare.com",
+                    "unicodeName": "jack.ns.cloudflare.com",
+                    "status": [
+                        "active"
+                    ],
+                    "objectClassName": "nameserver",
+                    "lang": "en"
+                },
+                {
+                    "ldhName": "tani.ns.cloudflare.com",
+                    "unicodeName": "tani.ns.cloudflare.com",
+                    "status": [
+                        "active"
+                    ],
+                    "objectClassName": "nameserver",
+                    "lang": "en"
+                }
+            ],
+            "redacted": [
+                {
+                    "name": {
+                        "type": "Registrant Organization"
+                    },
+                    "reason": {
+                        "description": "Data redacted due to Privacy."
+                    },
+                    "method": "removal",
+                    "pathLang": "jsonpath",
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='org')]"
+                }
+            ]
+        }
+    ],
+    "domain": "imusoaaaaa.icu\r"
+}

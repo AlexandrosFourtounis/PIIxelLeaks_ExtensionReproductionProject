@@ -1,0 +1,336 @@
+{
+    "name": "beep.pl",
+    "handle": null,
+    "registrationDate": "3/16/2001, 1:00:00 PM GMT+2",
+    "expirationDate": "3/16/2027, 1:00:00 AM GMT+2",
+    "lastChangedDate": "1/16/2026, 9:36:34 AM GMT+2",
+    "lastUpdateDate": "6/23/2026, 2:58:07 PM GMT+3",
+    "rawData": [
+        {
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object truncated due to authorization",
+                    "description": [
+                        "The object does not contain all data due to lack of authorization."
+                    ]
+                }
+            ],
+            "objectClassName": "entity"
+        },
+        {
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Domena.pl sp. z o.o."
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "PL"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "ul. Gdańska 119",
+                            "Bydgoszcz",
+                            "",
+                            "85-022",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "VOICE"
+                        },
+                        "uri",
+                        "tel:+48.523667788"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "VOICE"
+                        },
+                        "uri",
+                        "tel:+48.523667777"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "bok@domena.pl"
+                    ],
+                    [
+                        "url",
+                        {},
+                        "uri",
+                        "https://www.domena.pl/"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrar"
+            ],
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object truncated due to authorization",
+                    "description": [
+                        "The object does not contain all data due to lack of authorization."
+                    ]
+                }
+            ],
+            "objectClassName": "entity"
+        },
+        {
+            "ldhName": "ns2.beep.pl",
+            "ipAddresses": [
+                {
+                    "v4": [
+                        "91.234.176.240"
+                    ]
+                }
+            ],
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object truncated due to authorization",
+                    "description": [
+                        "The object does not contain all data due to lack of authorization."
+                    ]
+                }
+            ],
+            "objectClassName": "nameserver"
+        },
+        {
+            "ldhName": "ns3.beep.pl",
+            "ipAddresses": [
+                {
+                    "v4": [
+                        "195.110.49.49"
+                    ]
+                }
+            ],
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object truncated due to authorization",
+                    "description": [
+                        "The object does not contain all data due to lack of authorization."
+                    ]
+                }
+            ],
+            "objectClassName": "nameserver"
+        },
+        {
+            "ldhName": "ns1.beep.pl",
+            "ipAddresses": [
+                {
+                    "v4": [
+                        "193.239.44.33"
+                    ]
+                }
+            ],
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object truncated due to authorization",
+                    "description": [
+                        "The object does not contain all data due to lack of authorization."
+                    ]
+                }
+            ],
+            "objectClassName": "nameserver"
+        },
+        {
+            "rdapConformance": [
+                "rdap_level_0",
+                "nask0"
+            ],
+            "notices": [
+                {
+                    "title": "Domain name life cycle",
+                    "description": [
+                        "For more information on domain name life cycle, please visit https://www.dns.pl/en/domain_name_life_cycle"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://www.dns.pl/en/domain_name_life_cycle",
+                            "rel": "related",
+                            "href": "https://www.dns.pl/en/domain_name_life_cycle",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "Delay in data display",
+                    "description": [
+                        "RDAP displays data with a delay not exceeding 15 minutes in relation to the .pl Registry system. For more information on RDAP in NASK, please visit: https://www.dns.pl/en/RDAP_in_NASK"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://www.dns.pl/en/RDAP_in_NASK",
+                            "rel": "related",
+                            "href": "https://www.dns.pl/en/RDAP_in_NASK",
+                            "type": "text/html"
+                        }
+                    ]
+                }
+            ],
+            "nameservers": [
+                {
+                    "ldhName": "ns2.beep.pl",
+                    "ipAddresses": [
+                        {
+                            "v4": [
+                                "91.234.176.240"
+                            ]
+                        }
+                    ],
+                    "remarks": [
+                        {
+                            "title": "REDACTED FOR PRIVACY",
+                            "type": "object truncated due to authorization",
+                            "description": [
+                                "The object does not contain all data due to lack of authorization."
+                            ]
+                        }
+                    ],
+                    "objectClassName": "nameserver"
+                },
+                {
+                    "ldhName": "ns3.beep.pl",
+                    "ipAddresses": [
+                        {
+                            "v4": [
+                                "195.110.49.49"
+                            ]
+                        }
+                    ],
+                    "remarks": [
+                        {
+                            "title": "REDACTED FOR PRIVACY",
+                            "type": "object truncated due to authorization",
+                            "description": [
+                                "The object does not contain all data due to lack of authorization."
+                            ]
+                        }
+                    ],
+                    "objectClassName": "nameserver"
+                },
+                {
+                    "ldhName": "ns1.beep.pl",
+                    "ipAddresses": [
+                        {
+                            "v4": [
+                                "193.239.44.33"
+                            ]
+                        }
+                    ],
+                    "remarks": [
+                        {
+                            "title": "REDACTED FOR PRIVACY",
+                            "type": "object truncated due to authorization",
+                            "description": [
+                                "The object does not contain all data due to lack of authorization."
+                            ]
+                        }
+                    ],
+                    "objectClassName": "nameserver"
+                }
+            ],
+            "secureDNS": {
+                "delegationSigned": false
+            },
+            "port43": "whois.dns.pl",
+            "ldhName": "beep.pl",
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object truncated due to authorization",
+                    "description": [
+                        "The object does not contain all data due to lack of authorization."
+                    ]
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.dns.pl/domain/beep.pl",
+                    "rel": "self",
+                    "href": "https://rdap.dns.pl/domain/beep.pl",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "objectClassName": "domain",
+            "nask0_state": "registered",
+            "nask0_option": {
+                "ldhName": "beep.pl",
+                "events": [
+                    {
+                        "eventDate": "2023-07-24T21:31:16Z",
+                        "eventAction": "registration"
+                    },
+                    {
+                        "eventDate": "2026-07-24T21:31:16Z",
+                        "eventAction": "expiration"
+                    }
+                ],
+                "remarks": [
+                    {
+                        "title": "REDACTED FOR PRIVACY",
+                        "type": "object truncated due to authorization",
+                        "description": [
+                            "The object does not contain all data due to lack of authorization."
+                        ]
+                    }
+                ],
+                "objectClassName": "nask0_option"
+            }
+        }
+    ],
+    "domain": "beep.pl\r"
+}

@@ -1,0 +1,455 @@
+{
+    "name": "kyrobeauty.com",
+    "handle": "168",
+    "registrationDate": "4/9/2024, 1:00:00 AM GMT+3",
+    "expirationDate": "4/9/2027, 1:00:00 AM GMT+3",
+    "lastChangedDate": "5/12/2026, 1:00:00 AM GMT+3",
+    "lastUpdateDate": "6/16/2026, 1:34:47 PM GMT+3",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object redacted due to authorization",
+                    "description": [
+                        "The object contains redacted data due to lack of authorization."
+                    ],
+                    "links": [
+                        {
+                            "value": "https://www.register.it/company/privacy-policy-domain-name-registration/?lang=en",
+                            "rel": "privacy-policy",
+                            "href": "https://www.register.it/company/privacy-policy-domain-name-registration/?lang=en"
+                        }
+                    ]
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "REDACTED FOR PRIVACY"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "NL"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "REDACTED FOR PRIVACY",
+                            "REDACTED FOR PRIVACY",
+                            "NA",
+                            "REDACTED FOR PRIVACY",
+                            ""
+                        ]
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "REDACTED FOR PRIVACY"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "https://default.teamblue.domains/public/register/domain-contact"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrant"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object redacted due to authorization",
+                    "description": [
+                        "The object contains redacted data due to lack of authorization."
+                    ],
+                    "links": [
+                        {
+                            "value": "https://www.register.it/company/privacy-policy-domain-name-registration/?lang=en",
+                            "rel": "privacy-policy",
+                            "href": "https://www.register.it/company/privacy-policy-domain-name-registration/?lang=en"
+                        }
+                    ]
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "REDACTED FOR PRIVACY"
+                    ],
+                    [
+                        "adr",
+                        {},
+                        "text",
+                        [
+                            "",
+                            "",
+                            "REDACTED FOR PRIVACY",
+                            "REDACTED FOR PRIVACY",
+                            "REDACTED FOR PRIVACY",
+                            "REDACTED FOR PRIVACY",
+                            ""
+                        ]
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "REDACTED FOR PRIVACY"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "https://default.teamblue.domains/public/register/domain-contact"
+                    ]
+                ]
+            ],
+            "roles": [
+                "technical"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Register S.p.A."
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+39.05520021555"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "abuse@register.it"
+                    ]
+                ]
+            ],
+            "roles": [
+                "abuse"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "links": [
+                {
+                    "value": "https://rdap-register.info/",
+                    "rel": "about",
+                    "href": "https://rdap-register.info/",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "port43": "whois.register.it",
+            "handle": "168",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Register S.p.A."
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "IT"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "Viale Giovine Italia, 17",
+                            "Firenze",
+                            "FI",
+                            "50122",
+                            ""
+                        ]
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "Register S.p.A."
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+39.05520021555"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "abuse@register.it"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrar"
+            ],
+            "publicIds": [
+                {
+                    "type": "IANA Registrar ID",
+                    "identifier": "168"
+                }
+            ],
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Register S.p.A."
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "voice"
+                                },
+                                "uri",
+                                "tel:+39.05520021555"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "abuse@register.it"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "abuse"
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns1.transip.nl",
+            "unicodeName": "ns1.transip.nl",
+            "ipAddresses": {
+                "v4": [
+                    "195.8.195.195"
+                ]
+            }
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns0.transip.net",
+            "unicodeName": "ns0.transip.net",
+            "ipAddresses": {
+                "v4": [
+                    "195.135.195.195"
+                ]
+            }
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns2.transip.eu",
+            "unicodeName": "ns2.transip.eu",
+            "ipAddresses": {
+                "v4": [
+                    "37.97.199.195"
+                ]
+            }
+        },
+        {
+            "rdapConformance": [
+                "redacted",
+                "rdap_level_0",
+                "icann_rdap_technical_implementation_guide_1",
+                "icann_rdap_response_profile_1"
+            ],
+            "objectClassName": "domain",
+            "links": [
+                {
+                    "value": "https://rdap-register.info/domain/kyrobeauty.com",
+                    "rel": "self",
+                    "href": "https://rdap-register.info/domain/kyrobeauty.com",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "notices": [
+                {
+                    "title": "Terms of Service",
+                    "description": [
+                        "Terms of Service"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap-register.info/domain/kyrobeauty.com",
+                            "rel": "terms-of-service",
+                            "href": "https://www.register.it/domains/whois.html?chglng=eng",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "Status Codes",
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap-register.info/domain/kyrobeauty.com",
+                            "rel": "glossary",
+                            "href": "https://icann.org/epp",
+                            "type": "application/rdap+json"
+                        }
+                    ]
+                },
+                {
+                    "title": "RDDS Inaccuracy Complaint Form",
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap-register.info/domain/kyrobeauty.com",
+                            "rel": "help",
+                            "href": "https://icann.org/wicf",
+                            "type": "application/rdap+json"
+                        }
+                    ]
+                }
+            ],
+            "ldhName": "kyrobeauty.com",
+            "unicodeName": "kyrobeauty.com",
+            "secureDNS": {
+                "zoneSigned": true,
+                "delegationSigned": true,
+                "dsData": [
+                    {
+                        "keyTag": 10677,
+                        "algorithm": 13,
+                        "digest": "A3286D0F850AC9E1F65AC70A11B88D9BF9B2796651C9E9127098D38F683057BA",
+                        "digestType": 2
+                    }
+                ]
+            },
+            "redacted": [
+                {
+                    "name": {
+                        "type": "Registry Domain ID"
+                    },
+                    "prePath": "$.handle",
+                    "pathLang": "jsonpath",
+                    "method": "removal"
+                },
+                {
+                    "name": {
+                        "type": "Registry Registrant ID"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].handle",
+                    "pathLang": "jsonpath",
+                    "method": "removal"
+                },
+                {
+                    "name": {
+                        "type": "Administrative Contact"
+                    },
+                    "method": "removal"
+                }
+            ],
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns1.transip.nl",
+                    "unicodeName": "ns1.transip.nl",
+                    "ipAddresses": {
+                        "v4": [
+                            "195.8.195.195"
+                        ]
+                    }
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns0.transip.net",
+                    "unicodeName": "ns0.transip.net",
+                    "ipAddresses": {
+                        "v4": [
+                            "195.135.195.195"
+                        ]
+                    }
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns2.transip.eu",
+                    "unicodeName": "ns2.transip.eu",
+                    "ipAddresses": {
+                        "v4": [
+                            "37.97.199.195"
+                        ]
+                    }
+                }
+            ]
+        }
+    ],
+    "domain": "kyrobeauty.com\r"
+}

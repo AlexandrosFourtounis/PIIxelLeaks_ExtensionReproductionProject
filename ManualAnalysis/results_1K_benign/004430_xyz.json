@@ -1,0 +1,376 @@
+{
+    "name": "004430.xyz",
+    "handle": "3862",
+    "registrationDate": "1/26/2026, 7:51:38 PM GMT+2",
+    "expirationDate": "1/27/2035, 1:59:59 AM GMT+2",
+    "lastChangedDate": "1/27/2026, 4:18:20 PM GMT+2",
+    "lastUpdateDate": "6/23/2026, 6:32:10 PM GMT+3",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "roles": [
+                "abuse"
+            ],
+            "status": [
+                "active"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Spaceship, Inc."
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "voice"
+                            ]
+                        },
+                        "uri",
+                        "tel:+1.6613102107"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "abuse@spaceship.com"
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "3862",
+            "roles": [
+                "registrar"
+            ],
+            "publicIds": [
+                {
+                    "type": "IANA Registrar ID",
+                    "identifier": "3862"
+                }
+            ],
+            "links": [
+                {
+                    "href": "https://spaceship.com",
+                    "rel": "about",
+                    "value": "https://rdap.spaceship.com/"
+                }
+            ],
+            "status": [
+                "active"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Spaceship, Inc."
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "voice"
+                            ]
+                        },
+                        "uri",
+                        "tel:+1.6613102107"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "fax"
+                            ]
+                        },
+                        "uri",
+                        "tel:+1.6613102107"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "support@spaceship.com"
+                    ]
+                ]
+            ],
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "roles": [
+                        "abuse"
+                    ],
+                    "status": [
+                        "active"
+                    ],
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Spaceship, Inc."
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "voice"
+                                    ]
+                                },
+                                "uri",
+                                "tel:+1.6613102107"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "abuse@spaceship.com"
+                            ]
+                        ]
+                    ]
+                }
+            ],
+            "events": [
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2020-05-05T00:00:00Z"
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "1437b437208d49378fc2bbf4bd3fbc42-SPACESH",
+            "roles": [
+                "registrant",
+                "technical"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "Privacy service provided by Withheld for Privacy ehf"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "IS"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "Kalkofnsvegur 2",
+                            "Reykjavik",
+                            "Capital Region",
+                            "101",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "voice"
+                            ]
+                        },
+                        "uri",
+                        "tel:+354.4212434"
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "https://www.spaceship.com/domains/whois/contact/?d=004430.xyz"
+                    ]
+                ]
+            ],
+            "events": [
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2026-01-26T17:51:38Z"
+                },
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2026-03-12T15:47:54Z"
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "dean.ns.cloudflare.com",
+            "events": []
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "teagan.ns.cloudflare.com",
+            "events": []
+        },
+        {
+            "rdapConformance": [
+                "rdap_level_0",
+                "redacted",
+                "icann_rdap_response_profile_1",
+                "icann_rdap_technical_implementation_guide_1"
+            ],
+            "lang": "en",
+            "notices": [
+                {
+                    "title": "RDAP Terms of Service",
+                    "description": [
+                        "By querying Spaceship’s RDAP Domain Database, you agree to comply with Spaceship’s RDAP Terms of Service, including but not limited to the terms herein,  and you acknowledge and agree that your information will be used in accordance with Spaceship Privacy Policy (https://www.spaceship.com/legal/privacy-policy/), including that Spaceship may retain certain details about queries to our RDAP Domain Database for the purposes of detecting and preventing misuse.  If you do not agree to any of these terms, do not access or use ,the RDAP Domain Database.",
+                        "Although Spaceship believes the data to be reliable, you agree and acknowledge that any information provided is 'as is' without any guarantee of accuracy.",
+                        "You further agree that you will:",
+                        "1) Not misuse the RDAP Domain Database. It is intended solely for query-based access and should not be used for or relied upon for any other purpose.",
+                        "2) Not use the RDAP Domain Database to allow, enable, or otherwise support the transmission of unsolicited, commercial advertising or solicitations.",
+                        "3) Not access the RDAP Domain Database through the use of high volume, automated electronic processes that send queries or data to the systems of Spaceship, any other ICANN-accredited registrar, or any registry operator.",
+                        "4) Not compile, repackage, disseminate, or otherwise use the information contained in the RDAP Domain Database in its entirety, or in any substantial portion, without our prior written permission.",
+                        "5) You will only use the information contained in the RDAP Domain Database for lawful purposes.",
+                        "We reserve the right to restrict or deny your access to the RDAP Domain Database if we suspect that you have failed to comply with these terms.",
+                        "We reserve the right to modify this agreement at any time."
+                    ],
+                    "links": [
+                        {
+                            "href": "https://www.spaceship.com/legal/registration-data-access-protocol-terms-of-service-agreement/",
+                            "rel": "terms-of-service",
+                            "type": "text/html",
+                            "value": "https://rdap.spaceship.com/domain/004430.xyz"
+                        }
+                    ]
+                },
+                {
+                    "title": "Status Codes",
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ],
+                    "links": [
+                        {
+                            "href": "https://icann.org/epp",
+                            "rel": "glossary",
+                            "type": "text/html",
+                            "value": "https://rdap.spaceship.com/domain/004430.xyz"
+                        }
+                    ]
+                },
+                {
+                    "title": "RDDS Inaccuracy Complaint Form",
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ],
+                    "links": [
+                        {
+                            "href": "https://icann.org/wicf",
+                            "rel": "help",
+                            "type": "text/html",
+                            "value": "https://rdap.spaceship.com/domain/004430.xyz"
+                        }
+                    ]
+                }
+            ],
+            "ldhName": "004430.xyz",
+            "objectClassName": "domain",
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "dean.ns.cloudflare.com",
+                    "events": []
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "teagan.ns.cloudflare.com",
+                    "events": []
+                }
+            ],
+            "secureDNS": {
+                "zoneSigned": false,
+                "delegationSigned": false
+            },
+            "links": [
+                {
+                    "href": "https://rdap.spaceship.com/domain/004430.xyz",
+                    "rel": "self",
+                    "type": "application/rdap+json",
+                    "value": "https://rdap.spaceship.com/domain/004430.xyz"
+                }
+            ],
+            "redacted": [
+                {
+                    "name": {
+                        "type": "Registry Domain ID"
+                    },
+                    "method": "removal"
+                },
+                {
+                    "name": {
+                        "type": "Registrant Name"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='fn')][3]",
+                    "method": "emptyValue"
+                },
+                {
+                    "name": {
+                        "type": "Registrant Email"
+                    },
+                    "replacementPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='contact-uri')]",
+                    "method": "replacementValue"
+                },
+                {
+                    "name": {
+                        "type": "Tech Name"
+                    },
+                    "postPath": "$.entities[?(@.roles[1]=='technical')].vcardArray[1][?(@[0]=='fn')][3]",
+                    "method": "emptyValue"
+                },
+                {
+                    "name": {
+                        "type": "Tech Email"
+                    },
+                    "replacementPath": "$.entities[?(@.roles[1]=='technical')].vcardArray[1][?(@[0]=='contact-uri')]",
+                    "method": "replacementValue"
+                }
+            ]
+        }
+    ],
+    "domain": "004430.xyz\r"
+}

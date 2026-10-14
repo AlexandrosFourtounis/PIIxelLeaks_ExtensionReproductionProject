@@ -1,0 +1,887 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="csrf-token" content="1bMlpyticwQg4KF1DpM4zJhwkd0my6APgndwihLf">
+   <meta name="description" content="TIDEXPRO - Powerful, fully-featured investment and trading platform. Access investment plans, cryptocurrency trading, stock trading, copy trading, automated bot trading, staking, and stock investment. Professional trading solutions for everyone.">
+    <link rel="icon" type="image/png" href="https://tidexpro.net/storage/app/public/photos/vxNioquN5nK8Pfc1EhkQRUk1pItq1S6jpVaaFqRd.jpg">
+    <title>TIDEXPRO • Home</title>
+    
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+    
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" crossorigin="anonymous" referrerpolicy="no-referrer">
+    
+    <!-- Owl Carousel -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css">
+
+    <style>
+        .poppins-light { font-family: "Poppins", sans-serif; font-weight: 300; }
+        .poppins-regular { font-family: "Poppins", sans-serif; font-weight: 400; }
+        .poppins-medium { font-family: "Poppins", sans-serif; font-weight: 500; }
+        .poppins-semibold { font-family: "Poppins", sans-serif; font-weight: 600; }
+        .poppins-bold { font-family: "Poppins", sans-serif; font-weight: 700; }
+        .manrope { font-family: "Manrope", sans-serif; }
+        
+        body { font-family: "Manrope", sans-serif; overflow-x: hidden; }
+        
+        .owl-item { display: flex; align-items: center; justify-content: center; }
+        .owl-carousel .item img { height: 100px; object-fit: contain; }
+        
+        /* Custom scrollbar */
+        ::-webkit-scrollbar { width: 8px; }
+        ::-webkit-scrollbar-track { background: #f1f5f9; }
+        ::-webkit-scrollbar-thumb { background: #94a3b8; border-radius: 4px; }
+        ::-webkit-scrollbar-thumb:hover { background: #64748b; }
+    </style>
+    
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        'primary': '#0F9D58',
+                        'primary-dark': '#0B8046',
+                    }
+                }
+            }
+        }
+    </script>
+</head>
+<body class="overflow-x-hidden w-screen">
+    <!-- WhatsApp Button -->
+    
+    <!-- Navigation -->
+    <nav class="flex justify-between box-content py-5 px-5 manrope font-semibold text-sm shadow-lg shadow-[rgba(1, 5, 34, 0.03)] sticky top-0 z-50 bg-white">
+        <div class="flex gap-10 items-center">
+            <button id="menu-toggle" class="md:hidden">
+                <i class="fa fa-bars text-xl"></i>
+            </button>
+            <a href="index" class="flex items-center">
+                <img src="https://tidexpro.net/storage/app/public/photos/NomGNZIX05Z3oHHcRM2LtSzreZ5kCdsKf77KfwU0.jpg" alt="TIDEXPRO" class="h-8 md:h-10">
+            </a>
+            <div class="hidden md:flex gap-5">
+                <a href="index" class="text-primary hover:text-primary-dark transition-colors">Home</a>
+                <a href="about" class="hover:text-primary transition-colors">About</a>
+                <a href="services" class="hover:text-primary transition-colors">Services</a>
+                <a href="contact" class="hover:text-primary transition-colors">Contact</a>
+            </div>
+        </div>
+        <div class="flex gap-3 md:gap-5 items-center">
+            <a href="login" class="bg-[#E8F5F0] text-primary rounded-full px-3 md:px-4 py-1 text-xs md:text-sm hover:bg-[#D1EBE1] transition-colors">Login</a>
+            <a href="register" class="bg-primary text-white rounded-full px-3 md:px-4 py-1 text-xs md:text-sm hover:bg-primary-dark transition-colors">Sign up</a>
+        </div>
+    </nav>
+
+    <!-- Mobile Menu -->
+    <div id="mobile-menu" class="hidden fixed inset-0 bg-white z-50 p-5 poppins-medium transition-transform duration-300 ease-in-out transform -translate-x-full">
+        <div class="flex justify-center items-center mb-5">
+            <button id="close-menu" class="text-2xl font-bold text-white rounded-full bg-black w-8 h-8 flex items-center justify-center absolute top-5 left-5">
+                <i class="fa-solid fa-xmark"></i>
+            </button>
+            <div class="text-center font-semibold text-lg">Menu</div>
+        </div>
+        <div class="flex flex-col text-[#010522] *:border-b-[1px] *:border-[#0000003d] *:py-6">
+            <a href="index">Home</a>
+            <a href="about">About</a>
+            <a href="services">Services</a>
+            <a href="contact" style="border-bottom: none">Contact</a>
+        </div>
+    </div>
+
+    <!-- Main Content -->
+    <main class="flex-grow">
+        
+<!-- Hero Section -->
+<section class="bg min-h-screen pb-5 w-full overflow-x-hidden" style="background-image: url('https://tidexpro.net/temp/assets/images/landing-page-cover-shadow.svg'); background-size: cover; background-position: bottom;">
+    <div class="container mx-auto py-10 md:py-20 flex flex-col gap-4 px-4">
+        <h1 class="text-center text-3xl md:text-6xl poppins-medium max-w-6xl mx-auto">Complete Investment & Trading Platform for Every Strategy</h1>
+        <h3 class="text-center text-xl md:text-3xl text-[#010522] poppins-light">Invest, Trade, Stake & Grow Your Wealth.</h3>
+        <div class="flex items-center justify-center gap-4">
+            <a href="https://tidexpro.net/register" class="rounded-full px-5 py-3 bg-[#0F9D58] text-white hover:bg-[#0B8046] transition-colors">Start Investing</a>
+            <a href="services" class="rounded-full px-5 py-3 bg-[#0F9D58] text-white hover:bg-[#0B8046] transition-colors">View Services</a>
+        </div>
+        <div class="mt-5">
+            <img src="https://tidexpro.net/temp/assets/images/heros.png" alt="Trading Platform" class="mx-auto max-w-full h-auto">
+        </div>
+    </div>
+</section>
+
+<!-- Crypto Assets Section -->
+<section class="manrope text-sm relative pt-16 md:pt-32 py-10 md:py-32 w-full h-fit overflow-hidden" style="background: linear-gradient(180deg, #e7efff 0%, #ffffff 100%);">
+    <img src="https://tidexpro.net/temp/assets/images/assets-blob-1.svg" alt="" class="absolute top-0 left-0 w-[400px] md:w-[500px] opacity-60">
+    <img src="https://tidexpro.net/temp/assets/images/assets-blob-2.svg" alt="" class="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[500px] md:w-[600px] -z-10 opacity-40">
+    
+    <h4 class="text-center text-[#0F9D58] text-lg mb-2 px-4">FOR BEGINNERS AND PROS</h4>
+    <h3 class="text-center text-3xl md:text-5xl poppins-light px-4">Buy, sell & manage</h3>
+    <h3 class="text-center text-3xl md:text-5xl poppins-medium px-4">over 100 crypto assets</h3>
+    
+    <div class="container mx-auto px-4 md:px-32">
+        <div class="flex flex-col sm:flex-row justify-between items-start sm:items-center mt-10 space-y-4 sm:space-y-0">
+            <div class="flex items-center gap-5 text-gray-400 font-semibold text-sm flex-wrap">
+                <button class="bg-[#0F9D58] text-white rounded-full px-5 py-2">Tradable</button>
+                <button class="hover:text-gray-700 transition-colors">Top Movers</button>
+                <button class="hover:text-gray-700 transition-colors">New to TIDEXPRO</button>
+            </div>
+            <div class="text-[#0F9D58] cursor-pointer hover:underline">Explore all crypto assets <i class="fa-solid fa-arrow-right-long"></i></div>
+        </div>
+
+        <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 mt-8">
+            <!-- Bitcoin -->
+            <div class="bg-white rounded-lg p-6 shadow-md transition-shadow duration-300 hover:shadow-xl border border-gray-200">
+                <div class="flex items-start justify-between mb-4">
+                    <div class="flex items-center gap-3">
+                        <div class="w-10 h-10 bg-orange-500 rounded-full flex items-center justify-center">
+                            <i class="fab fa-bitcoin text-white text-xl"></i>
+                        </div>
+                        <div>
+                            <div class="font-semibold">Bitcoin</div>
+                            <div class="text-xs text-gray-500">BTC</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="text-lg font-bold mb-1">$<span id="bitcoin-price">...</span></div>
+                <div class="text-xs text-red-500"><i class="fa fa-arrow-down"></i> -0.48 %</div>
+            </div>
+
+            <!-- Ethereum -->
+            <div class="bg-white rounded-lg p-6 shadow-md transition-shadow duration-300 hover:shadow-xl border border-gray-200">
+                <div class="flex items-start justify-between mb-4">
+                    <div class="flex items-center gap-3">
+                        <div class="w-10 h-10 bg-[#0F9D58] rounded-full flex items-center justify-center">
+                            <i class="fab fa-ethereum text-white text-xl"></i>
+                        </div>
+                        <div>
+                            <div class="font-semibold">Ethereum</div>
+                            <div class="text-xs text-gray-500">ETH</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="text-lg font-bold mb-1">$<span id="ethereum-price">...</span></div>
+                <div class="text-xs text-red-500"><i class="fa fa-arrow-down"></i> -2.23 %</div>
+            </div>
+
+            <!-- Solana -->
+            <div class="bg-white rounded-lg p-6 shadow-md transition-shadow duration-300 hover:shadow-xl border border-gray-200">
+                <div class="flex items-start justify-between mb-4">
+                    <div class="flex items-center gap-3">
+                        <div class="w-10 h-10 bg-green-500 rounded-full flex items-center justify-center">
+                            <span class="text-white font-bold text-sm">SOL</span>
+                        </div>
+                        <div>
+                            <div class="font-semibold">Solana</div>
+                            <div class="text-xs text-gray-500">SOL</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="text-lg font-bold mb-1">$<span id="solana-price">...</span></div>
+                <div class="text-xs text-red-500"><i class="fa fa-arrow-down"></i> -4.49 %</div>
+            </div>
+
+            <!-- XRP -->
+            <div class="bg-white rounded-lg p-6 shadow-md transition-shadow duration-300 hover:shadow-xl border border-gray-200">
+                <div class="flex items-start justify-between mb-4">
+                    <div class="flex items-center gap-3">
+                        <div class="w-10 h-10 bg-gray-700 rounded-full flex items-center justify-center">
+                            <span class="text-white font-bold text-sm">XRP</span>
+                        </div>
+                        <div>
+                            <div class="font-semibold">XRP</div>
+                            <div class="text-xs text-gray-500">XRP</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="text-lg font-bold mb-1">$<span id="xrp-price">...</span></div>
+                <div class="text-xs text-red-500"><i class="fa fa-arrow-down"></i> -0.94 %</div>
+            </div>
+
+            <!-- Avalanche -->
+            <div class="bg-white rounded-lg p-6 shadow-md transition-shadow duration-300 hover:shadow-xl border border-gray-200">
+                <div class="flex items-start justify-between mb-4">
+                    <div class="flex items-center gap-3">
+                        <div class="w-10 h-10 bg-red-500 rounded-full flex items-center justify-center">
+                            <span class="text-white font-bold text-xs">AVAX</span>
+                        </div>
+                        <div>
+                            <div class="font-semibold">Avalanche</div>
+                            <div class="text-xs text-gray-500">AVAX</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="text-lg font-bold mb-1">$<span id="avalanche-price">...</span></div>
+                <div class="text-xs text-red-500"><i class="fa fa-arrow-down"></i> -3.60 %</div>
+            </div>
+
+            <!-- Shiba Inu -->
+            <div class="bg-white rounded-lg p-6 shadow-md transition-shadow duration-300 hover:shadow-xl border border-gray-200">
+                <div class="flex items-start justify-between mb-4">
+                    <div class="flex items-center gap-3">
+                        <div class="w-10 h-10 bg-orange-600 rounded-full flex items-center justify-center">
+                            <span class="text-white font-bold text-xs">SHIB</span>
+                        </div>
+                        <div>
+                            <div class="font-semibold">Shiba Inu</div>
+                            <div class="text-xs text-gray-500">SHIB</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="text-lg font-bold mb-1">$<span id="shiba-inu-price">...</span></div>
+                <div class="text-xs text-red-500"><i class="fa fa-arrow-down"></i> -5.58 %</div>
+            </div>
+
+            <!-- Tether -->
+            <div class="bg-white rounded-lg p-6 shadow-md transition-shadow duration-300 hover:shadow-xl border border-gray-200">
+                <div class="flex items-start justify-between mb-4">
+                    <div class="flex items-center gap-3">
+                        <div class="w-10 h-10 bg-green-500 rounded-full flex items-center justify-center">
+                            <span class="text-white font-bold text-sm">₮</span>
+                        </div>
+                        <div>
+                            <div class="font-semibold">Tether</div>
+                            <div class="text-xs text-gray-500">USDT</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="text-lg font-bold mb-1">$<span id="tether-price">1.00</span></div>
+                <div class="text-xs text-red-500"><i class="fa fa-arrow-down"></i> -0.03 %</div>
+            </div>
+
+            <!-- Aave -->
+            <div class="bg-white rounded-lg p-6 shadow-md transition-shadow duration-300 hover:shadow-xl border border-gray-200">
+                <div class="flex items-start justify-between mb-4">
+                    <div class="flex items-center gap-3">
+                        <div class="w-10 h-10 bg-pink-500 rounded-full flex items-center justify-center">
+                            <span class="text-white font-bold text-sm">AAVE</span>
+                        </div>
+                        <div>
+                            <div class="font-semibold">Aave</div>
+                            <div class="text-xs text-gray-500">AAVE</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="text-lg font-bold mb-1">$<span id="aave-price">...</span></div>
+                <div class="text-xs text-red-500"><i class="fa fa-arrow-down"></i> -1.61 %</div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Testimonial Banner -->
+
+
+<!-- Platform Features Section -->
+<section class="py-10 md:py-24 bg-white">
+    <div class="container mx-auto px-4 md:px-8 lg:px-32">
+        <h2 class="text-sm font-semibold text-[#0F9D58] mb-2">COMPREHENSIVE PLATFORM</h2>
+        <h1 class="text-4xl md:text-5xl poppins-light text-gray-900 leading-tight">All-in-one investment and trading </h1>
+        <h1 class="text-4xl md:text-5xl poppins-medium text-gray-900 leading-tight mb-12">solution for modern investors</h1>
+
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-x-8 gap-y-12">
+            <!-- Investment Plans -->
+            <div class="flex flex-col md:flex-row gap-5 md:gap-3 items-start">
+                <div class="flex-shrink-0 mr-4">
+                    <div class="w-14 h-14 bg-[#E8F5F0] rounded-full flex items-center justify-center">
+                        <i class="fas fa-chart-line text-[#0F9D58] text-2xl"></i>
+                    </div>
+                </div>
+                <div>
+                    <h3 class="text-xl font-semibold mb-2">Investment Plans</h3>
+                    <p class="text-gray-600 mb-4">Flexible investment packages with competitive daily ROI. Choose from multiple tiers designed for every portfolio size and risk tolerance.</p>
+                </div>
+            </div>
+
+            <!-- Cryptocurrency Trading -->
+            <div class="flex flex-col md:flex-row gap-5 md:gap-3 items-start">
+                <div class="flex-shrink-0 mr-4">
+                    <div class="w-14 h-14 bg-[#E8F5F0] rounded-full flex items-center justify-center">
+                        <i class="fab fa-bitcoin text-[#0F9D58] text-2xl"></i>
+                    </div>
+                </div>
+                <div>
+                    <h3 class="text-xl font-semibold mb-2">Cryptocurrency Trading</h3>
+                    <p class="text-gray-600 mb-4">Trade over 100 cryptocurrencies including Bitcoin, Ethereum, and altcoins. Access spot, margin, and futures markets with real-time data.</p>
+                </div>
+            </div>
+
+            <!-- Stock Trading & Investment -->
+            <div class="flex flex-col md:flex-row gap-5 md:gap-3 items-start">
+                <div class="flex-shrink-0 mr-4">
+                    <div class="w-14 h-14 bg-[#E8F5F0] rounded-full flex items-center justify-center">
+                        <i class="fas fa-chart-candlestick text-[#0F9D58] text-2xl"></i>
+                    </div>
+                </div>
+                <div>
+                    <h3 class="text-xl font-semibold mb-2">Stock Trading & Investment</h3>
+                    <p class="text-gray-600 mb-4">Invest in top global stocks like Apple, Tesla, Microsoft, and more. Live market data and integrated TradingView charts for informed decisions.</p>
+                </div>
+            </div>
+
+            <!-- Copy Trading -->
+            <div class="flex flex-col md:flex-row gap-5 md:gap-3 items-start">
+                <div class="flex-shrink-0 mr-4">
+                    <div class="w-14 h-14 bg-[#E8F5F0] rounded-full flex items-center justify-center">
+                        <i class="fas fa-users text-[#0F9D58] text-2xl"></i>
+                    </div>
+                </div>
+                <div>
+                    <h3 class="text-xl font-semibold mb-2">Copy Trading</h3>
+                    <p class="text-gray-600 mb-4">Follow expert traders and automatically replicate their profitable strategies. Benefit from professional trading without the learning curve.</p>
+                </div>
+            </div>
+
+            <!-- Automated Bot Trading -->
+            <div class="flex flex-col md:flex-row gap-5 md:gap-3 items-start">
+                <div class="flex-shrink-0 mr-4">
+                    <div class="w-14 h-14 bg-[#E8F5F0] rounded-full flex items-center justify-center">
+                        <i class="fas fa-robot text-[#0F9D58] text-2xl"></i>
+                    </div>
+                </div>
+                <div>
+                    <h3 class="text-xl font-semibold mb-2">Automated Bot Trading</h3>
+                    <p class="text-gray-600 mb-4">AI-powered trading bots executing strategies 24/7. Choose from scalping, day trading, or swing trading algorithms for passive income.</p>
+                </div>
+            </div>
+
+            <!-- Crypto Staking -->
+            <div class="flex flex-col md:flex-row gap-5 md:gap-3 items-start">
+                <div class="flex-shrink-0 mr-4">
+                    <div class="w-14 h-14 bg-[#E8F5F0] rounded-full flex items-center justify-center">
+                        <i class="fas fa-coins text-[#0F9D58] text-2xl"></i>
+                    </div>
+                </div>
+                <div>
+                    <h3 class="text-xl font-semibold mb-2">Crypto Staking</h3>
+                    <p class="text-gray-600 mb-4">Earn passive rewards by staking popular cryptocurrencies. Flexible lock periods with competitive APY rates and automatic reward distribution.</p>
+                </div>
+            </div>
+
+            <!-- Security -->
+            <div class="flex flex-col md:flex-row gap-5 md:gap-3 items-start">
+                <div class="flex-shrink-0 mr-4">
+                    <div class="w-14 h-14 bg-[#E8F5F0] rounded-full flex items-center justify-center">
+                        <i class="fas fa-shield-alt text-[#0F9D58] text-2xl"></i>
+                    </div>
+                </div>
+                <div>
+                    <h3 class="text-xl font-semibold mb-2">Bank-Grade Security</h3>
+                    <p class="text-gray-600 mb-4">Your investments are protected with military-grade encryption, two-factor authentication, and cold storage for digital assets.</p>
+                </div>
+            </div>
+
+            <!-- 24/7 Support -->
+            <div class="flex flex-col md:flex-row gap-5 md:gap-3 items-start">
+                <div class="flex-shrink-0 mr-4">
+                    <div class="w-14 h-14 bg-[#E8F5F0] rounded-full flex items-center justify-center">
+                        <i class="fas fa-headset text-[#0F9D58] text-2xl"></i>
+                    </div>
+                </div>
+                <div>
+                    <h3 class="text-xl font-semibold mb-2">24/7 Expert Support</h3>
+                    <p class="text-gray-600 mb-4">Round-the-clock customer support via chat, email, and phone. Our dedicated team is always ready to assist you.</p>
+                </div>
+            </div>
+
+            <!-- Instant Transactions -->
+            <div class="flex flex-col md:flex-row gap-5 md:gap-3 items-start">
+                <div class="flex-shrink-0 mr-4">
+                    <div class="w-14 h-14 bg-[#E8F5F0] rounded-full flex items-center justify-center">
+                        <i class="fas fa-bolt text-[#0F9D58] text-2xl"></i>
+                    </div>
+                </div>
+                <div>
+                    <h3 class="text-xl font-semibold mb-2">Instant Processing</h3>
+                    <p class="text-gray-600 mb-4">Lightning-fast deposits, withdrawals, and trade execution. Access your funds when you need them with minimal processing times.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Call to Action Section -->
+<section class="overflow-hidden">
+    <div class="p-5 md:p-20">
+        <div class="relative px-5 md:px-10 lg:px-20 pb-10 md:pb-20 py-10 md:py-16 manrope text-sm text-white container mx-auto flex flex-col md:flex-row gap-8 md:gap-5 items-center md:items-end justify-between w-full rounded-xl md:rounded-2xl" style="background: linear-gradient(226deg, rgb(1, 5, 34) 50.68%, rgb(15, 157, 88) 84.75%);">
+            <div class="w-full md:flex-1 space-y-5 z-10">
+                <div class="text-3xl md:text-4xl lg:text-5xl xl:text-6xl poppins-medium text-left">Start earning today <div class="poppins-light mt-2">with TIDEXPRO</div></div>
+                <p class="text-lg md:text-xl text-gray-200">Join thousands of investors growing their wealth through smart investment strategies and automated trading solutions.</p>
+                <a href="https://tidexpro.net/register" class="inline-block py-2 text-white text-xl md:text-2xl lg:text-3xl hover:underline transition-all">Create Free Account <i class="fa-solid fa-arrow-right-long ml-2"></i></a>
+            </div>
+            <div class="relative w-full md:flex-1 flex justify-center md:justify-end min-h-[300px] md:min-h-[400px]">
+                <img src="https://tidexpro.net/temp/assets/images/man-shades.webp" alt="Happy Investor" class="w-[280px] md:w-[400px] lg:w-[500px] z-20 relative object-contain">
+                <img src="https://tidexpro.net/temp/assets/images/not.webp" alt="Profit Notification" class="w-[120px] md:w-[200px] lg:w-[300px] absolute top-[20%] md:top-1/2 right-0 md:right-[-50px] lg:right-[-80px] -translate-y-1/2 z-[30] object-contain">
+                <img src="https://tidexpro.net/temp/assets/images/smaller-not.webp" alt="Investment Preview" class="w-[100px] md:w-[160px] lg:w-[250px] absolute top-[60%] md:top-1/2 right-[20px] md:right-[10px] translate-y-[-20%] md:translate-y-[20px] z-[22] object-contain">
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Investment Plans Section -->
+<section class="py-20 bg-gradient-to-br from-white via-gray-50 to-white">
+    <div class="container mx-auto px-4">
+        <div class="text-center mb-14">
+            <span class="text-[#0F9D58] font-semibold tracking-wide uppercase">Our Plans</span>
+            <h2 class="text-3xl md:text-4xl font-display font-extrabold text-gray-900 mt-2">Choose Your Investment Plan</h2>
+            <p class="text-gray-600 max-w-2xl mx-auto mt-3">Select the plan that fits your investment strategy and start earning.</p>
+        </div>
+
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10">
+                            <div class="relative group bg-white/80 backdrop-blur-md rounded-2xl shadow-xl border border-gray-200 transition duration-300 hover:scale-[1.03] hover:shadow-2xl">
+                    <div class="p-8 text-center">
+                        <h3 class="text-2xl font-semibold text-gray-900 mb-2">LEVEL 1 BASIC PLAN</h3>
+                        
+                        <div class="text-3xl font-bold text-[#0F9D58] mb-2">
+                            $100.00 - $1,999.00
+                        </div>
+
+                        <div class="text-gray-500 text-sm mb-4">Min &mdash; Max Investment</div>
+
+                        <ul class="mb-6 text-gray-700 text-sm space-y-3">
+                            <li class="flex items-center justify-center gap-2">
+                                <span class="font-medium text-gray-900">Daily ROI:</span> 0.35% 
+                            </li>
+                            <li class="flex items-center justify-center gap-2">
+                                <span class="font-medium text-gray-900">Expected Return:</span> %
+                            </li>
+                                                            <li class="flex items-center justify-center gap-2">
+                                    <span class="font-medium text-gray-900">Increment:</span> +0.35% Hourly 
+                                </li>
+                                                    </ul>
+
+                        <a href="https://tidexpro.net/register" class="inline-block mt-4 px-6 py-2 bg-[#0F9D58] text-white rounded-lg font-medium hover:bg-[#0B8046] transition-all">
+                            Get Started
+                        </a>
+                    </div>
+                </div>
+                            <div class="relative group bg-white/80 backdrop-blur-md rounded-2xl shadow-xl border border-gray-200 transition duration-300 hover:scale-[1.03] hover:shadow-2xl">
+                    <div class="p-8 text-center">
+                        <h3 class="text-2xl font-semibold text-gray-900 mb-2">LEVEL 2 STANDARD PLAN</h3>
+                        
+                        <div class="text-3xl font-bold text-[#0F9D58] mb-2">
+                            $2,000.00 - $7,999.00
+                        </div>
+
+                        <div class="text-gray-500 text-sm mb-4">Min &mdash; Max Investment</div>
+
+                        <ul class="mb-6 text-gray-700 text-sm space-y-3">
+                            <li class="flex items-center justify-center gap-2">
+                                <span class="font-medium text-gray-900">Daily ROI:</span> 0.60% 
+                            </li>
+                            <li class="flex items-center justify-center gap-2">
+                                <span class="font-medium text-gray-900">Expected Return:</span> %
+                            </li>
+                                                            <li class="flex items-center justify-center gap-2">
+                                    <span class="font-medium text-gray-900">Increment:</span> +0.60% Hourly 
+                                </li>
+                                                    </ul>
+
+                        <a href="https://tidexpro.net/register" class="inline-block mt-4 px-6 py-2 bg-[#0F9D58] text-white rounded-lg font-medium hover:bg-[#0B8046] transition-all">
+                            Get Started
+                        </a>
+                    </div>
+                </div>
+                            <div class="relative group bg-white/80 backdrop-blur-md rounded-2xl shadow-xl border border-gray-200 transition duration-300 hover:scale-[1.03] hover:shadow-2xl">
+                    <div class="p-8 text-center">
+                        <h3 class="text-2xl font-semibold text-gray-900 mb-2">LEVEL 3 PREMIUM PLAN</h3>
+                        
+                        <div class="text-3xl font-bold text-[#0F9D58] mb-2">
+                            $8,000.00 - $999,999,999.00
+                        </div>
+
+                        <div class="text-gray-500 text-sm mb-4">Min &mdash; Max Investment</div>
+
+                        <ul class="mb-6 text-gray-700 text-sm space-y-3">
+                            <li class="flex items-center justify-center gap-2">
+                                <span class="font-medium text-gray-900">Daily ROI:</span> 0.85% 
+                            </li>
+                            <li class="flex items-center justify-center gap-2">
+                                <span class="font-medium text-gray-900">Expected Return:</span> %
+                            </li>
+                                                            <li class="flex items-center justify-center gap-2">
+                                    <span class="font-medium text-gray-900">Increment:</span> +0.85% Hourly 
+                                </li>
+                                                    </ul>
+
+                        <a href="https://tidexpro.net/register" class="inline-block mt-4 px-6 py-2 bg-[#0F9D58] text-white rounded-lg font-medium hover:bg-[#0B8046] transition-all">
+                            Get Started
+                        </a>
+                    </div>
+                </div>
+                    </div>
+    </div>
+</section>
+
+<!-- VALR Pay Promotional Section -->
+<section class="overflow-hidden">
+    <div class="p-5 md:p-20">
+        <div class="relative px-5 md:px-10 lg:px-20 pb-10 md:pb-20 py-10 md:py-16 manrope text-sm text-white container mx-auto flex flex-col md:flex-row gap-8 md:gap-5 items-center md:items-end justify-between w-full rounded-xl md:rounded-2xl" style="background: linear-gradient(226deg, rgb(1, 5, 34) 50.68%, rgb(15, 157, 88) 84.75%);">
+            <div class="w-full md:flex-1 space-y-5 z-10">
+                <div class="text-3xl md:text-4xl lg:text-5xl xl:text-6xl poppins-medium text-left">Pay anyone for free <div class="poppins-light mt-2">with TIDEXPRO Pay</div></div>
+                <a href="https://tidexpro.net/register" class="inline-block py-2 text-white text-xl md:text-2xl lg:text-3xl hover:underline transition-all">Get Started <i class="fa-solid fa-arrow-right-long ml-2"></i></a>
+            </div>
+            <div class="relative w-full md:flex-1 flex justify-center md:justify-end min-h-[300px] md:min-h-[400px]">
+                <img src="https://tidexpro.net/temp/assets/images/man-shades.webp" alt="Happy Customer" class="w-[280px] md:w-[400px] lg:w-[500px] z-20 relative object-contain">
+                <img src="https://tidexpro.net/temp/assets/images/not.webp" alt="Payment Notification" class="w-[120px] md:w-[200px] lg:w-[300px] absolute top-[20%] md:top-1/2 right-0 md:right-[-50px] lg:right-[-80px] -translate-y-1/2 z-[30] object-contain">
+                <img src="https://tidexpro.net/temp/assets/images/smaller-not.webp" alt="Payment Preview" class="w-[100px] md:w-[160px] lg:w-[250px] absolute top-[60%] md:top-1/2 right-[20px] md:right-[10px] translate-y-[-20%] md:translate-y-[20px] z-[22] object-contain">
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Counter Section -->
+<section class="py-16 bg-[#0F9D58] text-white">
+    <div class="container mx-auto px-4">
+        <div class="grid grid-cols-2 md:grid-cols-4 gap-8">
+            <div class="text-center">
+                <div class="text-3xl md:text-5xl font-bold mb-2">
+                    <span class="counter" data-count="9430">0</span>+
+                </div>
+                <p class="text-sm md:text-lg">Satisfied Investors</p>
+            </div>
+
+            <div class="text-center">
+                <div class="text-3xl md:text-5xl font-bold mb-2">
+                    <span class="counter" data-count="15">0</span>+
+                </div>
+                <p class="text-sm md:text-lg">Years Experience</p>
+            </div>
+
+            <div class="text-center">
+                <div class="text-3xl md:text-5xl font-bold mb-2">
+                    <span class="counter" data-count="197">0</span>+
+                </div>
+                <p class="text-sm md:text-lg">Countries</p>
+            </div>
+
+            <div class="text-center">
+                <div class="text-3xl md:text-5xl font-bold mb-2">
+                    <span class="counter" data-count="30467">0</span>+
+                </div>
+                <p class="text-sm md:text-lg">Successful Transactions</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+    </main>
+
+    <!-- Toast Notification -->
+    <div id="toast" class="hidden fixed bottom-10 right-10 z-50 p-4 bg-white text-black rounded-lg shadow-lg border border-primary max-w-md"></div>
+
+    <!-- Footer -->
+    <div class="bg-[#010522] manrope text-sm text-white">
+        <div class="h-[100px] bg-gradient-to-b to-90% to-[#010522] from-primary"></div>
+        <footer class="md:box-content py-5 pt-0 px-5 bg-[#010522] manrope text-sm text-white container mx-auto">
+            <div class="flex flex-col md:flex-row gap-5 items-center justify-center w-full my-10 md:my-20">
+                <div>
+                    <img src="https://tidexpro.net/storage/app/public/photos/NomGNZIX05Z3oHHcRM2LtSzreZ5kCdsKf77KfwU0.jpg" alt="TIDEXPRO" class="h-12 md:h-16">
+                </div>
+                <div class="text-xl md:text-4xl poppins-regular text-center">Pro Trading, <span class="poppins-semibold">For Everyone.</span></div>
+                <a href="register" class="bg-primary py-2 px-5 rounded-full text-white ml-0 md:ml-4 hover:bg-primary-dark transition-colors">Get Started</a>
+            </div>
+
+            <!-- Investor Logos Carousel -->
+            <div class="text-center font-bold mb-10">Our Partners</div>
+            <div id="investor-slides">
+                <div class="owl-carousel owl-theme">
+                    <div class="item"><img src="https://tidexpro.net/temp/assets/images/brands/1.png" alt="Partner 1" class="h-20 w-auto object-contain opacity-70 hover:opacity-100 transition-opacity"></div>
+                    <div class="item"><img src="https://tidexpro.net/temp/assets/images/brands/2.png" alt="Partner 2" class="h-20 w-auto object-contain opacity-70 hover:opacity-100 transition-opacity"></div>
+                    <div class="item"><img src="https://tidexpro.net/temp/assets/images/brands/3.png" alt="Partner 3" class="h-20 w-auto object-contain opacity-70 hover:opacity-100 transition-opacity"></div>
+                    <div class="item"><img src="https://tidexpro.net/temp/assets/images/brands/4.png" alt="Partner 4" class="h-20 w-auto object-contain opacity-70 hover:opacity-100 transition-opacity"></div>
+                    <div class="item"><img src="https://tidexpro.net/temp/assets/images/brands/5.png" alt="Partner 5" class="h-20 w-auto object-contain opacity-70 hover:opacity-100 transition-opacity"></div>
+                    <div class="item"><img src="https://tidexpro.net/temp/assets/images/brands/6.png" alt="Partner 6" class="h-20 w-auto object-contain opacity-70 hover:opacity-100 transition-opacity"></div>
+                    <div class="item"><img src="https://tidexpro.net/temp/assets/images/brands/7.png" alt="Partner 7" class="h-20 w-auto object-contain opacity-70 hover:opacity-100 transition-opacity"></div>
+                    <div class="item"><img src="https://tidexpro.net/temp/assets/images/brands/8.png" alt="Partner 8" class="h-20 w-auto object-contain opacity-70 hover:opacity-100 transition-opacity"></div>
+                    <div class="item"><img src="https://tidexpro.net/temp/assets/images/brands/9.png" alt="Partner 9" class="h-20 w-auto object-contain opacity-70 hover:opacity-100 transition-opacity"></div>
+                </div>
+            </div>
+            
+            <div class="text-white py-12 px-4 md:px-8">
+                <div class="grid grid-cols-2 md:grid-cols-6 gap-8">
+                    <div class="text-sm">
+                        <h3 class="font-semibold mb-4">Company</h3>
+                        <ul class="space-y-2 text-[#ffffff7a]">
+                            <li><a href="about" class="hover:text-white transition-colors">About Us</a></li>
+                            <li><a href="services" class="hover:text-white transition-colors">Services</a></li>
+                            <li><a href="contact" class="hover:text-white transition-colors">Contact</a></li>
+                            <li><a href="terms" class="hover:text-white transition-colors">Terms</a></li>
+                        </ul>
+                    </div>
+                    
+                    <div class="text-sm">
+                        <h3 class="font-semibold mb-4">Products</h3>
+                        <ul class="space-y-2 text-[#ffffff7a]">
+                            <li><a href="services" class="hover:text-white transition-colors">Trading</a></li>
+                            <li><a href="services" class="hover:text-white transition-colors">Investment</a></li>
+                            <li><a href="services" class="hover:text-white transition-colors">Crypto</a></li>
+                            <li><a href="services" class="hover:text-white transition-colors">Stocks</a></li>
+                        </ul>
+                    </div>
+                    
+                    <div class="text-sm">
+                        <h3 class="font-semibold mb-4">Support</h3>
+                        <ul class="space-y-2 text-[#ffffff7a]">
+                            <li><a href="contact" class="hover:text-white transition-colors">Help Center</a></li>
+                            <li><a href="contact" class="hover:text-white transition-colors">FAQ</a></li>
+                            <li><a href="contact" class="hover:text-white transition-colors">Support</a></li>
+                        </ul>
+                    </div>
+                    
+                    <div class="text-sm">
+                        <h3 class="font-semibold mb-4">Legal</h3>
+                        <ul class="space-y-2 text-[#ffffff7a]">
+                            <li><a href="terms" class="hover:text-white transition-colors">Privacy Policy</a></li>
+                            <li><a href="terms" class="hover:text-white transition-colors">Terms of Service</a></li>
+                            <li><a href="terms" class="hover:text-white transition-colors">Cookie Policy</a></li>
+                        </ul>
+                    </div>
+                    
+                    <div class="text-sm col-span-2">
+                        <h3 class="font-semibold mb-4">Contact Info</h3>
+                        <ul class="space-y-2 text-[#ffffff7a]">
+                            <li><i class="fas fa-envelope mr-2"></i><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="bcd5d2dad3fcc8d5d8d9c4ccced392d2d9c8">[email&#160;protected]</a></li>
+                            <li><i class="fas fa-map-marker-alt mr-2"></i>Atlas Solutions BV
+Avenue Louise 231,1050 Ixelles
+Brussels,Belgium</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <div class="flex flex-col md:flex-row items-center gap-4 py-8 px-4 md:px-8 border-t border-white/10">
+                <div class="flex-shrink-0">
+                    <img src="https://tidexpro.net/storage/app/public/photos/NomGNZIX05Z3oHHcRM2LtSzreZ5kCdsKf77KfwU0.jpg" alt="TIDEXPRO" class="h-8">
+                </div>
+                <p class="text-[11px] font-light text-[#ffffff7a]">TIDEXPRO is a licensed financial services provider</p>
+                
+                <div class="bg-[#ffffff7a] w-full h-px border-b-px flex-1 hidden md:block"></div>
+                
+                <div class="flex justify-center md:justify-start items-center gap-2 mt-4 md:mt-0 flex-shrink-0">
+                    <a href="https://facebook.com" target="_blank" class="flex items-center justify-center w-8 h-8 rounded-full bg-[#ffffff14] hover:bg-[#2a56ff] transition-colors duration-200">
+                        <i class="fab fa-facebook-f text-sm"></i>
+                    </a>
+                    <a href="https://twitter.com" target="_blank" class="flex items-center justify-center w-8 h-8 rounded-full bg-[#ffffff14] hover:bg-[#2a56ff] transition-colors duration-200">
+                        <i class="fab fa-twitter text-sm"></i>
+                    </a>
+                    <a href="https://linkedin.com" target="_blank" class="flex items-center justify-center w-8 h-8 rounded-full bg-[#ffffff14] hover:bg-[#2a56ff] transition-colors duration-200">
+                        <i class="fab fa-linkedin-in text-sm"></i>
+                    </a>
+                    <a href="https://instagram.com" target="_blank" class="flex items-center justify-center w-8 h-8 rounded-full bg-[#ffffff14] hover:bg-[#2a56ff] transition-colors duration-200">
+                        <i class="fab fa-instagram text-sm"></i>
+                    </a>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <!-- Back to Top Button -->
+    <button id="back-to-top" class="fixed bottom-6 right-6 p-3 rounded-full bg-primary text-white shadow-lg transform transition-transform duration-300 hover:scale-110 focus:outline-none hidden z-40">
+        <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 10l7-7m0 0l7 7m-7-7v18" />
+        </svg>
+    </button>
+
+    <!-- Scripts -->
+    <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+
+    <script>
+        $(document).ready(function(){
+            // Owl Carousel
+            $(".owl-carousel").owlCarousel({
+                autoplay: true,
+                autoplayTimeout: 2000,
+                loop: true,
+                nav: false,
+                dots: false,
+                responsive: {
+                    0: { items: 2 },
+                    600: { items: 3 },
+                    1000: { items: 6 }
+                }
+            });
+
+            // Mobile Menu
+            const menuToggle = document.getElementById('menu-toggle');
+            const closeMenu = document.getElementById('close-menu');
+            const mobileMenu = document.getElementById('mobile-menu');
+
+            menuToggle.addEventListener('click', () => {
+                mobileMenu.classList.remove('hidden');
+                mobileMenu.classList.remove('-translate-x-full');
+                mobileMenu.classList.add('translate-x-0');
+                document.body.style.overflow = 'hidden';
+            });
+
+            closeMenu.addEventListener('click', () => {
+                mobileMenu.classList.remove('translate-x-0');
+                mobileMenu.classList.add('-translate-x-full');
+                setTimeout(() => {
+                    mobileMenu.classList.add('hidden');
+                }, 300);
+                document.body.style.overflow = 'auto';
+            });
+
+            // Back to Top
+            $(window).scroll(function() {
+                if ($(this).scrollTop() > 300) {
+                    $('#back-to-top').fadeIn();
+                } else {
+                    $('#back-to-top').fadeOut();
+                }
+            });
+
+            $('#back-to-top').click(function() {
+                $('html, body').animate({scrollTop: 0}, 800);
+                return false;
+            });
+
+            // Toast Notification
+            window.showToast = function(message, duration = 3000) {
+                const toast = $('#toast');
+                toast.text(message);
+                toast.removeClass('hidden').addClass('block');
+                setTimeout(function() {
+                    toast.removeClass('block').addClass('hidden');
+                }, duration);
+            };
+
+            // Random Transaction Notifications
+            const amounts = [30000, 45000, 11500, 16000, 8000, 10000, 13000, 17000, 29000, 30000, 16000, 28000, 21000, 51000, 12000, 17000, 25000, 9000, 50000, 4000];
+            const countries = ["United States", "United Kingdom", "Canada", "Australia", "Germany", "France", "Japan", "China", "Brazil", "India", "Russia", "South Africa", "Mexico", "Spain", "Italy", "Netherlands", "Sweden", "Singapore", "United Arab Emirates", "Switzerland"];
+
+            function showRandomTransaction() {
+                const isInvestment = Math.random() < 0.5;
+                const randomCountry = countries[Math.floor(Math.random() * countries.length)];
+                const randomAmount = amounts[Math.floor(Math.random() * amounts.length)];
+                
+                let message = isInvestment 
+                    ? `Someone from ${randomCountry} just invested $${randomAmount} in TIDEXPRO`
+                    : `Someone from ${randomCountry} just withdrew $${randomAmount} from TIDEXPRO`;
+                
+                window.showToast(message, 3000);
+            }
+
+            setInterval(showRandomTransaction, 10000);
+        });
+    </script>
+
+    <script>
+$(document).ready(function() {
+    // Crypto Price Fetching
+    async function fetchCryptoPrices() {
+        try {
+            const coinIds = 'bitcoin,ethereum,solana,ripple,avalanche,shiba-inu,tether,aave';
+            const response = await fetch(`https://api.coingecko.com/api/v3/simple/price?ids=${coinIds}&vs_currencies=usd`);
+            const data = await response.json();
+
+            if (Object.keys(data).length === 0) {
+                console.error("API returned no data. Check coin IDs or API status.");
+                return;
+            }
+
+            const formatPrice = (price) => {
+                if (price === undefined) return 'N/A';
+                // Handle small numbers like Shiba Inu correctly
+                if (price < 1) {
+                    return price.toFixed(8); // Use more decimal places for very small values
+                }
+                return price.toLocaleString(undefined, {
+                    minimumFractionDigits: 2,
+                    maximumFractionDigits: 2
+                });
+            };
+
+            document.getElementById('bitcoin-price').textContent = formatPrice(data.bitcoin?.usd);
+            document.getElementById('ethereum-price').textContent = formatPrice(data.ethereum?.usd);
+            document.getElementById('solana-price').textContent = formatPrice(data.solana?.usd);
+            document.getElementById('xrp-price').textContent = formatPrice(data.ripple?.usd);
+            document.getElementById('avalanche-price').textContent = formatPrice(data.avalanche?.usd);
+            document.getElementById('shiba-inu-price').textContent = formatPrice(data['shiba-inu']?.usd);
+            document.getElementById('tether-price').textContent = formatPrice(data.tether?.usd);
+            document.getElementById('aave-price').textContent = formatPrice(data.aave?.usd);
+
+        } catch (error) {
+            console.error('Error fetching crypto prices:', error);
+        }
+    }
+
+    fetchCryptoPrices();
+    setInterval(fetchCryptoPrices, 60000);
+
+    // Counter Animation
+    function animateCounters() {
+        $('.counter').each(function() {
+            var $this = $(this);
+            var countTo = parseInt($this.attr('data-count'));
+
+            $({ countNum: 0 }).animate({
+                countNum: countTo
+            }, {
+                duration: 2000,
+                easing: 'swing',
+                step: function() {
+                    $this.text(Math.floor(this.countNum).toLocaleString());
+                },
+                complete: function() {
+                    $this.text(countTo.toLocaleString());
+                }
+            });
+        });
+    }
+
+    function checkCounters() {
+        const counterSection = $('.counter').first().closest('section');
+        if (counterSection.length) {
+            const sectionTop = counterSection.offset().top;
+            const windowTop = $(window).scrollTop();
+            const windowHeight = $(window).height();
+
+            if (windowTop + windowHeight > sectionTop + 100) {
+                animateCounters();
+                $(window).off('scroll', checkCounters);
+            }
+        }
+    }
+
+    $(window).on('scroll', checkCounters);
+});
+</script>
+
+<!-- Alpine.js for potential interactive elements -->
+<script src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js" defer></script>
+    
+    <!-- Smartsupp Live Chat script -->
+
+
+
+<!-- Smartsupp Live Chat script -->
+<script type="text/javascript">
+var _smartsupp = _smartsupp || {};
+_smartsupp.key = 'db22bd36befe384ef3128013662a7ada5dd9a156';
+window.smartsupp||(function(d) {
+  var s,c,o=smartsupp=function(){ o._.push(arguments)};o._=[];
+  s=d.getElementsByTagName('script')[0];c=d.createElement('script');
+  c.type='text/javascript';c.charset='utf-8';c.async=true;
+  c.src='https://www.smartsuppchat.com/loader.js?';s.parentNode.insertBefore(c,s);
+})(document);
+</script>
+<noscript>Powered by <a href="https://www.smartsupp.com" target="_blank">Smartsupp</a></noscript>
+
+
+
+
+
+
+
+
+
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a08f6c75df8eb092',t:'MTc4MTAwMDYzNQ=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>

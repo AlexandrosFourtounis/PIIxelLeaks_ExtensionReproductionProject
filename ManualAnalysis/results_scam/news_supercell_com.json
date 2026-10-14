@@ -1,0 +1,461 @@
+{
+    "name": "news-supercell.com",
+    "handle": "3069330812_DOMAIN_COM-VRSN",
+    "registrationDate": "2/19/2026, 9:01:57 PM GMT+2",
+    "expirationDate": "2/19/2027, 9:01:57 PM GMT+2",
+    "lastChangedDate": null,
+    "lastUpdateDate": "2/19/2026, 9:04:54 PM GMT+2",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "handle": "tmpl-atrmxl8kj8",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Redacted for Privacy"
+                    ],
+                    [
+                        "org",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "Redacted for Privacy"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "Redacted for Privacy"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "Redacted for Privacy"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "ID"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "Kandangan",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "https://whois.cloud.tencent.com/whoisform?domain=news-supercell.com"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object truncated due to authorization",
+                    "description": [
+                        "Some of the data in this object has been removed."
+                    ]
+                }
+            ],
+            "lang": "en"
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "tmpl-atrmxl8kj8",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Redacted for Privacy"
+                    ],
+                    [
+                        "org",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "Redacted for Privacy"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "Redacted for Privacy"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "Redacted for Privacy"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "ID"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "Kandangan",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "https://whois.cloud.tencent.com/whoisform?domain=news-supercell.com"
+                    ]
+                ]
+            ],
+            "roles": [
+                "technical"
+            ],
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object truncated due to authorization",
+                    "description": [
+                        "Some of the data in this object has been removed."
+                    ]
+                }
+            ],
+            "lang": "en"
+        },
+        {
+            "objectClassName": "entity",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+86.95716"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "dnsabuse_complaint@tencent.com"
+                    ]
+                ]
+            ],
+            "roles": [
+                "abuse"
+            ],
+            "lang": "en"
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "3858",
+            "roles": [
+                "registrar"
+            ],
+            "publicIds": [
+                {
+                    "type": "IANA Registrar ID",
+                    "identifier": "3858"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://global-rdap.dnspod.com",
+                    "rel": "about",
+                    "href": "https://global-rdap.dnspod.com",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "port43": "whois.dnspod.com",
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                ""
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "voice"
+                                },
+                                "uri",
+                                "tel:+86.95716"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "dnsabuse_complaint@tencent.com"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "abuse"
+                    ],
+                    "lang": "en"
+                }
+            ],
+            "lang": "en"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "donna.ns.cloudflare.com",
+            "unicodeName": "donna.ns.cloudflare.com",
+            "lang": "en"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "lars.ns.cloudflare.com",
+            "unicodeName": "lars.ns.cloudflare.com",
+            "lang": "en"
+        },
+        {
+            "notices": [
+                {
+                    "title": "Status Codes",
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://global-rdap.dnspod.com/domain/news-supercell.com",
+                            "rel": "glossary",
+                            "href": "https://icann.org/epp",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "Terms of Use",
+                    "description": [
+                        "Service subject to Terms of Use"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://global-rdap.dnspod.com/domain/news-supercell.com",
+                            "rel": "terms-of-service",
+                            "href": "https://www.tencentcloud.com/document/product/242/48821?lang=en",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "RDDS Inaccuracy Complaint Form",
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://global-rdap.dnspod.com/domain/news-supercell.com",
+                            "rel": "help",
+                            "href": "https://icann.org/wicf",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "Search policy",
+                    "description": [
+                        "Result set is truncated due to configured limit. Search results are limited to 5 per query"
+                    ]
+                },
+                {
+                    "title": "Privacy policy",
+                    "description": [
+                        "To protect registrant's privacy, some of the data are removed(such as registrant's name and email/phont number)"
+                    ]
+                }
+            ],
+            "rdapConformance": [
+                "rdap_level_0",
+                "redacted",
+                "icann_rdap_technical_implementation_guide_1",
+                "icann_rdap_response_profile_1"
+            ],
+            "objectClassName": "domain",
+            "handle": "3069330812_DOMAIN_COM-VRSN",
+            "ldhName": "news-supercell.com",
+            "unicodeName": "news-supercell.com",
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "donna.ns.cloudflare.com",
+                    "unicodeName": "donna.ns.cloudflare.com",
+                    "lang": "en"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "lars.ns.cloudflare.com",
+                    "unicodeName": "lars.ns.cloudflare.com",
+                    "lang": "en"
+                }
+            ],
+            "secureDNS": {
+                "delegationSigned": false
+            },
+            "links": [
+                {
+                    "value": "https://global-rdap.dnspod.com/domain/news-supercell.com",
+                    "rel": "related",
+                    "href": "https://global-rdap.dnspod.com/domain/news-supercell.com",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "port43": "whois.dnspod.com",
+            "redacted": [
+                {
+                    "name": {
+                        "description": "Registrant Name"
+                    },
+                    "method": "emptyValue"
+                },
+                {
+                    "name": {
+                        "description": "Registrant City"
+                    },
+                    "method": "emptyValue"
+                },
+                {
+                    "name": {
+                        "description": "Registrant Street"
+                    },
+                    "method": "emptyValue"
+                },
+                {
+                    "name": {
+                        "description": "Registrant Email"
+                    },
+                    "method": "emptyValue"
+                },
+                {
+                    "name": {
+                        "description": "Registrant Phone"
+                    },
+                    "method": "emptyValue"
+                },
+                {
+                    "name": {
+                        "description": "Registrant Postal Code"
+                    },
+                    "method": "emptyValue"
+                },
+                {
+                    "name": {
+                        "description": "Registrant Fax"
+                    },
+                    "method": "emptyValue"
+                },
+                {
+                    "name": {
+                        "description": "Tech Name"
+                    },
+                    "method": "emptyValue"
+                },
+                {
+                    "name": {
+                        "description": "Tech City"
+                    },
+                    "method": "emptyValue"
+                },
+                {
+                    "name": {
+                        "description": "Tech Street"
+                    },
+                    "method": "emptyValue"
+                },
+                {
+                    "name": {
+                        "description": "Tech Email"
+                    },
+                    "method": "emptyValue"
+                },
+                {
+                    "name": {
+                        "description": "Tech Phone"
+                    },
+                    "method": "emptyValue"
+                },
+                {
+                    "name": {
+                        "description": "Tech Postal Code"
+                    },
+                    "method": "emptyValue"
+                },
+                {
+                    "name": {
+                        "description": "Tech Fax"
+                    },
+                    "method": "emptyValue"
+                }
+            ],
+            "lang": "en"
+        }
+    ],
+    "domain": "news-supercell.com\r"
+}

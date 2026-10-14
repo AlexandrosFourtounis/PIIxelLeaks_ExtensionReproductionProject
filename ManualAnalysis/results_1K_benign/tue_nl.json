@@ -1,0 +1,595 @@
+{
+    "name": "tue.nl",
+    "handle": "REDACTED-BY-SIDN",
+    "registrationDate": "7/2/1987, 3:00:00 AM GMT+3",
+    "expirationDate": null,
+    "lastChangedDate": "4/23/2026, 8:29:50 AM GMT+3",
+    "lastUpdateDate": "6/23/2026, 2:55:06 PM GMT+3",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "handle": "LAN004720-TUNIE",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "REDACTED FOR PRIVACY"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "A.L.M.G.v.Lankveld@tue.nl"
+                    ]
+                ]
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.sidn.nl/entity/LAN004720-TUNIE",
+                    "rel": "about",
+                    "href": "https://rdap.sidn.nl/entity/LAN004720-TUNIE",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "roles": [
+                "administrative"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "LAN004722-TUNIE",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "REDACTED FOR PRIVACY"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "A.L.M.G.v.Lankveld@tue.nl"
+                    ]
+                ]
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.sidn.nl/entity/LAN004722-TUNIE",
+                    "rel": "about",
+                    "href": "https://rdap.sidn.nl/entity/LAN004722-TUNIE",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "roles": [
+                "technical"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "TEC001529-TUNIE",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Technische Universiteit Eindhoven"
+                    ]
+                ]
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.sidn.nl/entity/TEC001529-TUNIE",
+                    "rel": "about",
+                    "href": "https://rdap.sidn.nl/entity/TEC001529-TUNIE",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "roles": [
+                "registrant"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "AAT000365-TUNIE",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "REDACTED FOR PRIVACY"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "tech-contact@tue.nl"
+                    ]
+                ]
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.sidn.nl/entity/AAT000365-TUNIE",
+                    "rel": "about",
+                    "href": "https://rdap.sidn.nl/entity/AAT000365-TUNIE",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "roles": [
+                "technical"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "DEK057171-TUNIE",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "REDACTED FOR PRIVACY"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "c.strik@tue.nl"
+                    ]
+                ]
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.sidn.nl/entity/DEK057171-TUNIE",
+                    "rel": "about",
+                    "href": "https://rdap.sidn.nl/entity/DEK057171-TUNIE",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "roles": [
+                "technical"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "0000",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Technische Universiteit Eindhoven"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "NL"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "Den Dolech 2",
+                            "EINDHOVEN",
+                            "",
+                            "5612AZ",
+                            ""
+                        ]
+                    ]
+                ]
+            ],
+            "publicIds": [
+                {
+                    "identifier": "0000",
+                    "type": "IANA Registrar ID"
+                }
+            ],
+            "roles": [
+                "registrar"
+            ]
+        },
+        {
+            "ldhName": "ns01.tue.nl",
+            "unicodeName": "ns01.tue.nl",
+            "objectClassName": "nameserver",
+            "ipAddresses": {
+                "v6": [
+                    "2001:610:b41:1000:0:0:0:20"
+                ],
+                "v4": [
+                    "131.155.3.20"
+                ]
+            },
+            "links": [
+                {
+                    "value": "https://rdap.sidn.nl/nameserver/ns01.tue.nl",
+                    "rel": "about",
+                    "href": "https://rdap.sidn.nl/nameserver/ns01.tue.nl",
+                    "type": "application/rdap+json"
+                }
+            ]
+        },
+        {
+            "ldhName": "ns02.tue.nl",
+            "unicodeName": "ns02.tue.nl",
+            "objectClassName": "nameserver",
+            "ipAddresses": {
+                "v6": [
+                    "2001:610:b41:1001:0:0:0:30"
+                ],
+                "v4": [
+                    "131.155.3.30"
+                ]
+            },
+            "links": [
+                {
+                    "value": "https://rdap.sidn.nl/nameserver/ns02.tue.nl",
+                    "rel": "about",
+                    "href": "https://rdap.sidn.nl/nameserver/ns02.tue.nl",
+                    "type": "application/rdap+json"
+                }
+            ]
+        },
+        {
+            "ldhName": "ns3.tue.nl",
+            "unicodeName": "ns3.tue.nl",
+            "objectClassName": "nameserver",
+            "ipAddresses": {
+                "v4": [
+                    "130.89.2.7"
+                ]
+            },
+            "links": [
+                {
+                    "value": "https://rdap.sidn.nl/nameserver/ns3.tue.nl",
+                    "rel": "about",
+                    "href": "https://rdap.sidn.nl/nameserver/ns3.tue.nl",
+                    "type": "application/rdap+json"
+                }
+            ]
+        },
+        {
+            "rdapConformance": [
+                "rdap_level_0",
+                "icann_rdap_response_profile_1",
+                "icann_rdap_technical_implementation_guide_1",
+                "redacted"
+            ],
+            "objectClassName": "domain",
+            "notices": [
+                {
+                    "title": "Status Codes",
+                    "description": [
+                        "Meer informatie over domeinstatuscodes vind je op https://icann.org/epp",
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.sidn.nl/domain/tue.nl",
+                            "rel": "glossary",
+                            "href": "https://icann.org/epp",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "Privacy notice",
+                    "description": [
+                        "De houdergegevens kunnen afgeschermd zijn. Meer informatie hierover vind je op: https://www.sidn.nl/nl-domeinnaam/sidn-en-privacy",
+                        "The registrant's details can be withheld from public view. For more information, see https://www.sidn.nl/en/nl-domain-name/sidn-and-privacy"
+                    ]
+                },
+                {
+                    "title": "Maintainer",
+                    "description": [
+                        "Administratie door: SIDN BV",
+                        "Record maintained by: SIDN BV"
+                    ]
+                },
+                {
+                    "title": "RDDS Inaccuracy Complaint Form",
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://www.icann.org/wicf"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.sidn.nl/domain/tue.nl",
+                            "rel": "help",
+                            "href": "https://icann.org/wicf",
+                            "type": "text/html"
+                        }
+                    ]
+                }
+            ],
+            "lang": "nl-NL",
+            "handle": "REDACTED-BY-SIDN",
+            "ldhName": "tue.nl",
+            "secureDNS": {
+                "delegationSigned": true,
+                "dsData": [
+                    {
+                        "keyTag": 16415,
+                        "algorithm": 8,
+                        "digestType": 2,
+                        "digest": "75AA3F38B547BDC332F62485A0284820F0B554141B738DBFD5DED2B4AE7DB4F4"
+                    }
+                ]
+            },
+            "nameservers": [
+                {
+                    "ldhName": "ns01.tue.nl",
+                    "unicodeName": "ns01.tue.nl",
+                    "objectClassName": "nameserver",
+                    "ipAddresses": {
+                        "v6": [
+                            "2001:610:b41:1000:0:0:0:20"
+                        ],
+                        "v4": [
+                            "131.155.3.20"
+                        ]
+                    },
+                    "links": [
+                        {
+                            "value": "https://rdap.sidn.nl/nameserver/ns01.tue.nl",
+                            "rel": "about",
+                            "href": "https://rdap.sidn.nl/nameserver/ns01.tue.nl",
+                            "type": "application/rdap+json"
+                        }
+                    ]
+                },
+                {
+                    "ldhName": "ns02.tue.nl",
+                    "unicodeName": "ns02.tue.nl",
+                    "objectClassName": "nameserver",
+                    "ipAddresses": {
+                        "v6": [
+                            "2001:610:b41:1001:0:0:0:30"
+                        ],
+                        "v4": [
+                            "131.155.3.30"
+                        ]
+                    },
+                    "links": [
+                        {
+                            "value": "https://rdap.sidn.nl/nameserver/ns02.tue.nl",
+                            "rel": "about",
+                            "href": "https://rdap.sidn.nl/nameserver/ns02.tue.nl",
+                            "type": "application/rdap+json"
+                        }
+                    ]
+                },
+                {
+                    "ldhName": "ns3.tue.nl",
+                    "unicodeName": "ns3.tue.nl",
+                    "objectClassName": "nameserver",
+                    "ipAddresses": {
+                        "v4": [
+                            "130.89.2.7"
+                        ]
+                    },
+                    "links": [
+                        {
+                            "value": "https://rdap.sidn.nl/nameserver/ns3.tue.nl",
+                            "rel": "about",
+                            "href": "https://rdap.sidn.nl/nameserver/ns3.tue.nl",
+                            "type": "application/rdap+json"
+                        }
+                    ]
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.sidn.nl/domain/tue.nl",
+                    "rel": "self",
+                    "href": "https://rdap.sidn.nl/domain/tue.nl",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "redacted": [
+                {
+                    "name": {
+                        "description": "Domain handle"
+                    },
+                    "postPath": "$.handle",
+                    "pathLang": "jsonpath",
+                    "method": "replacementValue",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "description": "Registrant phone number"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='tel')]",
+                    "pathLang": "jsonpath",
+                    "method": "removal",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "description": "Registrant email"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='email')]",
+                    "pathLang": "jsonpath",
+                    "method": "removal",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "description": "Registrant address"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')]",
+                    "pathLang": "jsonpath",
+                    "method": "removal",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "description": "Administrative name"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='administrative')].vcardArray[1][?(@[0]=='fn')][3]",
+                    "pathLang": "jsonpath",
+                    "method": "replacementValue",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "description": "Administrative phone number"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='administrative')].vcardArray[1][?(@[0]=='tel')]",
+                    "pathLang": "jsonpath",
+                    "method": "removal",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "description": "Registrar handle"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrar')].handle",
+                    "pathLang": "jsonpath",
+                    "method": "replacementValue",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "description": "Public id"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrar')].publicIds[@LAST].identifier",
+                    "pathLang": "jsonpath",
+                    "method": "replacementValue",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "description": "Registrar email"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrar')].vcardArray[1][?(@[0]=='email')]",
+                    "pathLang": "jsonpath",
+                    "method": "removal",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "description": "Registrar phone number"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrar')].vcardArray[1][?(@[0]=='tel')]",
+                    "pathLang": "jsonpath",
+                    "method": "removal",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "description": "Technical name"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='fn')][3]",
+                    "pathLang": "jsonpath",
+                    "method": "replacementValue",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "description": "Technical address"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='adr')]",
+                    "pathLang": "jsonpath",
+                    "method": "removal",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "description": "Technical phone number"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='tel')]",
+                    "pathLang": "jsonpath",
+                    "method": "removal",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                },
+                {
+                    "name": {
+                        "description": "Technical organisation"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='org')]",
+                    "pathLang": "jsonpath",
+                    "method": "removal",
+                    "reason": {
+                        "description": "Server policy"
+                    }
+                }
+            ]
+        }
+    ],
+    "domain": "tue.nl\r"
+}

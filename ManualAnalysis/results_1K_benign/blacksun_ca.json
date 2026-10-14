@@ -1,0 +1,654 @@
+{
+    "name": "blacksun.ca",
+    "handle": "D114384-CIRA",
+    "registrationDate": "10/12/2000, 9:54:51 PM GMT+3",
+    "expirationDate": "5/26/2027, 7:00:00 AM GMT+3",
+    "lastChangedDate": "4/27/2026, 7:16:15 AM GMT+3",
+    "lastUpdateDate": "6/23/2026, 3:11:04 PM GMT+3",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "handle": "not applicable",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Abuse Contact"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "role",
+                        {},
+                        "text",
+                        "abuse"
+                    ],
+                    [
+                        "adr",
+                        {},
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "voice"
+                            ]
+                        },
+                        "uri",
+                        "tel:+1.4165350123"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "compliance@tucows.com"
+                    ],
+                    [
+                        "url",
+                        {
+                            "type": "home"
+                        },
+                        "uri",
+                        "https://help.opensrs.com/hc/en-us"
+                    ]
+                ]
+            ],
+            "roles": [
+                "abuse"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "not applicable",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Tucows.com Co."
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ],
+                    [
+                        "role",
+                        {},
+                        "text",
+                        "registrar"
+                    ],
+                    [
+                        "adr",
+                        {},
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "url",
+                        {
+                            "type": "home"
+                        },
+                        "uri",
+                        "https://help.opensrs.com/hc/en-us"
+                    ]
+                ]
+            ],
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "handle": "not applicable",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Abuse Contact"
+                            ],
+                            [
+                                "kind",
+                                {},
+                                "text",
+                                "individual"
+                            ],
+                            [
+                                "role",
+                                {},
+                                "text",
+                                "abuse"
+                            ],
+                            [
+                                "adr",
+                                {},
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "voice"
+                                    ]
+                                },
+                                "uri",
+                                "tel:+1.4165350123"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "compliance@tucows.com"
+                            ],
+                            [
+                                "url",
+                                {
+                                    "type": "home"
+                                },
+                                "uri",
+                                "https://help.opensrs.com/hc/en-us"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "abuse"
+                    ]
+                }
+            ],
+            "roles": [
+                "registrar"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "110378472-CIRA",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Cole Thompson"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "MSP Operational Corp."
+                    ],
+                    [
+                        "role",
+                        {},
+                        "text",
+                        "registrant"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "CA"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "108 - 116 Research Dr.",
+                            "Saskatoon",
+                            "SK",
+                            "S7N3R3",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "voice"
+                            ]
+                        },
+                        "uri",
+                        "tel:+1.3066839543"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "domains@virtualdata.com"
+                    ],
+                    [
+                        "url",
+                        {
+                            "type": "home"
+                        },
+                        "uri",
+                        "https://help.opensrs.com/hc/en-us"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrant"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "110378473-CIRA",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Cole Thompson"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "MSP Operational Corp."
+                    ],
+                    [
+                        "role",
+                        {},
+                        "text",
+                        "administrative"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "CA"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "108 - 116 Research Dr.",
+                            "Saskatoon",
+                            "SK",
+                            "S7N3R3",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "voice"
+                            ]
+                        },
+                        "uri",
+                        "tel:+1.3066839543"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "domains@virtualdata.com"
+                    ],
+                    [
+                        "url",
+                        {
+                            "type": "home"
+                        },
+                        "uri",
+                        "https://help.opensrs.com/hc/en-us"
+                    ]
+                ]
+            ],
+            "roles": [
+                "administrative"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "110379263-CIRA",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Cole Thompson"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "MSP Operational Corp."
+                    ],
+                    [
+                        "role",
+                        {},
+                        "text",
+                        "technical"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "CA"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "108 - 116 Research Drive",
+                            "Saskatoon",
+                            "SK",
+                            "S7N3R3",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "voice"
+                            ]
+                        },
+                        "uri",
+                        "tel:+1.3069334800"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "domains@virtualdata.com"
+                    ],
+                    [
+                        "url",
+                        {
+                            "type": "home"
+                        },
+                        "uri",
+                        "https://help.opensrs.com/hc/en-us"
+                    ]
+                ]
+            ],
+            "roles": [
+                "technical"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "role",
+                        {},
+                        "text",
+                        "billing"
+                    ],
+                    [
+                        "adr",
+                        {},
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "voice"
+                            ]
+                        },
+                        "text",
+                        ""
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "fax"
+                            ]
+                        },
+                        "text",
+                        ""
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "url",
+                        {
+                            "type": "home"
+                        },
+                        "uri",
+                        "https://help.opensrs.com/hc/en-us"
+                    ]
+                ]
+            ],
+            "roles": [
+                "billing"
+            ]
+        },
+        {
+            "ldhName": "ns1.blacksun.ca",
+            "objectClassName": "nameserver"
+        },
+        {
+            "ldhName": "ns2.blacksun.ca",
+            "objectClassName": "nameserver"
+        },
+        {
+            "rdapConformance": [
+                "icann_rdap_response_profile_1",
+                "icann_rdap_technical_implementation_guide_1",
+                "rdap_level_0"
+            ],
+            "handle": "D114384-CIRA",
+            "ldhName": "blacksun.ca",
+            "unicodeName": "blacksun.ca",
+            "port43": "whois.ca.fury.ca",
+            "links": [
+                {
+                    "href": "https://rdap.ca.fury.ca/rdap/domain/blacksun.ca",
+                    "value": "https://rdap.ca.fury.ca/rdap/domain/blacksun.ca",
+                    "rel": "self",
+                    "title": "Authoritative URL for this resource",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "notices": [
+                {
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ],
+                    "title": "Status Codes",
+                    "links": [
+                        {
+                            "href": "https://icann.org/epp",
+                            "value": "https://rdap.ca.fury.ca/rdap/domain/blacksun.ca",
+                            "rel": "glossary",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "description": [
+                        "Service subject to Terms of Use."
+                    ],
+                    "title": "Terms of Service",
+                    "links": [
+                        {
+                            "href": "https://www.cira.ca/en/resources/documents/about/website-terms-use",
+                            "value": "https://rdap.ca.fury.ca/rdap/domain/blacksun.ca",
+                            "rel": "terms-of-service",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ],
+                    "title": "RDDS Inaccuracy Complaint Form",
+                    "links": [
+                        {
+                            "href": "https://icann.org/wicf",
+                            "value": "https://rdap.ca.fury.ca/rdap/domain/blacksun.ca",
+                            "rel": "help",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "description": [
+                        "\nUse of CIRA's WHOIS service is governed by the Terms of Use in its Legal\nNotice, available at https://www.cira.ca/en/resources/documents/about/website-terms-use\n\n(c) 2026 Canadian Internet Registration Authority, (http://www.cira.ca/)"
+                    ],
+                    "title": "Legal Notice",
+                    "links": [
+                        {
+                            "href": "https://www.cira.ca/en/resources/documents/about/website-terms-use",
+                            "value": "https://rdap.ca.fury.ca/rdap/domain/blacksun.ca",
+                            "rel": "help",
+                            "type": "text/html"
+                        }
+                    ]
+                }
+            ],
+            "nameservers": [
+                {
+                    "ldhName": "ns1.blacksun.ca",
+                    "objectClassName": "nameserver"
+                },
+                {
+                    "ldhName": "ns2.blacksun.ca",
+                    "objectClassName": "nameserver"
+                }
+            ],
+            "secureDNS": {
+                "delegationSigned": false
+            },
+            "objectClassName": "domain"
+        }
+    ],
+    "domain": "blacksun.ca\r"
+}

@@ -1,0 +1,507 @@
+{
+    "name": "nexigroup.com",
+    "handle": "168",
+    "registrationDate": "8/23/2012, 1:00:00 AM GMT+3",
+    "expirationDate": "8/23/2026, 1:00:00 AM GMT+3",
+    "lastChangedDate": "9/25/2025, 1:00:00 AM GMT+3",
+    "lastUpdateDate": "6/23/2026, 4:02:25 PM GMT+3",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object redacted due to authorization",
+                    "description": [
+                        "The object contains redacted data due to lack of authorization."
+                    ],
+                    "links": [
+                        {
+                            "value": "https://www.register.it/company/privacy-policy-domain-name-registration/?lang=en",
+                            "rel": "privacy-policy",
+                            "href": "https://www.register.it/company/privacy-policy-domain-name-registration/?lang=en"
+                        }
+                    ]
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "REDACTED FOR PRIVACY"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "IT"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "REDACTED FOR PRIVACY",
+                            "REDACTED FOR PRIVACY",
+                            "MI",
+                            "REDACTED FOR PRIVACY",
+                            ""
+                        ]
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "REDACTED FOR PRIVACY"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "https://default.teamblue.domains/public/register/domain-contact"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrant"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object redacted due to authorization",
+                    "description": [
+                        "The object contains redacted data due to lack of authorization."
+                    ],
+                    "links": [
+                        {
+                            "value": "https://www.register.it/company/privacy-policy-domain-name-registration/?lang=en",
+                            "rel": "privacy-policy",
+                            "href": "https://www.register.it/company/privacy-policy-domain-name-registration/?lang=en"
+                        }
+                    ]
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "REDACTED FOR PRIVACY"
+                    ],
+                    [
+                        "adr",
+                        {},
+                        "text",
+                        [
+                            "",
+                            "",
+                            "REDACTED FOR PRIVACY",
+                            "REDACTED FOR PRIVACY",
+                            "REDACTED FOR PRIVACY",
+                            "REDACTED FOR PRIVACY",
+                            ""
+                        ]
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "REDACTED FOR PRIVACY"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "https://default.teamblue.domains/public/register/domain-contact"
+                    ]
+                ]
+            ],
+            "roles": [
+                "technical"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Register S.p.A."
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+39.05520021555"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "abuse@register.it"
+                    ]
+                ]
+            ],
+            "roles": [
+                "abuse"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "links": [
+                {
+                    "value": "https://rdap-register.info/",
+                    "rel": "about",
+                    "href": "https://rdap-register.info/",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "port43": "whois.register.it",
+            "handle": "168",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Register S.p.A."
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "IT"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "Viale Giovine Italia, 17",
+                            "Firenze",
+                            "FI",
+                            "50122",
+                            ""
+                        ]
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "Register S.p.A."
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+39.05520021555"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "abuse@register.it"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrar"
+            ],
+            "publicIds": [
+                {
+                    "type": "IANA Registrar ID",
+                    "identifier": "168"
+                }
+            ],
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Register S.p.A."
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "voice"
+                                },
+                                "uri",
+                                "tel:+39.05520021555"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "abuse@register.it"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "abuse"
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "a7-67.akam.net",
+            "unicodeName": "a7-67.akam.net",
+            "ipAddresses": {
+                "v4": [
+                    "23.61.199.67"
+                ]
+            }
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "a2-64.akam.net",
+            "unicodeName": "a2-64.akam.net",
+            "ipAddresses": {
+                "v4": [
+                    "95.100.174.64"
+                ]
+            }
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "a28-65.akam.net",
+            "unicodeName": "a28-65.akam.net",
+            "ipAddresses": {
+                "v4": [
+                    "95.100.173.65"
+                ]
+            }
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "a1-166.akam.net",
+            "unicodeName": "a1-166.akam.net",
+            "ipAddresses": {
+                "v4": [
+                    "193.108.91.166"
+                ]
+            }
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "nx1.register.it",
+            "unicodeName": "nx1.register.it",
+            "ipAddresses": {
+                "v4": [
+                    "107.162.234.197"
+                ]
+            }
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "nx2.register.it",
+            "unicodeName": "nx2.register.it",
+            "ipAddresses": {
+                "v4": [
+                    "107.162.176.221"
+                ]
+            }
+        },
+        {
+            "rdapConformance": [
+                "redacted",
+                "rdap_level_0",
+                "icann_rdap_technical_implementation_guide_1",
+                "icann_rdap_response_profile_1"
+            ],
+            "objectClassName": "domain",
+            "links": [
+                {
+                    "value": "https://rdap-register.info/domain/nexigroup.com",
+                    "rel": "self",
+                    "href": "https://rdap-register.info/domain/nexigroup.com",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "notices": [
+                {
+                    "title": "Terms of Service",
+                    "description": [
+                        "Terms of Service"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap-register.info/domain/nexigroup.com",
+                            "rel": "terms-of-service",
+                            "href": "https://www.register.it/domains/whois.html?chglng=eng",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "Status Codes",
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap-register.info/domain/nexigroup.com",
+                            "rel": "glossary",
+                            "href": "https://icann.org/epp",
+                            "type": "application/rdap+json"
+                        }
+                    ]
+                },
+                {
+                    "title": "RDDS Inaccuracy Complaint Form",
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap-register.info/domain/nexigroup.com",
+                            "rel": "help",
+                            "href": "https://icann.org/wicf",
+                            "type": "application/rdap+json"
+                        }
+                    ]
+                }
+            ],
+            "ldhName": "nexigroup.com",
+            "unicodeName": "nexigroup.com",
+            "secureDNS": {
+                "zoneSigned": false,
+                "delegationSigned": false
+            },
+            "redacted": [
+                {
+                    "name": {
+                        "type": "Registry Domain ID"
+                    },
+                    "prePath": "$.handle",
+                    "pathLang": "jsonpath",
+                    "method": "removal"
+                },
+                {
+                    "name": {
+                        "type": "Registry Registrant ID"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].handle",
+                    "pathLang": "jsonpath",
+                    "method": "removal"
+                },
+                {
+                    "name": {
+                        "type": "Administrative Contact"
+                    },
+                    "method": "removal"
+                }
+            ],
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "a7-67.akam.net",
+                    "unicodeName": "a7-67.akam.net",
+                    "ipAddresses": {
+                        "v4": [
+                            "23.61.199.67"
+                        ]
+                    }
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "a2-64.akam.net",
+                    "unicodeName": "a2-64.akam.net",
+                    "ipAddresses": {
+                        "v4": [
+                            "95.100.174.64"
+                        ]
+                    }
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "a28-65.akam.net",
+                    "unicodeName": "a28-65.akam.net",
+                    "ipAddresses": {
+                        "v4": [
+                            "95.100.173.65"
+                        ]
+                    }
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "a1-166.akam.net",
+                    "unicodeName": "a1-166.akam.net",
+                    "ipAddresses": {
+                        "v4": [
+                            "193.108.91.166"
+                        ]
+                    }
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "nx1.register.it",
+                    "unicodeName": "nx1.register.it",
+                    "ipAddresses": {
+                        "v4": [
+                            "107.162.234.197"
+                        ]
+                    }
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "nx2.register.it",
+                    "unicodeName": "nx2.register.it",
+                    "ipAddresses": {
+                        "v4": [
+                            "107.162.176.221"
+                        ]
+                    }
+                }
+            ]
+        }
+    ],
+    "domain": "nexigroup.com\r"
+}

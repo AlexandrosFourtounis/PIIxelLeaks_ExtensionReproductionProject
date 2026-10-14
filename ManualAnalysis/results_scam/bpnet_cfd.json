@@ -1,0 +1,620 @@
+{
+    "name": "BPNET.CFD",
+    "handle": "D562790778-CNIC",
+    "registrationDate": "6/19/2025, 12:18:57 AM GMT+3",
+    "expirationDate": "6/19/2026, 2:59:59 AM GMT+3",
+    "lastChangedDate": "4/21/2026, 1:53:35 PM GMT+3",
+    "lastUpdateDate": "6/14/2026, 8:00:00 PM GMT+3",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "lang": "en",
+            "handle": "WNC1392725T",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "n",
+                        {},
+                        "text",
+                        [
+                            "Szilagyi",
+                            "Laszlo",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Laszlo Szilagyi"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "HU"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "9084 Gaspar Orchard",
+                            "San Buenaventura (Ventura)",
+                            "Fejer",
+                            "57368-4727",
+                            ""
+                        ]
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "Budai es Tsa. Kv."
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+36.871361610"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "uri",
+                        "tel:+0.0"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "linzscx4@gmail.com"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrant"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "lang": "en",
+            "handle": "WNC1392741T",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "n",
+                        {},
+                        "text",
+                        [
+                            "Balazs",
+                            "Zsombor",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Zsombor Balazs"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "HU"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "16438 Talbot Road",
+                            "Csonkaland",
+                            "Tolna",
+                            "92732",
+                            ""
+                        ]
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "Nagy es Fodor Kv."
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+36.43753609236"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "uri",
+                        "tel:+0.0"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "zsombor_balazs48@hotmail.com"
+                    ]
+                ]
+            ],
+            "roles": [
+                "administrative"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "lang": "en",
+            "handle": "WNC1392804T",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "n",
+                        {},
+                        "text",
+                        [
+                            "Fekete",
+                            "Mihaly",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Mihaly Fekete"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "HU"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "13458 New Road",
+                            "Vorosville",
+                            "Szabolcs-Szatmar-Bereg",
+                            "83880-5413",
+                            ""
+                        ]
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "Soos es Pal Kv."
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+36.698025651"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "uri",
+                        "tel:+0.0"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "mihaly.fekete36@aol.com"
+                    ]
+                ]
+            ],
+            "roles": [
+                "technical"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "lang": "en",
+            "handle": "WNC1392816T",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "n",
+                        {},
+                        "text",
+                        [
+                            "Bogdan",
+                            "Regina",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Regina Bogdan"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "HU"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "278 Hegedus Ridge",
+                            "Kamillaboro",
+                            "Heves",
+                            "08888-9709",
+                            ""
+                        ]
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "Nemes 2000 Nyrt."
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+36.59298398"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "uri",
+                        "tel:+0.0"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "regina_bogdan@hey.com"
+                    ]
+                ]
+            ],
+            "roles": [
+                "billing"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "lang": "en",
+            "status": [
+                "active"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "n",
+                        {},
+                        "text",
+                        [
+                            "",
+                            "WebNIC",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "WebNIC"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "Web Commerce Communications Limited dba WebNic.cc"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+60.389966799"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "uri",
+                        "tel:+60.389966788"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "compliance_abuse@webnic.cc"
+                    ]
+                ]
+            ],
+            "roles": [
+                "abuse"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "links": [
+                {
+                    "value": "https://rdap.webnic.cc/",
+                    "rel": "about",
+                    "href": "https://rdap.webnic.cc/",
+                    "title": "Registrar RDAP Base URL",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "lang": "en",
+            "status": [
+                "active"
+            ],
+            "handle": "460",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "n",
+                        {},
+                        "text",
+                        [
+                            "",
+                            "WebNIC",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "WebNIC"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "Web Commerce Communications Limited dba WebNic.cc"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+60.389966799"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "uri",
+                        "tel:+60.389966788"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "support@webnic.cc"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrar"
+            ],
+            "publicIds": [
+                {
+                    "type": "IANA Registrar ID",
+                    "identifier": "460"
+                }
+            ],
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "lang": "en",
+                    "status": [
+                        "active"
+                    ],
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "n",
+                                {},
+                                "text",
+                                [
+                                    "",
+                                    "WebNIC",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "WebNIC"
+                            ],
+                            [
+                                "org",
+                                {},
+                                "text",
+                                "Web Commerce Communications Limited dba WebNic.cc"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "voice"
+                                },
+                                "uri",
+                                "tel:+60.389966799"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "fax"
+                                },
+                                "uri",
+                                "tel:+60.389966788"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "compliance_abuse@webnic.cc"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "abuse"
+                    ]
+                }
+            ]
+        },
+        {
+            "rdapConformance": [
+                "redacted",
+                "rdap_level_0",
+                "icann_rdap_technical_implementation_guide_1",
+                "icann_rdap_response_profile_1"
+            ],
+            "objectClassName": "domain",
+            "links": [
+                {
+                    "value": "https://rdap.webnic.cc/domain/bpnet.cfd",
+                    "rel": "self",
+                    "href": "https://rdap.webnic.cc/domain/bpnet.cfd",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "notices": [
+                {
+                    "title": "Status Codes",
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.webnic.cc/domain/bpnet.cfd",
+                            "rel": "glossary",
+                            "href": "https://icann.org/epp",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "RDDS Inaccuracy Complaint Form",
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.webnic.cc/domain/bpnet.cfd",
+                            "rel": "help",
+                            "href": "https://icann.org/wicf",
+                            "type": "text/html"
+                        }
+                    ]
+                }
+            ],
+            "port43": "bpnet.cfd",
+            "handle": "D562790778-CNIC",
+            "ldhName": "bpnet.cfd",
+            "unicodeName": "BPNET.CFD",
+            "secureDNS": {
+                "delegationSigned": false
+            },
+            "nameServers": [
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "adelaide.ns.cloudflare.com",
+                    "unicodeName": "adelaide.ns.cloudflare.com"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "peyton.ns.cloudflare.com",
+                    "unicodeName": "peyton.ns.cloudflare.com"
+                }
+            ]
+        }
+    ],
+    "domain": "bpnet.cfd\r"
+}

@@ -1,0 +1,616 @@
+{
+    "name": "nic.ai",
+    "handle": "5ff032b7dd2f49d899c246a6937ea818-DONUTS",
+    "registrationDate": "12/16/2017, 3:14:21 AM GMT+2",
+    "expirationDate": "12/13/2027, 3:14:21 AM GMT+2",
+    "lastChangedDate": "8/26/2025, 10:35:18 AM GMT+3",
+    "lastUpdateDate": "6/23/2026, 5:28:04 PM GMT+3",
+    "rawData": [
+        {
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Larry Avondale Franklin"
+                    ],
+                    [
+                        "org",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "Government of Anguilla"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+111.1111111111"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "Crefton.Niles@gov.ai"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "AI"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            [
+                                "The Secretariat",
+                                "",
+                                ""
+                            ],
+                            "The Valley",
+                            "unknown",
+                            "unknown",
+                            ""
+                        ]
+                    ]
+                ]
+            ],
+            "roles": [
+                "administrative"
+            ],
+            "objectClassName": "entity",
+            "handle": "e1d256b45a97472aadb8f48a234d5447-DONUTS"
+        },
+        {
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Government of Anguilla"
+                    ],
+                    [
+                        "org",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "Government of Anguilla"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+111.1111111111"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "Crefton.Niles@gov.ai"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "AI"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            [
+                                "The Secretariat",
+                                "",
+                                ""
+                            ],
+                            "The Valley",
+                            "unknown",
+                            "unknown",
+                            ""
+                        ]
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "objectClassName": "entity",
+            "handle": "6b095f08b0984f609105bed220138157-DONUTS"
+        },
+        {
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Larry Avondale Franklin"
+                    ],
+                    [
+                        "org",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "Government of Anguilla"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+111.1111111111"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "Larry.Franklin@gov.ai"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "AI"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            [
+                                "The Secretariat",
+                                "",
+                                ""
+                            ],
+                            "The Valley",
+                            "unknown",
+                            "unknown",
+                            ""
+                        ]
+                    ]
+                ]
+            ],
+            "roles": [
+                "technical"
+            ],
+            "objectClassName": "entity",
+            "handle": "1225bd8d701547a2a2b19095508decaa-DONUTS"
+        },
+        {
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+1.6664447777"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "abuse@identity.digital"
+                    ]
+                ]
+            ],
+            "roles": [
+                "abuse"
+            ],
+            "objectClassName": "entity"
+        },
+        {
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Registry Operator acts as Registrar (9999)"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrar"
+            ],
+            "publicIds": [
+                {
+                    "type": "IANA Registrar ID",
+                    "identifier": "9999"
+                }
+            ],
+            "objectClassName": "entity",
+            "handle": "9999",
+            "entities": [
+                {
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                ""
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "voice"
+                                },
+                                "uri",
+                                "tel:+1.6664447777"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "abuse@identity.digital"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "abuse"
+                    ],
+                    "objectClassName": "entity"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.identitydigital.services/rdap/entity/9999",
+                    "rel": "self",
+                    "href": "https://rdap.identitydigital.services/rdap/entity/9999",
+                    "type": "application/rdap+json"
+                },
+                {
+                    "value": "https://rdap.identitydigital.services/rdap/",
+                    "rel": "about",
+                    "href": "https://rdap.identitydigital.services/rdap",
+                    "type": "application/rdap+json"
+                }
+            ]
+        },
+        {
+            "ldhName": "v0n0.nic.ai",
+            "unicodeName": "v0n0.nic.ai",
+            "ipAddresses": {
+                "v4": [
+                    "199.115.152.1"
+                ],
+                "v6": [
+                    "2001:500:a0::1"
+                ]
+            },
+            "objectClassName": "nameserver",
+            "handle": "5ba4dc63c8f6496fb835d90224d1633e-DONUTS",
+            "status": [
+                "associated"
+            ]
+        },
+        {
+            "ldhName": "v0n1.nic.ai",
+            "unicodeName": "v0n1.nic.ai",
+            "ipAddresses": {
+                "v4": [
+                    "199.115.153.1"
+                ],
+                "v6": [
+                    "2001:500:a1::1"
+                ]
+            },
+            "objectClassName": "nameserver",
+            "handle": "8f7fe061f1604836823e85552400d812-DONUTS",
+            "status": [
+                "associated"
+            ]
+        },
+        {
+            "ldhName": "v0n2.nic.ai",
+            "unicodeName": "v0n2.nic.ai",
+            "ipAddresses": {
+                "v4": [
+                    "199.115.154.1"
+                ],
+                "v6": [
+                    "2001:500:a2::1"
+                ]
+            },
+            "objectClassName": "nameserver",
+            "handle": "562881815ea44d39bec31fcf249e9b8b-DONUTS",
+            "status": [
+                "associated"
+            ]
+        },
+        {
+            "ldhName": "v0n3.nic.ai",
+            "unicodeName": "v0n3.nic.ai",
+            "ipAddresses": {
+                "v4": [
+                    "199.115.155.1"
+                ],
+                "v6": [
+                    "2001:500:a3::1"
+                ]
+            },
+            "objectClassName": "nameserver",
+            "handle": "482a0a837bbb4066b90d571482954ffa-DONUTS",
+            "status": [
+                "associated"
+            ]
+        },
+        {
+            "ldhName": "v2n0.nic.ai",
+            "unicodeName": "v2n0.nic.ai",
+            "ipAddresses": {
+                "v4": [
+                    "199.115.156.1"
+                ],
+                "v6": [
+                    "2001:500:a4::1"
+                ]
+            },
+            "objectClassName": "nameserver",
+            "handle": "d46b7a41f12444669d412b1c4c896f85-DONUTS",
+            "status": [
+                "associated"
+            ]
+        },
+        {
+            "ldhName": "v2n1.nic.ai",
+            "unicodeName": "v2n1.nic.ai",
+            "ipAddresses": {
+                "v4": [
+                    "199.115.157.1"
+                ],
+                "v6": [
+                    "2001:500:a5::1"
+                ]
+            },
+            "objectClassName": "nameserver",
+            "handle": "4f087a582a3c4d68bf1d252e904dbba7-DONUTS",
+            "status": [
+                "associated"
+            ]
+        },
+        {
+            "rdapConformance": [
+                "rdap_level_0",
+                "icann_rdap_response_profile_1",
+                "icann_rdap_technical_implementation_guide_1"
+            ],
+            "notices": [
+                {
+                    "title": "Terms of Service",
+                    "description": [
+                        "Access to RDAP information is provided to assist persons in determining the contents of a domain name registration record in the registry database. The data in this record is provided by Identity Digital or, if the record pertains to a TLD not operated by Identity Digital, then the corresponding primary Registry Operator for informational purposes only, and neither Identity Digital nor the Registry Operator guarantee its accuracy. This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to (a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Identity Digital, a Registrar, or Registry Operator except as reasonably necessary to register domain names or modify existing registrations. When using the RDAP service, please consider the following: the RDAP service is not a replacement for standard EPP commands to the SRS service. RDAP is not considered authoritative for registered domain objects. The RDAP service may be scheduled for downtime during production or OT&E maintenance periods. Queries to the RDAP services are throttled. If too many queries are received from a single IP address within a specified time, the service will begin to reject further queries for a period of time to prevent disruption of RDAP service access. Abuse of the RDAP system through data mining is mitigated by detecting and limiting bulk query access from single sources. Where applicable, the presence of a [Non-Public Data] tag indicates that such data is not made publicly available due to applicable data privacy laws or requirements. Should you wish to contact the registrant, please refer to the RDAP records available through the registrar URL listed above. Access to non-public data may be provided, upon request, where it can be reasonably confirmed that the requester holds a specific legitimate interest and a proper legal basis for accessing the withheld data. Access to the data provided by Identity Digital can be requested by submitting a request via the form found at https://www.identity.digital/about/policies/whois-layered-access/ Identity Digital Inc. and, if applicable, the primary Registry Operators reserve the right to modify these terms at any time. By submitting this query, you agree to abide by this policy."
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.identitydigital.services/rdap/domain/nic.ai",
+                            "rel": "terms-of-service",
+                            "href": "https://www.identity.digital/policies/rdds-access-policy",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "Status Codes",
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.identitydigital.services/rdap/domain/nic.ai",
+                            "rel": "glossary",
+                            "href": "https://icann.org/epp",
+                            "type": "application/rdap+json"
+                        }
+                    ]
+                },
+                {
+                    "title": "RDDS Inaccuracy Complaint Form",
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.identitydigital.services/rdap/domain/nic.ai",
+                            "rel": "help",
+                            "href": "https://icann.org/wicf",
+                            "type": "application/rdap+json"
+                        }
+                    ]
+                }
+            ],
+            "ldhName": "nic.ai",
+            "unicodeName": "nic.ai",
+            "nameservers": [
+                {
+                    "ldhName": "v0n0.nic.ai",
+                    "unicodeName": "v0n0.nic.ai",
+                    "ipAddresses": {
+                        "v4": [
+                            "199.115.152.1"
+                        ],
+                        "v6": [
+                            "2001:500:a0::1"
+                        ]
+                    },
+                    "objectClassName": "nameserver",
+                    "handle": "5ba4dc63c8f6496fb835d90224d1633e-DONUTS",
+                    "status": [
+                        "associated"
+                    ]
+                },
+                {
+                    "ldhName": "v0n1.nic.ai",
+                    "unicodeName": "v0n1.nic.ai",
+                    "ipAddresses": {
+                        "v4": [
+                            "199.115.153.1"
+                        ],
+                        "v6": [
+                            "2001:500:a1::1"
+                        ]
+                    },
+                    "objectClassName": "nameserver",
+                    "handle": "8f7fe061f1604836823e85552400d812-DONUTS",
+                    "status": [
+                        "associated"
+                    ]
+                },
+                {
+                    "ldhName": "v0n2.nic.ai",
+                    "unicodeName": "v0n2.nic.ai",
+                    "ipAddresses": {
+                        "v4": [
+                            "199.115.154.1"
+                        ],
+                        "v6": [
+                            "2001:500:a2::1"
+                        ]
+                    },
+                    "objectClassName": "nameserver",
+                    "handle": "562881815ea44d39bec31fcf249e9b8b-DONUTS",
+                    "status": [
+                        "associated"
+                    ]
+                },
+                {
+                    "ldhName": "v0n3.nic.ai",
+                    "unicodeName": "v0n3.nic.ai",
+                    "ipAddresses": {
+                        "v4": [
+                            "199.115.155.1"
+                        ],
+                        "v6": [
+                            "2001:500:a3::1"
+                        ]
+                    },
+                    "objectClassName": "nameserver",
+                    "handle": "482a0a837bbb4066b90d571482954ffa-DONUTS",
+                    "status": [
+                        "associated"
+                    ]
+                },
+                {
+                    "ldhName": "v2n0.nic.ai",
+                    "unicodeName": "v2n0.nic.ai",
+                    "ipAddresses": {
+                        "v4": [
+                            "199.115.156.1"
+                        ],
+                        "v6": [
+                            "2001:500:a4::1"
+                        ]
+                    },
+                    "objectClassName": "nameserver",
+                    "handle": "d46b7a41f12444669d412b1c4c896f85-DONUTS",
+                    "status": [
+                        "associated"
+                    ]
+                },
+                {
+                    "ldhName": "v2n1.nic.ai",
+                    "unicodeName": "v2n1.nic.ai",
+                    "ipAddresses": {
+                        "v4": [
+                            "199.115.157.1"
+                        ],
+                        "v6": [
+                            "2001:500:a5::1"
+                        ]
+                    },
+                    "objectClassName": "nameserver",
+                    "handle": "4f087a582a3c4d68bf1d252e904dbba7-DONUTS",
+                    "status": [
+                        "associated"
+                    ]
+                }
+            ],
+            "secureDNS": {
+                "delegationSigned": true,
+                "maxSigLife": 1,
+                "dsData": [
+                    {
+                        "keyTag": 53391,
+                        "algorithm": 8,
+                        "digest": "D880BB4B7B0AF74C6F169429C62E5AB7E3410657EA6D0669599FC5DBFE8EE4E6",
+                        "digestType": 2
+                    }
+                ]
+            },
+            "objectClassName": "domain",
+            "handle": "5ff032b7dd2f49d899c246a6937ea818-DONUTS",
+            "links": [
+                {
+                    "value": "https://rdap.identitydigital.services/rdap/domain/nic.ai",
+                    "rel": "related",
+                    "href": "https://rdap.identitydigital.services/rdap/domain/nic.ai",
+                    "type": "application/rdap+json"
+                },
+                {
+                    "value": "https://rdap.identitydigital.services/rdap/domain/nic.ai",
+                    "rel": "self",
+                    "href": "https://rdap.identitydigital.services/rdap/domain/nic.ai",
+                    "type": "application/rdap+json"
+                }
+            ]
+        }
+    ],
+    "domain": "nic.ai\r"
+}

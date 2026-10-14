@@ -1,0 +1,330 @@
+{
+    "name": "365yg.com",
+    "handle": "1531932146_DOMAIN_COM-VRSN",
+    "registrationDate": "12/8/2008, 11:54:21 AM GMT+2",
+    "expirationDate": "12/8/2026, 11:54:21 AM GMT+2",
+    "lastChangedDate": null,
+    "lastUpdateDate": "9/12/2025, 5:36:29 AM GMT+3",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "org",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        ""
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+86"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "REDACTED FOR PRIVACY"
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "https://whois.ename.net/contact/365yg.com"
+                    ]
+                ]
+            ],
+            "handle": "1531932146_DOMAIN_COM-VRSN",
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object redacted due to authorization",
+                    "description": [
+                        "Some of the data in this object has been removed."
+                    ]
+                }
+            ],
+            "roles": [
+                "registrant",
+                "technical",
+                "administrative"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "eName Technology Co.,Ltd."
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+86.4000044400"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "eName Technology Co.,Ltd."
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "abuse@ename.com"
+                    ]
+                ]
+            ],
+            "roles": [
+                "abuse"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "eName Technology Co.,Ltd."
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+86.4000044400"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "eName Technology Co.,Ltd."
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "abuse@ename.com"
+                    ]
+                ]
+            ],
+            "handle": "1331",
+            "roles": [
+                "registrar"
+            ],
+            "publicIds": [
+                {
+                    "type": "IANA Registrar ID",
+                    "identifier": "1331"
+                }
+            ],
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "org",
+                                {},
+                                "text",
+                                "eName Technology Co.,Ltd."
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "voice"
+                                },
+                                "uri",
+                                "tel:+86.4000044400"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "eName Technology Co.,Ltd."
+                            ],
+                            [
+                                "email",
+                                {
+                                    "type": "work"
+                                },
+                                "text",
+                                "abuse@ename.com"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "abuse"
+                    ]
+                }
+            ],
+            "links": [
+                {
+                    "rel": "about",
+                    "href": "https://whois.ename.com/rdap/",
+                    "type": "application/rdap+json",
+                    "value": "https://whois.ename.com/rdap/"
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "vip3.alidns.com",
+            "lang": "en",
+            "unicodeName": "vip3.alidns.com"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "vip4.alidns.com",
+            "lang": "en",
+            "unicodeName": "vip4.alidns.com"
+        },
+        {
+            "rdapConformance": [
+                "rdap_level_0",
+                "icann_rdap_response_profile_1",
+                "icann_rdap_technical_implementation_guide_1",
+                "redacted"
+            ],
+            "objectClassName": "domain",
+            "lang": "en",
+            "handle": "1531932146_DOMAIN_COM-VRSN",
+            "ldhName": "365yg.com",
+            "unicodeName": "365yg.com",
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "vip3.alidns.com",
+                    "lang": "en",
+                    "unicodeName": "vip3.alidns.com"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "vip4.alidns.com",
+                    "lang": "en",
+                    "unicodeName": "vip4.alidns.com"
+                }
+            ],
+            "secureDNS": {
+                "delegationSigned": false
+            },
+            "notices": [
+                {
+                    "title": "Terms of Use",
+                    "description": [
+                        "IMPORTANT INFORMATION ABOUT THE DEPLOYMENT OF RDAP: please visit https://help.ename.cn/faq/224",
+                        "The Whois and RDAP services are provided by eName, and contain information pertaining to Internet",
+                        "domain names registered by our customers. By using this services you are agreeing (1) not to use any ",
+                        "information presented here for any purpose other than determining ownership of domain names, (2) not to ",
+                        "store or reproduce this data in any way, (3) not to use any high-volume, automated, electronic processes",
+                        "to obtain data from this service. Abuse of this service is monitored and actions in contravention of these",
+                        "terms will result in being permanently blacklisted. All data is (c) eName Technology Co., Ltd (https://www.ename.net)",
+                        "Access to the Whois and RDAP services is rate limited. For more information, visit https://help.ename.cn/faq/225",
+                        "RDAP query example - https://rdap.gdntcl.com/rdap/domain/gdntcl.com",
+                        "About RDAP - https://help.ename.cn/faq/226"
+                    ],
+                    "links": [
+                        {
+                            "rel": "terms-of-service",
+                            "href": "https://help.ename.cn/faq/226",
+                            "type": "text/html",
+                            "value": "https://whois.ename.com/rdap/domain/365yg.com"
+                        }
+                    ]
+                },
+                {
+                    "title": "Status Codes",
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ],
+                    "links": [
+                        {
+                            "rel": "glossary",
+                            "href": "https://icann.org/epp",
+                            "type": "text/html",
+                            "value": "https://whois.ename.com/rdap/domain/365yg.com"
+                        }
+                    ]
+                },
+                {
+                    "title": "RDDS Inaccuracy Complaint Form",
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ],
+                    "links": [
+                        {
+                            "rel": "help",
+                            "href": "https://icann.org/wicf",
+                            "type": "text/html",
+                            "value": "https://whois.ename.com/rdap/domain/365yg.com"
+                        }
+                    ]
+                }
+            ],
+            "port43": "whois.ename.com",
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "https://whois.ename.com/rdap/domain/365yg.com",
+                    "type": "application/rdap+json",
+                    "value": "https://whois.ename.com/rdap/domain/365yg.com"
+                }
+            ]
+        }
+    ],
+    "domain": "365yg.com\r"
+}

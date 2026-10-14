@@ -1,0 +1,281 @@
+{
+    "name": "UNESA.AC.ID",
+    "handle": "79271_DOMAIN_ID-ID",
+    "registrationDate": "8/19/2001, 4:27:03 PM GMT+3",
+    "expirationDate": "11/1/2026, 1:59:59 AM GMT+2",
+    "lastChangedDate": "7/30/2024, 12:16:59 PM GMT+3",
+    "lastUpdateDate": "6/23/2026, 3:35:59 PM GMT+3",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "handle": "1",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "registrar@biznetgio.com"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "voice"
+                            ]
+                        },
+                        "uri",
+                        "tel:++62215714567"
+                    ]
+                ]
+            ],
+            "roles": [
+                "abuse"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "1",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "PT Biznet Gio Nusantara"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "registrar@biznetgio.com"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "voice"
+                            ]
+                        },
+                        "uri",
+                        "tel:++62215714567"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "ID"
+                        },
+                        "text",
+                        [
+                            "",
+                            "MidPlaza 1, LT 7",
+                            "Jl Jenderal Sudirman Kav 10-11 ",
+                            "Jakarta Pusat",
+                            "DKI Jakarta",
+                            "10220",
+                            ""
+                        ]
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrar"
+            ],
+            "publicIds": [
+                {
+                    "type": "IANA Registrar ID",
+                    "identifier": "1"
+                },
+                {
+                    "type": "PANDI Registrar ID",
+                    "identifier": "1"
+                }
+            ],
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "handle": "1",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                ""
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "registrar@biznetgio.com"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "voice"
+                                    ]
+                                },
+                                "uri",
+                                "tel:++62215714567"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "abuse"
+                    ]
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.pandi.id/rdap/entity/1-ID",
+                    "rel": "self",
+                    "href": "https://rdap.pandi.id/rdap/entity/1-ID",
+                    "type": "application/rdap+json"
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "camilo.ns.cloudflare.com"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "phoenix.ns.cloudflare.com"
+        },
+        {
+            "rdapConformance": [
+                "icann_rdap_technical_implementation_guide_1",
+                "icann_rdap_response_profile_1",
+                "redacted"
+            ],
+            "objectClassName": "domain",
+            "handle": "79271_DOMAIN_ID-ID",
+            "ldhName": "UNESA.AC.ID",
+            "premiumDomain": false,
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "camilo.ns.cloudflare.com"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "phoenix.ns.cloudflare.com"
+                }
+            ],
+            "secureDNS": {
+                "delegationSigned": false
+            },
+            "links": [
+                {
+                    "value": "https://rdap.pandi.id/rdap/domain/unesa.ac.id",
+                    "rel": "self",
+                    "href": "https://rdap.pandi.id/rdap/domain/unesa.ac.id",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "remarks": [
+                {
+                    "title": "Whois Service",
+                    "description": [
+                        "The port-43 whois service for this TLD is whois.id"
+                    ]
+                },
+                {
+                    "title": "Remark",
+                    "description": [
+                        "Registration information: https://pandi.id/?lang=en"
+                    ]
+                }
+            ],
+            "notices": [
+                {
+                    "title": "Terms of Service",
+                    "description": [
+                        "Use of this RDAP service is subject to the following Terms of Service."
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.pandi.id/rdap/domain/unesa.ac.id",
+                            "rel": "terms-of-service",
+                            "href": "https://pandi.id/privacy/tos",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "Privacy Policy",
+                    "description": [
+                        "Privacy Policy"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://pandi.id/privacy/policy",
+                            "rel": "alternate",
+                            "href": "https://pandi.id/privacy/policy",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "Status Codes",
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.pandi.id/rdap/domain/unesa.ac.id",
+                            "rel": "glossary",
+                            "href": "https://icann.org/epp",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "RDDS Inaccuracy Complaint Form",
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.pandi.id/rdap/domain/unesa.ac.id",
+                            "rel": "help",
+                            "href": "https://icann.org/wicf",
+                            "type": "text/html"
+                        }
+                    ]
+                }
+            ],
+            "lang": "en-US",
+            "port43": "whois.id"
+        }
+    ],
+    "domain": "unesa.ac.id\r"
+}

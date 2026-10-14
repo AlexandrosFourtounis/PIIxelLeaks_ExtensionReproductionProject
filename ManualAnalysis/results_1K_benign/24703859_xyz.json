@@ -1,0 +1,539 @@
+{
+    "name": "24703859.xyz",
+    "handle": "D626532340-CNIC",
+    "registrationDate": "2/12/2026, 10:25:38 AM GMT+2",
+    "expirationDate": "2/13/2027, 1:59:59 AM GMT+2",
+    "lastChangedDate": "2/12/2026, 10:25:38 AM GMT+2",
+    "lastUpdateDate": "2/12/2026, 10:25:38 AM GMT+2",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "handle": "INTERNAL-9069",
+            "roles": [
+                "registrant"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2015-09-24T21:38:56+00:00"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "organization"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Whois Privacy"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "Private by Design, LLC"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "US"
+                        },
+                        "text",
+                        [
+                            "500 Westover Dr #9816",
+                            "",
+                            "",
+                            "Sanford",
+                            "NC",
+                            "27330",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "voice"
+                            ]
+                        },
+                        "uri",
+                        "tel:+1.9712666028"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "https://porkbun.com/whois/contact/registrant/24703859.xyz"
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "INTERNAL-9070",
+            "roles": [
+                "administrative"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2015-09-24T21:38:56+00:00"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "organization"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Whois Privacy"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "Private by Design, LLC"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "US"
+                        },
+                        "text",
+                        [
+                            "500 Westover Dr #9816",
+                            "",
+                            "",
+                            "Sanford",
+                            "NC",
+                            "27330",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "voice"
+                            ]
+                        },
+                        "uri",
+                        "tel:+1.9712666028"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "https://porkbun.com/whois/contact/admin/24703859.xyz"
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "INTERNAL-9071",
+            "roles": [
+                "technical"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2015-09-24T21:38:56+00:00"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "organization"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Whois Privacy"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "Private by Design, LLC"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "US"
+                        },
+                        "text",
+                        [
+                            "500 Westover Dr #9816",
+                            "",
+                            "",
+                            "Sanford",
+                            "NC",
+                            "27330",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "voice"
+                            ]
+                        },
+                        "uri",
+                        "tel:+1.9712666028"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "https://porkbun.com/whois/contact/tech/24703859.xyz"
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "INTERNAL-9072",
+            "roles": [
+                "billing"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2015-09-24T21:38:56+00:00"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "organization"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Whois Privacy"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "Private by Design, LLC"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "US"
+                        },
+                        "text",
+                        [
+                            "500 Westover Dr #9816",
+                            "",
+                            "",
+                            "Sanford",
+                            "NC",
+                            "27330",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "voice"
+                            ]
+                        },
+                        "uri",
+                        "tel:+1.9712666028"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "https://porkbun.com/whois/contact/billing/24703859.xyz"
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "1",
+            "roles": [
+                "abuse"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "organization"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Abuse Department"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "voice"
+                            ]
+                        },
+                        "uri",
+                        "tel:+1.8557675286"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "abuse@porkbun.com"
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "1861",
+            "roles": [
+                "registrar"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "organization"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Porkbun LLC"
+                    ]
+                ]
+            ],
+            "publicIds": [
+                {
+                    "type": "IANA Registrar ID",
+                    "identifier": "1861"
+                }
+            ],
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "handle": "1",
+                    "roles": [
+                        "abuse"
+                    ],
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "kind",
+                                {},
+                                "text",
+                                "organization"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Abuse Department"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "voice"
+                                    ]
+                                },
+                                "uri",
+                                "tel:+1.8557675286"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "abuse@porkbun.com"
+                            ]
+                        ]
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "curitiba.ns.porkbun.com"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "fortaleza.ns.porkbun.com"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "maceio.ns.porkbun.com"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "salvador.ns.porkbun.com"
+        },
+        {
+            "rdapConformance": [
+                "rdap_level_0",
+                "icann_rdap_response_profile_0",
+                "icann_rdap_technical_implementation_guide_0"
+            ],
+            "publicIds": [
+                {
+                    "type": "IANA Registrar ID",
+                    "identifier": "1861"
+                }
+            ],
+            "notices": [
+                {
+                    "title": "RDDS Inaccuracy Complaint Form",
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ],
+                    "links": [
+                        {
+                            "rel": "related",
+                            "href": "https://icann.org/wicf",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "Status Codes",
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ],
+                    "links": [
+                        {
+                            "rel": "related",
+                            "href": "https://icann.org/epp",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "Terms of Service",
+                    "description": [
+                        "URL of the Porkbun LLC terms of service: https://porkbun.com/legal/agreement/product_terms_of_service"
+                    ],
+                    "links": [
+                        {
+                            "rel": "related",
+                            "href": "https://porkbun.com/legal/agreement/product_terms_of_service",
+                            "type": "text/html"
+                        }
+                    ]
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://cart-before.porkbun.horse/rdap/domain/24703859.xyz",
+                    "rel": "self",
+                    "href": "https://cart-before.porkbun.horse/rdap/domain/24703859.xyz",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "objectClassName": "domain",
+            "secureDNS": {
+                "delegationSigned": false
+            },
+            "handle": "D626532340-CNIC",
+            "ldhName": "24703859.xyz",
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "curitiba.ns.porkbun.com"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "fortaleza.ns.porkbun.com"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "maceio.ns.porkbun.com"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "salvador.ns.porkbun.com"
+                }
+            ]
+        }
+    ],
+    "domain": "24703859.xyz\r"
+}

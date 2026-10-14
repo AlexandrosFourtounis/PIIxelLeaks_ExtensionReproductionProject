@@ -1,0 +1,587 @@
+{
+    "name": "thoracodidymust.today",
+    "handle": "118dd138cbf54c1899b3cac0485f8937-DONUTS",
+    "registrationDate": "1/3/2026, 2:15:37 PM GMT+2",
+    "expirationDate": "1/3/2027, 2:15:37 PM GMT+2",
+    "lastChangedDate": "1/3/2026, 4:53:41 PM GMT+2",
+    "lastUpdateDate": "6/16/2026, 11:25:14 AM GMT+3",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "roles": [
+                "abuse"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "voice"
+                            ]
+                        },
+                        "uri",
+                        "tel:+1.6505854708"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "abuse@dynadot.com"
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "472",
+            "roles": [
+                "registrar"
+            ],
+            "publicIds": [
+                {
+                    "type": "IANA Registrar ID",
+                    "identifier": "472"
+                }
+            ],
+            "links": [
+                {
+                    "rel": "about",
+                    "value": "https://rdap.dynadot.com/",
+                    "href": "https://dynadot.com/"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "DYNADOT LLC"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "US"
+                        },
+                        "text",
+                        [
+                            "",
+                            "PO Box 701",
+                            "",
+                            "San Mateo",
+                            "California",
+                            "94401",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "voice"
+                            ]
+                        },
+                        "uri",
+                        "tel:+1.6505854708"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "abuse@dynadot.com"
+                    ]
+                ]
+            ],
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "roles": [
+                        "abuse"
+                    ],
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                ""
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "voice"
+                                    ]
+                                },
+                                "uri",
+                                "tel:+1.6505854708"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "abuse@dynadot.com"
+                            ]
+                        ]
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "e63d3237406995eb69512baa23bac9d6-Dyna",
+            "roles": [
+                "registrant"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2024-08-27T18:56:19Z"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Dynadot Privacy Service"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "Super Privacy Service LTD c/o Dynadot"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "US"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "PO Box 701",
+                            "San Mateo",
+                            "California",
+                            "94401",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "voice"
+                            ]
+                        },
+                        "uri",
+                        "tel:+1.6505854708"
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "https://www.dynadot.com/domain/contact-request?domain=thoracodidymust.today"
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "e63d3237406995eb69512baa23bac9d6-Dyna",
+            "roles": [
+                "administrative"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2024-08-27T18:56:19Z"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Dynadot Privacy Service"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "Super Privacy Service LTD c/o Dynadot"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "US"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "PO Box 701",
+                            "San Mateo",
+                            "California",
+                            "94401",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "voice"
+                            ]
+                        },
+                        "uri",
+                        "tel:+1.6505854708"
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "https://www.dynadot.com/domain/contact-request?domain=thoracodidymust.today"
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "e63d3237406995eb69512baa23bac9d6-Dyna",
+            "roles": [
+                "technical"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2024-08-27T18:56:19Z"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Dynadot Privacy Service"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "Super Privacy Service LTD c/o Dynadot"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "US"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "PO Box 701",
+                            "San Mateo",
+                            "California",
+                            "94401",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "voice"
+                            ]
+                        },
+                        "uri",
+                        "tel:+1.6505854708"
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "https://www.dynadot.com/domain/contact-request?domain=thoracodidymust.today"
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "e63d3237406995eb69512baa23bac9d6-Dyna",
+            "roles": [
+                "billing"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2024-08-27T18:56:19Z"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Dynadot Privacy Service"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "Super Privacy Service LTD c/o Dynadot"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "US"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "PO Box 701",
+                            "San Mateo",
+                            "California",
+                            "94401",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "voice"
+                            ]
+                        },
+                        "uri",
+                        "tel:+1.6505854708"
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "https://www.dynadot.com/domain/contact-request?domain=thoracodidymust.today"
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "garret.ns.cloudflare.com"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "shaz.ns.cloudflare.com"
+        },
+        {
+            "rdapConformance": [
+                "rdap_level_0",
+                "icann_rdap_response_profile_1",
+                "icann_rdap_technical_implementation_guide_1",
+                "redacted"
+            ],
+            "notices": [
+                {
+                    "title": "Status Codes",
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ],
+                    "links": [
+                        {
+                            "rel": "glossary",
+                            "value": "https://rdap.dynadot.com/domain/thoracodidymust.today",
+                            "href": "https://icann.org/epp",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "RDDS Inaccuracy Complaint Form",
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ],
+                    "links": [
+                        {
+                            "rel": "help",
+                            "value": "https://rdap.dynadot.com/domain/thoracodidymust.today",
+                            "href": "https://icann.org/wicf",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "Terms of Service",
+                    "description": [
+                        "URL of the Dynadot terms of service: https://www.dynadot.com/registration_agreement.html"
+                    ],
+                    "links": [
+                        {
+                            "rel": "terms-of-service",
+                            "value": "https://rdap.dynadot.com/domain/thoracodidymust.today",
+                            "href": "https://www.dynadot.com/registration_agreement.html",
+                            "type": "text/html"
+                        }
+                    ]
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.dynadot.com/domain/thoracodidymust.today",
+                    "rel": "self",
+                    "href": "https://rdap.dynadot.com/domain/thoracodidymust.today",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "publicIds": [
+                {
+                    "type": "IANA Registrar ID",
+                    "identifier": "472"
+                }
+            ],
+            "objectClassName": "domain",
+            "handle": "118dd138cbf54c1899b3cac0485f8937-DONUTS",
+            "ldhName": "thoracodidymust.today",
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "garret.ns.cloudflare.com"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "shaz.ns.cloudflare.com"
+                }
+            ],
+            "secureDNS": {
+                "delegationSigned": false
+            },
+            "redacted": [
+                {
+                    "name": {
+                        "description": "Registrant Email"
+                    },
+                    "method": "replacementValue",
+                    "prePath": "$.entities[?(@.roles[*]=='registrant')].vcardArray[1][?(@[0]=='email')][3]",
+                    "replacementPath": "$.entities[?(@.roles[*]=='registrant')].vcardArray[1][?(@[0]=='contact-uri')][3]"
+                },
+                {
+                    "name": {
+                        "description": "Admin Email"
+                    },
+                    "method": "replacementValue",
+                    "prePath": "$.entities[?(@.roles[*]=='administrative')].vcardArray[1][?(@[0]=='email')][3]",
+                    "replacementPath": "$.entities[?(@.roles[*]=='administrative')].vcardArray[1][?(@[0]=='contact-uri')][3]"
+                },
+                {
+                    "name": {
+                        "description": "Tech Email"
+                    },
+                    "method": "replacementValue",
+                    "prePath": "$.entities[?(@.roles[*]=='technical')].vcardArray[1][?(@[0]=='email')][3]",
+                    "replacementPath": "$.entities[?(@.roles[*]=='technical')].vcardArray[1][?(@[0]=='contact-uri')][3]"
+                },
+                {
+                    "name": {
+                        "description": "Billing Email"
+                    },
+                    "method": "replacementValue",
+                    "prePath": "$.entities[?(@.roles[*]=='billing')].vcardArray[1][?(@[0]=='email')][3]",
+                    "replacementPath": "$.entities[?(@.roles[*]=='billing')].vcardArray[1][?(@[0]=='contact-uri')][3]"
+                }
+            ],
+            "port43": "whois.dynadot.com"
+        }
+    ],
+    "domain": "thoracodidymust.today\r"
+}

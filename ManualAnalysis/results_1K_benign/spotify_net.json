@@ -1,0 +1,508 @@
+{
+    "name": "spotify.net",
+    "handle": "422131617_DOMAIN_NET-VRSN",
+    "registrationDate": "4/23/2006, 12:07:51 PM GMT+3",
+    "expirationDate": "4/23/2030, 12:07:51 PM GMT+3",
+    "lastChangedDate": null,
+    "lastUpdateDate": "10/8/2021, 12:33:19 PM GMT+3",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Abuse Contact"
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "abuse@abion.com"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+46 31 720 20 00"
+                    ]
+                ]
+            ],
+            "roles": [
+                "abuse"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "73",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Abion AB"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrar"
+            ],
+            "publicIds": [
+                {
+                    "type": "IANA Registrar ID",
+                    "identifier": "73"
+                }
+            ],
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Abuse Contact"
+                            ],
+                            [
+                                "email",
+                                {
+                                    "type": "work"
+                                },
+                                "text",
+                                "abuse@abion.com"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "voice"
+                                },
+                                "text",
+                                "+46 31 720 20 00"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "abuse"
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object redacted due to authorization",
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ]
+                }
+            ],
+            "handle": "RDC-verisign_core-spotify.net-registrant-",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "Spotify AB"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "SE"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "https://ext.abion.com/whoismail/"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrant"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object redacted due to authorization",
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ]
+                }
+            ],
+            "handle": "RDC-verisign_core-spotify.net-admin-",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "Ports Group AB"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "SE"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "https://ext.abion.com/whoismail/"
+                    ]
+                ]
+            ],
+            "roles": [
+                "administrative"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object redacted due to authorization",
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ]
+                }
+            ],
+            "handle": "RDC-verisign_core-spotify.net-tech-",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "Ports Group AB"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "SE"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "https://ext.abion.com/whoismail/"
+                    ]
+                ]
+            ],
+            "roles": [
+                "technical"
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "dns1.p07.nsone.net",
+            "ipAddresses": {
+                "v6": [],
+                "v4": []
+            }
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "dns2.p07.nsone.net",
+            "ipAddresses": {
+                "v6": [],
+                "v4": []
+            }
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "dns3.p07.nsone.net",
+            "ipAddresses": {
+                "v6": [],
+                "v4": []
+            }
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "dns4.p07.nsone.net",
+            "ipAddresses": {
+                "v6": [],
+                "v4": []
+            }
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns-cloud-e1.googledomains.com",
+            "ipAddresses": {
+                "v6": [],
+                "v4": []
+            }
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns-cloud-e2.googledomains.com",
+            "ipAddresses": {
+                "v6": [],
+                "v4": []
+            }
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns-cloud-e3.googledomains.com",
+            "ipAddresses": {
+                "v6": [],
+                "v4": []
+            }
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns-cloud-e4.googledomains.com",
+            "ipAddresses": {
+                "v6": [],
+                "v4": []
+            }
+        },
+        {
+            "objectClassName": "domain",
+            "ldhName": "spotify.net",
+            "rdapConformance": [
+                "rdap_level_0",
+                "icann_rdap_response_profile_0",
+                "icann_rdap_technical_implementation_guide_0",
+                "icann_rdap_response_profile_1",
+                "icann_rdap_technical_implementation_guide_1"
+            ],
+            "links": [
+                {
+                    "rel": "related",
+                    "href": "https://rdap.ports.domains/domain/SPOTIFY.NET",
+                    "type": "application/rdap+json",
+                    "value": "https://rdap.ports.domains/domain/SPOTIFY.NET"
+                }
+            ],
+            "notices": [
+                {
+                    "title": "Terms of Use",
+                    "description": [
+                        "This RDAP database is provided for information purposes only. We do not guarantee the accuracy of this data. The following uses of this system are expressly prohibited: (1) use of this system for unlawful purposes; (2) use of this system to collect information used in the mass transmission of unsolicited commercial messages in any medium; (3) use of high volume, automated, electronic processes against this database. By submitting this query, you agree to abide by this policy",
+                        "Copyright (c) 2026 Ports Group AB"
+                    ],
+                    "links": [
+                        {
+                            "rel": "related",
+                            "href": "https://ports.domains",
+                            "type": "text/html",
+                            "value": "https://ports.domains"
+                        }
+                    ]
+                },
+                {
+                    "title": "Status Codes",
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ],
+                    "links": [
+                        {
+                            "rel": "related",
+                            "href": "https://icann.org/epp",
+                            "type": "text/html",
+                            "value": "https://rdap.ports.domains/domain/SPOTIFY.NET"
+                        }
+                    ]
+                },
+                {
+                    "title": "RDDS Inaccuracy Complaint Form",
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ],
+                    "links": [
+                        {
+                            "rel": "related",
+                            "href": "https://icann.org/wicf",
+                            "type": "text/html",
+                            "value": "https://rdap.ports.domains/domain/SPOTIFY.NET"
+                        }
+                    ]
+                }
+            ],
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "dns1.p07.nsone.net",
+                    "ipAddresses": {
+                        "v6": [],
+                        "v4": []
+                    }
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "dns2.p07.nsone.net",
+                    "ipAddresses": {
+                        "v6": [],
+                        "v4": []
+                    }
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "dns3.p07.nsone.net",
+                    "ipAddresses": {
+                        "v6": [],
+                        "v4": []
+                    }
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "dns4.p07.nsone.net",
+                    "ipAddresses": {
+                        "v6": [],
+                        "v4": []
+                    }
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns-cloud-e1.googledomains.com",
+                    "ipAddresses": {
+                        "v6": [],
+                        "v4": []
+                    }
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns-cloud-e2.googledomains.com",
+                    "ipAddresses": {
+                        "v6": [],
+                        "v4": []
+                    }
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns-cloud-e3.googledomains.com",
+                    "ipAddresses": {
+                        "v6": [],
+                        "v4": []
+                    }
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns-cloud-e4.googledomains.com",
+                    "ipAddresses": {
+                        "v6": [],
+                        "v4": []
+                    }
+                }
+            ],
+            "handle": "422131617_DOMAIN_NET-VRSN",
+            "secureDNS": {
+                "delegationSigned": false
+            }
+        }
+    ],
+    "domain": "spotify.net\r"
+}

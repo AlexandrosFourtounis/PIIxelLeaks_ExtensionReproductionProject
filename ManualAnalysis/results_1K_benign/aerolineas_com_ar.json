@@ -1,0 +1,145 @@
+{
+    "name": "aerolineas.com.ar",
+    "handle": "aerolineas.com.ar",
+    "registrationDate": "1/1/1996, 2:00:00 AM GMT+2",
+    "expirationDate": "1/1/2027, 12:00:00 PM GMT+2",
+    "lastChangedDate": "7/1/2016, 1:55:31 AM GMT+3",
+    "lastUpdateDate": null,
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "handle": "30641405554",
+            "links": [
+                {
+                    "href": "https://rdap.nic.ar/entity/30641405554",
+                    "type": "application/rdap+json",
+                    "rel": "self",
+                    "value": "https://rdap.nic.ar/entity/30641405554"
+                }
+            ],
+            "roles": [
+                "registrant"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "nicar",
+            "roles": [
+                "registrar"
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "handle": "dns1.advance.com.ar",
+            "links": [
+                {
+                    "href": "https://rdap.nic.ar/nameserver/dns1.advance.com.ar",
+                    "type": "application/rdap+json",
+                    "rel": "self",
+                    "value": "https://rdap.nic.ar/nameserver/dns1.advance.com.ar"
+                }
+            ],
+            "ldhName": "dns1.advance.com.ar"
+        },
+        {
+            "objectClassName": "nameserver",
+            "handle": "dns2.advance.com.ar",
+            "links": [
+                {
+                    "href": "https://rdap.nic.ar/nameserver/dns2.advance.com.ar",
+                    "type": "application/rdap+json",
+                    "rel": "self",
+                    "value": "https://rdap.nic.ar/nameserver/dns2.advance.com.ar"
+                }
+            ],
+            "ldhName": "dns2.advance.com.ar"
+        },
+        {
+            "fred_nsset": {
+                "nameservers": [
+                    {
+                        "objectClassName": "nameserver",
+                        "handle": "dns1.advance.com.ar",
+                        "links": [
+                            {
+                                "href": "https://rdap.nic.ar/nameserver/dns1.advance.com.ar",
+                                "type": "application/rdap+json",
+                                "rel": "self",
+                                "value": "https://rdap.nic.ar/nameserver/dns1.advance.com.ar"
+                            }
+                        ],
+                        "ldhName": "dns1.advance.com.ar"
+                    },
+                    {
+                        "objectClassName": "nameserver",
+                        "handle": "dns2.advance.com.ar",
+                        "links": [
+                            {
+                                "href": "https://rdap.nic.ar/nameserver/dns2.advance.com.ar",
+                                "type": "application/rdap+json",
+                                "rel": "self",
+                                "value": "https://rdap.nic.ar/nameserver/dns2.advance.com.ar"
+                            }
+                        ],
+                        "ldhName": "dns2.advance.com.ar"
+                    }
+                ],
+                "objectClassName": "fred_nsset",
+                "handle": "7767",
+                "links": [
+                    {
+                        "href": "https://rdap.nic.ar/fred_nsset/7767",
+                        "type": "application/rdap+json",
+                        "rel": "self",
+                        "value": "https://rdap.nic.ar/fred_nsset/7767"
+                    }
+                ]
+            },
+            "handle": "aerolineas.com.ar",
+            "links": [
+                {
+                    "href": "https://rdap.nic.ar/domain/aerolineas.com.ar",
+                    "type": "application/rdap+json",
+                    "rel": "self",
+                    "value": "https://rdap.nic.ar/domain/aerolineas.com.ar"
+                }
+            ],
+            "port43": "",
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "handle": "dns1.advance.com.ar",
+                    "links": [
+                        {
+                            "href": "https://rdap.nic.ar/nameserver/dns1.advance.com.ar",
+                            "type": "application/rdap+json",
+                            "rel": "self",
+                            "value": "https://rdap.nic.ar/nameserver/dns1.advance.com.ar"
+                        }
+                    ],
+                    "ldhName": "dns1.advance.com.ar"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "handle": "dns2.advance.com.ar",
+                    "links": [
+                        {
+                            "href": "https://rdap.nic.ar/nameserver/dns2.advance.com.ar",
+                            "type": "application/rdap+json",
+                            "rel": "self",
+                            "value": "https://rdap.nic.ar/nameserver/dns2.advance.com.ar"
+                        }
+                    ],
+                    "ldhName": "dns2.advance.com.ar"
+                }
+            ],
+            "ldhName": "aerolineas.com.ar",
+            "rdapConformance": [
+                "rdap_level_0",
+                "fred_version_0"
+            ],
+            "objectClassName": "domain"
+        }
+    ],
+    "domain": "aerolineas.com.ar\r"
+}

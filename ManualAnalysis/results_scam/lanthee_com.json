@@ -1,0 +1,512 @@
+{
+    "name": "lanthee.com",
+    "handle": "3045016493_DOMAIN_COM-VRSN",
+    "registrationDate": "12/5/2025, 6:07:38 AM GMT+2",
+    "expirationDate": "12/5/2026, 6:07:38 AM GMT+2",
+    "lastChangedDate": "2/3/2026, 6:15:39 AM GMT+2",
+    "lastUpdateDate": "2/3/2026, 6:15:39 AM GMT+2",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "REDACTED FOR PRIVACY"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "US"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            [
+                                "PO Box 1341",
+                                "Bridgeview"
+                            ],
+                            "IL",
+                            "60455",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+1.8723954105"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "uri",
+                        "tel:+1.8723954105"
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "https://privacy.sav.com/?domain=LANTHEE.COM"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "events": [
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2020-01-01T00:00:00Z"
+                },
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2020-01-01T00:00:00Z"
+                }
+            ],
+            "handle": "166127",
+            "status": [
+                "active"
+            ],
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object redacted due to authorization",
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "REDACTED FOR PRIVACY"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "US"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            [
+                                "PO Box 1341",
+                                "Bridgeview"
+                            ],
+                            "IL",
+                            "60455",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+1.8723954105"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "uri",
+                        "tel:+1.8723954105"
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "https://privacy.sav.com/?domain=LANTHEE.COM"
+                    ]
+                ]
+            ],
+            "roles": [
+                "administrative"
+            ],
+            "events": [
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2020-01-01T00:00:00Z"
+                },
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2020-01-01T00:00:00Z"
+                }
+            ],
+            "handle": "166127",
+            "status": [
+                "active"
+            ],
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object redacted due to authorization",
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "REDACTED FOR PRIVACY"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "US"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            [
+                                "PO Box 1341",
+                                "Bridgeview"
+                            ],
+                            "IL",
+                            "60455",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+1.8723954105"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "uri",
+                        "tel:+1.8723954105"
+                    ],
+                    [
+                        "contact-uri",
+                        {},
+                        "uri",
+                        "https://privacy.sav.com/?domain=LANTHEE.COM"
+                    ]
+                ]
+            ],
+            "roles": [
+                "technical"
+            ],
+            "events": [
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2020-01-01T00:00:00Z"
+                },
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2020-01-01T00:00:00Z"
+                }
+            ],
+            "handle": "166127",
+            "status": [
+                "active"
+            ],
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object redacted due to authorization",
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "609",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Sav.com, LLC"
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "abuse-contact@sav.com"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+1.2563740797"
+                    ]
+                ]
+            ],
+            "roles": [
+                "abuse"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "609",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Sav.com, LLC"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "US"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            [
+                                "2229 S Michigan Ave",
+                                "Suite 303"
+                            ],
+                            "Chicago",
+                            "IL",
+                            "60616",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": "work"
+                        },
+                        "text",
+                        "abuse-contact@sav.com"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrar"
+            ],
+            "publicIds": [
+                {
+                    "type": "IANA Registrar ID",
+                    "identifier": "609"
+                }
+            ],
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "handle": "609",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Sav.com, LLC"
+                            ],
+                            [
+                                "email",
+                                {
+                                    "type": "work"
+                                },
+                                "text",
+                                "abuse-contact@sav.com"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "voice"
+                                },
+                                "text",
+                                "+1.2563740797"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "abuse"
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "cheryl.ns.cloudflare.com"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "logan.ns.cloudflare.com"
+        },
+        {
+            "rdapConformance": [
+                "rdap_level_0",
+                "icann_rdap_response_profile_0",
+                "icann_rdap_response_profile_1",
+                "icann_rdap_technical_implementation_guide_0"
+            ],
+            "notices": [
+                {
+                    "title": "Status Codes",
+                    "description": [
+                        "For more information on Whois status codes, please visit https://icann.org/epp"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://icann.org/epp",
+                            "rel": "related",
+                            "href": "https://icann.org/epp",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "RDDS Inaccuracy Complaint Form",
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://icann.org/wicf",
+                            "rel": "related",
+                            "href": "https://icann.org/wicf",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "Terms of Use",
+                    "description": [
+                        "By using the Site and Services, you agree to all terms and conditions of this Agreement, which incorporates by reference (1) Sav.com's Privacy Policy; and (3) any other policy or agreement specifically referred to herein."
+                    ],
+                    "links": [
+                        {
+                            "value": "https://www.sav.com/terms",
+                            "rel": "related",
+                            "href": "https://www.sav.com/terms",
+                            "type": "text/html"
+                        }
+                    ]
+                }
+            ],
+            "port43": "whois.virtualcloudmanager.com",
+            "links": [
+                {
+                    "value": "https://rdap.virtualcloudmanager.com/rdap/domain/LANTHEE.COM",
+                    "rel": "self",
+                    "href": "https://rdap.virtualcloudmanager.com/rdap/domain/LANTHEE.COM",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "objectClassName": "domain",
+            "handle": "3045016493_DOMAIN_COM-VRSN",
+            "ldhName": "lanthee.com",
+            "unicodeName": "lanthee.com",
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "cheryl.ns.cloudflare.com"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "logan.ns.cloudflare.com"
+                }
+            ],
+            "secureDNS": {
+                "delegationSigned": false
+            }
+        }
+    ],
+    "domain": "lanthee.com\r"
+}

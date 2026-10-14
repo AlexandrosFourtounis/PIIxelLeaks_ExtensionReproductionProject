@@ -1,0 +1,665 @@
+{
+    "name": "kyivpost.com.",
+    "handle": "14510559_DOMAIN_COM-VRSN",
+    "registrationDate": "12/3/1999, 1:10:01 PM GMT+2",
+    "expirationDate": "12/3/2026, 1:10:01 PM GMT+2",
+    "lastChangedDate": "11/4/2025, 2:21:10 AM GMT+2",
+    "lastUpdateDate": "6/23/2026, 3:32:34 PM GMT+3",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "handle": "133051286",
+            "links": [
+                {
+                    "value": "https://rdap.imena.ua/entity/133051286",
+                    "rel": "self",
+                    "href": "https://rdap.imena.ua/entity/133051286",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Privacy protection service"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "Internet Invest, Ltd. dba Imena.ua"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "hostmaster@imena.ua"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+380.442010102"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "text",
+                        "+380.442010100"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "UA"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "50 Simi Prakhovykh st.",
+                            "Kyiv",
+                            "",
+                            "01033",
+                            ""
+                        ]
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "133051291",
+            "links": [
+                {
+                    "value": "https://rdap.imena.ua/entity/133051291",
+                    "rel": "self",
+                    "href": "https://rdap.imena.ua/entity/133051291",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "roles": [
+                "technical"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Privacy protection service"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "Internet Invest, Ltd. dba Imena.ua"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "hostmaster@imena.ua"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+380.442010102"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "text",
+                        "+380.442010100"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "UA"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "50 Simi Prakhovykh st.",
+                            "Kyiv",
+                            "",
+                            "01033",
+                            ""
+                        ]
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "133051287",
+            "links": [
+                {
+                    "value": "https://rdap.imena.ua/entity/133051287",
+                    "rel": "self",
+                    "href": "https://rdap.imena.ua/entity/133051287",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "roles": [
+                "administrative"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Privacy protection service"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "Internet Invest, Ltd. dba Imena.ua"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "hostmaster@imena.ua"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+380.442010102"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "text",
+                        "+380.442010100"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "UA"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "50 Simi Prakhovykh st.",
+                            "Kyiv",
+                            "",
+                            "01033",
+                            ""
+                        ]
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "133051288",
+            "links": [
+                {
+                    "value": "https://rdap.imena.ua/entity/133051288",
+                    "rel": "self",
+                    "href": "https://rdap.imena.ua/entity/133051288",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "roles": [
+                "billing"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Privacy protection service"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "Internet Invest, Ltd. dba Imena.ua"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "hostmaster@imena.ua"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+380.442010102"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "text",
+                        "+380.442010100"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "UA"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "50 Simi Prakhovykh st.",
+                            "Kyiv",
+                            "",
+                            "01033",
+                            ""
+                        ]
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "1112-abuse",
+            "roles": [
+                "abuse"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Internet Invest, Ltd. dba Imena.ua"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "Internet Invest, Ltd. dba Imena.ua"
+                    ],
+                    [
+                        "url",
+                        {},
+                        "uri",
+                        "https://www.imena.ua/"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "abuse@imena.ua"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+380.442010102"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "UA"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "50 Simyi Prakhovykh st.",
+                            "Kyiv",
+                            "",
+                            "01033",
+                            ""
+                        ]
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "1112",
+            "links": [
+                {
+                    "value": "https://rdap.imena.ua/",
+                    "rel": "about",
+                    "href": "https://rdap.imena.ua/",
+                    "type": "application/rdap+json"
+                },
+                {
+                    "value": "https://rdap.imena.ua/entity/1112",
+                    "rel": "self",
+                    "href": "https://rdap.imena.ua/entity/1112",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "handle": "1112-abuse",
+                    "roles": [
+                        "abuse"
+                    ],
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Internet Invest, Ltd. dba Imena.ua"
+                            ],
+                            [
+                                "org",
+                                {},
+                                "text",
+                                "Internet Invest, Ltd. dba Imena.ua"
+                            ],
+                            [
+                                "url",
+                                {},
+                                "uri",
+                                "https://www.imena.ua/"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "abuse@imena.ua"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "voice"
+                                },
+                                "text",
+                                "+380.442010102"
+                            ],
+                            [
+                                "adr",
+                                {
+                                    "cc": "UA"
+                                },
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "50 Simyi Prakhovykh st.",
+                                    "Kyiv",
+                                    "",
+                                    "01033",
+                                    ""
+                                ]
+                            ]
+                        ]
+                    ]
+                }
+            ],
+            "roles": [
+                "registrar"
+            ],
+            "publicIds": [
+                {
+                    "type": "IANA Registrar ID",
+                    "identifier": "1112"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Internet Invest, Ltd. dba Imena.ua"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "Internet Invest, Ltd. dba Imena.ua"
+                    ],
+                    [
+                        "url",
+                        {},
+                        "uri",
+                        "https://www.imena.ua/"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "hostmaster@imena.ua"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+380.442010102"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "UA"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "50 Simyi Prakhovykh st.",
+                            "Kyiv",
+                            "",
+                            "01033",
+                            ""
+                        ]
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "links": [
+                {
+                    "value": "https://rdap.imena.ua/nameserver/mary.ns.cloudflare.com.",
+                    "rel": "self",
+                    "href": "https://rdap.imena.ua/nameserver/mary.ns.cloudflare.com.",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "ldhName": "mary.ns.cloudflare.com.",
+            "unicodeName": "mary.ns.cloudflare.com."
+        },
+        {
+            "objectClassName": "nameserver",
+            "links": [
+                {
+                    "value": "https://rdap.imena.ua/nameserver/odin.ns.cloudflare.com.",
+                    "rel": "self",
+                    "href": "https://rdap.imena.ua/nameserver/odin.ns.cloudflare.com.",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "ldhName": "odin.ns.cloudflare.com.",
+            "unicodeName": "odin.ns.cloudflare.com."
+        },
+        {
+            "rdapConformance": [
+                "rdap_level_0",
+                "icann_rdap_response_profile_1",
+                "icann_rdap_technical_implementation_guide_1"
+            ],
+            "notices": [
+                {
+                    "title": "Status Codes",
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.imena.ua/domain/KYIVPOST.COM",
+                            "rel": "glossary",
+                            "href": "https://icann.org/epp",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "RDDS Inaccuracy Complaint Form",
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.imena.ua/domain/KYIVPOST.COM",
+                            "rel": "help",
+                            "href": "https://icann.org/wicf",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "Terms of service",
+                    "description": [
+                        "By submitting an inquiry, you agree to these Universal Terms of Service",
+                        "and limitations of warranty. In particular, you agree not to use this",
+                        "data to allow, enable, or otherwise make possible, dissemination or",
+                        "collection of this data, in part or in its entirety, for any purpose,",
+                        "such as the transmission of unsolicited advertising and solicitations of",
+                        "any kind, including spam. You further agree not to use this data to enable",
+                        "high volume, automated or robotic electronic processes designed to collect",
+                        "or compile this data for any purpose, including mining this data for your",
+                        "own personal or commercial purposes, or use this data in any way that violates",
+                        "applicable laws and regulations."
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.imena.ua/domain/KYIVPOST.COM",
+                            "rel": "terms-of-service",
+                            "href": "https://rdap.imena.ua/terms-of-use",
+                            "type": "text/html"
+                        }
+                    ]
+                }
+            ],
+            "objectClassName": "domain",
+            "handle": "14510559_DOMAIN_COM-VRSN",
+            "links": [
+                {
+                    "value": "https://rdap.imena.ua/domain/kyivpost.com.",
+                    "rel": "self",
+                    "href": "https://rdap.imena.ua/domain/kyivpost.com.",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "lang": "en",
+            "ldhName": "kyivpost.com.",
+            "unicodeName": "kyivpost.com.",
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "links": [
+                        {
+                            "value": "https://rdap.imena.ua/nameserver/mary.ns.cloudflare.com.",
+                            "rel": "self",
+                            "href": "https://rdap.imena.ua/nameserver/mary.ns.cloudflare.com.",
+                            "type": "application/rdap+json"
+                        }
+                    ],
+                    "ldhName": "mary.ns.cloudflare.com.",
+                    "unicodeName": "mary.ns.cloudflare.com."
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "links": [
+                        {
+                            "value": "https://rdap.imena.ua/nameserver/odin.ns.cloudflare.com.",
+                            "rel": "self",
+                            "href": "https://rdap.imena.ua/nameserver/odin.ns.cloudflare.com.",
+                            "type": "application/rdap+json"
+                        }
+                    ],
+                    "ldhName": "odin.ns.cloudflare.com.",
+                    "unicodeName": "odin.ns.cloudflare.com."
+                }
+            ],
+            "secureDNS": {
+                "delegationSigned": false
+            }
+        }
+    ],
+    "domain": "kyivpost.com\r"
+}

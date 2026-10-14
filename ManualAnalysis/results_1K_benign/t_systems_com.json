@@ -1,0 +1,334 @@
+{
+    "name": "t-systems.com",
+    "handle": "1019551_DOMAIN_COM-VRSN",
+    "registrationDate": "11/19/1996, 6:00:00 AM GMT+2",
+    "expirationDate": "11/18/2026, 6:00:00 AM GMT+2",
+    "lastChangedDate": "7/26/2022, 1:44:21 PM GMT+3",
+    "lastUpdateDate": "6/23/2026, 3:27:02 PM GMT+3",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "handle": "7cae875dfc0462f163cc0f1b632c4dc35f5dfbe5-VRSN",
+            "roles": [
+                "registrant"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Domain Admin"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "Deutsche Telekom AG"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "domains@telekom.com"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+49.22818194403"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "text",
+                        "+49.22818194402"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "DE"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "Friedrich-Ebert-Allee 140",
+                            "Bonn",
+                            "",
+                            "53113",
+                            ""
+                        ]
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "roles": [
+                "abuse"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Deutsche Telekom AG"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "Deutsche Telekom AG"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "sece.leitstellenservice@telekom.de"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+49.1805212095"
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "handle": "226",
+            "links": [
+                {
+                    "value": "https://rdap.telekom-registrar.de/rdap/",
+                    "rel": "about",
+                    "href": "https://www.registrar.telekom.de",
+                    "type": "text/html"
+                }
+            ],
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "roles": [
+                        "abuse"
+                    ],
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Deutsche Telekom AG"
+                            ],
+                            [
+                                "org",
+                                {},
+                                "text",
+                                "Deutsche Telekom AG"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "sece.leitstellenservice@telekom.de"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "voice"
+                                },
+                                "text",
+                                "+49.1805212095"
+                            ]
+                        ]
+                    ]
+                }
+            ],
+            "roles": [
+                "registrar"
+            ],
+            "publicIds": [
+                {
+                    "type": "IANA Registrar ID",
+                    "identifier": "226"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Deutsche Telekom AG"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "Deutsche Telekom AG"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        ""
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "dns1.telekom.de",
+            "unicodeName": "dns1.telekom.de"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "ns1.telekom.net",
+            "unicodeName": "ns1.telekom.net"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "dns2.telekom.de",
+            "unicodeName": "dns2.telekom.de"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "pns.dtag.de",
+            "unicodeName": "pns.dtag.de"
+        },
+        {
+            "rdapConformance": [
+                "rdap_level_0",
+                "icann_rdap_technical_implementation_guide_1",
+                "icann_rdap_response_profile_1",
+                "redacted"
+            ],
+            "notices": [
+                {
+                    "title": "Terms of Service",
+                    "description": [
+                        "The data in our RDAP database is provided by Deutsche Telekom AG for information purposes only.",
+                        "You may not submit queries or data to our database using high-volume, automated, electronic processes.",
+                        "Deutsche Telekom AG does not accept liability for the accuracy of any information provided.",
+                        "By using our RDAP service, you accept the following terms and conditions: Data provided may be used for any legal purpose.",
+                        "However, it may not be used to: (a) allow, enable, or otherwise support the transmission by e-mail, telephone, postal mail, facsimile or other means of mass unsolicited, commercial advertising or solicitations; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Deutsche Telekom AG, except as reasonably necessary to register domain names or modify existing registrations.",
+                        "Deutsche Telekom AG reserves the right to restrict or terminate your access to the RDAP database in its sole discretion to ensure operational stability or for failure to abide to these terms of use.",
+                        "Deutsche Telekom AG reserves the right to modify these terms at any time."
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.telekom-registrar.de/rdap/domain/T-SYSTEMS.COM",
+                            "rel": "terms-of-service",
+                            "href": "https://rdap.telekom-registrar.de/rdap/terms_of_service.jspx",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "Status Codes",
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.telekom-registrar.de/rdap/domain/T-SYSTEMS.COM",
+                            "rel": "glossary",
+                            "href": "https://icann.org/epp",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "RDDS Inaccuracy Complaint Form",
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.telekom-registrar.de/rdap/domain/T-SYSTEMS.COM",
+                            "rel": "help",
+                            "href": "https://icann.org/wicf",
+                            "type": "text/html"
+                        }
+                    ]
+                }
+            ],
+            "objectClassName": "domain",
+            "handle": "1019551_DOMAIN_COM-VRSN",
+            "links": [
+                {
+                    "value": "https://rdap.telekom-registrar.de/rdap/domain/t-systems.com",
+                    "rel": "self",
+                    "href": "https://rdap.telekom-registrar.de/rdap/domain/t-systems.com",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "lang": "en",
+            "ldhName": "t-systems.com",
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "dns1.telekom.de",
+                    "unicodeName": "dns1.telekom.de"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "ns1.telekom.net",
+                    "unicodeName": "ns1.telekom.net"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "dns2.telekom.de",
+                    "unicodeName": "dns2.telekom.de"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "pns.dtag.de",
+                    "unicodeName": "pns.dtag.de"
+                }
+            ],
+            "secureDNS": {
+                "delegationSigned": false
+            }
+        }
+    ],
+    "domain": "t-systems.com\r"
+}

@@ -1,0 +1,288 @@
+{
+    "name": "yencite.com",
+    "handle": "2447815456_DOMAIN_COM-VRSN",
+    "registrationDate": "10/27/2025, 5:04:09 PM GMT+2",
+    "expirationDate": "10/27/2026, 5:04:09 PM GMT+2",
+    "lastChangedDate": "10/27/2025, 5:04:09 PM GMT+2",
+    "lastUpdateDate": "6/16/2026, 10:39:59 PM GMT+3",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "roles": [
+                "abuse"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Abuse contact"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "abuse@west.cn"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+86.2862778877;ext=8359"
+                    ]
+                ]
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "roles": [
+                "registrar"
+            ],
+            "publicIds": [
+                {
+                    "type": "IANA Registrar ID",
+                    "identifier": "1556"
+                }
+            ],
+            "handle": "1556",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Chengdu west dimension digital technology Co., LTD"
+                    ]
+                ]
+            ],
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "roles": [
+                        "abuse"
+                    ],
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Abuse contact"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "abuse@west.cn"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "voice"
+                                },
+                                "uri",
+                                "tel:+86.2862778877;ext=8359"
+                            ]
+                        ]
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "roles": [
+                "registrant"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Registration Private"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "CN"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "Registration Private",
+                            "Registration Private",
+                            "Registration Private",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "REDACTED@REDACTED"
+                    ]
+                ]
+            ],
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object redacted due to authorization",
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "roles": [
+                "administrative"
+            ],
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object redacted due to authorization",
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "roles": [
+                "technical"
+            ],
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object redacted due to authorization",
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "a.dnspod.com"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "b.dnspod.com"
+        },
+        {
+            "objectClassName": "nameserver",
+            "ldhName": "c.dnspod.com"
+        },
+        {
+            "rdapConformance": [
+                "rdap_level_0",
+                "redacted",
+                "icann_rdap_response_profile_0",
+                "icann_rdap_technical_implementation_guide_0"
+            ],
+            "objectClassName": "domain",
+            "lang": "en-US",
+            "notices": [
+                {
+                    "title": "Terms of Use",
+                    "description": [
+                        "Rdap service subject to Terms of Use"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap-pilot.afilias.info/rdap/terms_of_use.html",
+                            "rel": "help",
+                            "href": "https://rdap-pilot.afilias.info/rdap/terms_of_use.html",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "Status Codes",
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://icann.org/epp",
+                            "rel": "help",
+                            "href": "https://icann.org/epp",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "RDDS Inaccuracy Complaint Form",
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://icann.org/wicf",
+                            "rel": "help",
+                            "href": "https://icann.org/wicf",
+                            "type": "text/html"
+                        }
+                    ]
+                }
+            ],
+            "ldhName": "yencite.com",
+            "handle": "2447815456_DOMAIN_COM-VRSN",
+            "port43": "whois.west.cn",
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "a.dnspod.com"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "b.dnspod.com"
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "ldhName": "c.dnspod.com"
+                }
+            ],
+            "secureDNS": {
+                "delegationSigned": false
+            },
+            "unicodeName": "yencite.com"
+        }
+    ],
+    "domain": "yencite.com\r"
+}

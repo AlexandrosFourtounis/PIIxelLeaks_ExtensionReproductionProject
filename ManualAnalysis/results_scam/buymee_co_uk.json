@@ -1,0 +1,472 @@
+{
+    "name": "buymee.co.uk",
+    "handle": "D_88429848-UK",
+    "registrationDate": "4/7/2026, 9:09:36 PM GMT+3 (by GODADDY)",
+    "expirationDate": "4/7/2027, 9:09:36 PM GMT+3",
+    "lastChangedDate": "4/7/2026, 9:09:36 PM GMT+3",
+    "lastUpdateDate": "6/16/2026, 1:45:28 PM GMT+3",
+    "rawData": [
+        {
+            "objectClassName": "entity",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Abuse contact"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+1.4806242505"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "abuse@godaddy.com"
+                    ]
+                ]
+            ],
+            "roles": [
+                "abuse"
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "links": [
+                {
+                    "value": "https://rdap.nominet.uk/uk/entity/GODADDY",
+                    "rel": "self",
+                    "href": "https://rdap.nominet.uk/uk/entity/GODADDY",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "handle": "GODADDY",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "GoDaddy.com, LLC."
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "020-7084-1810"
+                    ],
+                    [
+                        "url",
+                        {},
+                        "uri",
+                        "http://uk.godaddy.com"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrar"
+            ],
+            "publicIds": [
+                {
+                    "type": "Registry Identifier",
+                    "identifier": "GODADDY"
+                }
+            ],
+            "entities": [
+                {
+                    "objectClassName": "entity",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Abuse contact"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "voice"
+                                },
+                                "uri",
+                                "tel:+1.4806242505"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "abuse@godaddy.com"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "abuse"
+                    ]
+                }
+            ]
+        },
+        {
+            "objectClassName": "entity",
+            "remarks": [
+                {
+                    "title": "REDACTED FOR PRIVACY",
+                    "type": "object redacted due to authorization",
+                    "description": [
+                        "Some of the data in this object has been removed"
+                    ]
+                },
+                {
+                    "title": "EMAIL REDACTED FOR PRIVACY",
+                    "type": "object redacted due to authorization",
+                    "description": [
+                        "This data is not generally available, if you have legitimate reason to request access please review Nominets data release process."
+                    ]
+                },
+                {
+                    "title": "Data Quality",
+                    "description": [
+                        "Name validated.",
+                        "Address validated.",
+                        "Nominet responsible for validation."
+                    ]
+                }
+            ],
+            "events": [
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2026-04-07T18:09:35Z"
+                }
+            ],
+            "status": [
+                "validated"
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        ""
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "redacted@nominet.uk"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrant"
+            ]
+        },
+        {
+            "objectClassName": "nameserver",
+            "links": [
+                {
+                    "value": "https://rdap.nominet.uk/uk/nameserver/ns45.domaincontrol.com.",
+                    "rel": "self",
+                    "href": "https://rdap.nominet.uk/uk/nameserver/ns45.domaincontrol.com.",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "status": [
+                "active",
+                "associated"
+            ],
+            "handle": "H_873496-UK",
+            "ldhName": "ns45.domaincontrol.com.",
+            "unicodeName": "ns45.domaincontrol.com."
+        },
+        {
+            "objectClassName": "nameserver",
+            "links": [
+                {
+                    "value": "https://rdap.nominet.uk/uk/nameserver/ns46.domaincontrol.com.",
+                    "rel": "self",
+                    "href": "https://rdap.nominet.uk/uk/nameserver/ns46.domaincontrol.com.",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "status": [
+                "active",
+                "associated"
+            ],
+            "handle": "H_35425-UK",
+            "ldhName": "ns46.domaincontrol.com.",
+            "unicodeName": "ns46.domaincontrol.com."
+        },
+        {
+            "rdapConformance": [
+                "redacted",
+                "rdap_level_0"
+            ],
+            "objectClassName": "domain",
+            "links": [
+                {
+                    "value": "https://rdap.nominet.uk/uk/domain/buymee.co.uk",
+                    "rel": "self",
+                    "href": "https://rdap.nominet.uk/uk/domain/buymee.co.uk",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "notices": [
+                {
+                    "title": "Terms of Service",
+                    "description": [
+                        "The Registry Operator, offers this Registration Data Access Protocol (RDAP) service and provides access to the records in the RDAP database for information purposes only, to assist you in obtaining information about the registration records of existing domain names. The stored information in the RDAP database is provided as is. We do not guarantee its accuracy or completeness, and cannot be held liable if the stored information in the RDAP database is wrong, incomplete, or inaccurate in any way. By querying the RDAP database in any way, you agree that you will not use this data: (i) to allow, enable or otherwise support the transmission of unsolicited, commercial advertising or other solicitations in any form or by any means; (ii) to enable high volume, automated, electronic processes that query or send data to the Registry Operator or any registrar or registrant; (iii) for target advertising; (iv) to cause nuisance to registrants by sending (by any means) messages to or contacting them; (v) to violate any law, rule, regulation or statute; and/or (vi) in violation of applicable data and privacy protection acts. You are explicitly prohibited from extracting, copying and/or using or re-using in any form and by any means (electronically or not) all or part (quantitatively or qualitatively) of the contents of the RDAP database without prior and explicit permission from the Registry Operator. Any copying or transmission of data for commercial purposes violates this prohibition. You agree that we can take measures to limit the use of the RDAP service to protect the privacy of registrants or the integrity of the database. We reserve the right to make changes to this website, the RDAP service, and these Terms and Conditions at any time without prior notice to you. You should review these Terms and Conditions each time you access or use the RDAP database and the RDAP service to learn of any changes. If you do not agree to the changes we have made, your only remedy is to stop your use of the RDAP database and the RDAP service. By executing a query, in any means whatsoever, you agree to these Terms of Service."
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.nominet.uk/uk/domain/buymee.co.uk",
+                            "rel": "terms-of-service",
+                            "href": "https://nominet.uk/rdap-tos",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "Status Codes",
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.nominet.uk/uk/domain/buymee.co.uk",
+                            "rel": "glossary",
+                            "href": "https://icann.org/epp",
+                            "type": "text/html"
+                        }
+                    ]
+                },
+                {
+                    "title": "RDDS Inaccuracy Complaint Form",
+                    "description": [
+                        "URL of the Nominet WHOIS data complaint process: https://www.nominet.uk/complaints/#complaining-about-incorrect-whois-data"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.nominet.uk/uk/domain/buymee.co.uk",
+                            "rel": "help",
+                            "href": "https://www.nominet.uk/complaints/#complaining-about-incorrect-whois-data",
+                            "type": "text/html"
+                        }
+                    ]
+                }
+            ],
+            "handle": "D_88429848-UK",
+            "ldhName": "buymee.co.uk",
+            "unicodeName": "buymee.co.uk",
+            "secureDNS": {
+                "delegationSigned": false,
+                "maxSigLife": 3024000
+            },
+            "publicIds": [
+                {
+                    "type": "Registry Identifier",
+                    "identifier": "D_88429848-UK"
+                }
+            ],
+            "nameservers": [
+                {
+                    "objectClassName": "nameserver",
+                    "links": [
+                        {
+                            "value": "https://rdap.nominet.uk/uk/nameserver/ns45.domaincontrol.com.",
+                            "rel": "self",
+                            "href": "https://rdap.nominet.uk/uk/nameserver/ns45.domaincontrol.com.",
+                            "type": "application/rdap+json"
+                        }
+                    ],
+                    "status": [
+                        "active",
+                        "associated"
+                    ],
+                    "handle": "H_873496-UK",
+                    "ldhName": "ns45.domaincontrol.com.",
+                    "unicodeName": "ns45.domaincontrol.com."
+                },
+                {
+                    "objectClassName": "nameserver",
+                    "links": [
+                        {
+                            "value": "https://rdap.nominet.uk/uk/nameserver/ns46.domaincontrol.com.",
+                            "rel": "self",
+                            "href": "https://rdap.nominet.uk/uk/nameserver/ns46.domaincontrol.com.",
+                            "type": "application/rdap+json"
+                        }
+                    ],
+                    "status": [
+                        "active",
+                        "associated"
+                    ],
+                    "handle": "H_35425-UK",
+                    "ldhName": "ns46.domaincontrol.com.",
+                    "unicodeName": "ns46.domaincontrol.com."
+                }
+            ],
+            "redacted": [
+                {
+                    "name": {
+                        "type": "Registrant Name"
+                    },
+                    "reason": {
+                        "description": "Server policy"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='fn')][3]",
+                    "pathLang": "jsonpath",
+                    "method": "emptyValue"
+                },
+                {
+                    "name": {
+                        "type": "Registrant Organization"
+                    },
+                    "reason": {
+                        "description": "Server policy"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='org')]",
+                    "pathLang": "jsonpath",
+                    "method": "removal"
+                },
+                {
+                    "name": {
+                        "description": "Registrant Organisation Type"
+                    },
+                    "reason": {
+                        "description": "Server policy"
+                    },
+                    "method": "removal"
+                },
+                {
+                    "name": {
+                        "description": "Registrant Identifier Label"
+                    },
+                    "reason": {
+                        "description": "Server policy"
+                    },
+                    "method": "removal"
+                },
+                {
+                    "name": {
+                        "description": "Registrant Organisation Identifier"
+                    },
+                    "reason": {
+                        "description": "Server policy"
+                    },
+                    "method": "removal"
+                },
+                {
+                    "name": {
+                        "type": "Registrant Street"
+                    },
+                    "reason": {
+                        "description": "Server policy"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][:3]",
+                    "pathLang": "jsonpath",
+                    "method": "emptyValue"
+                },
+                {
+                    "name": {
+                        "type": "Registrant Postal Code"
+                    },
+                    "reason": {
+                        "description": "Server policy"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][5]",
+                    "pathLang": "jsonpath",
+                    "method": "emptyValue"
+                },
+                {
+                    "name": {
+                        "type": "Registrant City"
+                    },
+                    "reason": {
+                        "description": "Server policy"
+                    },
+                    "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][3]",
+                    "pathLang": "jsonpath",
+                    "method": "emptyValue"
+                },
+                {
+                    "name": {
+                        "description": "Registrant Country"
+                    },
+                    "reason": {
+                        "description": "Server policy"
+                    },
+                    "method": "emptyValue"
+                },
+                {
+                    "name": {
+                        "description": "Registrant Region"
+                    },
+                    "reason": {
+                        "description": "Server policy"
+                    },
+                    "method": "emptyValue"
+                },
+                {
+                    "name": {
+                        "type": "Registrant Email"
+                    },
+                    "reason": {
+                        "description": "Server policy"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='email')]",
+                    "replacementPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='email')][3]",
+                    "pathLang": "jsonpath",
+                    "method": "replacementValue"
+                },
+                {
+                    "name": {
+                        "type": "Registrant Phone"
+                    },
+                    "reason": {
+                        "description": "Server policy"
+                    },
+                    "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[1].type=='voice')]",
+                    "pathLang": "jsonpath",
+                    "method": "removal"
+                }
+            ]
+        }
+    ],
+    "domain": "buymee.co.uk\r"
+}

@@ -1,0 +1,511 @@
+{
+    "name": "anwap.today",
+    "handle": "2cde3831f9814304816d1e8ac83eac5c-DONUTS",
+    "registrationDate": "8/13/2024, 10:22:54 AM GMT+3",
+    "expirationDate": "8/13/2026, 10:22:54 AM GMT+3",
+    "lastChangedDate": "7/15/2025, 7:46:09 PM GMT+3",
+    "lastUpdateDate": "6/23/2026, 5:56:20 PM GMT+3",
+    "rawData": [
+        {
+            "handle": "REG1396-VRSN",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "WhoisSecure"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "US"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "18 San Carlos Street",
+                            "Los Angeles",
+                            "California",
+                            "94110",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "contact@whoissecure.net"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+16144481974"
+                    ]
+                ]
+            ],
+            "status": [
+                "active"
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "objectClassName": "entity",
+            "lang": "en"
+        },
+        {
+            "handle": "TECH1396-VRSN",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "WhoisSecure"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "US"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "18 San Carlos Street",
+                            "Los Angeles",
+                            "California",
+                            "94110",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "contact@whoissecure.net"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+16144481974"
+                    ]
+                ]
+            ],
+            "status": [
+                "active"
+            ],
+            "roles": [
+                "technical"
+            ],
+            "objectClassName": "entity",
+            "lang": "en"
+        },
+        {
+            "handle": "BILL1396-VRSN",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "WhoisSecure"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "US"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "18 San Carlos Street",
+                            "Los Angeles",
+                            "California",
+                            "94110",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "contact@whoissecure.net"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+16144481974"
+                    ]
+                ]
+            ],
+            "status": [
+                "active"
+            ],
+            "roles": [
+                "billing"
+            ],
+            "objectClassName": "entity",
+            "lang": "en"
+        },
+        {
+            "handle": "ADMIN1396-VRSN",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "WhoisSecure"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "cc": "US"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "18 San Carlos Street",
+                            "Los Angeles",
+                            "California",
+                            "94110",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "contact@whoissecure.net"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+16144481974"
+                    ]
+                ]
+            ],
+            "status": [
+                "active"
+            ],
+            "roles": [
+                "administrative"
+            ],
+            "objectClassName": "entity",
+            "lang": "en"
+        },
+        {
+            "handle": "1250-ABUSE",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "OwnRegistrar Inc"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "OwnRegistrar Inc"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+12124016235"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "abuse@ownregistrar.com"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "roles": [
+                "abuse"
+            ]
+        },
+        {
+            "handle": "1250",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "OwnRegistrar Inc"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "OwnRegistrar Inc"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "uri",
+                        "tel:+12124016235"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "support@ownregistrar.com"
+                    ]
+                ]
+            ],
+            "status": [
+                "active"
+            ],
+            "roles": [
+                "registrar"
+            ],
+            "objectClassName": "entity",
+            "lang": "en",
+            "publicIds": [
+                {
+                    "type": "IANA Registrar ID",
+                    "identifier": "1250"
+                }
+            ],
+            "entities": [
+                {
+                    "handle": "1250-ABUSE",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "org",
+                                {},
+                                "text",
+                                "OwnRegistrar Inc"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "OwnRegistrar Inc"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": "voice"
+                                },
+                                "uri",
+                                "tel:+12124016235"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "abuse@ownregistrar.com"
+                            ]
+                        ]
+                    ],
+                    "objectClassName": "entity",
+                    "roles": [
+                        "abuse"
+                    ]
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdapbase.com/",
+                    "type": "application/rdap+json",
+                    "rel": "about",
+                    "href": "https://ownregistrar.com/"
+                }
+            ]
+        },
+        {
+            "ldhName": "ns1.e-ns.org",
+            "status": [
+                "active"
+            ],
+            "objectClassName": "nameserver",
+            "lang": "en"
+        },
+        {
+            "ldhName": "ns2.e-ns.org",
+            "status": [
+                "active"
+            ],
+            "objectClassName": "nameserver",
+            "lang": "en"
+        },
+        {
+            "handle": "2cde3831f9814304816d1e8ac83eac5c-DONUTS",
+            "ldhName": "anwap.today",
+            "nameservers": [
+                {
+                    "ldhName": "ns1.e-ns.org",
+                    "status": [
+                        "active"
+                    ],
+                    "objectClassName": "nameserver",
+                    "lang": "en"
+                },
+                {
+                    "ldhName": "ns2.e-ns.org",
+                    "status": [
+                        "active"
+                    ],
+                    "objectClassName": "nameserver",
+                    "lang": "en"
+                }
+            ],
+            "secureDNS": {
+                "delegationSigned": false
+            },
+            "notices": [
+                {
+                    "title": "Status Codes",
+                    "description": [
+                        "For more information on domain status codes, please visit https://icann.org/epp"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdapbase.com/domain/anwap.today",
+                            "type": "text/html",
+                            "rel": "glossary",
+                            "href": "https://icann.org/epp"
+                        }
+                    ]
+                },
+                {
+                    "title": "RDDS Inaccuracy Complaint Form",
+                    "description": [
+                        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdapbase.com/domain/anwap.today",
+                            "type": "text/html",
+                            "rel": "help",
+                            "href": "https://icann.org/wicf"
+                        }
+                    ]
+                },
+                {
+                    "title": "Terms of Use",
+                    "description": [
+                        "This service is subject to terms and conditions."
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdapbase.com/domain/anwap.today",
+                            "type": "text/html",
+                            "rel": "terms-of-service",
+                            "href": "https://rdapserver.net/terms-of-use/"
+                        }
+                    ]
+                }
+            ],
+            "rdapConformance": [
+                "icann_rdap_response_profile_1",
+                "icann_rdap_technical_implementation_guide_1",
+                "rdap_level_0"
+            ],
+            "objectClassName": "domain",
+            "lang": "en"
+        }
+    ],
+    "domain": "anwap.today\r"
+}
